@@ -25,7 +25,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 
-<!-- Google Analytics - REPLACE G-XXXXXXXXXX WITH YOUR GA4 MEASUREMENT ID -->
+<!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-L1FWHQ1YYZ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -41,7 +41,7 @@
   --pitch-bright: #1A7A4A;
   --cream: #F5EFD8;
   --cream-soft: #FAF6E4;
-  --chalk: #F4E04D;
+  --chalk: #64B9F0;
   --ink: #111111;
   --ink-soft: #2A2A2A;
   --paper: #FAFAFA;
@@ -50,14 +50,7 @@
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-body {
-  font-family: 'IBM Plex Sans', sans-serif;
-  background: var(--cream);
-  color: var(--ink);
-  line-height: 1.5;
-  -webkit-font-smoothing: antialiased;
-  overflow-x: hidden;
-}
+body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color: var(--ink); line-height: 1.5; -webkit-font-smoothing: antialiased; overflow-x: hidden; }
 .topbar { position: sticky; top: 0; z-index: 100; background: var(--cream); border-bottom: 1px solid var(--line); backdrop-filter: blur(12px); background-color: rgba(245,239,216,0.92); }
 .nav { max-width: 1440px; margin: 0 auto; padding: 18px 40px; display: flex; align-items: center; justify-content: space-between; gap: 40px; }
 .wordmark { font-family: 'Anton', sans-serif; font-size: 26px; letter-spacing: -0.01em; color: var(--ink); text-decoration: none; display: flex; align-items: baseline; gap: 2px; }
@@ -75,7 +68,7 @@ body {
 .hero-meta { display: flex; justify-content: space-between; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(245,239,216,0.6); padding-bottom: 60px; border-bottom: 1px solid var(--line-light); }
 .hero-wordmark { font-family: 'Anton', sans-serif; font-size: clamp(120px, 22vw, 340px); line-height: 0.82; letter-spacing: -0.03em; margin-top: 60px; color: var(--cream); position: relative; }
 .hero-wordmark .accent { color: var(--chalk); font-style: normal; display: inline-block; }
-.hero-wordmark .global { display: block; margin-left: clamp(40px, 10vw, 180px); color: var(--cream); opacity: 0.92; }
+.hero-wordmark .global { display: block; margin-left: clamp(40px, 10vw, 180px); color: var(--chalk); opacity: 1; }
 .hero-tagline { position: absolute; right: 0; top: 180px; max-width: 320px; font-family: 'Fraunces', serif; font-style: italic; font-size: 20px; line-height: 1.35; color: var(--cream); opacity: 0.85; font-weight: 300; text-align: right; }
 .hero-footer { display: grid; grid-template-columns: 1fr auto 1fr; gap: 40px; align-items: end; padding: 80px 0 50px; border-top: 1px solid var(--line-light); margin-top: 40px; }
 .hero-lockup { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(245,239,216,0.55); line-height: 1.8; }
@@ -94,7 +87,7 @@ body {
 .featured { background: var(--cream); padding: 100px 40px; position: relative; }
 .featured-inner { max-width: 1440px; margin: 0 auto; display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 80px; align-items: start; }
 .featured-image { aspect-ratio: 4/5; background: var(--pitch-deep); position: relative; overflow: hidden; border-radius: 2px; }
-.featured-image::before { content: ''; position: absolute; inset: 0; background: radial-gradient(circle at 30% 40%, rgba(26,122,74,0.6) 0%, transparent 50%), radial-gradient(circle at 70% 60%, rgba(244,224,77,0.15) 0%, transparent 40%), linear-gradient(135deg, var(--pitch-deep) 0%, var(--pitch) 100%); }
+.featured-image::before { content: ''; position: absolute; inset: 0; background: radial-gradient(circle at 30% 40%, rgba(26,122,74,0.6) 0%, transparent 50%), radial-gradient(circle at 70% 60%, rgba(100,185,240,0.15) 0%, transparent 40%), linear-gradient(135deg, var(--pitch-deep) 0%, var(--pitch) 100%); }
 .featured-image::after { content: ''; position: absolute; inset: 0; background-image: repeating-linear-gradient(0deg, transparent 0, transparent 80px, rgba(245,239,216,0.04) 80px, rgba(245,239,216,0.04) 81px); }
 .featured-tag { position: absolute; top: 24px; left: 24px; font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--chalk); background: rgba(17,17,17,0.85); padding: 8px 12px; border-radius: 2px; z-index: 2; }
 .featured-content { padding-top: 40px; }
@@ -360,7 +353,7 @@ body {
       <p class="culture-body">From Buenos Aires terraces to Dakar courtyards to Tokyo pubs at 4am — the game is a ritual. We cover the stories that don't fit on a scoreboard: rivalries, ultras, chants, the politics of the stands, the songs you hear forever.</p>
       <a href="#news" class="culture-link">Enter the Culture →</a>
     </div>
-    <div class="culture-right" id="culture-cards">
+    <div class="culture-right">
       <div class="culture-card"><span class="culture-card-num">01 / Rivalries</span><span class="culture-card-title">The world's biggest derbies</span></div>
       <div class="culture-card"><span class="culture-card-num">02 / Terraces</span><span class="culture-card-title">Inside the great stadiums</span></div>
       <div class="culture-card"><span class="culture-card-num">03 / History</span><span class="culture-card-title">Moments that shaped the game</span></div>
@@ -383,7 +376,7 @@ body {
       </div>
       <div class="footer-col">
         <h4>Explore</h4>
-        <ul><li><a href="#culture">Culture</a></li><li><a href="#">Videos</a></li><li><a href="#">Archive</a></li><li><a href="#">Newsletter</a></li></ul>
+        <ul><li><a href="#culture">Culture</a></li><li><a href="#about">Newsletter</a></li></ul>
       </div>
       <div class="footer-col">
         <h4>About</h4>
@@ -398,7 +391,6 @@ body {
 </footer>
 
 <script>
-// ============ CONFIG ============
 const LEAGUE_LABELS = {
   'PL': 'Premier League', 'PD': 'La Liga', 'SA': 'Serie A', 'BL1': 'Bundesliga',
   'FL1': 'Ligue 1', 'CL': 'UCL', 'EL': 'Europa', 'MLS': 'MLS', 'LIGA_MX': 'Liga MX', 'NWSL': 'NWSL'
@@ -408,7 +400,6 @@ const LEAGUE_SHORT = {
   'FL1': 'LIGUE 1', 'CL': 'UCL', 'EL': 'UEL', 'MLS': 'MLS', 'LIGA_MX': 'LIGA MX', 'NWSL': 'NWSL'
 };
 
-// ============ INIT ============
 document.getElementById('hero-date').textContent =
   new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
 
@@ -423,7 +414,6 @@ async function loadJSON(path) {
   }
 }
 
-// ============ NEWS ============
 async function loadNews() {
   const data = await loadJSON('/data/news.json');
   if (!data || !data.articles || data.articles.length === 0) {
@@ -431,8 +421,6 @@ async function loadNews() {
     return;
   }
   const articles = data.articles;
-
-  // Featured = first article
   const f = articles[0];
   document.getElementById('featured-tag').textContent = f.league || 'Featured';
   document.getElementById('featured-kicker').textContent = (f.league || 'Featured') + ' · ' + timeAgo(f.publishedAt);
@@ -440,8 +428,6 @@ async function loadNews() {
   document.getElementById('featured-dek').textContent = f.description || '';
   document.getElementById('featured-byline').textContent = (f.source || '') + ' · ' + estimateReadTime(f.description);
   document.getElementById('featured-link').href = f.url;
-
-  // Grid = remaining
   const grid = document.getElementById('news-grid');
   const remaining = articles.slice(1, 8);
   const sizeClasses = ['xl', '', '', 'lg', '', 'sm', 'sm'];
@@ -455,8 +441,6 @@ async function loadNews() {
       <div class="story-meta"><span>${escapeHtml(a.source || '')}</span><span>${estimateReadTime(a.description)}</span></div>
     </a></article>`;
   }).join('');
-
-  // Build filter buttons from unique leagues
   const leagues = [...new Set(articles.map(a => a.league).filter(Boolean))];
   const filterEl = document.getElementById('news-filter');
   filterEl.innerHTML = '<button class="active" data-filter="all">All</button>' +
@@ -473,7 +457,6 @@ async function loadNews() {
   });
 }
 
-// ============ SCORES ============
 async function loadScores() {
   const data = await loadJSON('/data/scores.json');
   const grid = document.getElementById('scores-grid');
@@ -488,8 +471,6 @@ async function loadScores() {
   const liveCount = matches.filter(m => m.status === 'LIVE' || m.status === 'IN_PLAY').length;
   document.getElementById('live-count').textContent = liveCount + ' Live';
   document.getElementById('scores-league-count').textContent = `Live from ${new Set(matches.map(m => m.league)).size} leagues`;
-
-  // Scores grid — up to 6
   grid.innerHTML = matches.slice(0, 6).map(m => {
     const isLive = m.status === 'LIVE' || m.status === 'IN_PLAY' || m.status === 'PAUSED';
     const statusText = isLive ? (m.minute ? m.minute + "'" : 'LIVE') : (m.status === 'FINISHED' ? 'FT' : m.status);
@@ -505,8 +486,6 @@ async function loadScores() {
       ${m.note ? `<div class="match-foot">${escapeHtml(m.note)}</div>` : ''}
     </div>`;
   }).join('');
-
-  // Ticker — all matches, duplicated for loop
   const tickerItems = matches.map(m => {
     const isLive = m.status === 'LIVE' || m.status === 'IN_PLAY';
     const statusText = isLive ? (m.minute ? m.minute + "'" : 'LIVE') : (m.status === 'FINISHED' ? 'FT' : m.status);
@@ -517,7 +496,6 @@ async function loadScores() {
   ticker.innerHTML = tickerItems + tickerItems;
 }
 
-// ============ TRANSFERS ============
 async function loadTransfers() {
   const data = await loadJSON('/data/transfers.json');
   const list = document.getElementById('transfer-list');
@@ -538,7 +516,6 @@ async function loadTransfers() {
   }).join('');
 }
 
-// ============ STANDINGS ============
 async function loadStandings() {
   const data = await loadJSON('/data/standings.json');
   const tabs = document.getElementById('standings-tabs');
@@ -549,7 +526,6 @@ async function loadStandings() {
   }
   const leagueKeys = Object.keys(data.leagues);
   tabs.innerHTML = leagueKeys.map((k, i) => `<button class="${i === 0 ? 'active' : ''}" data-league="${escapeAttr(k)}">${escapeHtml(LEAGUE_LABELS[k] || k)}</button>`).join('');
-
   function render(key) {
     const table = data.leagues[key];
     if (!table || table.length === 0) { wrap.innerHTML = '<div class="loading">No standings.</div>'; return; }
@@ -571,7 +547,6 @@ async function loadStandings() {
   });
 }
 
-// ============ UTILS ============
 function escapeHtml(s) { if (!s) return ''; return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])); }
 function escapeAttr(s) { return escapeHtml(s); }
 function timeAgo(iso) {
@@ -584,11 +559,9 @@ function timeAgo(iso) {
 }
 function estimateReadTime(text) {
   const words = (text || '').split(/\s+/).length;
-  const min = Math.max(2, Math.round(words / 200));
-  return min + ' min read';
+  return Math.max(2, Math.round(words / 200)) + ' min read';
 }
 
-// ============ BOOT ============
 loadNews(); loadScores(); loadTransfers(); loadStandings();
 </script>
 
