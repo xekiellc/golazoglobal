@@ -137,7 +137,7 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 .transfer-status.loan { background: var(--chalk); color: var(--ink); }
 .standings { background: var(--pitch); color: var(--cream); padding: 100px 40px; }
 .standings-inner { max-width: 1440px; margin: 0 auto; }
-.standings-head { display: flex; justify-content: space-between; align-items: end; margin-bottom: 56px; padding-bottom: 32px; border-bottom: 1px solid var(--line-light); }
+.standings-head { display: flex; justify-content: space-between; align-items: end; margin-bottom: 56px; padding-bottom: 32px; border-bottom: 1px solid var(--line-light); flex-wrap: wrap; gap: 24px; }
 .standings-title { font-family: 'Anton', sans-serif; font-size: clamp(56px, 7vw, 120px); line-height: 0.88; letter-spacing: -0.02em; text-transform: uppercase; color: var(--cream); }
 .standings-title em { font-family: 'Fraunces', serif; font-style: italic; font-weight: 300; text-transform: none; color: var(--chalk); }
 .standings-tabs { display: flex; gap: 4px; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; flex-wrap: wrap; }
@@ -331,7 +331,7 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
       <div class="standings-tabs" id="standings-tabs"></div>
     </div>
     <div id="standings-table-wrap"><div class="loading">Loading standings...</div></div>
-    <div class="standings-legend"><span class="key">Champions League qualification</span><span>Form: last 5 matches</span></div>
+    <div class="standings-legend"><span class="key">Champions League / Continental qualification</span><span>Form: last 5 matches</span></div>
   </div>
 </section>
 
@@ -392,12 +392,33 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 
 <script>
 const LEAGUE_LABELS = {
-  'PL': 'Premier League', 'PD': 'La Liga', 'SA': 'Serie A', 'BL1': 'Bundesliga',
-  'FL1': 'Ligue 1', 'CL': 'UCL', 'EL': 'Europa', 'MLS': 'MLS', 'LIGA_MX': 'Liga MX', 'NWSL': 'NWSL'
+  'PL':  'Premier League',
+  'PD':  'La Liga',
+  'SA':  'Serie A',
+  'BL1': 'Bundesliga',
+  'FL1': 'Ligue 1',
+  'CL':  'Champions League',
+  'DED': 'Eredivisie',
+  'PPL': 'Primeira Liga',
+  'ELC': 'Championship',
+  'BSA': 'Brasileirão',
+  'EC':  'Euro Championship',
+  'WC':  'World Cup'
 };
+
 const LEAGUE_SHORT = {
-  'PL': 'PREM', 'PD': 'LALIGA', 'SA': 'SERIE A', 'BL1': 'BUND',
-  'FL1': 'LIGUE 1', 'CL': 'UCL', 'EL': 'UEL', 'MLS': 'MLS', 'LIGA_MX': 'LIGA MX', 'NWSL': 'NWSL'
+  'PL':  'PREM',
+  'PD':  'LALIGA',
+  'SA':  'SERIE A',
+  'BL1': 'BUND',
+  'FL1': 'LIGUE 1',
+  'CL':  'UCL',
+  'DED': 'EREDIVISIE',
+  'PPL': 'PRIMEIRA',
+  'ELC': 'CHAMPIONSHIP',
+  'BSA': 'BRASILEIRAO',
+  'EC':  'EUROS',
+  'WC':  'WORLD CUP'
 };
 
 document.getElementById('hero-date').textContent =
@@ -528,7 +549,7 @@ async function loadStandings() {
   tabs.innerHTML = leagueKeys.map((k, i) => `<button class="${i === 0 ? 'active' : ''}" data-league="${escapeAttr(k)}">${escapeHtml(LEAGUE_LABELS[k] || k)}</button>`).join('');
   function render(key) {
     const table = data.leagues[key];
-    if (!table || table.length === 0) { wrap.innerHTML = '<div class="loading">No standings.</div>'; return; }
+    if (!table || table.length === 0) { wrap.innerHTML = '<div class="loading">No standings available.</div>'; return; }
     const rows = table.map((row, i) => {
       const pos = row.position || (i + 1);
       const clClass = pos <= 4 ? 'cl' : '';
