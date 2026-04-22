@@ -1,0 +1,1004 @@
+{
+  "leagues": {
+    "PL": {
+      "scorers": [
+        {
+          "name": "Erling Haaland",
+          "team": "Man City",
+          "goals": 23,
+          "assists": 7,
+          "penalties": 3
+        },
+        {
+          "name": "Thiago Rodrigues",
+          "team": "Brentford",
+          "goals": 21,
+          "assists": 1,
+          "penalties": 7
+        },
+        {
+          "name": "Antoine Semenyo",
+          "team": "Man City",
+          "goals": 15,
+          "assists": 4,
+          "penalties": 1
+        },
+        {
+          "name": "João Pedro",
+          "team": "Chelsea",
+          "goals": 14,
+          "assists": 5,
+          "penalties": 0
+        },
+        {
+          "name": "Danny Welbeck",
+          "team": "Brighton Hove",
+          "goals": 13,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Viktor Gyökeres",
+          "team": "Arsenal",
+          "goals": 12,
+          "assists": 0,
+          "penalties": 3
+        },
+        {
+          "name": "Morgan Gibbs-White",
+          "team": "Nottingham",
+          "goals": 12,
+          "assists": 3,
+          "penalties": 1
+        },
+        {
+          "name": "Hugo Ekitike",
+          "team": "Liverpool",
+          "goals": 11,
+          "assists": 4,
+          "penalties": 0
+        },
+        {
+          "name": "Dominic Calvert-Lewin",
+          "team": "Leeds United",
+          "goals": 11,
+          "assists": 1,
+          "penalties": 3
+        },
+        {
+          "name": "Ollie Watkins",
+          "team": "Aston Villa",
+          "goals": 11,
+          "assists": 2,
+          "penalties": 0
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Erling Haaland",
+          "team": "Man City",
+          "goals": 23,
+          "assists": 7,
+          "penalties": 3
+        },
+        {
+          "name": "João Pedro",
+          "team": "Chelsea",
+          "goals": 14,
+          "assists": 5,
+          "penalties": 0
+        },
+        {
+          "name": "Antoine Semenyo",
+          "team": "Man City",
+          "goals": 15,
+          "assists": 4,
+          "penalties": 1
+        },
+        {
+          "name": "Hugo Ekitike",
+          "team": "Liverpool",
+          "goals": 11,
+          "assists": 4,
+          "penalties": 0
+        },
+        {
+          "name": "Morgan Gibbs-White",
+          "team": "Nottingham",
+          "goals": 12,
+          "assists": 3,
+          "penalties": 1
+        }
+      ]
+    },
+    "PD": {
+      "scorers": [
+        {
+          "name": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "goals": 24,
+          "assists": 4,
+          "penalties": 8
+        },
+        {
+          "name": "Vedat Muriqi",
+          "team": "Mallorca",
+          "goals": 21,
+          "assists": 1,
+          "penalties": 5
+        },
+        {
+          "name": "Ante Budimir",
+          "team": "Osasuna",
+          "goals": 16,
+          "assists": 0,
+          "penalties": 6
+        },
+        {
+          "name": "Lamine Yamal",
+          "team": "Barça",
+          "goals": 15,
+          "assists": 11,
+          "penalties": 2
+        },
+        {
+          "name": "Ferrán Torres",
+          "team": "Barça",
+          "goals": 14,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Vinicius Junior",
+          "team": "Real Madrid",
+          "goals": 12,
+          "assists": 5,
+          "penalties": 4
+        },
+        {
+          "name": "Borja Iglesias",
+          "team": "Celta",
+          "goals": 12,
+          "assists": 1,
+          "penalties": 3
+        },
+        {
+          "name": "Mikel Oyarzabal",
+          "team": "Real Sociedad",
+          "goals": 12,
+          "assists": 3,
+          "penalties": 5
+        },
+        {
+          "name": "Robert Lewandowski",
+          "team": "Barça",
+          "goals": 12,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
+          "name": "Raphinha",
+          "team": "Barça",
+          "goals": 11,
+          "assists": 3,
+          "penalties": 3
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Lamine Yamal",
+          "team": "Barça",
+          "goals": 15,
+          "assists": 11,
+          "penalties": 2
+        },
+        {
+          "name": "Vinicius Junior",
+          "team": "Real Madrid",
+          "goals": 12,
+          "assists": 5,
+          "penalties": 4
+        },
+        {
+          "name": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "goals": 24,
+          "assists": 4,
+          "penalties": 8
+        },
+        {
+          "name": "Mikel Oyarzabal",
+          "team": "Real Sociedad",
+          "goals": 12,
+          "assists": 3,
+          "penalties": 5
+        },
+        {
+          "name": "Raphinha",
+          "team": "Barça",
+          "goals": 11,
+          "assists": 3,
+          "penalties": 3
+        }
+      ]
+    },
+    "SA": {
+      "scorers": [
+        {
+          "name": "Lautaro Martínez",
+          "team": "Inter",
+          "goals": 16,
+          "assists": 4,
+          "penalties": 0
+        },
+        {
+          "name": "Nico Paz",
+          "team": "Como 1907",
+          "goals": 12,
+          "assists": 6,
+          "penalties": 0
+        },
+        {
+          "name": "Anastasios Douvikas",
+          "team": "Como 1907",
+          "goals": 11,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
+          "name": "Marcus Thuram-Ulien",
+          "team": "Inter",
+          "goals": 11,
+          "assists": 5,
+          "penalties": 0
+        },
+        {
+          "name": "Keinan Davis",
+          "team": "Udinese",
+          "goals": 10,
+          "assists": 3,
+          "penalties": 4
+        },
+        {
+          "name": "Kenan Yıldız",
+          "team": "Juventus",
+          "goals": 10,
+          "assists": 6,
+          "penalties": 1
+        },
+        {
+          "name": "Rasmus Højlund",
+          "team": "Napoli",
+          "goals": 10,
+          "assists": 3,
+          "penalties": 1
+        },
+        {
+          "name": "Nikola Krstović",
+          "team": "Atalanta",
+          "goals": 10,
+          "assists": 4,
+          "penalties": 0
+        },
+        {
+          "name": "Donyell Malen",
+          "team": "Roma",
+          "goals": 10,
+          "assists": 0,
+          "penalties": 2
+        },
+        {
+          "name": "Hakan Çalhanoğlu",
+          "team": "Inter",
+          "goals": 9,
+          "assists": 4,
+          "penalties": 4
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Nico Paz",
+          "team": "Como 1907",
+          "goals": 12,
+          "assists": 6,
+          "penalties": 0
+        },
+        {
+          "name": "Kenan Yıldız",
+          "team": "Juventus",
+          "goals": 10,
+          "assists": 6,
+          "penalties": 1
+        },
+        {
+          "name": "Marcus Thuram-Ulien",
+          "team": "Inter",
+          "goals": 11,
+          "assists": 5,
+          "penalties": 0
+        },
+        {
+          "name": "Lautaro Martínez",
+          "team": "Inter",
+          "goals": 16,
+          "assists": 4,
+          "penalties": 0
+        },
+        {
+          "name": "Nikola Krstović",
+          "team": "Atalanta",
+          "goals": 10,
+          "assists": 4,
+          "penalties": 0
+        }
+      ]
+    },
+    "BL1": {
+      "scorers": [
+        {
+          "name": "Harry Kane",
+          "team": "Bayern",
+          "goals": 32,
+          "assists": 4,
+          "penalties": 10
+        },
+        {
+          "name": "Deniz Undav",
+          "team": "Stuttgart",
+          "goals": 18,
+          "assists": 5,
+          "penalties": 0
+        },
+        {
+          "name": "Luis Díaz",
+          "team": "Bayern",
+          "goals": 15,
+          "assists": 11,
+          "penalties": 0
+        },
+        {
+          "name": "Sehrou Guirassy",
+          "team": "Dortmund",
+          "goals": 14,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Michael Olise",
+          "team": "Bayern",
+          "goals": 12,
+          "assists": 18,
+          "penalties": 0
+        },
+        {
+          "name": "Christoph Baumgartner",
+          "team": "RB Leipzig",
+          "goals": 12,
+          "assists": 7,
+          "penalties": 0
+        },
+        {
+          "name": "Andrej Kramarić",
+          "team": "Hoffenheim",
+          "goals": 12,
+          "assists": 5,
+          "penalties": 5
+        },
+        {
+          "name": "Yan Diomandé",
+          "team": "RB Leipzig",
+          "goals": 12,
+          "assists": 6,
+          "penalties": 0
+        },
+        {
+          "name": "Patrik Schick",
+          "team": "Leverkusen",
+          "goals": 11,
+          "assists": 2,
+          "penalties": 3
+        },
+        {
+          "name": "Nadiem Amiri",
+          "team": "Mainz",
+          "goals": 11,
+          "assists": 2,
+          "penalties": 8
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Michael Olise",
+          "team": "Bayern",
+          "goals": 12,
+          "assists": 18,
+          "penalties": 0
+        },
+        {
+          "name": "Luis Díaz",
+          "team": "Bayern",
+          "goals": 15,
+          "assists": 11,
+          "penalties": 0
+        },
+        {
+          "name": "Christoph Baumgartner",
+          "team": "RB Leipzig",
+          "goals": 12,
+          "assists": 7,
+          "penalties": 0
+        },
+        {
+          "name": "Yan Diomandé",
+          "team": "RB Leipzig",
+          "goals": 12,
+          "assists": 6,
+          "penalties": 0
+        },
+        {
+          "name": "Deniz Undav",
+          "team": "Stuttgart",
+          "goals": 18,
+          "assists": 5,
+          "penalties": 0
+        }
+      ]
+    },
+    "FL1": {
+      "scorers": [
+        {
+          "name": "Esteban Lepaul",
+          "team": "Stade Rennais",
+          "goals": 17,
+          "assists": 4,
+          "penalties": 2
+        },
+        {
+          "name": "Joaquín Panichelli",
+          "team": "Strasbourg",
+          "goals": 16,
+          "assists": 1,
+          "penalties": 5
+        },
+        {
+          "name": "Mason Greenwood",
+          "team": "Marseille",
+          "goals": 15,
+          "assists": 7,
+          "penalties": 5
+        },
+        {
+          "name": "Folarin Balogun",
+          "team": "Monaco",
+          "goals": 12,
+          "assists": 3,
+          "penalties": 3
+        },
+        {
+          "name": "Odsonne Edouard",
+          "team": "RC Lens",
+          "goals": 12,
+          "assists": 3,
+          "penalties": 1
+        },
+        {
+          "name": "Wesley Saïd",
+          "team": "RC Lens",
+          "goals": 10,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
+          "name": "Bradley Barcola",
+          "team": "PSG",
+          "goals": 10,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "team": "PSG",
+          "goals": 10,
+          "assists": 5,
+          "penalties": 2
+        },
+        {
+          "name": "Pavel Šulc",
+          "team": "Olympique Lyon",
+          "goals": 10,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
+          "name": "Lassine Sinayoko",
+          "team": "Auxerre",
+          "goals": 9,
+          "assists": 3,
+          "penalties": 3
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Mason Greenwood",
+          "team": "Marseille",
+          "goals": 15,
+          "assists": 7,
+          "penalties": 5
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "team": "PSG",
+          "goals": 10,
+          "assists": 5,
+          "penalties": 2
+        },
+        {
+          "name": "Esteban Lepaul",
+          "team": "Stade Rennais",
+          "goals": 17,
+          "assists": 4,
+          "penalties": 2
+        },
+        {
+          "name": "Folarin Balogun",
+          "team": "Monaco",
+          "goals": 12,
+          "assists": 3,
+          "penalties": 3
+        },
+        {
+          "name": "Odsonne Edouard",
+          "team": "RC Lens",
+          "goals": 12,
+          "assists": 3,
+          "penalties": 1
+        }
+      ]
+    },
+    "DED": {
+      "scorers": [
+        {
+          "name": "Ayase Ueda",
+          "team": "Feyenoord",
+          "goals": 23,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Troy Parrott",
+          "team": "AZ",
+          "goals": 15,
+          "assists": 4,
+          "penalties": 2
+        },
+        {
+          "name": "Mika Godts",
+          "team": "Ajax",
+          "goals": 15,
+          "assists": 10,
+          "penalties": 0
+        },
+        {
+          "name": "Ismael Saibari",
+          "team": "PSV",
+          "goals": 15,
+          "assists": 6,
+          "penalties": 1
+        },
+        {
+          "name": "Guus Til",
+          "team": "PSV",
+          "goals": 13,
+          "assists": 4,
+          "penalties": 0
+        },
+        {
+          "name": "Jacob Trenskow",
+          "team": "Heerenveen",
+          "goals": 12,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
+          "name": "Bryan Linssen",
+          "team": "NEC",
+          "goals": 11,
+          "assists": 7,
+          "penalties": 0
+        },
+        {
+          "name": "Koen Kostons",
+          "team": "Zwolle",
+          "goals": 11,
+          "assists": 6,
+          "penalties": 0
+        },
+        {
+          "name": "Tobias Lauritsen",
+          "team": "Sparta",
+          "goals": 11,
+          "assists": 3,
+          "penalties": 3
+        },
+        {
+          "name": "Ricardo Pepi",
+          "team": "PSV",
+          "goals": 11,
+          "assists": 0,
+          "penalties": 1
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Mika Godts",
+          "team": "Ajax",
+          "goals": 15,
+          "assists": 10,
+          "penalties": 0
+        },
+        {
+          "name": "Bryan Linssen",
+          "team": "NEC",
+          "goals": 11,
+          "assists": 7,
+          "penalties": 0
+        },
+        {
+          "name": "Ismael Saibari",
+          "team": "PSV",
+          "goals": 15,
+          "assists": 6,
+          "penalties": 1
+        },
+        {
+          "name": "Koen Kostons",
+          "team": "Zwolle",
+          "goals": 11,
+          "assists": 6,
+          "penalties": 0
+        },
+        {
+          "name": "Troy Parrott",
+          "team": "AZ",
+          "goals": 15,
+          "assists": 4,
+          "penalties": 2
+        }
+      ]
+    },
+    "PPL": {
+      "scorers": [
+        {
+          "name": "Luis Suárez",
+          "team": "Sporting CP",
+          "goals": 24,
+          "assists": 4,
+          "penalties": 4
+        },
+        {
+          "name": "Vangelis Pavlidis",
+          "team": "SL Benfica",
+          "goals": 22,
+          "assists": 3,
+          "penalties": 9
+        },
+        {
+          "name": "Yanis Begraoui",
+          "team": "Estoril Praia",
+          "goals": 19,
+          "assists": 1,
+          "penalties": 5
+        },
+        {
+          "name": "Ricardo Horta",
+          "team": "Braga",
+          "goals": 15,
+          "assists": 4,
+          "penalties": 3
+        },
+        {
+          "name": "Chuchu",
+          "team": "CD Nacional",
+          "goals": 15,
+          "assists": 0,
+          "penalties": 4
+        },
+        {
+          "name": "Rodrigo Zalazar",
+          "team": "Braga",
+          "goals": 15,
+          "assists": 4,
+          "penalties": 10
+        },
+        {
+          "name": "Samu Omorodion",
+          "team": "Porto",
+          "goals": 13,
+          "assists": 1,
+          "penalties": 5
+        },
+        {
+          "name": "Pedro Gonçalves",
+          "team": "Sporting CP",
+          "goals": 13,
+          "assists": 5,
+          "penalties": 2
+        },
+        {
+          "name": "Pablo Felipe",
+          "team": "Gil Vicente",
+          "goals": 10,
+          "assists": 0,
+          "penalties": 2
+        },
+        {
+          "name": "Clayton",
+          "team": "Rio Ave",
+          "goals": 10,
+          "assists": 6,
+          "penalties": 2
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Clayton",
+          "team": "Rio Ave",
+          "goals": 10,
+          "assists": 6,
+          "penalties": 2
+        },
+        {
+          "name": "Pedro Gonçalves",
+          "team": "Sporting CP",
+          "goals": 13,
+          "assists": 5,
+          "penalties": 2
+        },
+        {
+          "name": "Luis Suárez",
+          "team": "Sporting CP",
+          "goals": 24,
+          "assists": 4,
+          "penalties": 4
+        },
+        {
+          "name": "Ricardo Horta",
+          "team": "Braga",
+          "goals": 15,
+          "assists": 4,
+          "penalties": 3
+        },
+        {
+          "name": "Rodrigo Zalazar",
+          "team": "Braga",
+          "goals": 15,
+          "assists": 4,
+          "penalties": 10
+        }
+      ]
+    },
+    "ELC": {
+      "scorers": [
+        {
+          "name": "Zan Vipotnik",
+          "team": "Swansea",
+          "goals": 22,
+          "assists": 3,
+          "penalties": 4
+        },
+        {
+          "name": "Haji Wright",
+          "team": "Coventry City",
+          "goals": 17,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
+          "name": "Oliver McBurnie",
+          "team": "Hull City",
+          "goals": 15,
+          "assists": 8,
+          "penalties": 2
+        },
+        {
+          "name": "Jack Clarke",
+          "team": "Ipswich Town",
+          "goals": 15,
+          "assists": 1,
+          "penalties": 6
+        },
+        {
+          "name": "Josh Windass",
+          "team": "Wrexham",
+          "goals": 14,
+          "assists": 5,
+          "penalties": 3
+        },
+        {
+          "name": "Joe Gelhardt",
+          "team": "Hull City",
+          "goals": 14,
+          "assists": 3,
+          "penalties": 1
+        },
+        {
+          "name": "Carlton Morris",
+          "team": "Derby County",
+          "goals": 12,
+          "assists": 2,
+          "penalties": 3
+        },
+        {
+          "name": "Brandon Thomas-Asante",
+          "team": "Coventry City",
+          "goals": 12,
+          "assists": 4,
+          "penalties": 1
+        },
+        {
+          "name": "Scott Twine",
+          "team": "Bristol City",
+          "goals": 11,
+          "assists": 6,
+          "penalties": 0
+        },
+        {
+          "name": "Finn Azaz",
+          "team": "Southampton",
+          "goals": 11,
+          "assists": 7,
+          "penalties": 0
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Oliver McBurnie",
+          "team": "Hull City",
+          "goals": 15,
+          "assists": 8,
+          "penalties": 2
+        },
+        {
+          "name": "Finn Azaz",
+          "team": "Southampton",
+          "goals": 11,
+          "assists": 7,
+          "penalties": 0
+        },
+        {
+          "name": "Scott Twine",
+          "team": "Bristol City",
+          "goals": 11,
+          "assists": 6,
+          "penalties": 0
+        },
+        {
+          "name": "Josh Windass",
+          "team": "Wrexham",
+          "goals": 14,
+          "assists": 5,
+          "penalties": 3
+        },
+        {
+          "name": "Brandon Thomas-Asante",
+          "team": "Coventry City",
+          "goals": 12,
+          "assists": 4,
+          "penalties": 1
+        }
+      ]
+    },
+    "BSA": {
+      "scorers": [
+        {
+          "name": "Carlos Vinícius",
+          "team": "Grêmio",
+          "goals": 7,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Danilo dos Santos de Oliveira",
+          "team": "Botafogo",
+          "goals": 6,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Jonathan Calleri",
+          "team": "São Paulo",
+          "goals": 6,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Kevin Viveros",
+          "team": "Paranaense",
+          "goals": 6,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
+          "name": "John Kennedy",
+          "team": "Fluminense",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Breno Lopes",
+          "team": "Coritiba",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Pedro",
+          "team": "Flamengo",
+          "goals": 5,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
+          "name": "Christian",
+          "team": "Cruzeiro",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Isidro Pitta",
+          "team": "Bragantino",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Stiven Mendoza",
+          "team": "Paranaense",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Pedro",
+          "team": "Flamengo",
+          "goals": 5,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
+          "name": "Danilo dos Santos de Oliveira",
+          "team": "Botafogo",
+          "goals": 6,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Kevin Viveros",
+          "team": "Paranaense",
+          "goals": 6,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
+          "name": "Breno Lopes",
+          "team": "Coritiba",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Christian",
+          "team": "Cruzeiro",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        }
+      ]
+    }
+  },
+  "generatedAt": "2026-04-22T14:28:55.701Z"
+}
