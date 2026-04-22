@@ -1,0 +1,104 @@
+{
+  "matches": [
+    {
+      "league": "PL",
+      "homeTeam": "Brighton Hove",
+      "awayTeam": "Chelsea",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-04-21T19:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Athletic",
+      "awayTeam": "Osasuna",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-04-21T17:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Mallorca",
+      "awayTeam": "Valencia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-04-21T17:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Alavés",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-04-21T19:30:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Girona",
+      "awayTeam": "Real Betis",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-04-21T19:30:00Z"
+    },
+    {
+      "league": "PL",
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Leeds United",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-04-22T19:00:00Z"
+    },
+    {
+      "league": "PL",
+      "homeTeam": "Burnley",
+      "awayTeam": "Man City",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-04-22T19:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Elche",
+      "awayTeam": "Atleti",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-04-22T17:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Real Sociedad",
+      "awayTeam": "Getafe",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-04-22T18:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Barça",
+      "awayTeam": "Celta",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-04-22T19:30:00Z"
+    },
+    {
+      "league": "FL1",
+      "homeTeam": "PSG",
+      "awayTeam": "Nantes",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-04-22T17:00:00Z"
+    }
+  ],
+  "generatedAt": "2026-04-22T01:41:42.759Z"
+}
