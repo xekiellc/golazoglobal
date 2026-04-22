@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "PSG Beaten by Manchester City in Pursuit",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Psgworld.io",
-      "url": "https://psgworld.io/news/psg-beaten-by-manchester-city-in-pursuit-of-two-french-players",
-      "publishedAt": "2026-04-21T01:40:02Z"
-    }
-  ],
-  "generatedAt": "2026-04-22T07:25:52.637Z",
+  "transfers": [],
+  "generatedAt": "2026-04-22T12:15:18.864Z",
   "note": "At launch, transfers are derived from news headlines. Replace with dedicated transfer API post-launch."
 }
