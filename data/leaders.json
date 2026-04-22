@@ -5,7 +5,7 @@
         {
           "name": "Erling Haaland",
           "team": "Man City",
-          "goals": 23,
+          "goals": 24,
           "assists": 7,
           "penalties": 3
         },
@@ -77,7 +77,7 @@
         {
           "name": "Erling Haaland",
           "team": "Man City",
-          "goals": 23,
+          "goals": 24,
           "assists": 7,
           "penalties": 3
         },
@@ -499,7 +499,7 @@
           "name": "Ousmane Dembélé",
           "team": "PSG",
           "goals": 10,
-          "assists": 5,
+          "assists": 6,
           "penalties": 2
         },
         {
@@ -529,7 +529,7 @@
           "name": "Ousmane Dembélé",
           "team": "PSG",
           "goals": 10,
-          "assists": 5,
+          "assists": 6,
           "penalties": 2
         },
         {
@@ -836,17 +836,17 @@
           "penalties": 1
         },
         {
-          "name": "Scott Twine",
-          "team": "Bristol City",
-          "goals": 11,
+          "name": "Morgan Whittaker",
+          "team": "Middlesbrough",
+          "goals": 12,
           "assists": 6,
           "penalties": 0
         },
         {
-          "name": "Finn Azaz",
-          "team": "Southampton",
+          "name": "Scott Twine",
+          "team": "Bristol City",
           "goals": 11,
-          "assists": 7,
+          "assists": 6,
           "penalties": 0
         }
       ],
@@ -859,10 +859,10 @@
           "penalties": 2
         },
         {
-          "name": "Finn Azaz",
-          "team": "Southampton",
-          "goals": 11,
-          "assists": 7,
+          "name": "Morgan Whittaker",
+          "team": "Middlesbrough",
+          "goals": 12,
+          "assists": 6,
           "penalties": 0
         },
         {
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-22T14:28:55.701Z"
+  "generatedAt": "2026-04-22T19:10:36.208Z"
 }
