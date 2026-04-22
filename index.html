@@ -151,8 +151,6 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 .standings-legend { margin-top: 24px; font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(245,239,216,0.5); display: flex; gap: 32px; }
 .standings-legend .key { display: flex; align-items: center; gap: 8px; }
 .standings-legend .key::before { content: ''; width: 12px; height: 12px; background: var(--chalk); }
-
-/* ====== LEADERS ====== */
 .leaders { background: var(--ink); color: var(--cream); padding: 100px 40px; }
 .leaders-inner { max-width: 1440px; margin: 0 auto; }
 .leaders-head { display: flex; justify-content: space-between; align-items: end; margin-bottom: 56px; padding-bottom: 32px; border-bottom: 1px solid var(--line-light); flex-wrap: wrap; gap: 24px; }
@@ -173,7 +171,6 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 .leader-team { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(245,239,216,0.45); margin-top: 3px; }
 .leader-stat { font-family: 'Anton', sans-serif; font-size: 28px; letter-spacing: -0.01em; color: var(--chalk); line-height: 1; }
 .leader-stat-label { font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(245,239,216,0.4); text-align: right; margin-top: 2px; }
-
 .news { background: var(--cream); padding: 100px 40px; }
 .news-inner { max-width: 1440px; margin: 0 auto; }
 .news-head { display: flex; justify-content: space-between; align-items: end; margin-bottom: 64px; padding-bottom: 32px; border-bottom: 2px solid var(--ink); flex-wrap: wrap; gap: 24px; }
@@ -281,6 +278,7 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
       <li><a href="#leaders">Leaders</a></li>
       <li><a href="#transfers">Transfers</a></li>
       <li><a href="#culture">Culture</a></li>
+      <li><a href="/worldcup">World Cup</a></li>
       <li><a href="#about">About</a></li>
     </ul>
     <div class="nav-live"><span class="dot"></span><span id="live-count">Loading</span></div>
@@ -376,14 +374,14 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
     <div class="culture-left">
       <div class="culture-kicker">The Culture</div>
       <h2 class="culture-title">Football is the only language <strong>the whole world speaks.</strong></h2>
-      <p class="culture-body">From Buenos Aires terraces to Dakar courtyards to Tokyo pubs at 4am — the game is a ritual. We cover the stories that don't fit on a scoreboard: rivalries, ultras, chants, the politics of the stands, the songs you hear forever.</p>
-      <a href="#news" class="culture-link">Enter the Culture →</a>
+      <p class="culture-body">The Superclásico. The Hand of God. The St. Pauli terraces. The 4am pub in Tokyo. Football is a ritual that transcends the scoreboard — and with the World Cup coming to North America, there has never been a better moment to understand why the planet stops for this game.</p>
+      <a href="/worldcup" class="culture-link">World Cup 2026 → Everything you need to know</a>
     </div>
     <div class="culture-right">
-      <div class="culture-card"><span class="culture-card-num">01 / Rivalries</span><span class="culture-card-title">The world's biggest derbies</span></div>
-      <div class="culture-card"><span class="culture-card-num">02 / Terraces</span><span class="culture-card-title">Inside the great stadiums</span></div>
-      <div class="culture-card"><span class="culture-card-num">03 / History</span><span class="culture-card-title">Moments that shaped the game</span></div>
-      <div class="culture-card"><span class="culture-card-num">04 / New Here?</span><span class="culture-card-title">Soccer in the US, pre-World Cup</span></div>
+      <div class="culture-card"><span class="culture-card-num">01 / Rivalries</span><span class="culture-card-title">Superclásico: 124 Years of Hatred</span></div>
+      <div class="culture-card"><span class="culture-card-num">02 / Terraces</span><span class="culture-card-title">Inside St. Pauli's Punk-Rock Stadium</span></div>
+      <div class="culture-card"><span class="culture-card-num">03 / History</span><span class="culture-card-title">The Hand of God, 40 Years On</span></div>
+      <div class="culture-card"><span class="culture-card-num">04 / New Here?</span><span class="culture-card-title">America's World Cup Summer Starts Now</span></div>
     </div>
   </div>
 </section>
@@ -402,7 +400,7 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
       </div>
       <div class="footer-col">
         <h4>Explore</h4>
-        <ul><li><a href="#culture">Culture</a></li><li><a href="#about">Newsletter</a></li></ul>
+        <ul><li><a href="#culture">Culture</a></li><li><a href="/worldcup">World Cup 2026</a></li><li><a href="#about">Newsletter</a></li></ul>
       </div>
       <div class="footer-col">
         <h4>About</h4>
