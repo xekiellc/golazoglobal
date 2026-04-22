@@ -66,11 +66,11 @@
           "penalties": 3
         },
         {
-          "name": "Ollie Watkins",
-          "team": "Aston Villa",
+          "name": "Eli Kroupi",
+          "team": "Bournemouth",
           "goals": 11,
-          "assists": 2,
-          "penalties": 0
+          "assists": 0,
+          "penalties": 1
         }
       ],
       "topAssists": [
@@ -128,18 +128,18 @@
           "penalties": 5
         },
         {
+          "name": "Lamine Yamal",
+          "team": "Barça",
+          "goals": 16,
+          "assists": 11,
+          "penalties": 3
+        },
+        {
           "name": "Ante Budimir",
           "team": "Osasuna",
           "goals": 16,
           "assists": 0,
           "penalties": 6
-        },
-        {
-          "name": "Lamine Yamal",
-          "team": "Barça",
-          "goals": 15,
-          "assists": 11,
-          "penalties": 2
         },
         {
           "name": "Ferrán Torres",
@@ -188,9 +188,9 @@
         {
           "name": "Lamine Yamal",
           "team": "Barça",
-          "goals": 15,
+          "goals": 16,
           "assists": 11,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Vinicius Junior",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-22T19:10:36.208Z"
+  "generatedAt": "2026-04-22T23:45:29.477Z"
 }

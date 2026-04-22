@@ -2,11 +2,20 @@
   "matches": [
     {
       "league": "PL",
+      "homeTeam": "Brighton Hove",
+      "awayTeam": "Chelsea",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-04-21T19:00:00Z"
+    },
+    {
+      "league": "PL",
       "homeTeam": "Bournemouth",
       "awayTeam": "Leeds United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-04-22T19:00:00Z"
     },
     {
@@ -14,72 +23,9 @@
       "homeTeam": "Burnley",
       "awayTeam": "Man City",
       "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-04-22T19:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Middlesbrough",
-      "awayTeam": "Sheffield Wed",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-04-22T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Birmingham",
-      "awayTeam": "Preston NE",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-04-22T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Charlton",
-      "awayTeam": "Ipswich Town",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-04-22T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Sheffield Utd",
-      "awayTeam": "Blackburn",
-      "homeScore": 0,
       "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-04-22T18:45:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Real Sociedad",
-      "awayTeam": "Getafe",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "PAUSED",
-      "utcDate": "2026-04-22T18:00:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Telstar",
-      "awayTeam": "Sparta",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "PAUSED",
-      "utcDate": "2026-04-22T18:00:00Z"
-    },
-    {
-      "league": "PL",
-      "homeTeam": "Brighton Hove",
-      "awayTeam": "Chelsea",
-      "homeScore": 3,
-      "awayScore": 0,
       "status": "FINISHED",
-      "utcDate": "2026-04-21T19:00:00Z"
+      "utcDate": "2026-04-22T19:00:00Z"
     },
     {
       "league": "PD",
@@ -127,6 +73,24 @@
       "utcDate": "2026-04-22T17:00:00Z"
     },
     {
+      "league": "PD",
+      "homeTeam": "Real Sociedad",
+      "awayTeam": "Getafe",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-04-22T18:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Barça",
+      "awayTeam": "Celta",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-04-22T19:30:00Z"
+    },
+    {
       "league": "FL1",
       "homeTeam": "PSG",
       "awayTeam": "Nantes",
@@ -134,6 +98,15 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-04-22T17:00:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "Telstar",
+      "awayTeam": "Sparta",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-04-22T18:00:00Z"
     },
     {
       "league": "ELC",
@@ -208,14 +181,41 @@
       "utcDate": "2026-04-21T18:45:00Z"
     },
     {
-      "league": "PD",
-      "homeTeam": "Barça",
-      "awayTeam": "Celta",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-22T19:30:00Z"
+      "league": "ELC",
+      "homeTeam": "Middlesbrough",
+      "awayTeam": "Sheffield Wed",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-04-22T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Birmingham",
+      "awayTeam": "Preston NE",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-04-22T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Charlton",
+      "awayTeam": "Ipswich Town",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-04-22T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Sheffield Utd",
+      "awayTeam": "Blackburn",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-04-22T18:45:00Z"
     }
   ],
-  "generatedAt": "2026-04-22T19:08:11.943Z"
+  "generatedAt": "2026-04-22T23:43:09.861Z"
 }
