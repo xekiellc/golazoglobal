@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GolazoGlobal — Every Goal. Every League. Every Nation.</title>
+<meta name="description" content="The world's football hub. Every goal, every league, every nation. News, live scores, standings, and transfers refreshed four times a day.">
+<meta name="author" content="GolazoGlobal">
+
+<!-- Open Graph -->
+<meta property="og:title" content="GolazoGlobal — Every Goal. Every League. Every Nation.">
+<meta property="og:description" content="The world's football hub. News, live scores, standings, and transfers refreshed four times a day.">
+<meta property="og:url" content="https://golazoglobal.com">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://golazoglobal.com/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- PWA -->
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0F5132">
+<link rel="icon" type="image/png" href="/favicon.png">
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
+<!-- Google Analytics - REPLACE G-XXXXXXXXXX WITH YOUR GA4 MEASUREMENT ID -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXXXXX');
+</script>
+
+<style>
+:root {
+  --pitch: #0F5132;
+  --pitch-deep: #0A3A24;
+  --pitch-bright: #1A7A4A;
+  --cream: #F5EFD8;
+  --cream-soft: #FAF6E4;
+  --chalk: #F4E04D;
+  --ink: #111111;
+  --ink-soft: #2A2A2A;
+  --paper: #FAFAFA;
+  --line: rgba(17,17,17,0.12);
+  --line-light: rgba(245,239,216,0.18);
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  background: var(--cream);
+  color: var(--ink);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+.topbar { position: sticky; top: 0; z-index: 100; background: var(--cream); border-bottom: 1px solid var(--line); backdrop-filter: blur(12px); background-color: rgba(245,239,216,0.92); }
+.nav { max-width: 1440px; margin: 0 auto; padding: 18px 40px; display: flex; align-items: center; justify-content: space-between; gap: 40px; }
+.wordmark { font-family: 'Anton', sans-serif; font-size: 26px; letter-spacing: -0.01em; color: var(--ink); text-decoration: none; display: flex; align-items: baseline; gap: 2px; }
+.wordmark span:nth-child(1) { color: var(--pitch); }
+.wordmark span:nth-child(2) { color: var(--ink); }
+.nav-links { display: flex; gap: 2px; list-style: none; align-items: center; }
+.nav-links a { font-family: 'IBM Plex Sans', sans-serif; font-size: 13px; font-weight: 500; color: var(--ink-soft); text-decoration: none; padding: 10px 16px; border-radius: 999px; transition: all 0.2s; letter-spacing: 0.01em; }
+.nav-links a:hover { background: var(--ink); color: var(--cream); }
+.nav-links a.active { background: var(--pitch); color: var(--cream); }
+.nav-live { display: flex; align-items: center; gap: 8px; padding: 8px 14px; background: var(--ink); color: var(--cream); border-radius: 999px; font-family: 'IBM Plex Mono', monospace; font-size: 11px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; }
+.nav-live .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--chalk); animation: pulse 1.6s ease-in-out infinite; }
+@keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.5; transform: scale(1.4); } }
+.hero { background: var(--pitch); color: var(--cream); padding: 80px 40px 0; position: relative; overflow: hidden; }
+.hero-inner { max-width: 1440px; margin: 0 auto; position: relative; }
+.hero-meta { display: flex; justify-content: space-between; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(245,239,216,0.6); padding-bottom: 60px; border-bottom: 1px solid var(--line-light); }
+.hero-wordmark { font-family: 'Anton', sans-serif; font-size: clamp(120px, 22vw, 340px); line-height: 0.82; letter-spacing: -0.03em; margin-top: 60px; color: var(--cream); position: relative; }
+.hero-wordmark .accent { color: var(--chalk); font-style: normal; display: inline-block; }
+.hero-wordmark .global { display: block; margin-left: clamp(40px, 10vw, 180px); color: var(--cream); opacity: 0.92; }
+.hero-tagline { position: absolute; right: 0; top: 180px; max-width: 320px; font-family: 'Fraunces', serif; font-style: italic; font-size: 20px; line-height: 1.35; color: var(--cream); opacity: 0.85; font-weight: 300; text-align: right; }
+.hero-footer { display: grid; grid-template-columns: 1fr auto 1fr; gap: 40px; align-items: end; padding: 80px 0 50px; border-top: 1px solid var(--line-light); margin-top: 40px; }
+.hero-lockup { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(245,239,216,0.55); line-height: 1.8; }
+.hero-center { text-align: center; font-family: 'Fraunces', serif; font-style: italic; font-size: 14px; color: rgba(245,239,216,0.7); letter-spacing: 0.02em; padding-bottom: 2px; }
+.hero-cta { text-align: right; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; }
+.hero-cta a { color: var(--chalk); text-decoration: none; border-bottom: 1px solid var(--chalk); padding-bottom: 4px; transition: all 0.2s; }
+.hero-cta a:hover { color: var(--cream); border-bottom-color: var(--cream); }
+.ticker { background: var(--ink); color: var(--cream); padding: 14px 0; overflow: hidden; border-top: 3px solid var(--chalk); position: relative; }
+.ticker-track { display: flex; gap: 48px; white-space: nowrap; animation: scroll 55s linear infinite; font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.06em; }
+.ticker-item { display: inline-flex; align-items: center; gap: 10px; }
+.ticker-item .league { color: var(--chalk); font-weight: 600; }
+.ticker-item .score { color: var(--cream); }
+.ticker-item .status { color: rgba(245,239,216,0.5); font-size: 10px; text-transform: uppercase; }
+.ticker-item .live-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--chalk); animation: pulse 1.6s ease-in-out infinite; }
+@keyframes scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.featured { background: var(--cream); padding: 100px 40px; position: relative; }
+.featured-inner { max-width: 1440px; margin: 0 auto; display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 80px; align-items: start; }
+.featured-image { aspect-ratio: 4/5; background: var(--pitch-deep); position: relative; overflow: hidden; border-radius: 2px; }
+.featured-image::before { content: ''; position: absolute; inset: 0; background: radial-gradient(circle at 30% 40%, rgba(26,122,74,0.6) 0%, transparent 50%), radial-gradient(circle at 70% 60%, rgba(244,224,77,0.15) 0%, transparent 40%), linear-gradient(135deg, var(--pitch-deep) 0%, var(--pitch) 100%); }
+.featured-image::after { content: ''; position: absolute; inset: 0; background-image: repeating-linear-gradient(0deg, transparent 0, transparent 80px, rgba(245,239,216,0.04) 80px, rgba(245,239,216,0.04) 81px); }
+.featured-tag { position: absolute; top: 24px; left: 24px; font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--chalk); background: rgba(17,17,17,0.85); padding: 8px 12px; border-radius: 2px; z-index: 2; }
+.featured-content { padding-top: 40px; }
+.featured-kicker { font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--pitch); margin-bottom: 24px; display: flex; align-items: center; gap: 12px; }
+.featured-kicker::before { content: ''; width: 32px; height: 2px; background: var(--pitch); }
+.featured-headline { font-family: 'Anton', sans-serif; font-size: clamp(48px, 5.5vw, 84px); line-height: 0.94; letter-spacing: -0.02em; margin-bottom: 32px; text-transform: uppercase; }
+.featured-headline em { font-family: 'Fraunces', serif; font-style: italic; font-weight: 300; text-transform: none; letter-spacing: -0.01em; color: var(--pitch); }
+.featured-dek { font-family: 'Fraunces', serif; font-size: 22px; line-height: 1.4; color: var(--ink-soft); font-weight: 300; max-width: 480px; margin-bottom: 40px; }
+.featured-byline { font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); padding-top: 24px; border-top: 1px solid var(--line); display: flex; justify-content: space-between; }
+.featured-byline a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--ink); padding-bottom: 2px; }
+.scores { background: var(--ink); color: var(--cream); padding: 80px 40px; position: relative; }
+.scores-inner { max-width: 1440px; margin: 0 auto; }
+.scores-head { display: flex; align-items: end; justify-content: space-between; padding-bottom: 48px; border-bottom: 1px solid var(--line-light); margin-bottom: 48px; }
+.scores-title { font-family: 'Anton', sans-serif; font-size: clamp(48px, 6vw, 96px); line-height: 0.9; letter-spacing: -0.02em; color: var(--cream); }
+.scores-title em { font-family: 'Fraunces', serif; font-style: italic; font-weight: 300; color: var(--chalk); }
+.scores-meta { font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(245,239,216,0.6); text-align: right; line-height: 1.8; }
+.scores-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--line-light); border: 1px solid var(--line-light); }
+.match { background: var(--ink); padding: 28px; position: relative; transition: background 0.2s; cursor: pointer; }
+.match:hover { background: var(--ink-soft); }
+.match-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; }
+.match-league { color: rgba(245,239,216,0.55); }
+.match-status { display: flex; align-items: center; gap: 6px; color: var(--chalk); }
+.match-status.live::before { content: ''; width: 6px; height: 6px; border-radius: 50%; background: var(--chalk); animation: pulse 1.6s ease-in-out infinite; }
+.match-status.ft { color: rgba(245,239,216,0.4); }
+.match-team { display: flex; justify-content: space-between; align-items: center; padding: 10px 0; font-family: 'IBM Plex Sans', sans-serif; font-size: 16px; font-weight: 500; }
+.match-team.loss { color: rgba(245,239,216,0.5); }
+.match-score { font-family: 'IBM Plex Mono', monospace; font-size: 20px; font-weight: 600; color: var(--cream); }
+.match-team.loss .match-score { color: rgba(245,239,216,0.5); }
+.match-foot { margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--line-light); font-family: 'Fraunces', serif; font-style: italic; font-size: 13px; color: rgba(245,239,216,0.7); line-height: 1.4; }
+.transfers { background: var(--cream); padding: 100px 40px; position: relative; }
+.transfers-inner { max-width: 1440px; margin: 0 auto; }
+.transfers-head { display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: end; margin-bottom: 64px; }
+.transfers-title { font-family: 'Anton', sans-serif; font-size: clamp(56px, 7vw, 120px); line-height: 0.88; letter-spacing: -0.02em; text-transform: uppercase; }
+.transfers-title em { font-family: 'Fraunces', serif; font-style: italic; font-weight: 300; text-transform: none; color: var(--pitch); }
+.transfers-intro { font-family: 'Fraunces', serif; font-size: 18px; line-height: 1.5; color: var(--ink-soft); font-weight: 300; max-width: 420px; justify-self: end; }
+.transfer-list { list-style: none; border-top: 2px solid var(--ink); }
+.transfer { display: grid; grid-template-columns: 80px 1fr 1fr 1fr 120px; gap: 32px; align-items: center; padding: 28px 0; border-bottom: 1px solid var(--line); transition: background 0.2s; cursor: pointer; }
+.transfer:hover { background: var(--cream-soft); padding-left: 12px; padding-right: 12px; }
+.transfer-num { font-family: 'IBM Plex Mono', monospace; font-size: 13px; color: var(--ink-soft); font-weight: 500; }
+.transfer-player { font-family: 'Anton', sans-serif; font-size: 26px; letter-spacing: -0.01em; text-transform: uppercase; line-height: 1; }
+.transfer-move { font-family: 'IBM Plex Sans', sans-serif; font-size: 14px; color: var(--ink-soft); display: flex; align-items: center; gap: 12px; }
+.transfer-move .arrow { color: var(--pitch); font-family: 'Anton', sans-serif; font-size: 20px; }
+.transfer-fee { font-family: 'IBM Plex Mono', monospace; font-size: 14px; font-weight: 600; color: var(--ink); }
+.transfer-status { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; padding: 6px 12px; border-radius: 2px; text-align: center; width: fit-content; justify-self: end; }
+.transfer-status.confirmed { background: var(--pitch); color: var(--cream); }
+.transfer-status.rumour { background: var(--cream); color: var(--ink); border: 1px solid var(--ink); }
+.transfer-status.loan { background: var(--chalk); color: var(--ink); }
+.standings { background: var(--pitch); color: var(--cream); padding: 100px 40px; }
+.standings-inner { max-width: 1440px; margin: 0 auto; }
+.standings-head { display: flex; justify-content: space-between; align-items: end; margin-bottom: 56px; padding-bottom: 32px; border-bottom: 1px solid var(--line-light); }
+.standings-title { font-family: 'Anton', sans-serif; font-size: clamp(56px, 7vw, 120px); line-height: 0.88; letter-spacing: -0.02em; text-transform: uppercase; color: var(--cream); }
+.standings-title em { font-family: 'Fraunces', serif; font-style: italic; font-weight: 300; text-transform: none; color: var(--chalk); }
+.standings-tabs { display: flex; gap: 4px; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; flex-wrap: wrap; }
+.standings-tabs button { background: transparent; color: rgba(245,239,216,0.6); border: 1px solid var(--line-light); padding: 10px 16px; cursor: pointer; font-family: inherit; font-size: inherit; letter-spacing: inherit; text-transform: inherit; transition: all 0.2s; }
+.standings-tabs button:hover { color: var(--cream); }
+.standings-tabs button.active { background: var(--chalk); color: var(--ink); border-color: var(--chalk); }
+.standings-table { width: 100%; border-collapse: collapse; font-family: 'IBM Plex Mono', monospace; }
+.standings-table thead th { font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(245,239,216,0.5); font-weight: 500; text-align: right; padding: 16px 12px; border-bottom: 1px solid var(--line-light); }
+.standings-table thead th:nth-child(1), .standings-table thead th:nth-child(2) { text-align: left; }
+.standings-table tbody td { padding: 18px 12px; font-size: 14px; color: var(--cream); text-align: right; border-bottom: 1px solid var(--line-light); }
+.standings-table tbody tr:hover { background: rgba(245,239,216,0.04); }
+.standings-table tbody td:nth-child(1) { text-align: left; color: rgba(245,239,216,0.5); font-size: 13px; width: 50px; }
+.standings-table tbody td:nth-child(2) { text-align: left; font-family: 'IBM Plex Sans', sans-serif; font-weight: 500; font-size: 15px; }
+.standings-table tbody td.points { color: var(--chalk); font-weight: 600; }
+.standings-table tbody tr.cl { border-left: 3px solid var(--chalk); }
+.form-dot { display: inline-block; width: 14px; height: 14px; border-radius: 50%; margin-right: 2px; text-align: center; font-size: 9px; line-height: 14px; font-weight: 600; }
+.form-dot.w { background: var(--chalk); color: var(--ink); }
+.form-dot.d { background: rgba(245,239,216,0.2); color: var(--cream); }
+.form-dot.l { background: transparent; border: 1px solid rgba(245,239,216,0.3); color: rgba(245,239,216,0.5); }
+.standings-legend { margin-top: 24px; font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(245,239,216,0.5); display: flex; gap: 32px; }
+.standings-legend .key { display: flex; align-items: center; gap: 8px; }
+.standings-legend .key::before { content: ''; width: 12px; height: 12px; background: var(--chalk); }
+.news { background: var(--cream); padding: 100px 40px; }
+.news-inner { max-width: 1440px; margin: 0 auto; }
+.news-head { display: flex; justify-content: space-between; align-items: end; margin-bottom: 64px; padding-bottom: 32px; border-bottom: 2px solid var(--ink); flex-wrap: wrap; gap: 24px; }
+.news-title { font-family: 'Anton', sans-serif; font-size: clamp(56px, 7vw, 120px); line-height: 0.88; letter-spacing: -0.02em; text-transform: uppercase; }
+.news-title em { font-family: 'Fraunces', serif; font-style: italic; font-weight: 300; text-transform: none; color: var(--pitch); }
+.news-filter { display: flex; gap: 24px; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; flex-wrap: wrap; }
+.news-filter button { background: transparent; border: none; color: var(--ink-soft); cursor: pointer; font: inherit; letter-spacing: inherit; text-transform: inherit; padding: 8px 0; border-bottom: 2px solid transparent; transition: all 0.2s; }
+.news-filter button:hover { color: var(--ink); }
+.news-filter button.active { color: var(--ink); border-bottom-color: var(--pitch); }
+.news-grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 40px 32px; }
+.story { grid-column: span 4; }
+.story.lg { grid-column: span 6; }
+.story.xl { grid-column: span 8; }
+.story.sm { grid-column: span 3; }
+.story a { text-decoration: none; color: inherit; display: block; }
+.story-image { width: 100%; aspect-ratio: 16/10; background: var(--pitch-deep); margin-bottom: 20px; position: relative; overflow: hidden; }
+.story.lg .story-image, .story.xl .story-image { aspect-ratio: 3/2; }
+.story-image::before { content: ''; position: absolute; inset: 0; background: linear-gradient(135deg, #0A3A24, #0F5132 60%, #1A7A4A); }
+.story:nth-child(2n) .story-image::before { background: linear-gradient(165deg, #2A2A2A, #111); }
+.story:nth-child(3n) .story-image::before { background: radial-gradient(circle at 50% 50%, rgba(26,122,74,0.5), transparent 70%), linear-gradient(45deg, #0F5132, #0A3A24); }
+.story:nth-child(4n) .story-image::before { background: repeating-linear-gradient(45deg, #0F5132 0, #0F5132 4px, #0A3A24 4px, #0A3A24 8px); }
+.story-image-tag { position: absolute; top: 16px; left: 16px; font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--chalk); background: rgba(17,17,17,0.9); padding: 6px 10px; z-index: 2; }
+.story-kicker { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--pitch); margin-bottom: 10px; font-weight: 600; }
+.story-headline { font-family: 'Anton', sans-serif; font-size: 26px; line-height: 1.05; letter-spacing: -0.01em; text-transform: uppercase; margin-bottom: 12px; color: var(--ink); }
+.story.lg .story-headline { font-size: 36px; }
+.story.xl .story-headline { font-size: 48px; }
+.story.sm .story-headline { font-size: 20px; }
+.story-dek { font-family: 'Fraunces', serif; font-size: 15px; line-height: 1.5; color: var(--ink-soft); font-weight: 300; margin-bottom: 16px; }
+.story.lg .story-dek, .story.xl .story-dek { font-size: 17px; }
+.story.sm .story-dek { display: none; }
+.story-meta { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); display: flex; justify-content: space-between; padding-top: 12px; border-top: 1px solid var(--line); }
+.culture { background: var(--ink); color: var(--cream); padding: 120px 40px; position: relative; overflow: hidden; }
+.culture::before { content: 'TERRACE.RIVALRY.RELIGION.'; position: absolute; top: 40px; left: -40px; font-family: 'Anton', sans-serif; font-size: 180px; color: rgba(245,239,216,0.04); letter-spacing: -0.02em; white-space: nowrap; pointer-events: none; }
+.culture-inner { max-width: 1440px; margin: 0 auto; position: relative; display: grid; grid-template-columns: 1fr 1fr; gap: 100px; align-items: center; }
+.culture-left { position: relative; }
+.culture-kicker { font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--chalk); margin-bottom: 24px; display: flex; align-items: center; gap: 12px; }
+.culture-kicker::before { content: ''; width: 32px; height: 2px; background: var(--chalk); }
+.culture-title { font-family: 'Fraunces', serif; font-weight: 300; font-style: italic; font-size: clamp(48px, 5vw, 88px); line-height: 1; margin-bottom: 40px; letter-spacing: -0.02em; color: var(--cream); }
+.culture-title strong { font-family: 'Anton', sans-serif; font-weight: 400; font-style: normal; text-transform: uppercase; color: var(--chalk); display: block; letter-spacing: -0.01em; }
+.culture-body { font-family: 'Fraunces', serif; font-size: 18px; line-height: 1.6; color: rgba(245,239,216,0.8); font-weight: 300; max-width: 480px; margin-bottom: 32px; }
+.culture-link { font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--chalk); text-decoration: none; border-bottom: 1px solid var(--chalk); padding-bottom: 4px; transition: all 0.2s; }
+.culture-link:hover { color: var(--cream); border-bottom-color: var(--cream); }
+.culture-right { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.culture-card { aspect-ratio: 3/4; background: var(--pitch-deep); padding: 24px; display: flex; flex-direction: column; justify-content: space-between; position: relative; overflow: hidden; cursor: pointer; transition: transform 0.3s; }
+.culture-card:nth-child(1) { background: linear-gradient(200deg, #0F5132, #0A3A24); transform: translateY(-20px); }
+.culture-card:nth-child(2) { background: linear-gradient(45deg, #111, #2A2A2A); transform: translateY(20px); }
+.culture-card:nth-child(3) { background: linear-gradient(135deg, #1A7A4A, #0F5132); transform: translateY(-20px); }
+.culture-card:nth-child(4) { background: linear-gradient(315deg, #2A2A2A, #111); transform: translateY(20px); border: 1px solid var(--chalk); }
+.culture-card:hover { transform: translateY(0) !important; }
+.culture-card-num { font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.12em; color: rgba(245,239,216,0.5); }
+.culture-card-title { font-family: 'Anton', sans-serif; font-size: 28px; line-height: 1; text-transform: uppercase; letter-spacing: -0.01em; color: var(--cream); }
+.culture-card:nth-child(4) .culture-card-title { color: var(--chalk); }
+.footer { background: var(--pitch-deep); color: var(--cream); padding: 80px 40px 40px; }
+.footer-inner { max-width: 1440px; margin: 0 auto; }
+.footer-wordmark { font-family: 'Anton', sans-serif; font-size: clamp(80px, 12vw, 180px); line-height: 0.82; letter-spacing: -0.03em; margin-bottom: 60px; border-bottom: 1px solid var(--line-light); padding-bottom: 60px; }
+.footer-wordmark .accent { color: var(--chalk); }
+.footer-wordmark .outline { color: transparent; -webkit-text-stroke: 1px var(--cream); }
+.footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 60px; padding-bottom: 60px; }
+.footer-col h4 { font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(245,239,216,0.5); margin-bottom: 20px; font-weight: 500; }
+.footer-col ul { list-style: none; }
+.footer-col li { margin-bottom: 10px; }
+.footer-col a { font-family: 'IBM Plex Sans', sans-serif; color: var(--cream); text-decoration: none; font-size: 15px; transition: color 0.2s; }
+.footer-col a:hover { color: var(--chalk); }
+.footer-tagline { font-family: 'Fraunces', serif; font-style: italic; font-size: 18px; line-height: 1.5; color: rgba(245,239,216,0.7); font-weight: 300; max-width: 360px; }
+.footer-bottom { display: flex; justify-content: space-between; padding-top: 32px; border-top: 1px solid var(--line-light); font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(245,239,216,0.5); }
+.loading { font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(245,239,216,0.5); padding: 40px; text-align: center; }
+.loading-light { color: var(--ink-soft); }
+@media (max-width: 1024px) {
+  .nav { padding: 16px 24px; }
+  .nav-links { display: none; }
+  .featured-inner, .culture-inner { grid-template-columns: 1fr; gap: 40px; }
+  .transfers-head, .scores-head, .standings-head, .news-head { grid-template-columns: 1fr; gap: 24px; }
+  .news-grid { grid-template-columns: repeat(6, 1fr); }
+  .story, .story.lg, .story.xl, .story.sm { grid-column: span 6; }
+  .scores-grid { grid-template-columns: 1fr; }
+  .transfer { grid-template-columns: 40px 1fr auto; gap: 16px; font-size: 14px; }
+  .transfer-move, .transfer-fee { display: none; }
+  .footer-grid { grid-template-columns: 1fr 1fr; }
+  .culture-card { transform: none !important; }
+  .hero { padding: 40px 24px 0; }
+  .featured, .scores, .transfers, .standings, .news, .culture { padding: 60px 24px; }
+  .hero-tagline { position: static; text-align: left; margin-top: 40px; max-width: 100%; }
+  .hero-footer { grid-template-columns: 1fr; gap: 24px; text-align: left; }
+  .hero-cta { text-align: left; }
+  .hero-center { text-align: left; }
+}
+.hero-wordmark, .hero-meta, .hero-tagline, .hero-footer { opacity: 0; transform: translateY(20px); animation: rise 1s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+.hero-meta { animation-delay: 0.1s; }
+.hero-wordmark { animation-delay: 0.3s; }
+.hero-tagline { animation-delay: 0.8s; }
+.hero-footer { animation-delay: 1s; }
+@keyframes rise { to { opacity: 1; transform: translateY(0); } }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav">
+    <a href="#" class="wordmark"><span>GOLAZO</span><span>GLOBAL</span></a>
+    <ul class="nav-links">
+      <li><a href="#news" class="active">News</a></li>
+      <li><a href="#scores">Live</a></li>
+      <li><a href="#standings">Leagues</a></li>
+      <li><a href="#transfers">Transfers</a></li>
+      <li><a href="#culture">Culture</a></li>
+      <li><a href="#about">About</a></li>
+    </ul>
+    <div class="nav-live"><span class="dot"></span><span id="live-count">Loading</span></div>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-meta">
+      <span id="hero-date">Loading...</span>
+      <span id="hero-matchday">Worldwide Football</span>
+    </div>
+    <h1 class="hero-wordmark">GO<em class="accent">L</em>AZO<span class="global">GLOBAL</span></h1>
+    <p class="hero-tagline">Every goal. Every league. Every nation.<br>The world's football, in one place.</p>
+    <div class="hero-footer">
+      <div class="hero-lockup">Est. 2026<br>Independent · Worldwide</div>
+      <div class="hero-center">— covering football at every level —</div>
+      <div class="hero-cta"><a href="#news">Today's stories ↓</a></div>
+    </div>
+  </div>
+</section>
+
+<div class="ticker"><div class="ticker-track" id="ticker-track"><span class="ticker-item"><span class="league">LOADING LIVE SCORES</span></span></div></div>
+
+<section class="featured" id="featured-section">
+  <div class="featured-inner">
+    <div class="featured-image"><span class="featured-tag" id="featured-tag">Featured Story</span></div>
+    <div class="featured-content">
+      <div class="featured-kicker" id="featured-kicker">Featured</div>
+      <h2 class="featured-headline" id="featured-headline">Loading today's top story...</h2>
+      <p class="featured-dek" id="featured-dek"></p>
+      <div class="featured-byline">
+        <span id="featured-byline">—</span>
+        <a href="#" id="featured-link" target="_blank" rel="noopener">Read →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="scores" id="scores">
+  <div class="scores-inner">
+    <div class="scores-head">
+      <h2 class="scores-title">On <em>the Pitch</em><br>Right Now.</h2>
+      <div class="scores-meta"><span id="scores-league-count">Live scores</span><br>Updated 4× daily</div>
+    </div>
+    <div class="scores-grid" id="scores-grid"><div class="loading">Loading matches...</div></div>
+  </div>
+</section>
+
+<section class="transfers" id="transfers">
+  <div class="transfers-inner">
+    <div class="transfers-head">
+      <h2 class="transfers-title">The <em>Transfer</em> Room</h2>
+      <p class="transfers-intro">Confirmed moves, credible rumours, and the fees that reshape the window. Updated as news breaks.</p>
+    </div>
+    <ul class="transfer-list" id="transfer-list"><li class="loading loading-light">Loading transfer news...</li></ul>
+  </div>
+</section>
+
+<section class="standings" id="standings">
+  <div class="standings-inner">
+    <div class="standings-head">
+      <h2 class="standings-title">The <em>Table</em></h2>
+      <div class="standings-tabs" id="standings-tabs"></div>
+    </div>
+    <div id="standings-table-wrap"><div class="loading">Loading standings...</div></div>
+    <div class="standings-legend"><span class="key">Champions League qualification</span><span>Form: last 5 matches</span></div>
+  </div>
+</section>
+
+<section class="news" id="news">
+  <div class="news-inner">
+    <div class="news-head">
+      <h2 class="news-title">Today's <em>Stories</em></h2>
+      <div class="news-filter" id="news-filter"><button class="active" data-filter="all">All</button></div>
+    </div>
+    <div class="news-grid" id="news-grid"><div class="loading loading-light">Loading stories...</div></div>
+  </div>
+</section>
+
+<section class="culture" id="culture">
+  <div class="culture-inner">
+    <div class="culture-left">
+      <div class="culture-kicker">The Culture</div>
+      <h2 class="culture-title">Football is the only language <strong>the whole world speaks.</strong></h2>
+      <p class="culture-body">From Buenos Aires terraces to Dakar courtyards to Tokyo pubs at 4am — the game is a ritual. We cover the stories that don't fit on a scoreboard: rivalries, ultras, chants, the politics of the stands, the songs you hear forever.</p>
+      <a href="#news" class="culture-link">Enter the Culture →</a>
+    </div>
+    <div class="culture-right" id="culture-cards">
+      <div class="culture-card"><span class="culture-card-num">01 / Rivalries</span><span class="culture-card-title">The world's biggest derbies</span></div>
+      <div class="culture-card"><span class="culture-card-num">02 / Terraces</span><span class="culture-card-title">Inside the great stadiums</span></div>
+      <div class="culture-card"><span class="culture-card-num">03 / History</span><span class="culture-card-title">Moments that shaped the game</span></div>
+      <div class="culture-card"><span class="culture-card-num">04 / New Here?</span><span class="culture-card-title">Soccer in the US, pre-World Cup</span></div>
+    </div>
+  </div>
+</section>
+
+<footer class="footer" id="about">
+  <div class="footer-inner">
+    <div class="footer-wordmark">GO<span class="accent">L</span>AZO<br><span class="outline">GLOBAL</span></div>
+    <div class="footer-grid">
+      <div class="footer-col">
+        <h4>The Project</h4>
+        <p class="footer-tagline">An independent global football hub. Every goal, every league, every nation — refreshed four times a day.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Read</h4>
+        <ul><li><a href="#news">News</a></li><li><a href="#scores">Live Scores</a></li><li><a href="#standings">Leagues</a></li><li><a href="#transfers">Transfers</a></li></ul>
+      </div>
+      <div class="footer-col">
+        <h4>Explore</h4>
+        <ul><li><a href="#culture">Culture</a></li><li><a href="#">Videos</a></li><li><a href="#">Archive</a></li><li><a href="#">Newsletter</a></li></ul>
+      </div>
+      <div class="footer-col">
+        <h4>About</h4>
+        <ul><li><a href="#about">The Mission</a></li><li><a href="mailto:info@golazoglobal.com">Contact</a></li><li><a href="/sitemap.xml">Sitemap</a></li></ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 GolazoGlobal — All rights reserved</span>
+      <span>Independent · Worldwide</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+// ============ CONFIG ============
+const LEAGUE_LABELS = {
+  'PL': 'Premier League', 'PD': 'La Liga', 'SA': 'Serie A', 'BL1': 'Bundesliga',
+  'FL1': 'Ligue 1', 'CL': 'UCL', 'EL': 'Europa', 'MLS': 'MLS', 'LIGA_MX': 'Liga MX', 'NWSL': 'NWSL'
+};
+const LEAGUE_SHORT = {
+  'PL': 'PREM', 'PD': 'LALIGA', 'SA': 'SERIE A', 'BL1': 'BUND',
+  'FL1': 'LIGUE 1', 'CL': 'UCL', 'EL': 'UEL', 'MLS': 'MLS', 'LIGA_MX': 'LIGA MX', 'NWSL': 'NWSL'
+};
+
+// ============ INIT ============
+document.getElementById('hero-date').textContent =
+  new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
+
+async function loadJSON(path) {
+  try {
+    const r = await fetch(path + '?t=' + Date.now());
+    if (!r.ok) throw new Error(path + ' ' + r.status);
+    return await r.json();
+  } catch (e) {
+    console.warn('Failed to load', path, e);
+    return null;
+  }
+}
+
+// ============ NEWS ============
+async function loadNews() {
+  const data = await loadJSON('/data/news.json');
+  if (!data || !data.articles || data.articles.length === 0) {
+    document.getElementById('news-grid').innerHTML = '<div class="loading loading-light">No stories yet. Pipeline refreshes four times daily.</div>';
+    return;
+  }
+  const articles = data.articles;
+
+  // Featured = first article
+  const f = articles[0];
+  document.getElementById('featured-tag').textContent = f.league || 'Featured';
+  document.getElementById('featured-kicker').textContent = (f.league || 'Featured') + ' · ' + timeAgo(f.publishedAt);
+  document.getElementById('featured-headline').innerHTML = escapeHtml(f.title);
+  document.getElementById('featured-dek').textContent = f.description || '';
+  document.getElementById('featured-byline').textContent = (f.source || '') + ' · ' + estimateReadTime(f.description);
+  document.getElementById('featured-link').href = f.url;
+
+  // Grid = remaining
+  const grid = document.getElementById('news-grid');
+  const remaining = articles.slice(1, 8);
+  const sizeClasses = ['xl', '', '', 'lg', '', 'sm', 'sm'];
+  grid.innerHTML = remaining.map((a, i) => {
+    const size = sizeClasses[i] || '';
+    return `<article class="story ${size}"><a href="${escapeAttr(a.url)}" target="_blank" rel="noopener">
+      <div class="story-image"><span class="story-image-tag">${escapeHtml(a.league || 'Football')}</span></div>
+      <div class="story-kicker">${escapeHtml(a.league || 'News')} · ${timeAgo(a.publishedAt)}</div>
+      <h3 class="story-headline">${escapeHtml(a.title)}</h3>
+      ${size !== 'sm' ? `<p class="story-dek">${escapeHtml(a.description || '')}</p>` : ''}
+      <div class="story-meta"><span>${escapeHtml(a.source || '')}</span><span>${estimateReadTime(a.description)}</span></div>
+    </a></article>`;
+  }).join('');
+
+  // Build filter buttons from unique leagues
+  const leagues = [...new Set(articles.map(a => a.league).filter(Boolean))];
+  const filterEl = document.getElementById('news-filter');
+  filterEl.innerHTML = '<button class="active" data-filter="all">All</button>' +
+    leagues.slice(0, 6).map(l => `<button data-filter="${escapeAttr(l)}">${escapeHtml(l)}</button>`).join('');
+  filterEl.querySelectorAll('button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      filterEl.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const f = btn.dataset.filter;
+      document.querySelectorAll('.story').forEach(s => {
+        s.style.display = (f === 'all' || s.querySelector('.story-image-tag').textContent === f) ? '' : 'none';
+      });
+    });
+  });
+}
+
+// ============ SCORES ============
+async function loadScores() {
+  const data = await loadJSON('/data/scores.json');
+  const grid = document.getElementById('scores-grid');
+  const ticker = document.getElementById('ticker-track');
+  if (!data || !data.matches || data.matches.length === 0) {
+    grid.innerHTML = '<div class="loading">No matches today.</div>';
+    ticker.innerHTML = '<span class="ticker-item"><span class="league">GOLAZOGLOBAL</span><span class="score">EVERY GOAL · EVERY LEAGUE · EVERY NATION</span></span>';
+    document.getElementById('live-count').textContent = '0 Live';
+    return;
+  }
+  const matches = data.matches;
+  const liveCount = matches.filter(m => m.status === 'LIVE' || m.status === 'IN_PLAY').length;
+  document.getElementById('live-count').textContent = liveCount + ' Live';
+  document.getElementById('scores-league-count').textContent = `Live from ${new Set(matches.map(m => m.league)).size} leagues`;
+
+  // Scores grid — up to 6
+  grid.innerHTML = matches.slice(0, 6).map(m => {
+    const isLive = m.status === 'LIVE' || m.status === 'IN_PLAY' || m.status === 'PAUSED';
+    const statusText = isLive ? (m.minute ? m.minute + "'" : 'LIVE') : (m.status === 'FINISHED' ? 'FT' : m.status);
+    const homeWin = m.homeScore > m.awayScore;
+    const awayWin = m.awayScore > m.homeScore;
+    return `<div class="match">
+      <div class="match-head">
+        <span class="match-league">${escapeHtml(LEAGUE_LABELS[m.league] || m.league)}${m.venue ? ' · ' + escapeHtml(m.venue) : ''}</span>
+        <span class="match-status ${isLive ? 'live' : 'ft'}">${escapeHtml(statusText)}</span>
+      </div>
+      <div class="match-team ${awayWin ? 'loss' : ''}"><span>${escapeHtml(m.homeTeam)}</span><span class="match-score">${m.homeScore ?? '-'}</span></div>
+      <div class="match-team ${homeWin ? 'loss' : ''}"><span>${escapeHtml(m.awayTeam)}</span><span class="match-score">${m.awayScore ?? '-'}</span></div>
+      ${m.note ? `<div class="match-foot">${escapeHtml(m.note)}</div>` : ''}
+    </div>`;
+  }).join('');
+
+  // Ticker — all matches, duplicated for loop
+  const tickerItems = matches.map(m => {
+    const isLive = m.status === 'LIVE' || m.status === 'IN_PLAY';
+    const statusText = isLive ? (m.minute ? m.minute + "'" : 'LIVE') : (m.status === 'FINISHED' ? 'FT' : m.status);
+    const shortHome = (m.homeTeam || '').substring(0, 3).toUpperCase();
+    const shortAway = (m.awayTeam || '').substring(0, 3).toUpperCase();
+    return `<span class="ticker-item">${isLive ? '<span class="live-dot"></span>' : ''}<span class="league">${escapeHtml(LEAGUE_SHORT[m.league] || m.league)}</span><span class="score">${shortHome} ${m.homeScore ?? '-'}–${m.awayScore ?? '-'} ${shortAway}</span><span class="status">${escapeHtml(statusText)}</span></span>`;
+  }).join('');
+  ticker.innerHTML = tickerItems + tickerItems;
+}
+
+// ============ TRANSFERS ============
+async function loadTransfers() {
+  const data = await loadJSON('/data/transfers.json');
+  const list = document.getElementById('transfer-list');
+  if (!data || !data.transfers || data.transfers.length === 0) {
+    list.innerHTML = '<li class="loading loading-light">No transfer news right now.</li>';
+    return;
+  }
+  list.innerHTML = data.transfers.slice(0, 8).map((t, i) => {
+    const n = String(i + 1).padStart(2, '0');
+    const statusClass = (t.status || '').toLowerCase();
+    return `<li class="transfer">
+      <span class="transfer-num">${n}</span>
+      <span class="transfer-player">${escapeHtml(t.player)}</span>
+      <span class="transfer-move">${escapeHtml(t.from)} <span class="arrow">→</span> ${escapeHtml(t.to)}</span>
+      <span class="transfer-fee">${escapeHtml(t.fee || '')}</span>
+      <span class="transfer-status ${statusClass}">${escapeHtml(t.status || 'Rumour')}</span>
+    </li>`;
+  }).join('');
+}
+
+// ============ STANDINGS ============
+async function loadStandings() {
+  const data = await loadJSON('/data/standings.json');
+  const tabs = document.getElementById('standings-tabs');
+  const wrap = document.getElementById('standings-table-wrap');
+  if (!data || !data.leagues || Object.keys(data.leagues).length === 0) {
+    wrap.innerHTML = '<div class="loading">Standings will appear once the pipeline runs.</div>';
+    return;
+  }
+  const leagueKeys = Object.keys(data.leagues);
+  tabs.innerHTML = leagueKeys.map((k, i) => `<button class="${i === 0 ? 'active' : ''}" data-league="${escapeAttr(k)}">${escapeHtml(LEAGUE_LABELS[k] || k)}</button>`).join('');
+
+  function render(key) {
+    const table = data.leagues[key];
+    if (!table || table.length === 0) { wrap.innerHTML = '<div class="loading">No standings.</div>'; return; }
+    const rows = table.map((row, i) => {
+      const pos = row.position || (i + 1);
+      const clClass = pos <= 4 ? 'cl' : '';
+      const form = (row.form || '').split('').slice(-5).map(c => `<span class="form-dot ${c.toLowerCase()}">${c}</span>`).join('');
+      return `<tr class="${clClass}"><td>${pos}</td><td>${escapeHtml(row.team)}</td><td>${row.played ?? '-'}</td><td>${row.won ?? '-'}</td><td>${row.drawn ?? '-'}</td><td>${row.lost ?? '-'}</td><td>${row.goalsFor ?? '-'}</td><td>${row.goalsAgainst ?? '-'}</td><td>${row.goalDifference > 0 ? '+' : ''}${row.goalDifference ?? '-'}</td><td style="text-align:left;">${form}</td><td class="points">${row.points ?? '-'}</td></tr>`;
+    }).join('');
+    wrap.innerHTML = `<table class="standings-table"><thead><tr><th>#</th><th>Club</th><th>P</th><th>W</th><th>D</th><th>L</th><th>GF</th><th>GA</th><th>GD</th><th style="text-align:left;">Form</th><th>PTS</th></tr></thead><tbody>${rows}</tbody></table>`;
+  }
+  render(leagueKeys[0]);
+  tabs.querySelectorAll('button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      tabs.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      render(btn.dataset.league);
+    });
+  });
+}
+
+// ============ UTILS ============
+function escapeHtml(s) { if (!s) return ''; return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])); }
+function escapeAttr(s) { return escapeHtml(s); }
+function timeAgo(iso) {
+  if (!iso) return 'Today';
+  const d = new Date(iso); const diff = (Date.now() - d.getTime()) / 1000;
+  if (diff < 3600) return Math.floor(diff / 60) + 'm ago';
+  if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
+  if (diff < 172800) return 'Yesterday';
+  return Math.floor(diff / 86400) + 'd ago';
+}
+function estimateReadTime(text) {
+  const words = (text || '').split(/\s+/).length;
+  const min = Math.max(2, Math.round(words / 200));
+  return min + ' min read';
+}
+
+// ============ BOOT ============
+loadNews(); loadScores(); loadTransfers(); loadStandings();
+</script>
+
+</body>
+</html>
