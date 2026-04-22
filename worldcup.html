@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>World Cup 2026 — GolazoGlobal</title>
-<meta name="description" content="Your complete guide to the 2026 FIFA World Cup. Fixtures, groups, teams, host cities, and live scores across USA, Canada, and Mexico.">
+<meta name="description" content="Your complete guide to the 2026 FIFA World Cup. All 12 official groups, 16 host cities, fixtures, and live coverage across USA, Canada, and Mexico.">
 <meta property="og:title" content="World Cup 2026 — GolazoGlobal">
 <meta property="og:description" content="48 teams. 104 matches. 3 nations. The biggest World Cup in history.">
 <meta property="og:url" content="https://golazoglobal.com/worldcup">
@@ -39,7 +39,6 @@
 html { scroll-behavior: smooth; }
 body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color: var(--ink); line-height: 1.5; -webkit-font-smoothing: antialiased; overflow-x: hidden; }
 
-/* NAV */
 .topbar { position: sticky; top: 0; z-index: 100; background: rgba(245,239,216,0.92); border-bottom: 1px solid var(--line); backdrop-filter: blur(12px); }
 .nav { max-width: 1440px; margin: 0 auto; padding: 18px 40px; display: flex; align-items: center; justify-content: space-between; gap: 40px; }
 .wordmark { font-family: 'Anton', sans-serif; font-size: 26px; letter-spacing: -0.01em; color: var(--ink); text-decoration: none; display: flex; align-items: baseline; gap: 2px; }
@@ -48,20 +47,8 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 .nav-back { font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-soft); text-decoration: none; display: flex; align-items: center; gap: 8px; }
 .nav-back:hover { color: var(--pitch); }
 
-/* HERO */
 .hero { background: var(--pitch-deep); color: var(--cream); padding: 100px 40px 80px; position: relative; overflow: hidden; }
-.hero::before {
-  content: '2026';
-  position: absolute;
-  right: -40px;
-  top: -40px;
-  font-family: 'Anton', sans-serif;
-  font-size: clamp(200px, 30vw, 480px);
-  color: rgba(245,239,216,0.04);
-  letter-spacing: -0.05em;
-  line-height: 1;
-  pointer-events: none;
-}
+.hero::before { content: '2026'; position: absolute; right: -40px; top: -40px; font-family: 'Anton', sans-serif; font-size: clamp(200px, 30vw, 480px); color: rgba(245,239,216,0.04); letter-spacing: -0.05em; line-height: 1; pointer-events: none; }
 .hero-inner { max-width: 1440px; margin: 0 auto; position: relative; }
 .hero-kicker { font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--chalk); margin-bottom: 24px; display: flex; align-items: center; gap: 12px; }
 .hero-kicker::before { content: ''; width: 32px; height: 2px; background: var(--chalk); }
@@ -69,11 +56,9 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 .hero-title .line2 { display: block; color: var(--chalk); margin-left: clamp(20px, 6vw, 120px); }
 .hero-subtitle { font-family: 'Fraunces', serif; font-style: italic; font-size: clamp(20px, 2.5vw, 32px); font-weight: 300; color: rgba(245,239,216,0.8); max-width: 600px; line-height: 1.4; margin-bottom: 60px; }
 .hero-stats { display: flex; gap: 60px; flex-wrap: wrap; }
-.hero-stat { }
 .hero-stat-num { font-family: 'Anton', sans-serif; font-size: 64px; line-height: 1; letter-spacing: -0.02em; color: var(--chalk); }
 .hero-stat-label { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(245,239,216,0.5); margin-top: 4px; }
 
-/* COUNTDOWN */
 .countdown { background: var(--ink); color: var(--cream); padding: 40px; text-align: center; border-top: 3px solid var(--chalk); }
 .countdown-inner { max-width: 1440px; margin: 0 auto; display: flex; align-items: center; justify-content: center; gap: 16px; flex-wrap: wrap; }
 .countdown-label { font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(245,239,216,0.6); margin-right: 8px; }
@@ -83,7 +68,6 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 .countdown-sub { font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(245,239,216,0.4); }
 .countdown-sep { font-family: 'Anton', sans-serif; font-size: 36px; color: rgba(245,239,216,0.2); padding-bottom: 16px; }
 
-/* SECTIONS */
 .section { padding: 100px 40px; }
 .section-inner { max-width: 1440px; margin: 0 auto; }
 .section-head { margin-bottom: 56px; padding-bottom: 32px; border-bottom: 1px solid var(--line); }
@@ -91,20 +75,18 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 .section-title em { font-family: 'Fraunces', serif; font-style: italic; font-weight: 300; text-transform: none; color: var(--pitch); }
 .section-sub { font-family: 'Fraunces', serif; font-size: 18px; line-height: 1.5; color: var(--ink-soft); font-weight: 300; margin-top: 16px; max-width: 600px; }
 
-/* HOST CITIES */
 .cities { background: var(--cream); }
 .cities-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; background: var(--line); }
 .city-card { background: var(--cream-soft); padding: 36px; position: relative; overflow: hidden; }
 .city-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: var(--pitch); }
 .city-card.mexico::before { background: #006847; }
-.city-card.canada::before { background: #FF0000; }
+.city-card.canada::before { background: #CC0000; }
 .city-num { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); opacity: 0.4; margin-bottom: 12px; }
 .city-name { font-family: 'Anton', sans-serif; font-size: 32px; letter-spacing: -0.01em; text-transform: uppercase; line-height: 1; margin-bottom: 8px; }
 .city-country { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 16px; }
 .city-venue { font-family: 'Fraunces', serif; font-size: 15px; color: var(--ink-soft); font-weight: 300; font-style: italic; margin-bottom: 8px; }
 .city-capacity { font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: var(--pitch); font-weight: 600; }
 
-/* GROUPS */
 .groups { background: var(--pitch); color: var(--cream); }
 .groups-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--line-light); }
 .group-card { background: var(--pitch); padding: 28px; }
@@ -114,7 +96,6 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 .group-team-flag { font-size: 20px; width: 28px; }
 .group-team-note { font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--chalk); margin-left: auto; }
 
-/* SCHEDULE */
 .schedule { background: var(--cream); }
 .schedule-phases { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; }
 .phase { background: var(--cream-soft); padding: 36px; border-top: 3px solid var(--pitch); }
@@ -127,19 +108,16 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 .phase-detail { font-family: 'Fraunces', serif; font-size: 15px; line-height: 1.6; color: var(--ink-soft); font-weight: 300; }
 .phase.final .phase-detail { color: rgba(245,239,216,0.8); }
 
-/* WHY IT MATTERS */
 .matters { background: var(--ink); color: var(--cream); padding: 100px 40px; }
 .matters-inner { max-width: 1440px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 100px; align-items: start; }
 .matters-title { font-family: 'Anton', sans-serif; font-size: clamp(56px, 7vw, 110px); line-height: 0.88; letter-spacing: -0.02em; text-transform: uppercase; }
 .matters-title em { font-family: 'Fraunces', serif; font-style: italic; font-weight: 300; text-transform: none; color: var(--chalk); display: block; }
-.matters-body { padding-top: 16px; }
-.matters-p { font-family: 'Fraunces', serif; font-size: 19px; line-height: 1.65; color: rgba(245,239,216,0.85); font-weight: 300; margin-bottom: 24px; }
+.matters-p { font-family: 'Fraunces', serif; font-size: 19px; line-height: 1.65; color: rgba(245,239,216,0.85); font-weight: 300; margin-bottom: 24px; padding-top: 16px; }
 .matters-fact { display: flex; gap: 20px; align-items: start; padding: 24px 0; border-bottom: 1px solid var(--line-light); }
 .matters-fact:last-child { border-bottom: none; }
 .matters-fact-num { font-family: 'Anton', sans-serif; font-size: 40px; color: var(--chalk); line-height: 1; flex-shrink: 0; width: 80px; }
 .matters-fact-text { font-family: 'IBM Plex Sans', sans-serif; font-size: 15px; color: rgba(245,239,216,0.7); line-height: 1.5; }
 
-/* BACK TO SITE */
 .back-strip { background: var(--pitch); color: var(--cream); padding: 60px 40px; text-align: center; }
 .back-strip-inner { max-width: 1440px; margin: 0 auto; }
 .back-title { font-family: 'Anton', sans-serif; font-size: clamp(32px, 4vw, 56px); letter-spacing: -0.02em; text-transform: uppercase; margin-bottom: 24px; }
@@ -147,7 +125,6 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 .back-link { display: inline-flex; align-items: center; gap: 12px; font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--chalk); text-decoration: none; border-bottom: 1px solid var(--chalk); padding-bottom: 4px; transition: all 0.2s; }
 .back-link:hover { color: var(--cream); border-bottom-color: var(--cream); }
 
-/* FOOTER */
 .footer { background: var(--pitch-deep); color: var(--cream); padding: 40px; text-align: center; }
 .footer-text { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(245,239,216,0.4); }
 
@@ -166,7 +143,6 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 </head>
 <body>
 
-<!-- NAV -->
 <header class="topbar">
   <nav class="nav">
     <a href="/" class="wordmark"><span>GOLAZO</span><span>GLOBAL</span></a>
@@ -174,14 +150,11 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
   </nav>
 </header>
 
-<!-- HERO -->
 <section class="hero">
   <div class="hero-inner">
     <div class="hero-kicker">FIFA World Cup · June 11 – July 19, 2026</div>
-    <h1 class="hero-title">
-      WORLD<span class="line2">CUP 2026</span>
-    </h1>
-    <p class="hero-subtitle">The biggest World Cup in history. 48 teams, 104 matches, three nations, sixteen cities. Coming to North America — and GolazoGlobal will cover every moment.</p>
+    <h1 class="hero-title">WORLD<span class="line2">CUP 2026</span></h1>
+    <p class="hero-subtitle">The biggest World Cup in history. 48 teams, 104 matches, three nations, sixteen cities. The draw is complete — every group is set. GolazoGlobal covers every moment.</p>
     <div class="hero-stats">
       <div class="hero-stat">
         <div class="hero-stat-num">48</div>
@@ -203,7 +176,6 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
   </div>
 </section>
 
-<!-- COUNTDOWN -->
 <div class="countdown">
   <div class="countdown-inner">
     <span class="countdown-label">Kicks off in</span>
@@ -231,19 +203,18 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
   </div>
 </div>
 
-<!-- HOST CITIES -->
 <section class="section cities">
   <div class="section-inner">
     <div class="section-head">
       <h2 class="section-title">Host <em>Cities</em></h2>
-      <p class="section-sub">Sixteen cities across three countries will host matches, with the final at MetLife Stadium in New Jersey on July 19.</p>
+      <p class="section-sub">Sixteen cities across three countries. The final is at MetLife Stadium in New Jersey on July 19. The opening match kicks off at Estadio Azteca in Mexico City on June 11.</p>
     </div>
     <div class="cities-grid">
       <div class="city-card">
         <div class="city-num">USA · 01</div>
         <div class="city-name">New York / New Jersey</div>
-        <div class="city-country">United States</div>
-        <div class="city-venue">MetLife Stadium — Final venue</div>
+        <div class="city-country">United States · Final Venue</div>
+        <div class="city-venue">MetLife Stadium</div>
         <div class="city-capacity">82,500 capacity</div>
       </div>
       <div class="city-card">
@@ -312,8 +283,8 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
       <div class="city-card mexico">
         <div class="city-num">MEX · 01</div>
         <div class="city-name">Mexico City</div>
-        <div class="city-country">Mexico</div>
-        <div class="city-venue">Estadio Azteca — Opening match venue</div>
+        <div class="city-country">Mexico · Opening Match</div>
+        <div class="city-venue">Estadio Azteca</div>
         <div class="city-capacity">87,523 capacity</div>
       </div>
       <div class="city-card mexico">
@@ -355,108 +326,119 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
   </div>
 </section>
 
-<!-- GROUPS -->
 <section class="section groups">
   <div class="section-inner">
     <div class="section-head" style="border-bottom-color: var(--line-light);">
-      <h2 class="section-title" style="color: var(--cream);">The <em style="color: var(--chalk);">Groups</em></h2>
-      <p class="section-sub" style="color: rgba(245,239,216,0.7);">12 groups of 4 teams. The top two from each group advance to the Round of 32 — the new knockout era of the expanded World Cup.</p>
+      <h2 class="section-title" style="color: var(--cream);">The Official <em style="color: var(--chalk);">Groups</em></h2>
+      <p class="section-sub" style="color: rgba(245,239,216,0.7);">All 12 groups confirmed from the December 5, 2025 draw at the Kennedy Center in Washington D.C. Top two from each group advance to the Round of 32.</p>
     </div>
     <div class="groups-grid">
+
       <div class="group-card">
         <div class="group-label">Group A</div>
-        <div class="group-team"><span class="group-team-flag">🇺🇸</span> United States <span class="group-team-note">Host</span></div>
-        <div class="group-team"><span class="group-team-flag">🇵🇦</span> Panama</div>
-        <div class="group-team"><span class="group-team-flag">🇧🇼</span> Botswana</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
+        <div class="group-team"><span class="group-team-flag">🇲🇽</span> Mexico <span class="group-team-note">Host</span></div>
+        <div class="group-team"><span class="group-team-flag">🇰🇷</span> South Korea</div>
+        <div class="group-team"><span class="group-team-flag">🇿🇦</span> South Africa</div>
+        <div class="group-team"><span class="group-team-flag">🇨🇿</span> Czechia</div>
       </div>
+
       <div class="group-card">
         <div class="group-label">Group B</div>
-        <div class="group-team"><span class="group-team-flag">🇦🇷</span> Argentina <span class="group-team-note">Holders</span></div>
-        <div class="group-team"><span class="group-team-flag">🇨🇱</span> Chile</div>
-        <div class="group-team"><span class="group-team-flag">🇦🇱</span> Albania</div>
-        <div class="group-team"><span class="group-team-flag">🇺🇦</span> Ukraine</div>
+        <div class="group-team"><span class="group-team-flag">🇨🇦</span> Canada <span class="group-team-note">Host</span></div>
+        <div class="group-team"><span class="group-team-flag">🇨🇭</span> Switzerland</div>
+        <div class="group-team"><span class="group-team-flag">🇶🇦</span> Qatar</div>
+        <div class="group-team"><span class="group-team-flag">🇧🇦</span> Bosnia-Herzegovina</div>
       </div>
+
       <div class="group-card">
         <div class="group-label">Group C</div>
-        <div class="group-team"><span class="group-team-flag">🇲🇽</span> Mexico <span class="group-team-note">Host</span></div>
-        <div class="group-team"><span class="group-team-flag">🇳🇬</span> Nigeria</div>
-        <div class="group-team"><span class="group-team-flag">🇨🇲</span> Cameroon</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
+        <div class="group-team"><span class="group-team-flag">🇧🇷</span> Brazil</div>
+        <div class="group-team"><span class="group-team-flag">🇲🇦</span> Morocco</div>
+        <div class="group-team"><span class="group-team-flag">🏴󠁧󠁢󠁳󠁣󠁴󠁿</span> Scotland</div>
+        <div class="group-team"><span class="group-team-flag">🇭🇹</span> Haiti</div>
       </div>
+
       <div class="group-card">
         <div class="group-label">Group D</div>
-        <div class="group-team"><span class="group-team-flag">🇨🇦</span> Canada <span class="group-team-note">Host</span></div>
-        <div class="group-team"><span class="group-team-flag">🇭🇷</span> Croatia</div>
-        <div class="group-team"><span class="group-team-flag">🇲🇦</span> Morocco</div>
-        <div class="group-team"><span class="group-team-flag">🇧🇪</span> Belgium</div>
+        <div class="group-team"><span class="group-team-flag">🇺🇸</span> United States <span class="group-team-note">Host</span></div>
+        <div class="group-team"><span class="group-team-flag">🇵🇾</span> Paraguay</div>
+        <div class="group-team"><span class="group-team-flag">🇦🇺</span> Australia</div>
+        <div class="group-team"><span class="group-team-flag">🇹🇷</span> Türkiye</div>
       </div>
+
       <div class="group-card">
         <div class="group-label">Group E</div>
-        <div class="group-team"><span class="group-team-flag">🇫🇷</span> France</div>
-        <div class="group-team"><span class="group-team-flag">🇯🇵</span> Japan</div>
-        <div class="group-team"><span class="group-team-flag">🇸🇦</span> Saudi Arabia</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
+        <div class="group-team"><span class="group-team-flag">🇩🇪</span> Germany</div>
+        <div class="group-team"><span class="group-team-flag">🇪🇨</span> Ecuador</div>
+        <div class="group-team"><span class="group-team-flag">🇨🇮</span> Ivory Coast</div>
+        <div class="group-team"><span class="group-team-flag">🇨🇼</span> Curaçao</div>
       </div>
+
       <div class="group-card">
         <div class="group-label">Group F</div>
-        <div class="group-team"><span class="group-team-flag">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span> England</div>
-        <div class="group-team"><span class="group-team-flag">🇸🇳</span> Senegal</div>
-        <div class="group-team"><span class="group-team-flag">🇷🇸</span> Serbia</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
+        <div class="group-team"><span class="group-team-flag">🇳🇱</span> Netherlands</div>
+        <div class="group-team"><span class="group-team-flag">🇯🇵</span> Japan</div>
+        <div class="group-team"><span class="group-team-flag">🇸🇪</span> Sweden</div>
+        <div class="group-team"><span class="group-team-flag">🇹🇳</span> Tunisia</div>
       </div>
+
       <div class="group-card">
         <div class="group-label">Group G</div>
-        <div class="group-team"><span class="group-team-flag">🇧🇷</span> Brazil</div>
-        <div class="group-team"><span class="group-team-flag">🇨🇴</span> Colombia</div>
-        <div class="group-team"><span class="group-team-flag">🇩🇿</span> Algeria</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
+        <div class="group-team"><span class="group-team-flag">🇧🇪</span> Belgium</div>
+        <div class="group-team"><span class="group-team-flag">🇮🇷</span> Iran</div>
+        <div class="group-team"><span class="group-team-flag">🇪🇬</span> Egypt</div>
+        <div class="group-team"><span class="group-team-flag">🇳🇿</span> New Zealand</div>
       </div>
+
       <div class="group-card">
         <div class="group-label">Group H</div>
-        <div class="group-team"><span class="group-team-flag">🇵🇹</span> Portugal</div>
+        <div class="group-team"><span class="group-team-flag">🇪🇸</span> Spain</div>
         <div class="group-team"><span class="group-team-flag">🇺🇾</span> Uruguay</div>
-        <div class="group-team"><span class="group-team-flag">🇰🇷</span> South Korea</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
+        <div class="group-team"><span class="group-team-flag">🇸🇦</span> Saudi Arabia</div>
+        <div class="group-team"><span class="group-team-flag">🇨🇻</span> Cape Verde</div>
       </div>
+
       <div class="group-card">
         <div class="group-label">Group I</div>
-        <div class="group-team"><span class="group-team-flag">🇩🇪</span> Germany</div>
-        <div class="group-team"><span class="group-team-flag">🇦🇺</span> Australia</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
+        <div class="group-team"><span class="group-team-flag">🇫🇷</span> France</div>
+        <div class="group-team"><span class="group-team-flag">🇸🇳</span> Senegal</div>
+        <div class="group-team"><span class="group-team-flag">🇳🇴</span> Norway</div>
+        <div class="group-team"><span class="group-team-flag">🇮🇶</span> Iraq</div>
       </div>
+
       <div class="group-card">
         <div class="group-label">Group J</div>
-        <div class="group-team"><span class="group-team-flag">🇪🇸</span> Spain</div>
-        <div class="group-team"><span class="group-team-flag">🇨🇷</span> Costa Rica</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
+        <div class="group-team"><span class="group-team-flag">🇦🇷</span> Argentina <span class="group-team-note">Holders</span></div>
+        <div class="group-team"><span class="group-team-flag">🇦🇹</span> Austria</div>
+        <div class="group-team"><span class="group-team-flag">🇩🇿</span> Algeria</div>
+        <div class="group-team"><span class="group-team-flag">🇯🇴</span> Jordan</div>
       </div>
+
       <div class="group-card">
         <div class="group-label">Group K</div>
-        <div class="group-team"><span class="group-team-flag">🇳🇱</span> Netherlands</div>
-        <div class="group-team"><span class="group-team-flag">🇬🇭</span> Ghana</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
+        <div class="group-team"><span class="group-team-flag">🇵🇹</span> Portugal</div>
+        <div class="group-team"><span class="group-team-flag">🇨🇴</span> Colombia</div>
+        <div class="group-team"><span class="group-team-flag">🇺🇿</span> Uzbekistan</div>
+        <div class="group-team"><span class="group-team-flag">🇨🇩</span> DR Congo</div>
       </div>
+
       <div class="group-card">
         <div class="group-label">Group L</div>
-        <div class="group-team"><span class="group-team-flag">🇮🇹</span> Italy</div>
-        <div class="group-team"><span class="group-team-flag">🇪🇨</span> Ecuador</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
-        <div class="group-team"><span class="group-team-flag">🏳️</span> TBD</div>
+        <div class="group-team"><span class="group-team-flag">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span> England</div>
+        <div class="group-team"><span class="group-team-flag">🇭🇷</span> Croatia</div>
+        <div class="group-team"><span class="group-team-flag">🇵🇦</span> Panama</div>
+        <div class="group-team"><span class="group-team-flag">🇬🇭</span> Ghana</div>
       </div>
+
     </div>
   </div>
 </section>
 
-<!-- SCHEDULE -->
 <section class="section schedule">
   <div class="section-inner">
     <div class="section-head">
       <h2 class="section-title">The <em>Schedule</em></h2>
-      <p class="section-sub">Six weeks of football from the opening whistle in Mexico City to the final at MetLife Stadium.</p>
+      <p class="section-sub">Six weeks of football from the opening whistle in Mexico City to the final at MetLife Stadium in New Jersey.</p>
     </div>
     <div class="schedule-phases">
       <div class="phase">
@@ -467,32 +449,31 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
       <div class="phase knockout">
         <div class="phase-title">Knockout Rounds</div>
         <div class="phase-dates">July 4 – July 14, 2026</div>
-        <div class="phase-detail">Round of 32 → Round of 16 → Quarter-finals → Semi-finals. The new expanded format means more upsets, more drama, and more nations than ever getting a taste of knockout football.</div>
+        <div class="phase-detail">Round of 32 → Round of 16 → Quarter-finals → Semi-finals. The new expanded format means more upsets, more drama, and more nations getting a taste of knockout football.</div>
       </div>
       <div class="phase final">
         <div class="phase-title">The Final</div>
         <div class="phase-dates">July 19, 2026</div>
-        <div class="phase-detail">MetLife Stadium, East Rutherford, New Jersey. Capacity 82,500. The biggest stage in football. Kickoff TBD — expect a Sunday afternoon slot for maximum global audience.</div>
+        <div class="phase-detail">MetLife Stadium, East Rutherford, New Jersey. Capacity 82,500. The biggest stage in football. The first World Cup final ever held in the New York metro area.</div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- WHY IT MATTERS -->
 <section class="matters">
   <div class="matters-inner">
     <div>
       <h2 class="matters-title">Why This <em>World Cup</em> Is Different</h2>
     </div>
-    <div class="matters-body">
+    <div>
       <p class="matters-p">The 2026 World Cup isn't just the biggest sporting event in history by numbers — it's the moment football plants its flag in North America for a generation.</p>
       <div class="matters-fact">
         <div class="matters-fact-num">48</div>
-        <div class="matters-fact-text">Teams compete for the first time, up from 32 in Qatar. More nations, more stories, more upsets — the expanded format guarantees history.</div>
+        <div class="matters-fact-text">Teams compete for the first time, up from 32 in Qatar. More nations, more stories, more upsets — the expanded format guarantees history every single day.</div>
       </div>
       <div class="matters-fact">
         <div class="matters-fact-num">5B+</div>
-        <div class="matters-fact-text">Estimated global viewers for the final. The 2022 final drew 1.5 billion. North American time zones make this the most accessible World Cup for US fans in history.</div>
+        <div class="matters-fact-text">Estimated global viewers for the final. North American time zones make this the most accessible World Cup for US fans ever — no 2am alarm calls required.</div>
       </div>
       <div class="matters-fact">
         <div class="matters-fact-num">104</div>
@@ -506,7 +487,6 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
   </div>
 </section>
 
-<!-- BACK -->
 <div class="back-strip">
   <div class="back-strip-inner">
     <h2 class="back-title">Follow Every Match on <em>GolazoGlobal</em></h2>
@@ -519,16 +499,15 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 </footer>
 
 <script>
-// Countdown to June 11, 2026 kick off (opening match Mexico City, ~21:00 UTC)
 const kickoff = new Date('2026-06-11T21:00:00Z');
 function updateCountdown() {
   const now = new Date();
   const diff = kickoff - now;
   if (diff <= 0) {
-    document.getElementById('cd-days').textContent = '0';
-    document.getElementById('cd-hours').textContent = '0';
-    document.getElementById('cd-mins').textContent = '0';
-    document.getElementById('cd-secs').textContent = '0';
+    document.getElementById('cd-days').textContent = '00';
+    document.getElementById('cd-hours').textContent = '00';
+    document.getElementById('cd-mins').textContent = '00';
+    document.getElementById('cd-secs').textContent = '00';
     return;
   }
   const days = Math.floor(diff / 86400000);
