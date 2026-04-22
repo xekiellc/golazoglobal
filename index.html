@@ -6,26 +6,18 @@
 <title>GolazoGlobal — Every Goal. Every League. Every Nation.</title>
 <meta name="description" content="The world's football hub. Every goal, every league, every nation. News, live scores, standings, and transfers refreshed four times a day.">
 <meta name="author" content="GolazoGlobal">
-
-<!-- Open Graph -->
 <meta property="og:title" content="GolazoGlobal — Every Goal. Every League. Every Nation.">
 <meta property="og:description" content="The world's football hub. News, live scores, standings, and transfers refreshed four times a day.">
 <meta property="og:url" content="https://golazoglobal.com">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://golazoglobal.com/og-image.png">
 <meta name="twitter:card" content="summary_large_image">
-
-<!-- PWA -->
 <link rel="manifest" href="/manifest.json">
 <meta name="theme-color" content="#0F5132">
 <link rel="icon" type="image/png" href="/favicon.png">
-
-<!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-
-<!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-L1FWHQ1YYZ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -33,7 +25,6 @@
   gtag('js', new Date());
   gtag('config', 'G-L1FWHQ1YYZ');
 </script>
-
 <style>
 :root {
   --pitch: #0F5132;
@@ -160,6 +151,29 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
 .standings-legend { margin-top: 24px; font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(245,239,216,0.5); display: flex; gap: 32px; }
 .standings-legend .key { display: flex; align-items: center; gap: 8px; }
 .standings-legend .key::before { content: ''; width: 12px; height: 12px; background: var(--chalk); }
+
+/* ====== LEADERS ====== */
+.leaders { background: var(--ink); color: var(--cream); padding: 100px 40px; }
+.leaders-inner { max-width: 1440px; margin: 0 auto; }
+.leaders-head { display: flex; justify-content: space-between; align-items: end; margin-bottom: 56px; padding-bottom: 32px; border-bottom: 1px solid var(--line-light); flex-wrap: wrap; gap: 24px; }
+.leaders-title { font-family: 'Anton', sans-serif; font-size: clamp(56px, 7vw, 120px); line-height: 0.88; letter-spacing: -0.02em; text-transform: uppercase; color: var(--cream); }
+.leaders-title em { font-family: 'Fraunces', serif; font-style: italic; font-weight: 300; text-transform: none; color: var(--chalk); }
+.leaders-tabs { display: flex; gap: 4px; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; flex-wrap: wrap; }
+.leaders-tabs button { background: transparent; color: rgba(245,239,216,0.6); border: 1px solid var(--line-light); padding: 10px 16px; cursor: pointer; font-family: inherit; font-size: inherit; letter-spacing: inherit; text-transform: inherit; transition: all 0.2s; }
+.leaders-tabs button:hover { color: var(--cream); }
+.leaders-tabs button.active { background: var(--chalk); color: var(--ink); border-color: var(--chalk); }
+.leaders-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: var(--line-light); border: 1px solid var(--line-light); }
+.leaders-col { background: var(--ink); padding: 32px; }
+.leaders-col-title { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(245,239,216,0.5); margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--line-light); }
+.leader-row { display: flex; justify-content: space-between; align-items: center; padding: 14px 0; border-bottom: 1px solid rgba(245,239,216,0.06); }
+.leader-row:last-child { border-bottom: none; }
+.leader-rank { font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: rgba(245,239,216,0.3); width: 24px; flex-shrink: 0; }
+.leader-info { flex: 1; padding: 0 16px; }
+.leader-name { font-family: 'IBM Plex Sans', sans-serif; font-size: 15px; font-weight: 600; color: var(--cream); line-height: 1.2; }
+.leader-team { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(245,239,216,0.45); margin-top: 3px; }
+.leader-stat { font-family: 'Anton', sans-serif; font-size: 28px; letter-spacing: -0.01em; color: var(--chalk); line-height: 1; }
+.leader-stat-label { font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(245,239,216,0.4); text-align: right; margin-top: 2px; }
+
 .news { background: var(--cream); padding: 100px 40px; }
 .news-inner { max-width: 1440px; margin: 0 auto; }
 .news-head { display: flex; justify-content: space-between; align-items: end; margin-bottom: 64px; padding-bottom: 32px; border-bottom: 2px solid var(--ink); flex-wrap: wrap; gap: 24px; }
@@ -231,16 +245,17 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
   .nav { padding: 16px 24px; }
   .nav-links { display: none; }
   .featured-inner, .culture-inner { grid-template-columns: 1fr; gap: 40px; }
-  .transfers-head, .scores-head, .standings-head, .news-head { grid-template-columns: 1fr; gap: 24px; }
+  .transfers-head, .scores-head, .standings-head, .news-head, .leaders-head { grid-template-columns: 1fr; gap: 24px; }
   .news-grid { grid-template-columns: repeat(6, 1fr); }
   .story, .story.lg, .story.xl, .story.sm { grid-column: span 6; }
   .scores-grid { grid-template-columns: 1fr; }
+  .leaders-grid { grid-template-columns: 1fr; }
   .transfer { grid-template-columns: 40px 1fr auto; gap: 16px; font-size: 14px; }
   .transfer-move, .transfer-fee { display: none; }
   .footer-grid { grid-template-columns: 1fr 1fr; }
   .culture-card { transform: none !important; }
   .hero { padding: 40px 24px 0; }
-  .featured, .scores, .transfers, .standings, .news, .culture { padding: 60px 24px; }
+  .featured, .scores, .transfers, .standings, .leaders, .news, .culture { padding: 60px 24px; }
   .hero-tagline { position: static; text-align: left; margin-top: 40px; max-width: 100%; }
   .hero-footer { grid-template-columns: 1fr; gap: 24px; text-align: left; }
   .hero-cta { text-align: left; }
@@ -263,6 +278,7 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
       <li><a href="#news" class="active">News</a></li>
       <li><a href="#scores">Live</a></li>
       <li><a href="#standings">Leagues</a></li>
+      <li><a href="#leaders">Leaders</a></li>
       <li><a href="#transfers">Transfers</a></li>
       <li><a href="#culture">Culture</a></li>
       <li><a href="#about">About</a></li>
@@ -335,6 +351,16 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
   </div>
 </section>
 
+<section class="leaders" id="leaders">
+  <div class="leaders-inner">
+    <div class="leaders-head">
+      <h2 class="leaders-title">The <em>Leaders</em></h2>
+      <div class="leaders-tabs" id="leaders-tabs"></div>
+    </div>
+    <div id="leaders-grid"><div class="loading">Loading leaders...</div></div>
+  </div>
+</section>
+
 <section class="news" id="news">
   <div class="news-inner">
     <div class="news-head">
@@ -372,7 +398,7 @@ body { font-family: 'IBM Plex Sans', sans-serif; background: var(--cream); color
       </div>
       <div class="footer-col">
         <h4>Read</h4>
-        <ul><li><a href="#news">News</a></li><li><a href="#scores">Live Scores</a></li><li><a href="#standings">Leagues</a></li><li><a href="#transfers">Transfers</a></li></ul>
+        <ul><li><a href="#news">News</a></li><li><a href="#scores">Live Scores</a></li><li><a href="#standings">Leagues</a></li><li><a href="#leaders">Leaders</a></li><li><a href="#transfers">Transfers</a></li></ul>
       </div>
       <div class="footer-col">
         <h4>Explore</h4>
@@ -405,7 +431,6 @@ const LEAGUE_LABELS = {
   'EC':  'Euro Championship',
   'WC':  'World Cup'
 };
-
 const LEAGUE_SHORT = {
   'PL':  'PREM',
   'PD':  'LALIGA',
@@ -568,6 +593,66 @@ async function loadStandings() {
   });
 }
 
+async function loadLeaders() {
+  const data = await loadJSON('/data/leaders.json');
+  const tabs = document.getElementById('leaders-tabs');
+  const grid = document.getElementById('leaders-grid');
+  if (!data || !data.leagues || Object.keys(data.leagues).length === 0) {
+    grid.innerHTML = '<div class="loading">Leaders will appear once the pipeline runs.</div>';
+    return;
+  }
+  const leagueKeys = Object.keys(data.leagues);
+  tabs.innerHTML = leagueKeys.map((k, i) => `<button class="${i === 0 ? 'active' : ''}" data-league="${escapeAttr(k)}">${escapeHtml(LEAGUE_LABELS[k] || k)}</button>`).join('');
+  function render(key) {
+    const league = data.leagues[key];
+    if (!league) { grid.innerHTML = '<div class="loading">No data available.</div>'; return; }
+    const scorers = league.scorers || [];
+    const assists = league.topAssists || [];
+    const scorerRows = scorers.slice(0, 8).map((p, i) => `
+      <div class="leader-row">
+        <span class="leader-rank">${i + 1}</span>
+        <div class="leader-info">
+          <div class="leader-name">${escapeHtml(p.name)}</div>
+          <div class="leader-team">${escapeHtml(p.team)}</div>
+        </div>
+        <div style="text-align:right;">
+          <div class="leader-stat">${p.goals}</div>
+          <div class="leader-stat-label">goals</div>
+        </div>
+      </div>`).join('');
+    const assistRows = assists.slice(0, 8).map((p, i) => `
+      <div class="leader-row">
+        <span class="leader-rank">${i + 1}</span>
+        <div class="leader-info">
+          <div class="leader-name">${escapeHtml(p.name)}</div>
+          <div class="leader-team">${escapeHtml(p.team)}</div>
+        </div>
+        <div style="text-align:right;">
+          <div class="leader-stat">${p.assists ?? 0}</div>
+          <div class="leader-stat-label">assists</div>
+        </div>
+      </div>`).join('');
+    grid.innerHTML = `<div class="leaders-grid">
+      <div class="leaders-col">
+        <div class="leaders-col-title">Top Scorers</div>
+        ${scorerRows || '<div class="loading">No data</div>'}
+      </div>
+      <div class="leaders-col">
+        <div class="leaders-col-title">Top Assists</div>
+        ${assistRows || '<div class="loading">No data</div>'}
+      </div>
+    </div>`;
+  }
+  render(leagueKeys[0]);
+  tabs.querySelectorAll('button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      tabs.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      render(btn.dataset.league);
+    });
+  });
+}
+
 function escapeHtml(s) { if (!s) return ''; return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])); }
 function escapeAttr(s) { return escapeHtml(s); }
 function timeAgo(iso) {
@@ -583,7 +668,7 @@ function estimateReadTime(text) {
   return Math.max(2, Math.round(words / 200)) + ' min read';
 }
 
-loadNews(); loadScores(); loadTransfers(); loadStandings();
+loadNews(); loadScores(); loadTransfers(); loadStandings(); loadLeaders();
 </script>
 
 </body>
