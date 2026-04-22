@@ -1,6 +1,6 @@
 // scripts/fetch-soccer-news.js
 // GolazoGlobal content pipeline. Runs 4× daily via GitHub Actions.
-// Writes: data/news.json, data/scores.json, data/standings.json, data/transfers.json
+// Writes: data/news.json, data/scores.json, data/standings.json, data/transfers.json, data/leaders.json
 
 const fs = require('fs');
 const path = require('path');
@@ -17,7 +17,6 @@ if (!FOOTBALL_DATA_KEY) { console.warn('WARN: FOOTBALL_DATA_KEY not set — stan
 const DATA_DIR = path.join(__dirname, '..', 'data');
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
 
-// Football-Data.org free tier — all 12 available competitions
 const LEAGUE_CODES = ['PL', 'PD', 'SA', 'BL1', 'FL1', 'CL', 'DED', 'PPL', 'ELC', 'BSA', 'EC', 'WC'];
 
 const LEAGUE_LABELS = {
@@ -35,8 +34,10 @@ const LEAGUE_LABELS = {
   'WC':  'World Cup'
 };
 
-// Leagues that have traditional standings tables (knockout comps excluded)
 const STANDINGS_CODES = ['PL', 'PD', 'SA', 'BL1', 'FL1', 'DED', 'PPL', 'ELC', 'BSA'];
+
+// Scorers available on free tier — domestic leagues only, not CL/EC/WC
+const SCORERS_CODES = ['PL', 'PD', 'SA', 'BL1', 'FL1', 'DED', 'PPL', 'ELC', 'BSA'];
 
 const LEAGUE_SHORT = {
   'PL':  'PREM',
@@ -53,7 +54,6 @@ const LEAGUE_SHORT = {
   'WC':  'WORLD CUP'
 };
 
-// NewsAPI queries — expanded to match new league coverage
 const NEWS_QUERIES = [
   { q: 'premier league', league: 'Premier League' },
   { q: 'la liga', league: 'La Liga' },
@@ -118,7 +118,7 @@ async function fetchNews() {
   const deduped = all.filter(a => seen.has(a.url) ? false : (seen.add(a.url), true));
   console.log(`Total: ${all.length} raw → ${deduped.length} deduped`);
   if (deduped.length === 0) {
-    console.error('NewsAPI returned 0 usable articles. Check API key and rate limits.');
+    console.error('NewsAPI returned 0 usable articles.');
     return { articles: [] };
   }
   const curated = await curateWithClaude(deduped);
@@ -226,6 +226,35 @@ async function fetchStandings() {
   return { leagues, generatedAt: new Date().toISOString() };
 }
 
+// ============ FOOTBALL-DATA: SCORERS / LEADERS ============
+async function fetchLeaders() {
+  if (!FOOTBALL_DATA_KEY) return { leagues: {}, generatedAt: new Date().toISOString() };
+  console.log('Fetching scorers from Football-Data.org...');
+  const leagues = {};
+  for (const code of SCORERS_CODES) {
+    try {
+      const url = `https://api.football-data.org/v4/competitions/${code}/scorers?limit=10`;
+      const res = await request(url, { headers: { 'X-Auth-Token': FOOTBALL_DATA_KEY } });
+      const scorers = (res.scorers || []).map(s => ({
+        name: s.player?.name || '—',
+        team: s.team?.shortName || s.team?.name || '—',
+        goals: s.goals ?? 0,
+        assists: s.assists ?? 0,
+        penalties: s.penalties ?? 0
+      }));
+      leagues[code] = {
+        scorers: scorers.slice(0, 10),
+        topAssists: [...scorers].sort((a, b) => (b.assists ?? 0) - (a.assists ?? 0)).slice(0, 5)
+      };
+      console.log(`  ${code}: ${scorers.length} scorers`);
+    } catch (e) {
+      console.warn(`  ${code}: ${e.message}`);
+    }
+    await new Promise(r => setTimeout(r, 6500));
+  }
+  return { leagues, generatedAt: new Date().toISOString() };
+}
+
 // ============ TRANSFERS ============
 function extractTransfers(articles) {
   const transferNews = articles.filter(a => a.league === 'Transfers').slice(0, 8);
@@ -241,7 +270,7 @@ function extractTransfers(articles) {
       publishedAt: a.publishedAt
     })),
     generatedAt: new Date().toISOString(),
-    note: 'Transfers derived from news headlines at launch. Replace with dedicated transfer API post-launch.'
+    note: 'Transfers derived from news headlines at launch.'
   };
 }
 
@@ -265,6 +294,10 @@ function extractTransfers(articles) {
   const standings = await fetchStandings();
   fs.writeFileSync(path.join(DATA_DIR, 'standings.json'), JSON.stringify(standings, null, 2));
   console.log(`✓ standings.json — ${Object.keys(standings.leagues).length} leagues`);
+
+  const leaders = await fetchLeaders();
+  fs.writeFileSync(path.join(DATA_DIR, 'leaders.json'), JSON.stringify(leaders, null, 2));
+  console.log(`✓ leaders.json — ${Object.keys(leaders.leagues).length} leagues`);
 
   console.log('=== pipeline complete ===');
 })().catch(e => {
