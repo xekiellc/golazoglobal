@@ -1,76 +1,60 @@
 {
   "articles": [
     {
-      "title": "Leicester City provisionally relegated from Championship, 10 years after Premier League title - The New York Times",
-      "description": "Leicester City provisionally relegated from Championship, 10 years after Premier League titleThe New York Times Leicester relegated to League One 10 years after Premier League titleESPN How Leicester went from champions to League One in a decadeBBC Leicester …",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181838286",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-04-21T23:32:32Z",
+      "title": "Bernardo Silva’s future plans after Manchester City departure",
+      "description": "Bernardo Silva is set to end his long association with Manchester City at the end of this season. Silva has been integral to City’s recent success under Pep Guardiola. He has scored 76 goals in 45...",
+      "url": "https://footballtoday.com/2026/04/22/bernardo-silvas-future-plans-after-manchester-city-departure/",
+      "source": "Footballtoday.com",
+      "publishedAt": "2026-04-22T07:30:00Z",
       "league": "Premier League"
     },
     {
-      "title": "Leicester City relegated to third division a decade after historic Premier League title win",
-      "description": "The English team have now officially been relegated to the third division, dropping down in back-to-back seasons",
-      "url": "https://www.cbssports.com/soccer/news/leicester-city-relegated-championship-league-one-former-premier-league-champions/",
+      "title": "Manchester City keep Kompany in frame to succeed Guardiola as Bayern insist he’s committed",
+      "description": "For some time now, reports have suggested that Manchester City are considering bringing back their former captain Vincent Kompany to succeed Pep Guardiola once the Catalan coach eventually departs the...",
+      "url": "https://bulinews.com/manchester-city-keep-kompany-frame-succeed-guardiola-bayern-insist-committed",
+      "source": "Bulinews.com",
+      "publishedAt": "2026-04-22T07:03:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "“Manchester will be in his heart” – Pep Guardiola tips Vincent Kompany for Etihad Stadium return",
+      "description": "Guardiola congratulates Vincent Kompany and Bayern Munich on winning the BundesligaCity manager insists Kompany will have Man City “in his heart” if he ever returns to EnglandCity face Burnley in ...",
+      "url": "https://cityxtra.co.uk/45081/manchester-will-be-in-his-heart-pep-guardiola-tips-vincent-kompany-for-etihad-stadium-return/",
+      "source": "Cityxtra.co.uk",
+      "publishedAt": "2026-04-22T07:00:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Ballon d'Or Power Rankings: Harry Kane leads Bayern-filled list; Lamine Yamal ahead of Kylian Mbappe",
+      "description": "Both Yamal and Mbappe fail to make the top three, while Bayern have the top two",
+      "url": "https://www.cbssports.com/soccer/news/ballon-dor-power-rankings-harry-kane-kylian-mbappe-lamine-yamal-2026/",
       "source": "CBS Sports",
-      "publishedAt": "2026-04-21T23:02:24Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Leicester City relegated to third tier just five years after FA Cup glory",
-      "description": "Ten years after a fairytale Premier League title and five years since winning the FA Cup, Leicester City is destined for the third tier of English football.",
-      "url": "https://www.abc.net.au/news/2026-04-22/former-premier-league-champions-leicester-city-relegated/106591086",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-21T22:32:48Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "'This could be catastrophic for the club' - Leicester slammed after relegation to League One",
-      "description": "Leicester have been relegated from the Sky Bet Championship after a 2-2 draw against Hull.",
-      "url": "https://www.skysports.com/football/news/11712/13534814/leicester-city-relegated-to-league-one-this-could-be-catastrophic-for-the-club",
-      "source": "Sky Sports",
-      "publishedAt": "2026-04-21T22:20:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "European round-up: Real Madrid record win over Alaves",
-      "description": "Real Madrid relieved some of the tension at the Bernabeu in a 2-1 win over relegation-threatened Alaves.",
-      "url": "https://www.rte.ie/sport/soccer/2026/0421/1569459-european-round-up-real-madrid-record-win-over-alaves/",
-      "source": "RTE",
-      "publishedAt": "2026-04-21T22:13:07Z",
+      "publishedAt": "2026-04-22T02:03:38Z",
       "league": "La Liga"
     },
     {
-      "title": "La Liga: Mbappe scores as Real Madrid sink Alaves 2-1",
-      "description": "Kylian Mbappe and Vinicius Junior score in the Real Madrid vs Alaves match, securing a 2-1 victory to keep their La Liga title hopes alive.\n\nRead More: https://punchng.com/la-liga-mbappe-scores-as-real-madrid-sink-alaves-2-1/",
-      "url": "https://punchng.com/la-liga-mbappe-scores-as-real-madrid-sink-alaves-2-1/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-21T22:07:15Z",
+      "title": "It's 50 days until the World Cup - these are the 50 new stars you HAVEN'T heard of that you need to know about before they light up this summer's tournament",
+      "description": "To give you the expert lowdown before the action even gets going, TOM COLLOMOSSE has picked out the 50 names you may not have heard of - but soon will.",
+      "url": "https://www.dailymail.com/sport/football/article-15748921/World-Cup-50-days-stars-wonderkids.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-22T01:00:49Z",
       "league": "La Liga"
     },
     {
-      "title": "Real Madrid close on Barcelona as Mbappe and Vinicius net against Alaves",
-      "description": "Real Madrid beat relegation-threatened Alaves 2-1 in La Liga to close the gap with leaders Barcelona to six points.",
-      "url": "https://www.aljazeera.com/sports/2026/4/21/real-madrid-close-on-barcelona-as-mbappe-and-vinicius-net-against-alaves",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-21T21:49:40Z",
+      "title": "Hansi Flick Gives 'Completely Honest' Update On His Future After UCL Elimination",
+      "description": "Hansi Flick has provided a candid update regarding his future at Barcelona following the club's recent exit from the Champions League.",
+      "url": "https://www.foxsports.com/stories/soccer/hansi-flick-gives-completely-honest-update-on-his-future-after-barcelonas-champions-league-exit",
+      "source": "Fox Sports",
+      "publishedAt": "2026-04-22T00:25:58Z",
       "league": "La Liga"
     },
     {
-      "title": "Militão goes off injured for Real Madrid, causing concern ",
-      "description": "Defender Éder Militão caused concern again this Tuesday (21) because of his physical condition.He was substituted near the end of the first half of Real Madrid’s La Liga match against Alavés afte...",
-      "url": "https://onefootball.com/en/news/militao-goes-off-injured-for-real-madrid-causing-concern-42747293",
-      "source": "Onefootball.com",
-      "publishedAt": "2026-04-21T21:21:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Real Madrid star suffers fresh injury blow vs Alavés",
-      "description": "Real Madrid star Éder Militão has on Tuesday been dealt a fresh setback on the injury front.This comes owing to developments in Los Blancos’ latest La Liga outing.Álvaro Arbeloa’s troops are cu...",
-      "url": "https://getfootballnewsspain.com/real-madrid-star-suffers-fresh-injury-blow-vs-alaves/",
-      "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-04-21T21:00:00Z",
-      "league": "La Liga"
+      "title": "OFFICIALLY OFFICIAL: Juventus to face Chelsea in Hong Kong as part of preseason tour",
+      "description": "A third friendly has officially been added to Juventus’ preseason schedule for the summer of 2026, taking them back to Hong Kong for the first time in a while.",
+      "url": "https://www.blackwhitereadallover.com/team-news/37904/official-juventus-to-face-chelsea-in-hong-kong-as-part-of-preseason-tour",
+      "source": "Black & White & Read All Over",
+      "publishedAt": "2026-04-21T23:23:52Z",
+      "league": "Serie A"
     },
     {
       "title": "Wild Inter celebrations from Thuram and Calhanoglu after 3-2 victory",
@@ -86,6 +70,30 @@
       "url": "https://japantoday.com/category/sports/man-city-inter-chelsea-and-juve-to-face-off-pre-season-in-hong-kong",
       "source": "Japan Today",
       "publishedAt": "2026-04-21T21:41:03Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Como: ‘Fabregas is our pillar and we’re confident he will remain’",
+      "description": "Como director Carlaberto Ludi insists Cesc Fabregas ‘is our pillar’ and they are ‘certain we’ll keep going together for a long time. We never felt afraid of losing him.’",
+      "url": "https://football-italia.net/como-fabregas-is-our-pillar-confident-remain/",
+      "source": "Football Italia",
+      "publishedAt": "2026-04-21T18:54:46Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Capello: ‘Bernardo Silva would have same Juventus impact as Pirlo’",
+      "description": "Fabio Capello advises Juventus and Milan on who to sign for the Scudetto in 2026-27. ‘Bernardo Silva from Manchester City can have the same impact as Andrea Pirlo, while Kim Min-jae would work for either.’",
+      "url": "https://football-italia.net/capello-bernardo-silva-juventus-impact-pirlo/",
+      "source": "Football Italia",
+      "publishedAt": "2026-04-21T15:59:46Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "50 Serie A footballers and F1 driver 'caught up in prostitution ring scandal' as 'investigation leads to four house arrests'",
+      "description": "An illegal events promotion company is said to have offered a 'comprehensive' service worth thousands of euros for wealthy clients.",
+      "url": "https://www.dailymail.com/sport/othersports/article-15752147/50-footballers-F1-driver-prostitution-ring-scandal.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-21T15:34:09Z",
       "league": "Serie A"
     },
     {
@@ -105,61 +113,53 @@
       "league": "Serie A"
     },
     {
-      "title": "European round-up: Inter double dream alive after Calhanoglu inspires comeback",
-      "description": "Inter Milan remain on course for a domestic double after Hakan Calhanoglu inspired the Serie A champions-elect to a 3-2 win over Como.",
-      "url": "https://www.101greatgoals.com/news/inter-double-dream-alive-coppa-comeback/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-04-21T22:43:51Z",
+      "title": "Real Madrid add surprise Bundesliga coach to manager shortlist – report",
+      "description": "According to an update shared by Christian Falk, Real Madrid have added Sebastian Hoeneß to their shortlist of potential candidates, as the club evaluates managerial options ahead of the summer.The 4...",
+      "url": "https://madriduniversal.com/real-madrid-add-surprise-bundesliga-coach-to-manager-shortlist-report/",
+      "source": "Madriduniversal.com",
+      "publishedAt": "2026-04-22T07:20:00Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Liverpool eye move for France forward despite Tottenham struggles",
+      "description": "Liverpool are interested in signing France international Randal Kolo Muani. The 27-year-old is currently on loan at Tottenham Hotspur, where he has shown flashes of quality but has largely struggled....",
+      "url": "https://footballtoday.com/2026/04/22/liverpool-eye-move-for-france-forward-despite-tottenham-struggles/",
+      "source": "Footballtoday.com",
+      "publishedAt": "2026-04-22T05:20:00Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Kolo Muani on Liverpool's radar - Wednesday's gossip",
+      "description": "Liverpool could move for Randal Kolo Muani, Kobbie Mainoo agrees to new Manchester United deal and Bernardo Silva is on Arsenal and Barcelona's radar.",
+      "url": "https://www.bbc.com/sport/football/articles/c8jkd1dw8z9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-04-21T20:02:20Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Journalist confirms it: Liverpool now in concrete talks for €100m dream signing",
+      "description": "Liverpool are reportedly in talks to complete arguably the biggest transfer this summer.Sky Germany’s Florian Plettenberg claims Liverpool have now started the process to sign Yan Diomande. The jour...",
+      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/journalist-confirms-it-liverpool-now-in-concrete-talks-for-eur100m-dream-signing/",
+      "source": "Anfieldwatch.co.uk",
+      "publishedAt": "2026-04-21T19:05:00Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Paul Pogba opens up on the toll of his bitter feud with his brother over shocking extortion plot against former Man United star - and the heartbreaking impact it had on his mother",
+      "description": "Pogba, appearing on the Rio Ferdinand Presents podcast, was asked whether the bitter family feud had been his biggest personal challenge in recent years.",
+      "url": "https://www.dailymail.com/sport/football/article-15752807/Paul-Pogba-toll-bitter-feud-brother-shocking-extortion-plot-former-Man-United-star.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-22T07:00:49Z",
       "league": "Ligue 1"
     },
     {
-      "title": "UCL: Vitinha doubtful for Bayern clash, says PSG coach Enrique",
-      "description": "PSG coach Luis Enrique says midfielder Vitinha is an injury doubt for the Champions League semi-final against Bayern Munich due to a heel inflammation.\n\nRead More: https://punchng.com/ucl-vitinha-doubtful-for-bayern-clash-says-psg-coach-enrique/",
-      "url": "https://punchng.com/ucl-vitinha-doubtful-for-bayern-clash-says-psg-coach-enrique/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-21T12:52:27Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "PSG and Luis Enrique sweat on Vitinha ahead of Champions League semis",
-      "description": "Paris Saint-Germain coach Luis Enrique said Tuesday he was unsure if midfield metronome Vitinha would be fit to play against Bayern Munich in the Champions League semi-finals.Alongside Vitinha and Joao Neves, Ruiz formed the midfield trio that anchored much o…",
-      "url": "https://sports.yahoo.com/articles/psg-luis-enrique-sweat-vitinha-123125092.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-21T12:31:25Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Bayer Leverkusen boss wants to draw from energy of fans against Bayern Munich",
-      "description": "FC Bayern will visit a determined Bayer Leverkusen side.",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-dfb-pokal/192411/bayer-leverkusen-boss-wants-to-draw-from-energy-of-fans-against-bayern-munich",
-      "source": "Bavarian Football Works",
-      "publishedAt": "2026-04-21T23:30:00Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "Sergino Dest reveals he’s “almost back” following hamstring injury",
-      "description": "Sergino Dest revealed some positive news ahead of PSV’s final slate of Eredivisie matches this spring. Dest admitted that he’s “almost back” after being sidelined since March 7 due to a hamstring injury. The U.S. men’s national team and PSV defender has been …",
-      "url": "https://sbisoccer.com/2026/04/sergino-dest-reveals-hes-almost-back-following-hamstring-injury",
-      "source": "Sbisoccer.com",
-      "publishedAt": "2026-04-21T23:22:48Z",
+      "title": "Raheem Sterling to Leave Feyenoord At Season's End; Contract Extension Ruled Out",
+      "description": "Raheem Sterling is set to leave Feyenoord at the end of the season after the Dutch giants reportedly ruled out a contract extension for the former Manchester City and Chelsea winger.",
+      "url": "https://www.foxsports.com/stories/soccer/raheem-sterling-to-leave-feyenoord-as-contract-extension-for-ex-man-city-chelsea-star-ruled-out",
+      "source": "Fox Sports",
+      "publishedAt": "2026-04-22T00:59:02Z",
       "league": "Eredivisie"
-    },
-    {
-      "title": "USMNT defender Sergino Dest offers positive injury update as World Cup nears",
-      "description": "Sergiño Dest has said he's \"almost back\" from his hamstring injury, a boost for the U.S. men's national team as the World Cup nears.",
-      "url": "https://www.usatoday.com/story/sports/soccer/usmnt/2026/04/21/sergino-dest-injury-update-usmnt-psv/89713852007/",
-      "source": "USA Today",
-      "publishedAt": "2026-04-21T14:03:32Z",
-      "league": "Eredivisie"
-    },
-    {
-      "title": "Christian Pulisic hypes USMNT ahead of 2026 World Cup: ‘People should be excited’",
-      "description": "With less than two months to go before the start of the 2026 FIFA World Cup, Christian Pulisic spoke about the current form of the USMNT. This summer, the USMNT will face what is likely the biggest challenge in its history. As the main host of the 2026 FIFA W…",
-      "url": "https://worldsoccertalk.com/news/christian-pulisic-hypes-usmnt-ahead-of-2026-world-cup-people-should-be-excited/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-04-21T18:48:15Z",
-      "league": "MLS"
     }
   ],
-  "generatedAt": "2026-04-22T23:41:44.497Z"
+  "generatedAt": "2026-04-23T07:44:08.160Z"
 }
