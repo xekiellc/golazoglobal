@@ -589,8 +589,15 @@
           "name": "Guus Til",
           "team": "PSV",
           "goals": 13,
-          "assists": 4,
+          "assists": 5,
           "penalties": 0
+        },
+        {
+          "name": "Ricardo Pepi",
+          "team": "PSV",
+          "goals": 13,
+          "assists": 0,
+          "penalties": 1
         },
         {
           "name": "Jacob Trenskow",
@@ -619,13 +626,6 @@
           "goals": 11,
           "assists": 3,
           "penalties": 3
-        },
-        {
-          "name": "Ricardo Pepi",
-          "team": "PSV",
-          "goals": 11,
-          "assists": 0,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -658,11 +658,11 @@
           "penalties": 0
         },
         {
-          "name": "Troy Parrott",
-          "team": "AZ",
-          "goals": 15,
-          "assists": 4,
-          "penalties": 2
+          "name": "Guus Til",
+          "team": "PSV",
+          "goals": 13,
+          "assists": 5,
+          "penalties": 0
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-23T19:05:40.213Z"
+  "generatedAt": "2026-04-23T23:44:35.982Z"
 }

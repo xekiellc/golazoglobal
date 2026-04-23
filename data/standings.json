@@ -292,14 +292,14 @@
       {
         "position": 3,
         "team": "Villarreal",
-        "played": 31,
+        "played": 32,
         "won": 19,
-        "drawn": 4,
+        "drawn": 5,
         "lost": 8,
-        "goalsFor": 56,
-        "goalsAgainst": 36,
+        "goalsFor": 57,
+        "goalsAgainst": 37,
         "goalDifference": 20,
-        "points": 61,
+        "points": 62,
         "form": ""
       },
       {
@@ -395,19 +395,6 @@
       },
       {
         "position": 11,
-        "team": "Espanyol",
-        "played": 32,
-        "won": 10,
-        "drawn": 9,
-        "lost": 13,
-        "goalsFor": 37,
-        "goalsAgainst": 48,
-        "goalDifference": -11,
-        "points": 39,
-        "form": ""
-      },
-      {
-        "position": 12,
         "team": "Girona",
         "played": 32,
         "won": 9,
@@ -420,7 +407,33 @@
         "form": ""
       },
       {
+        "position": 12,
+        "team": "Espanyol",
+        "played": 32,
+        "won": 10,
+        "drawn": 8,
+        "lost": 14,
+        "goalsFor": 37,
+        "goalsAgainst": 49,
+        "goalDifference": -12,
+        "points": 38,
+        "form": ""
+      },
+      {
         "position": 13,
+        "team": "Rayo Vallecano",
+        "played": 32,
+        "won": 9,
+        "drawn": 11,
+        "lost": 12,
+        "goalsFor": 30,
+        "goalsAgainst": 38,
+        "goalDifference": -8,
+        "points": 38,
+        "form": ""
+      },
+      {
+        "position": 14,
         "team": "Valencia",
         "played": 32,
         "won": 9,
@@ -429,19 +442,6 @@
         "goalsFor": 35,
         "goalsAgainst": 47,
         "goalDifference": -12,
-        "points": 36,
-        "form": ""
-      },
-      {
-        "position": 14,
-        "team": "Rayo Vallecano",
-        "played": 32,
-        "won": 8,
-        "drawn": 12,
-        "lost": 12,
-        "goalsFor": 29,
-        "goalsAgainst": 38,
-        "goalDifference": -9,
         "points": 36,
         "form": ""
       },
@@ -479,8 +479,8 @@
         "drawn": 7,
         "lost": 16,
         "goalsFor": 39,
-        "goalsAgainst": 52,
-        "goalDifference": -13,
+        "goalsAgainst": 53,
+        "goalDifference": -14,
         "points": 34,
         "form": ""
       },
@@ -504,23 +504,23 @@
         "won": 8,
         "drawn": 8,
         "lost": 16,
-        "goalsFor": 36,
+        "goalsFor": 37,
         "goalsAgainst": 50,
-        "goalDifference": -14,
+        "goalDifference": -13,
         "points": 32,
         "form": ""
       },
       {
         "position": 20,
         "team": "Real Oviedo",
-        "played": 31,
+        "played": 32,
         "won": 6,
-        "drawn": 9,
+        "drawn": 10,
         "lost": 16,
-        "goalsFor": 24,
-        "goalsAgainst": 48,
+        "goalsFor": 25,
+        "goalsAgainst": 49,
         "goalDifference": -24,
-        "points": 27,
+        "points": 28,
         "form": ""
       }
     ],
@@ -1263,13 +1263,13 @@
         "position": 1,
         "team": "PSV",
         "played": 31,
-        "won": 24,
-        "drawn": 3,
+        "won": 25,
+        "drawn": 2,
         "lost": 4,
-        "goalsFor": 84,
-        "goalsAgainst": 40,
-        "goalDifference": 44,
-        "points": 75,
+        "goalsFor": 90,
+        "goalsAgainst": 41,
+        "goalDifference": 49,
+        "points": 77,
         "form": ""
       },
       {
@@ -1420,12 +1420,12 @@
         "team": "Zwolle",
         "played": 31,
         "won": 8,
-        "drawn": 11,
-        "lost": 12,
-        "goalsFor": 40,
-        "goalsAgainst": 60,
-        "goalDifference": -20,
-        "points": 35,
+        "drawn": 10,
+        "lost": 13,
+        "goalsFor": 41,
+        "goalsAgainst": 66,
+        "goalDifference": -25,
+        "points": 34,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-04-23T19:04:18.187Z"
+  "generatedAt": "2026-04-23T23:43:01.923Z"
 }

@@ -1,33 +1,6 @@
 {
   "matches": [
     {
-      "league": "PD",
-      "homeTeam": "Levante",
-      "awayTeam": "Sevilla FC",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-04-23T17:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Rayo Vallecano",
-      "awayTeam": "Espanyol",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "PAUSED",
-      "utcDate": "2026-04-23T18:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Casa Pia",
-      "awayTeam": "Braga",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "PAUSED",
-      "utcDate": "2026-04-23T18:00:00Z"
-    },
-    {
       "league": "PL",
       "homeTeam": "Bournemouth",
       "awayTeam": "Leeds United",
@@ -73,6 +46,33 @@
       "utcDate": "2026-04-22T19:30:00Z"
     },
     {
+      "league": "PD",
+      "homeTeam": "Levante",
+      "awayTeam": "Sevilla FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-04-23T17:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Espanyol",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-04-23T18:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Real Oviedo",
+      "awayTeam": "Villarreal",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-04-23T19:30:00Z"
+    },
+    {
       "league": "FL1",
       "homeTeam": "PSG",
       "awayTeam": "Nantes",
@@ -98,6 +98,24 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-04-23T16:45:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "PSV",
+      "awayTeam": "Zwolle",
+      "homeScore": 6,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-04-23T19:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Casa Pia",
+      "awayTeam": "Braga",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-04-23T18:00:00Z"
     },
     {
       "league": "ELC",
@@ -134,25 +152,7 @@
       "awayScore": 3,
       "status": "FINISHED",
       "utcDate": "2026-04-22T18:45:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Real Oviedo",
-      "awayTeam": "Villarreal",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-23T19:30:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "PSV",
-      "awayTeam": "Zwolle",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-23T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-04-23T19:03:15.820Z"
+  "generatedAt": "2026-04-23T23:41:59.472Z"
 }
