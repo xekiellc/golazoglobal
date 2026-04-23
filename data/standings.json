@@ -395,6 +395,19 @@
       },
       {
         "position": 11,
+        "team": "Espanyol",
+        "played": 32,
+        "won": 10,
+        "drawn": 9,
+        "lost": 13,
+        "goalsFor": 37,
+        "goalsAgainst": 48,
+        "goalDifference": -11,
+        "points": 39,
+        "form": ""
+      },
+      {
+        "position": 12,
         "team": "Girona",
         "played": 32,
         "won": 9,
@@ -403,19 +416,6 @@
         "goalsFor": 35,
         "goalsAgainst": 48,
         "goalDifference": -13,
-        "points": 38,
-        "form": ""
-      },
-      {
-        "position": 12,
-        "team": "Espanyol",
-        "played": 31,
-        "won": 10,
-        "drawn": 8,
-        "lost": 13,
-        "goalsFor": 37,
-        "goalsAgainst": 48,
-        "goalDifference": -11,
         "points": 38,
         "form": ""
       },
@@ -434,6 +434,19 @@
       },
       {
         "position": 14,
+        "team": "Rayo Vallecano",
+        "played": 32,
+        "won": 8,
+        "drawn": 12,
+        "lost": 12,
+        "goalsFor": 29,
+        "goalsAgainst": 38,
+        "goalDifference": -9,
+        "points": 36,
+        "form": ""
+      },
+      {
+        "position": 15,
         "team": "Mallorca",
         "played": 32,
         "won": 9,
@@ -446,7 +459,7 @@
         "form": ""
       },
       {
-        "position": 15,
+        "position": 16,
         "team": "Elche",
         "played": 32,
         "won": 8,
@@ -459,28 +472,15 @@
         "form": ""
       },
       {
-        "position": 16,
-        "team": "Rayo Vallecano",
-        "played": 31,
-        "won": 8,
-        "drawn": 11,
-        "lost": 12,
-        "goalsFor": 29,
-        "goalsAgainst": 38,
-        "goalDifference": -9,
-        "points": 35,
-        "form": ""
-      },
-      {
         "position": 17,
         "team": "Sevilla FC",
-        "played": 31,
+        "played": 32,
         "won": 9,
         "drawn": 7,
-        "lost": 15,
+        "lost": 16,
         "goalsFor": 39,
-        "goalsAgainst": 51,
-        "goalDifference": -12,
+        "goalsAgainst": 52,
+        "goalDifference": -13,
         "points": 34,
         "form": ""
       },
@@ -500,14 +500,14 @@
       {
         "position": 19,
         "team": "Levante",
-        "played": 31,
-        "won": 7,
+        "played": 32,
+        "won": 8,
         "drawn": 8,
         "lost": 16,
-        "goalsFor": 35,
+        "goalsFor": 36,
         "goalsAgainst": 50,
-        "goalDifference": -15,
-        "points": 29,
+        "goalDifference": -14,
+        "points": 32,
         "form": ""
       },
       {
@@ -1262,14 +1262,14 @@
       {
         "position": 1,
         "team": "PSV",
-        "played": 30,
+        "played": 31,
         "won": 24,
-        "drawn": 2,
+        "drawn": 3,
         "lost": 4,
         "goalsFor": 84,
         "goalsAgainst": 40,
         "goalDifference": 44,
-        "points": 74,
+        "points": 75,
         "form": ""
       },
       {
@@ -1327,14 +1327,14 @@
       {
         "position": 6,
         "team": "AZ",
-        "played": 30,
+        "played": 31,
         "won": 14,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 10,
         "goalsFor": 52,
         "goalsAgainst": 45,
         "goalDifference": 7,
-        "points": 48,
+        "points": 49,
         "form": ""
       },
       {
@@ -1392,14 +1392,14 @@
       {
         "position": 11,
         "team": "Go Ahead",
-        "played": 30,
+        "played": 31,
         "won": 8,
-        "drawn": 12,
+        "drawn": 13,
         "lost": 10,
         "goalsFor": 50,
         "goalsAgainst": 45,
         "goalDifference": 5,
-        "points": 36,
+        "points": 37,
         "form": ""
       },
       {
@@ -1418,14 +1418,14 @@
       {
         "position": 13,
         "team": "Zwolle",
-        "played": 30,
+        "played": 31,
         "won": 8,
-        "drawn": 10,
+        "drawn": 11,
         "lost": 12,
         "goalsFor": 40,
         "goalsAgainst": 60,
         "goalDifference": -20,
-        "points": 34,
+        "points": 35,
         "form": ""
       },
       {
@@ -1537,14 +1537,14 @@
       {
         "position": 4,
         "team": "Braga",
-        "played": 29,
-        "won": 15,
+        "played": 30,
+        "won": 16,
         "drawn": 8,
         "lost": 6,
-        "goalsFor": 57,
+        "goalsFor": 58,
         "goalsAgainst": 29,
-        "goalDifference": 28,
-        "points": 53,
+        "goalDifference": 29,
+        "points": 56,
         "form": ""
       },
       {
@@ -1693,13 +1693,13 @@
       {
         "position": 16,
         "team": "Casa Pia",
-        "played": 29,
+        "played": 30,
         "won": 5,
         "drawn": 11,
-        "lost": 13,
+        "lost": 14,
         "goalsFor": 28,
-        "goalsAgainst": 52,
-        "goalDifference": -24,
+        "goalsAgainst": 53,
+        "goalDifference": -25,
         "points": 26,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-04-23T13:19:16.618Z"
+  "generatedAt": "2026-04-23T19:04:18.187Z"
 }
