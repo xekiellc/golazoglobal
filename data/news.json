@@ -1,67 +1,107 @@
 {
   "articles": [
     {
-      "title": "How bad is Lamine Yamal’s injury? Will he make Spain’s World Cup opener?",
-      "description": "Lamine Yamal's season is over for Barcelona, but Spain fans await injury update on when star will play 2026 World Cup.",
-      "url": "https://www.aljazeera.com/sports/2026/4/23/how-bad-is-lamine-yamals-injury-will-make-spains-world-cup-2026-opener",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-23T16:36:45Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Lamine Yamal injured, but expected to be fit for World Cup",
-      "description": "Barcelona’s Lamine Yamal suffers a hamstring injury but is expected to recover in time for the World Cup. Read the latest on his recovery and status.\n\nRead More: https://punchng.com/lamine-yamal-injured-but-expected-to-be-fit-for-world-cup/",
-      "url": "https://punchng.com/lamine-yamal-injured-but-expected-to-be-fit-for-world-cup/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-23T15:23:39Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Spain's Lamine Yamal to Miss Rest of Barcelona Season But Be Ready for World Cup",
-      "description": "Barcelona says Lamine Yamal will miss the rest of the club season with a leg injury but should be ready for Spain at the World Cup.",
-      "url": "https://www.foxsports.com/stories/soccer/spains-lamine-yamal-miss-rest-barcelona-season-ready-world-cup",
-      "source": "Fox Sports",
-      "publishedAt": "2026-04-23T15:07:17Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "‘It hurts more than I can explain’: Lamine Yamal’s heartfelt message after season-ending injury",
-      "description": "Lamine Yamal broke his silence after it was confirmed that the injury will sideline him for the remainder of the season with Barcelona. This Thursday, Barcelona confirmed that the season is over for Lamine Yamal due to a left hamstring injury suffered after s…",
-      "url": "https://worldsoccertalk.com/news/it-hurts-more-than-i-can-explain-lamine-yamals-heartfelt-message-after-season-ending-injury/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-04-23T14:48:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "World Cup 2026 injury watch: Key names racing to be ready",
-      "description": "After Spain's Lamine Yamal was ruled out of the rest of his club season, BBC Sport looks at other key names racing to be fit for the World Cup - and those who are set to miss out through injury.",
-      "url": "https://www.bbc.com/sport/football/articles/c87wzlpd5l7o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-04-23T17:50:35Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "USA Manager Mauricio Pochettino Admits Tottenham 'Feels Like Home'",
-      "description": "Mauricio Pochettino has admitted that he would like to return to Tottenham in the future.",
-      "url": "https://www.foxsports.com/stories/soccer/mauricio-pochettino-confirms-desire-to-return-to-tottenham-as-usmnt-boss-makes-feels-like-home-admission",
-      "source": "Fox Sports",
-      "publishedAt": "2026-04-23T18:39:57Z",
+      "title": "Manchester City weren’t at their best against Burnley but they did what they had to do at Turf Moor",
+      "description": "Manchester City moved to the top of the Premier League table with their 1-0 win over Burnley on Wednesday night. Erling Haaland’s fifth minute goal was enough for City to claim all three points and ...",
+      "url": "https://esteemedkompany.com/2026/04/23/manchester-city-werent-at-their-best-against-burnley-but-they-did-what-they-had-to-do-at-turf-moor/",
+      "source": "Esteemedkompany.com",
+      "publishedAt": "2026-04-23T22:50:00Z",
       "league": "Premier League"
     },
     {
-      "title": "Real Madrid boss defends picking Alexander-Arnold and reacts to Mbappe on Instagram: ‘I don’t care whether he likes Mourinho, Julia Roberts or whoever’",
-      "description": "Alvaro Arbeloa has called Trent Alexander-Arnold's performances 'beyond question' and reacted pithily to Kylian Mbappe's Instagram activity.",
-      "url": "https://www.101greatgoals.com/football/la-liga/real-madrid-alexander-arnold-mbappe-instagram-mourinho-julia-roberts/",
+      "title": "What’s Barcelona’s record without Lamine Yamal in the 2025-26 season?",
+      "description": "The team have coped well without the teenager this season.",
+      "url": "https://www.barcablaugranes.com/barcelona-la-liga/118406/whats-barcelonas-record-without-lamine-yamal-in-the-2025-26-season",
+      "source": "Barca Blaugranes",
+      "publishedAt": "2026-04-23T23:00:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "La Liga round-up: Big results in race to battle for survival as Sevilla woes continue",
+      "description": "A round-up of all the games on Thursday night in La Liga, as the stakes grow ever higher in the final stages of the season. The headline fixture was a crucial clash in the relegation dogfight as Levan...",
+      "url": "https://www.football-espana.net/2026/04/23/la-liga-md32-round-up-2",
+      "source": "Football Espana",
+      "publishedAt": "2026-04-23T22:25:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Real Madrid star wanted at Ajax this summer",
+      "description": "A member of the midfield ranks at La Liga giants Real Madrid has emerged as a summer transfer target for Dutch heavyweights Ajax.The player in question? Dani Ceballos.Former Arsenal man Ceballos is of...",
+      "url": "https://getfootballnewsspain.com/real-madrid-star-wanted-at-ajax-this-summer/",
+      "source": "Getfootballnewsspain.com",
+      "publishedAt": "2026-04-23T21:35:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Barcelona hold talks with agent of €50m Alessandro Bastoni alternative",
+      "description": "Barcelona are clear that a new centre-back must be signed this summer, as they seek to resolve their well-documented defensive woes. A profile similar to that of Inigo Martinez, whose left in 2025 pla...",
+      "url": "https://www.football-espana.net/2026/04/23/barcelona-talks-alessandro-bastoni-alternative",
+      "source": "Football Espana",
+      "publishedAt": "2026-04-23T21:30:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "How many goals & assists has Barcelona’s Lamine Yamal finished the season with?",
+      "description": "Barcelona star Lamine Yamal has closed out the 2025/26 campaign with an impressive tally of goal contributions to his name.This of course comes with the 18-year-old primed to sit out the remainder of ...",
+      "url": "https://getfootballnewsspain.com/how-many-goals-assists-has-barcelonas-lamine-yamal-finished-the-season-with/",
+      "source": "Getfootballnewsspain.com",
+      "publishedAt": "2026-04-23T21:15:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Barcelona issues Lamine Yamal injury update as Spain star's World Cup status clarified",
+      "description": "Barcelona has revealed the extent of Lamine Yamal's hamstring injury after he was forced off immediately after scoring a penalty at Camp Nou in a 2-0 win against Celta Vigo on Wednesday",
+      "url": "https://www.alloutsoccer.com/news/barcelona-yamal-injury-world-cup-1805045",
+      "source": "Alloutsoccer.com",
+      "publishedAt": "2026-04-23T21:11:04Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Another Barcelona youngster suffers ACL injury",
+      "description": "La Liga giants Barcelona have on Thursday been dealt another setback on the personnel front, at youth level.This comes amid confirmation of Juan Hernández being set for a long-term spell on the sidel...",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3759059c-d371-4207-bf39-8bb82f6275a3",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-23T20:55:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Lamine Yamal breaks silence following confirmation of season-ending injury – “Hurts more than I can explain”",
+      "description": "On Thursday, it was confirmed that Barcelona will be without the services of Lamine Yamal for the remainder of the season. The 18-year-old suffered a torn hamstring in the process of scoring the only ...",
+      "url": "https://www.football-espana.net/2026/04/23/lamine-yamal-breaks-silence",
+      "source": "Football Espana",
+      "publishedAt": "2026-04-23T20:25:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Real Madrid pair to miss the rest of the season through injury",
+      "description": "La Liga giants Real Madrid will be forced to make do without the contributions of two important players for the remainder of the campaign.The pair in question? Arda Güler, and Éder Militão.Both mid...",
+      "url": "https://getfootballnewsspain.com/real-madrid-pair-to-miss-the-rest-of-the-season-through-injury/",
+      "source": "Getfootballnewsspain.com",
+      "publishedAt": "2026-04-23T20:15:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Real Madrid among two Spanish clubs keen on Serie A superstar",
+      "description": "Real Madrid have plans to make a number of signings this summer, as they seek to improve their squad following a disappointing season. A new central defender and midfielder are wanted, while they have...",
+      "url": "https://www.football-espana.net/2026/04/23/real-madrid-serie-a-superstar",
+      "source": "Football Espana",
+      "publishedAt": "2026-04-23T20:10:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Real Betis v Real Madrid: Line-ups, stats and preview, La Liga TV channel, live online stream and prediction",
+      "description": "Full preview as Madrid target consecutive wins and start a run of three successive away matches by visiting fifth-placed Betis.",
+      "url": "https://www.101greatgoals.com/match-previews/la-liga-matches/real-betis-v-madrid-line-ups-stats-preview/",
       "source": "101 Great Goals",
-      "publishedAt": "2026-04-23T18:10:16Z",
-      "league": "Premier League"
+      "publishedAt": "2026-04-23T19:36:04Z",
+      "league": "La Liga"
     },
     {
-      "title": "Turkey’s World Cup plans in jeopardy as Real Madrid star suffers significant tear",
-      "description": "Real Madrid are concerned that Arda Guler could miss the remainder of the season after suffering a hamstring injury, although there is optimism he could still feature at the World Cup.The 21-year-old ...",
-      "url": "https://footballtoday.com/2026/04/23/turkeys-world-cup-plans-in-jeopardy-as-real-madrid-star-suffers-significant-tear/",
-      "source": "Footballtoday.com",
-      "publishedAt": "2026-04-23T17:30:00Z",
+      "title": "Real Betis vs Real Madrid: La Liga – teams, start time, lineup",
+      "description": "Real Madrid could close gap on La Liga leaders Barcelona to six points on Friday, three weeks shy of a Clasico meeting.",
+      "url": "https://www.aljazeera.com/sports/2026/4/23/real-betis-vs-real-madrid-la-liga-teams-start-lineup",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-23T19:20:30Z",
       "league": "La Liga"
     },
     {
@@ -73,93 +113,53 @@
       "league": "Serie A"
     },
     {
-      "title": "Rumour Mongering: Alisson Reportedly Agrees Personal Terms with Juventus",
-      "description": "Rumours between Juventus and Alisson have been intensifying in recent weeks, and now there’s a concrete report.",
-      "url": "https://liverpooloffside.sbnation.com/liverpool-fc-transfer-news/80018/liverpool-fc-transfer-rumour-mongering-alisson-reportedly-agrees-personal-terms-with-juventus",
-      "source": "SB Nation",
-      "publishedAt": "2026-04-23T08:00:00Z",
+      "title": "Report – Inter Milan Strike Verbal Agremeent With In-Demand Sassuolo Center-Back",
+      "description": "Serie A giants Inter Milan have reportedly agreed personal terms with sought-after Sassuolo center-back Tarik Muharemovic.According to Gazzetta dello Sport via FCInter1908, the Nerazzurri are now in p...",
+      "url": "https://sempreinter.com/2026/04/23/inter-milan-strike-verbal-agreement-tarik-muharemovic/",
+      "source": "SempreInter",
+      "publishedAt": "2026-04-23T14:15:00Z",
       "league": "Serie A"
     },
     {
-      "title": "Liverpool’s Hugo Ekitike undergone surgery on ruptured right Achilles",
-      "description": "Liverpool striker Hugo Ekitike (23) has undergone surgery after rupturing his right Achilles tendon during the Reds’ Champions League exit at the hands on PSG on Tuesday, April 14. L’Equipe repo...",
-      "url": "https://www.getfootballnewsfrance.com/2026/liverpools-hugo-ekitike-undergone-surgery-on-ruptured-right-achilles/",
-      "source": "Get French Football News",
-      "publishedAt": "2026-04-23T18:20:00Z",
-      "league": "Champions League"
+      "title": "Inter's inevitable title could be clinched this weekend",
+      "description": "April 23 : Inter Milan's Serie A title march has gathered pace in recent weeks and, with a 12-point cushion and five matchdays remaining, the Scudetto could be sealed as early as this weekend should their rivals continue to drop points.Inter are away to Torin…",
+      "url": "https://www.channelnewsasia.com/sport/inters-inevitable-title-could-be-clinched-weekend-6076561",
+      "source": "CNA",
+      "publishedAt": "2026-04-23T13:10:38Z",
+      "league": "Serie A"
     },
     {
-      "title": "Bayern fined by UEFA over fan invasion, injured photographers",
-      "description": "Bayern Munich has been fined €89,625 by UEFA after fans invaded the pitch and injured photographers during their Champions League match.\n\nRead More: https://punchng.com/bayern-fined-by-uefa-over-fan-invasion-injured-photographers/",
-      "url": "https://punchng.com/?p=2124594",
-      "source": "The Punch",
-      "publishedAt": "2026-04-23T17:52:16Z",
-      "league": "Champions League"
+      "title": "Inter team news: Lautaro to miss Torino clash, back for Parma match",
+      "description": "Lautaro Martinez will not be available for Inter's trip to Torino, with the club taking a measured approach to his recovery and targeting the home match",
+      "url": "https://football-italia.net/inter-team-news-lautaro-to-miss-torino-clash/",
+      "source": "Football Italia",
+      "publishedAt": "2026-04-23T11:55:31Z",
+      "league": "Serie A"
     },
     {
-      "title": "Cyle Larin's recent goal surge an encouraging sign for Canada's World Cup team",
-      "description": "If there’s an encouraging sign for Canada’s men’s soccer team, now only seven anxious weeks from a home World Cup, it’s veteran forward Cyle Larin’s remarkable return to form.",
-      "url": "https://www.cbc.ca/sports/soccer/canada-soccer-notebook-cyle-larin-chris-jones-april23-9.7174375",
-      "source": "CBC News",
-      "publishedAt": "2026-04-23T13:16:55Z",
-      "league": "Eredivisie"
+      "title": "Official: Bayern Munich will face VfB Stuttgart for 4th time this season in DFB-Pokal final",
+      "description": "FC Bayern will square off with VfB Stuttgart again.",
+      "url": "https://www.bavarianfootballworks.com/bayern-munich-dfb-pokal/193419/official-bayern-munich-will-face-vfb-stuttgart-for-4th-time-this-season-in-dfb-pokal-final",
+      "source": "Bavarian Football Works",
+      "publishedAt": "2026-04-23T22:27:03Z",
+      "league": "Bundesliga"
     },
     {
-      "title": "Is Matt Crocker’s Shock Exit an Opportunity for a US Soccer Reset?",
-      "description": "The departure of Matt Crocker on the doorstep of the 2026 FIFA World Cup leaves a sour taste for U.S. Soccer, which must now begin planning for life beyond 2026.In a sudden move, Matt Crocker is out a...",
-      "url": "https://urbanpitch.com/is-matt-crockers-shock-exit-an-opportunity-for-a-us-soccer-reset/",
-      "source": "Urbanpitch.com",
-      "publishedAt": "2026-04-23T16:30:00Z",
-      "league": "MLS"
-    },
-    {
-      "title": "FIFA responds to top Trump envoy's demands for Iran to be kicked out of World Cup and replaced with Italy",
-      "description": "America and Israel's joint attack on Iran in February and the subsequent war that has broken out has plunged the Middle Eastern country's place at this summer's World Cup into doubt.",
-      "url": "https://www.dailymail.com/sport/football/article-15758781/fifa-trump-iran-italy-world-cup.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-04-23T13:38:07Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Could Italy Replace Iran in the World Cup?",
-      "description": "A U.S. envoy has reportedly suggested the swap.",
-      "url": "https://time.com/article/2026/04/23/iran-italy-world-cup-us-war-soccer-diplomacy/",
-      "source": "Time",
-      "publishedAt": "2026-04-23T09:30:09Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Suarez off mark but Messi fires blanks as Miami beat Salt Lake",
-      "description": "Luis Suarez scored his first goal of the Major League Soccer  season but Lionel Messi failed to get on the scoresheet as champions Inter Miami struck late to beat Real Salt Lake 2-0 on Wednesday.Uruguayan Suarez, the 39-year-old former Liverpool and Barcelona…",
-      "url": "https://sports.yahoo.com/articles/suarez-off-mark-messi-fires-045936805.html",
+      "title": "Last-gasp backheel goal sends Stuttgart past Freiburg to German Cup final against Bayern",
+      "description": "Tiago Tomás' spectacular 119th-minute backheel goal sent Stuttgart back to the German Cup final with an extra-time 2-1 win over Freiburg to keep its title defense rolling Thursday. In the final in Berlin on May 23, Stuttgart will now aim to foil a Bayern Muni…",
+      "url": "https://sports.yahoo.com/articles/last-gasp-backheel-goal-sends-215550186.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-23T04:59:36Z",
-      "league": "MLS"
+      "publishedAt": "2026-04-23T21:55:50Z",
+      "league": "Bundesliga"
     },
     {
-      "title": "Goalkeeper Luke Gavran scores in stoppage time to give Toronto a 3-3 draw against the Union",
-      "description": "Goalkeeper Luke Gavran scored on a header late in stoppage time to give Toronto a 3-3 draw against the Philadelphia Union on Wednesday night. Gavran ran up the field in the closing seconds and headed in a pass from Alonso Coello to become the third goalkeeper…",
-      "url": "https://sports.yahoo.com/articles/goalkeeper-luke-gavran-scores-stoppage-022144781.html",
+      "title": "Last-gasp Tomas stunner sends Stuttgart into German Cup final",
+      "description": "Tiago Tomas' stunning 119th-minute back-heel sent Stuttgart to a German Cup final meeting with Bayern Munich after a 2-1 extra-time home win over Freiburg on Thursday.Moments away from a penalty shootout, Tomas lept high and glanced a clever back-heel into th…",
+      "url": "https://sports.yahoo.com/articles/last-gasp-tomas-stunner-sends-215118857.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-23T02:21:44Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Tai Baribo records a hat trick and D.C. United plays the Red Bulls to a 4-4 tie",
-      "description": "Tai Baribo scored in the 80th minute to complete a hat trick, João Peglow had two assists, and D.C. United played the New York Red Bulls to a 4-4 tie on Wednesday night. Baribo became the third MLS player with at least three regular-season hat tricks since th…",
-      "url": "https://sports.yahoo.com/articles/tai-baribo-records-hat-trick-020339776.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-23T02:03:39Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Ojeda scores 2 goals, Otávio and Gómez each add their 1st goal in MLS; Orlando beats Charlotte",
-      "description": "Martín Ojeda had two goals, Luis Otávio and Ignacio Gómez each scored his first goal in MLS, and Orlando City beat Charlotte FC 4-1 on Wednesday night to snap a four-game winless streak. Orlando (2-6-1) had three losses and a minus-12 goal differential (13-1)…",
-      "url": "https://sports.yahoo.com/articles/ojeda-scores-2-goals-ot-014647589.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-23T01:46:47Z",
-      "league": "MLS"
+      "publishedAt": "2026-04-23T21:51:18Z",
+      "league": "Bundesliga"
     }
   ],
-  "generatedAt": "2026-04-24T18:42:01.607Z"
+  "generatedAt": "2026-04-24T23:35:28.787Z"
 }

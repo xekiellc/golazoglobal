@@ -1,13 +1,13 @@
 {
   "matches": [
     {
-      "league": "BL1",
-      "homeTeam": "RB Leipzig",
-      "awayTeam": "Union Berlin",
+      "league": "PL",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Nottingham",
       "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-04-24T18:30:00Z"
+      "awayScore": 5,
+      "status": "FINISHED",
+      "utcDate": "2026-04-24T19:00:00Z"
     },
     {
       "league": "PD",
@@ -37,6 +37,42 @@
       "utcDate": "2026-04-23T19:30:00Z"
     },
     {
+      "league": "PD",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Real Madrid",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-04-24T19:00:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Napoli",
+      "awayTeam": "Cremonese",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-04-24T18:45:00Z"
+    },
+    {
+      "league": "BL1",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Union Berlin",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-04-24T18:30:00Z"
+    },
+    {
+      "league": "FL1",
+      "homeTeam": "Brest",
+      "awayTeam": "RC Lens",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-04-24T18:45:00Z"
+    },
+    {
       "league": "DED",
       "homeTeam": "Go Ahead",
       "awayTeam": "AZ",
@@ -64,59 +100,23 @@
       "utcDate": "2026-04-23T18:00:00Z"
     },
     {
-      "league": "PL",
-      "homeTeam": "Sunderland",
-      "awayTeam": "Nottingham",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-24T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Real Betis",
-      "awayTeam": "Real Madrid",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-24T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Napoli",
-      "awayTeam": "Cremonese",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-24T18:45:00Z"
-    },
-    {
-      "league": "FL1",
-      "homeTeam": "Brest",
-      "awayTeam": "RC Lens",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-24T18:45:00Z"
-    },
-    {
       "league": "PPL",
       "homeTeam": "Alverca",
       "awayTeam": "Arouca",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-04-24T19:15:00Z"
     },
     {
       "league": "ELC",
       "homeTeam": "Leicester City",
       "awayTeam": "Millwall",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-04-24T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-04-24T18:43:26.145Z"
+  "generatedAt": "2026-04-24T23:36:51.917Z"
 }

@@ -38,18 +38,18 @@
           "penalties": 1
         },
         {
+          "name": "Morgan Gibbs-White",
+          "team": "Nottingham",
+          "goals": 13,
+          "assists": 4,
+          "penalties": 1
+        },
+        {
           "name": "Viktor Gyökeres",
           "team": "Arsenal",
           "goals": 12,
           "assists": 0,
           "penalties": 3
-        },
-        {
-          "name": "Morgan Gibbs-White",
-          "team": "Nottingham",
-          "goals": 12,
-          "assists": 3,
-          "penalties": 1
         },
         {
           "name": "Hugo Ekitike",
@@ -96,18 +96,18 @@
           "penalties": 1
         },
         {
+          "name": "Morgan Gibbs-White",
+          "team": "Nottingham",
+          "goals": 13,
+          "assists": 4,
+          "penalties": 1
+        },
+        {
           "name": "Hugo Ekitike",
           "team": "Liverpool",
           "goals": 11,
           "assists": 4,
           "penalties": 0
-        },
-        {
-          "name": "Morgan Gibbs-White",
-          "team": "Nottingham",
-          "goals": 12,
-          "assists": 3,
-          "penalties": 1
         }
       ]
     },
@@ -151,7 +151,7 @@
         {
           "name": "Vinicius Junior",
           "team": "Real Madrid",
-          "goals": 12,
+          "goals": 13,
           "assists": 5,
           "penalties": 4
         },
@@ -195,7 +195,7 @@
         {
           "name": "Vinicius Junior",
           "team": "Real Madrid",
-          "goals": 12,
+          "goals": 13,
           "assists": 5,
           "penalties": 4
         },
@@ -253,6 +253,13 @@
           "penalties": 0
         },
         {
+          "name": "Rasmus Højlund",
+          "team": "Napoli",
+          "goals": 11,
+          "assists": 3,
+          "penalties": 1
+        },
+        {
           "name": "Keinan Davis",
           "team": "Udinese",
           "goals": 10,
@@ -264,13 +271,6 @@
           "team": "Juventus",
           "goals": 10,
           "assists": 6,
-          "penalties": 1
-        },
-        {
-          "name": "Rasmus Højlund",
-          "team": "Napoli",
-          "goals": 10,
-          "assists": 3,
           "penalties": 1
         },
         {
@@ -288,11 +288,11 @@
           "penalties": 2
         },
         {
-          "name": "Hakan Çalhanoğlu",
-          "team": "Inter",
+          "name": "Scott McTominay",
+          "team": "Napoli",
           "goals": 9,
-          "assists": 4,
-          "penalties": 4
+          "assists": 3,
+          "penalties": 0
         }
       ],
       "topAssists": [
@@ -388,7 +388,7 @@
           "name": "Yan Diomandé",
           "team": "RB Leipzig",
           "goals": 12,
-          "assists": 6,
+          "assists": 7,
           "penalties": 0
         },
         {
@@ -432,7 +432,7 @@
           "name": "Yan Diomandé",
           "team": "RB Leipzig",
           "goals": 12,
-          "assists": 6,
+          "assists": 7,
           "penalties": 0
         },
         {
@@ -489,6 +489,13 @@
           "penalties": 1
         },
         {
+          "name": "Florian Thauvin",
+          "team": "RC Lens",
+          "goals": 10,
+          "assists": 5,
+          "penalties": 2
+        },
+        {
           "name": "Bradley Barcola",
           "team": "PSG",
           "goals": 10,
@@ -508,13 +515,6 @@
           "goals": 10,
           "assists": 3,
           "penalties": 0
-        },
-        {
-          "name": "Lassine Sinayoko",
-          "team": "Auxerre",
-          "goals": 9,
-          "assists": 3,
-          "penalties": 3
         }
       ],
       "topAssists": [
@@ -533,6 +533,13 @@
           "penalties": 2
         },
         {
+          "name": "Florian Thauvin",
+          "team": "RC Lens",
+          "goals": 10,
+          "assists": 5,
+          "penalties": 2
+        },
+        {
           "name": "Esteban Lepaul",
           "team": "Stade Rennais",
           "goals": 17,
@@ -545,13 +552,6 @@
           "goals": 12,
           "assists": 3,
           "penalties": 3
-        },
-        {
-          "name": "Odsonne Edouard",
-          "team": "RC Lens",
-          "goals": 12,
-          "assists": 3,
-          "penalties": 1
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-24T18:45:47.206Z"
+  "generatedAt": "2026-04-24T23:39:17.225Z"
 }
