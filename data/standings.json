@@ -816,14 +816,14 @@
       {
         "position": 3,
         "team": "RB Leipzig",
-        "played": 30,
+        "played": 31,
         "won": 18,
-        "drawn": 5,
+        "drawn": 6,
         "lost": 7,
         "goalsFor": 59,
         "goalsAgainst": 37,
         "goalDifference": 22,
-        "points": 59,
+        "points": 60,
         "form": ""
       },
       {
@@ -920,14 +920,14 @@
       {
         "position": 11,
         "team": "Union Berlin",
-        "played": 30,
+        "played": 31,
         "won": 8,
-        "drawn": 8,
+        "drawn": 9,
         "lost": 14,
         "goalsFor": 34,
         "goalsAgainst": 52,
         "goalDifference": -18,
-        "points": 32,
+        "points": 33,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-04-24T13:15:51.853Z"
+  "generatedAt": "2026-04-24T18:44:28.034Z"
 }
