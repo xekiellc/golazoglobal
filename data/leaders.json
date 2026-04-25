@@ -822,6 +822,13 @@
           "penalties": 1
         },
         {
+          "name": "Morgan Whittaker",
+          "team": "Middlesbrough",
+          "goals": 14,
+          "assists": 7,
+          "penalties": 0
+        },
+        {
           "name": "Carlton Morris",
           "team": "Derby County",
           "goals": 12,
@@ -834,13 +841,6 @@
           "goals": 12,
           "assists": 4,
           "penalties": 1
-        },
-        {
-          "name": "Morgan Whittaker",
-          "team": "Middlesbrough",
-          "goals": 12,
-          "assists": 6,
-          "penalties": 0
         },
         {
           "name": "Scott Twine",
@@ -861,8 +861,8 @@
         {
           "name": "Morgan Whittaker",
           "team": "Middlesbrough",
-          "goals": 12,
-          "assists": 6,
+          "goals": 14,
+          "assists": 7,
           "penalties": 0
         },
         {
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-25T07:11:41.608Z"
+  "generatedAt": "2026-04-25T12:58:25.421Z"
 }

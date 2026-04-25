@@ -2,6 +2,51 @@
   "matches": [
     {
       "league": "PL",
+      "homeTeam": "Fulham",
+      "awayTeam": "Aston Villa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-25T11:30:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Alavés",
+      "awayTeam": "Mallorca",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-25T12:00:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Charlton",
+      "awayTeam": "Hull City",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-25T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Middlesbrough",
+      "awayTeam": "Watford",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-25T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "West Brom",
+      "awayTeam": "Ipswich Town",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-25T11:30:00Z"
+    },
+    {
+      "league": "PL",
       "homeTeam": "Sunderland",
       "awayTeam": "Nottingham",
       "homeScore": 0,
@@ -65,15 +110,6 @@
     },
     {
       "league": "PL",
-      "homeTeam": "Fulham",
-      "awayTeam": "Aston Villa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-25T11:30:00Z"
-    },
-    {
-      "league": "PL",
       "homeTeam": "Liverpool",
       "awayTeam": "Crystal Palace",
       "homeScore": null,
@@ -107,15 +143,6 @@
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-04-25T16:30:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Alavés",
-      "awayTeam": "Mallorca",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-25T12:00:00Z"
     },
     {
       "league": "PD",
@@ -317,33 +344,6 @@
     },
     {
       "league": "ELC",
-      "homeTeam": "Charlton",
-      "awayTeam": "Hull City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-25T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Middlesbrough",
-      "awayTeam": "Watford",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-25T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "West Brom",
-      "awayTeam": "Ipswich Town",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-25T11:30:00Z"
-    },
-    {
-      "league": "ELC",
       "homeTeam": "Birmingham",
       "awayTeam": "Bristol City",
       "homeScore": null,
@@ -433,5 +433,5 @@
       "utcDate": "2026-04-26T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-04-25T07:09:17.159Z"
+  "generatedAt": "2026-04-25T12:56:00.478Z"
 }
