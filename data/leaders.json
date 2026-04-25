@@ -156,6 +156,13 @@
           "penalties": 4
         },
         {
+          "name": "Alexander Sørloth",
+          "team": "Atleti",
+          "goals": 12,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Borja Iglesias",
           "team": "Celta",
           "goals": 12,
@@ -175,13 +182,6 @@
           "goals": 12,
           "assists": 2,
           "penalties": 1
-        },
-        {
-          "name": "Raphinha",
-          "team": "Barça",
-          "goals": 11,
-          "assists": 3,
-          "penalties": 3
         }
       ],
       "topAssists": [
@@ -214,11 +214,11 @@
           "penalties": 5
         },
         {
-          "name": "Raphinha",
+          "name": "Ferrán Torres",
           "team": "Barça",
-          "goals": 11,
-          "assists": 3,
-          "penalties": 3
+          "goals": 14,
+          "assists": 2,
+          "penalties": 0
         }
       ]
     },
@@ -600,17 +600,17 @@
           "penalties": 1
         },
         {
+          "name": "Bryan Linssen",
+          "team": "NEC",
+          "goals": 12,
+          "assists": 7,
+          "penalties": 0
+        },
+        {
           "name": "Jacob Trenskow",
           "team": "Heerenveen",
           "goals": 12,
           "assists": 4,
-          "penalties": 0
-        },
-        {
-          "name": "Bryan Linssen",
-          "team": "NEC",
-          "goals": 11,
-          "assists": 7,
           "penalties": 0
         },
         {
@@ -639,7 +639,7 @@
         {
           "name": "Bryan Linssen",
           "team": "NEC",
-          "goals": 11,
+          "goals": 12,
           "assists": 7,
           "penalties": 0
         },
@@ -900,7 +900,7 @@
         {
           "name": "Danilo dos Santos de Oliveira",
           "team": "Botafogo",
-          "goals": 6,
+          "goals": 7,
           "assists": 2,
           "penalties": 0
         },
@@ -933,6 +933,13 @@
           "penalties": 0
         },
         {
+          "name": "Luciano Juba",
+          "team": "Bahia",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Pedro",
           "team": "Flamengo",
           "goals": 5,
@@ -952,13 +959,6 @@
           "goals": 5,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Stiven Mendoza",
-          "team": "Paranaense",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -972,7 +972,7 @@
         {
           "name": "Danilo dos Santos de Oliveira",
           "team": "Botafogo",
-          "goals": 6,
+          "goals": 7,
           "assists": 2,
           "penalties": 0
         },
@@ -991,14 +991,14 @@
           "penalties": 0
         },
         {
-          "name": "Christian",
-          "team": "Cruzeiro",
+          "name": "Luciano Juba",
+          "team": "Bahia",
           "goals": 5,
           "assists": 1,
-          "penalties": 0
+          "penalties": 1
         }
       ]
     }
   },
-  "generatedAt": "2026-04-25T18:46:40.596Z"
+  "generatedAt": "2026-04-25T23:37:08.556Z"
 }
