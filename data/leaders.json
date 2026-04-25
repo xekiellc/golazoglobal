@@ -173,7 +173,7 @@
           "name": "Robert Lewandowski",
           "team": "Barça",
           "goals": 12,
-          "assists": 1,
+          "assists": 2,
           "penalties": 1
         },
         {
@@ -260,6 +260,13 @@
           "penalties": 1
         },
         {
+          "name": "Donyell Malen",
+          "team": "Roma",
+          "goals": 11,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "Keinan Davis",
           "team": "Udinese",
           "goals": 10,
@@ -279,13 +286,6 @@
           "goals": 10,
           "assists": 4,
           "penalties": 0
-        },
-        {
-          "name": "Donyell Malen",
-          "team": "Roma",
-          "goals": 10,
-          "assists": 0,
-          "penalties": 2
         },
         {
           "name": "Scott McTominay",
@@ -338,7 +338,7 @@
         {
           "name": "Harry Kane",
           "team": "Bayern",
-          "goals": 32,
+          "goals": 33,
           "assists": 4,
           "penalties": 10
         },
@@ -366,9 +366,16 @@
         {
           "name": "Michael Olise",
           "team": "Bayern",
-          "goals": 12,
+          "goals": 13,
           "assists": 18,
           "penalties": 0
+        },
+        {
+          "name": "Patrik Schick",
+          "team": "Leverkusen",
+          "goals": 13,
+          "assists": 2,
+          "penalties": 4
         },
         {
           "name": "Christoph Baumgartner",
@@ -392,13 +399,6 @@
           "penalties": 0
         },
         {
-          "name": "Patrik Schick",
-          "team": "Leverkusen",
-          "goals": 11,
-          "assists": 2,
-          "penalties": 3
-        },
-        {
           "name": "Nadiem Amiri",
           "team": "Mainz",
           "goals": 11,
@@ -410,7 +410,7 @@
         {
           "name": "Michael Olise",
           "team": "Bayern",
-          "goals": 12,
+          "goals": 13,
           "assists": 18,
           "penalties": 0
         },
@@ -560,8 +560,15 @@
         {
           "name": "Ayase Ueda",
           "team": "Feyenoord",
-          "goals": 23,
+          "goals": 25,
           "assists": 1,
+          "penalties": 1
+        },
+        {
+          "name": "Mika Godts",
+          "team": "Ajax",
+          "goals": 16,
+          "assists": 11,
           "penalties": 0
         },
         {
@@ -570,13 +577,6 @@
           "goals": 15,
           "assists": 4,
           "penalties": 2
-        },
-        {
-          "name": "Mika Godts",
-          "team": "Ajax",
-          "goals": 15,
-          "assists": 10,
-          "penalties": 0
         },
         {
           "name": "Ismael Saibari",
@@ -603,7 +603,7 @@
           "name": "Jacob Trenskow",
           "team": "Heerenveen",
           "goals": 12,
-          "assists": 3,
+          "assists": 4,
           "penalties": 0
         },
         {
@@ -632,8 +632,8 @@
         {
           "name": "Mika Godts",
           "team": "Ajax",
-          "goals": 15,
-          "assists": 10,
+          "goals": 16,
+          "assists": 11,
           "penalties": 0
         },
         {
@@ -690,18 +690,18 @@
           "penalties": 5
         },
         {
+          "name": "Chuchu",
+          "team": "CD Nacional",
+          "goals": 16,
+          "assists": 0,
+          "penalties": 4
+        },
+        {
           "name": "Ricardo Horta",
           "team": "Braga",
           "goals": 15,
           "assists": 4,
           "penalties": 3
-        },
-        {
-          "name": "Chuchu",
-          "team": "CD Nacional",
-          "goals": 15,
-          "assists": 0,
-          "penalties": 4
         },
         {
           "name": "Rodrigo Zalazar",
@@ -782,9 +782,9 @@
         {
           "name": "Zan Vipotnik",
           "team": "Swansea",
-          "goals": 22,
+          "goals": 23,
           "assists": 3,
-          "penalties": 4
+          "penalties": 5
         },
         {
           "name": "Haji Wright",
@@ -843,11 +843,11 @@
           "penalties": 1
         },
         {
-          "name": "Scott Twine",
-          "team": "Bristol City",
-          "goals": 11,
-          "assists": 6,
-          "penalties": 0
+          "name": "Tommy Conway",
+          "team": "Middlesbrough",
+          "goals": 12,
+          "assists": 5,
+          "penalties": 4
         }
       ],
       "topAssists": [
@@ -866,18 +866,18 @@
           "penalties": 0
         },
         {
-          "name": "Scott Twine",
-          "team": "Bristol City",
-          "goals": 11,
-          "assists": 6,
-          "penalties": 0
-        },
-        {
           "name": "Josh Windass",
           "team": "Wrexham",
           "goals": 14,
           "assists": 5,
           "penalties": 3
+        },
+        {
+          "name": "Tommy Conway",
+          "team": "Middlesbrough",
+          "goals": 12,
+          "assists": 5,
+          "penalties": 4
         },
         {
           "name": "Brandon Thomas-Asante",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-25T12:58:25.421Z"
+  "generatedAt": "2026-04-25T18:46:40.596Z"
 }

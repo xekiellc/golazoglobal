@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-04-25T12:54:36.870Z",
+  "transfers": [
+    {
+      "player": "What Does Manchester United Need In The ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/grahamruthven/2026/04/24/what-does-manchester-united-need-in-the-summer-transfer-window/",
+      "publishedAt": "2026-04-24T17:22:44Z"
+    }
+  ],
+  "generatedAt": "2026-04-25T18:42:29.709Z",
   "note": "Transfers derived from news headlines at launch."
 }
