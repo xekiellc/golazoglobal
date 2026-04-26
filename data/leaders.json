@@ -149,18 +149,18 @@
           "penalties": 0
         },
         {
+          "name": "Mikel Oyarzabal",
+          "team": "Real Sociedad",
+          "goals": 14,
+          "assists": 3,
+          "penalties": 6
+        },
+        {
           "name": "Vinicius Junior",
           "team": "Real Madrid",
           "goals": 13,
           "assists": 5,
           "penalties": 4
-        },
-        {
-          "name": "Mikel Oyarzabal",
-          "team": "Real Sociedad",
-          "goals": 13,
-          "assists": 3,
-          "penalties": 5
         },
         {
           "name": "Alexander Sørloth",
@@ -209,9 +209,9 @@
         {
           "name": "Mikel Oyarzabal",
           "team": "Real Sociedad",
-          "goals": 13,
+          "goals": 14,
           "assists": 3,
-          "penalties": 5
+          "penalties": 6
         },
         {
           "name": "Ferrán Torres",
@@ -232,6 +232,13 @@
           "penalties": 0
         },
         {
+          "name": "Anastasios Douvikas",
+          "team": "Como 1907",
+          "goals": 12,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Nico Paz",
           "team": "Como 1907",
           "goals": 12,
@@ -239,16 +246,9 @@
           "penalties": 0
         },
         {
-          "name": "Anastasios Douvikas",
-          "team": "Como 1907",
-          "goals": 11,
-          "assists": 1,
-          "penalties": 1
-        },
-        {
           "name": "Marcus Thuram-Ulien",
           "team": "Inter",
-          "goals": 11,
+          "goals": 12,
           "assists": 5,
           "penalties": 0
         },
@@ -281,17 +281,17 @@
           "penalties": 1
         },
         {
+          "name": "Giovanni Simeone",
+          "team": "Torino",
+          "goals": 10,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Nikola Krstović",
           "team": "Atalanta",
           "goals": 10,
           "assists": 4,
-          "penalties": 0
-        },
-        {
-          "name": "Scott McTominay",
-          "team": "Napoli",
-          "goals": 9,
-          "assists": 3,
           "penalties": 0
         }
       ],
@@ -313,7 +313,7 @@
         {
           "name": "Marcus Thuram-Ulien",
           "team": "Inter",
-          "goals": 11,
+          "goals": 12,
           "assists": 5,
           "penalties": 0
         },
@@ -359,7 +359,7 @@
         {
           "name": "Sehrou Guirassy",
           "team": "Dortmund",
-          "goals": 14,
+          "goals": 15,
           "assists": 0,
           "penalties": 1
         },
@@ -449,9 +449,9 @@
         {
           "name": "Esteban Lepaul",
           "team": "Stade Rennais",
-          "goals": 17,
+          "goals": 18,
           "assists": 4,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Joaquín Panichelli",
@@ -542,9 +542,9 @@
         {
           "name": "Esteban Lepaul",
           "team": "Stade Rennais",
-          "goals": 17,
+          "goals": 18,
           "assists": 4,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Folarin Balogun",
@@ -697,18 +697,18 @@
           "penalties": 4
         },
         {
+          "name": "Rodrigo Zalazar",
+          "team": "Braga",
+          "goals": 16,
+          "assists": 4,
+          "penalties": 10
+        },
+        {
           "name": "Ricardo Horta",
           "team": "Braga",
           "goals": 15,
           "assists": 4,
           "penalties": 3
-        },
-        {
-          "name": "Rodrigo Zalazar",
-          "team": "Braga",
-          "goals": 15,
-          "assists": 4,
-          "penalties": 10
         },
         {
           "name": "Samu Omorodion",
@@ -762,18 +762,18 @@
           "penalties": 4
         },
         {
+          "name": "Rodrigo Zalazar",
+          "team": "Braga",
+          "goals": 16,
+          "assists": 4,
+          "penalties": 10
+        },
+        {
           "name": "Ricardo Horta",
           "team": "Braga",
           "goals": 15,
           "assists": 4,
           "penalties": 3
-        },
-        {
-          "name": "Rodrigo Zalazar",
-          "team": "Braga",
-          "goals": 15,
-          "assists": 4,
-          "penalties": 10
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-26T13:00:46.452Z"
+  "generatedAt": "2026-04-26T18:47:26.738Z"
 }
