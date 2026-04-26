@@ -330,6 +330,19 @@
       },
       {
         "position": 6,
+        "team": "Real Sociedad",
+        "played": 33,
+        "won": 12,
+        "drawn": 9,
+        "lost": 12,
+        "goalsFor": 50,
+        "goalsAgainst": 49,
+        "goalDifference": 1,
+        "points": 45,
+        "form": ""
+      },
+      {
+        "position": 7,
         "team": "Getafe",
         "played": 33,
         "won": 13,
@@ -342,7 +355,7 @@
         "form": ""
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "Celta",
         "played": 32,
         "won": 11,
@@ -352,19 +365,6 @@
         "goalsAgainst": 41,
         "goalDifference": 3,
         "points": 44,
-        "form": ""
-      },
-      {
-        "position": 8,
-        "team": "Real Sociedad",
-        "played": 32,
-        "won": 11,
-        "drawn": 9,
-        "lost": 12,
-        "goalsFor": 49,
-        "goalsAgainst": 49,
-        "goalDifference": 0,
-        "points": 42,
         "form": ""
       },
       {
@@ -409,13 +409,13 @@
       {
         "position": 12,
         "team": "Rayo Vallecano",
-        "played": 32,
+        "played": 33,
         "won": 9,
         "drawn": 11,
-        "lost": 12,
+        "lost": 13,
         "goalsFor": 30,
-        "goalsAgainst": 38,
-        "goalDifference": -8,
+        "goalsAgainst": 39,
+        "goalDifference": -9,
         "points": 38,
         "form": ""
       },
@@ -645,14 +645,14 @@
       {
         "position": 10,
         "team": "Sassuolo",
-        "played": 33,
+        "played": 34,
         "won": 13,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 14,
         "goalsFor": 41,
         "goalsAgainst": 44,
         "goalDifference": -3,
-        "points": 45,
+        "points": 46,
         "form": ""
       },
       {
@@ -710,14 +710,14 @@
       {
         "position": 15,
         "team": "Fiorentina",
-        "played": 33,
+        "played": 34,
         "won": 8,
-        "drawn": 12,
+        "drawn": 13,
         "lost": 13,
         "goalsFor": 38,
         "goalsAgainst": 45,
         "goalDifference": -7,
-        "points": 36,
+        "points": 37,
         "form": ""
       },
       {
@@ -1353,13 +1353,13 @@
       {
         "position": 8,
         "team": "Utrecht",
-        "played": 30,
+        "played": 31,
         "won": 12,
         "drawn": 8,
-        "lost": 10,
+        "lost": 11,
         "goalsFor": 49,
-        "goalsAgainst": 36,
-        "goalDifference": 13,
+        "goalsAgainst": 41,
+        "goalDifference": 8,
         "points": 44,
         "form": ""
       },
@@ -1430,6 +1430,19 @@
       },
       {
         "position": 14,
+        "team": "Excelsior",
+        "played": 31,
+        "won": 8,
+        "drawn": 7,
+        "lost": 16,
+        "goalsFor": 36,
+        "goalsAgainst": 51,
+        "goalDifference": -15,
+        "points": 31,
+        "form": ""
+      },
+      {
+        "position": 15,
         "team": "Telstar",
         "played": 31,
         "won": 7,
@@ -1442,29 +1455,16 @@
         "form": ""
       },
       {
-        "position": 15,
+        "position": 16,
         "team": "Volendam",
-        "played": 30,
+        "played": 31,
         "won": 7,
-        "drawn": 7,
+        "drawn": 8,
         "lost": 16,
         "goalsFor": 31,
         "goalsAgainst": 50,
         "goalDifference": -19,
-        "points": 28,
-        "form": ""
-      },
-      {
-        "position": 16,
-        "team": "Excelsior",
-        "played": 30,
-        "won": 7,
-        "drawn": 7,
-        "lost": 16,
-        "goalsFor": 31,
-        "goalsAgainst": 51,
-        "goalDifference": -20,
-        "points": 28,
+        "points": 29,
         "form": ""
       },
       {
@@ -1483,14 +1483,14 @@
       {
         "position": 18,
         "team": "Heracles",
-        "played": 30,
+        "played": 31,
         "won": 5,
-        "drawn": 4,
+        "drawn": 5,
         "lost": 21,
         "goalsFor": 34,
         "goalsAgainst": 77,
         "goalDifference": -43,
-        "points": 19,
+        "points": 20,
         "form": ""
       }
     ],
@@ -1734,14 +1734,14 @@
       {
         "position": 1,
         "team": "Coventry City",
-        "played": 44,
+        "played": 45,
         "won": 26,
-        "drawn": 11,
+        "drawn": 12,
         "lost": 7,
-        "goalsFor": 90,
-        "goalsAgainst": 44,
+        "goalsFor": 91,
+        "goalsAgainst": 45,
         "goalDifference": 46,
-        "points": 89,
+        "points": 90,
         "form": ""
       },
       {
@@ -1799,14 +1799,14 @@
       {
         "position": 6,
         "team": "Wrexham",
-        "played": 44,
+        "played": 45,
         "won": 19,
-        "drawn": 13,
+        "drawn": 14,
         "lost": 12,
-        "goalsFor": 66,
-        "goalsAgainst": 60,
+        "goalsFor": 67,
+        "goalsAgainst": 61,
         "goalDifference": 6,
-        "points": 70,
+        "points": 71,
         "form": ""
       },
       {
@@ -1967,19 +1967,6 @@
       },
       {
         "position": 19,
-        "team": "West Brom",
-        "played": 45,
-        "won": 13,
-        "drawn": 14,
-        "lost": 18,
-        "goalsFor": 47,
-        "goalsAgainst": 56,
-        "goalDifference": -9,
-        "points": 53,
-        "form": ""
-      },
-      {
-        "position": 20,
         "team": "Charlton",
         "played": 45,
         "won": 13,
@@ -1992,7 +1979,7 @@
         "form": ""
       },
       {
-        "position": 21,
+        "position": 20,
         "team": "Blackburn",
         "played": 45,
         "won": 13,
@@ -2002,6 +1989,19 @@
         "goalsAgainst": 55,
         "goalDifference": -13,
         "points": 52,
+        "form": ""
+      },
+      {
+        "position": 21,
+        "team": "West Brom",
+        "played": 45,
+        "won": 13,
+        "drawn": 14,
+        "lost": 18,
+        "goalsFor": 47,
+        "goalsAgainst": 56,
+        "goalDifference": -9,
+        "points": 51,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-04-26T07:24:53.490Z"
+  "generatedAt": "2026-04-26T12:59:03.458Z"
 }

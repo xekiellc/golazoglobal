@@ -156,6 +156,13 @@
           "penalties": 4
         },
         {
+          "name": "Mikel Oyarzabal",
+          "team": "Real Sociedad",
+          "goals": 13,
+          "assists": 3,
+          "penalties": 5
+        },
+        {
           "name": "Alexander Sørloth",
           "team": "Atleti",
           "goals": 12,
@@ -168,13 +175,6 @@
           "goals": 12,
           "assists": 1,
           "penalties": 3
-        },
-        {
-          "name": "Mikel Oyarzabal",
-          "team": "Real Sociedad",
-          "goals": 12,
-          "assists": 3,
-          "penalties": 5
         },
         {
           "name": "Robert Lewandowski",
@@ -209,7 +209,7 @@
         {
           "name": "Mikel Oyarzabal",
           "team": "Real Sociedad",
-          "goals": 12,
+          "goals": 13,
           "assists": 3,
           "penalties": 5
         },
@@ -829,18 +829,18 @@
           "penalties": 0
         },
         {
+          "name": "Brandon Thomas-Asante",
+          "team": "Coventry City",
+          "goals": 13,
+          "assists": 4,
+          "penalties": 1
+        },
+        {
           "name": "Carlton Morris",
           "team": "Derby County",
           "goals": 12,
           "assists": 2,
           "penalties": 3
-        },
-        {
-          "name": "Brandon Thomas-Asante",
-          "team": "Coventry City",
-          "goals": 12,
-          "assists": 4,
-          "penalties": 1
         },
         {
           "name": "Tommy Conway",
@@ -882,7 +882,7 @@
         {
           "name": "Brandon Thomas-Asante",
           "team": "Coventry City",
-          "goals": 12,
+          "goals": 13,
           "assists": 4,
           "penalties": 1
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-26T07:26:13.959Z"
+  "generatedAt": "2026-04-26T13:00:46.452Z"
 }

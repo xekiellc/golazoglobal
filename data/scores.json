@@ -1,6 +1,33 @@
 {
   "matches": [
     {
+      "league": "PD",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Real Sociedad",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-26T12:00:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "Heracles",
+      "awayTeam": "Volendam",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-26T12:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Coventry City",
+      "awayTeam": "Wrexham",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-26T11:00:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Fulham",
       "awayTeam": "Aston Villa",
@@ -103,10 +130,19 @@
       "league": "SA",
       "homeTeam": "Verona",
       "awayTeam": "Lecce",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-04-25T18:45:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Sassuolo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-04-26T10:30:00Z"
     },
     {
       "league": "BL1",
@@ -224,6 +260,15 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-04-25T19:00:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "Excelsior",
+      "awayTeam": "Utrecht",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-04-26T10:15:00Z"
     },
     {
       "league": "PPL",
@@ -371,15 +416,6 @@
     },
     {
       "league": "PD",
-      "homeTeam": "Rayo Vallecano",
-      "awayTeam": "Real Sociedad",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-26T12:00:00Z"
-    },
-    {
-      "league": "PD",
       "homeTeam": "Real Oviedo",
       "awayTeam": "Elche",
       "homeScore": null,
@@ -404,15 +440,6 @@
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-04-26T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Fiorentina",
-      "awayTeam": "Sassuolo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-26T10:30:00Z"
     },
     {
       "league": "SA",
@@ -505,24 +532,6 @@
       "utcDate": "2026-04-26T18:45:00Z"
     },
     {
-      "league": "DED",
-      "homeTeam": "Excelsior",
-      "awayTeam": "Utrecht",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-26T10:15:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Heracles",
-      "awayTeam": "Volendam",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-26T12:30:00Z"
-    },
-    {
       "league": "PPL",
       "homeTeam": "Estoril Praia",
       "awayTeam": "Famalicão",
@@ -557,15 +566,6 @@
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-04-26T19:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Coventry City",
-      "awayTeam": "Wrexham",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-26T11:00:00Z"
     },
     {
       "league": "BSA",
@@ -622,5 +622,5 @@
       "utcDate": "2026-04-26T23:30:00Z"
     }
   ],
-  "generatedAt": "2026-04-26T07:23:51.181Z"
+  "generatedAt": "2026-04-26T12:58:01.747Z"
 }
