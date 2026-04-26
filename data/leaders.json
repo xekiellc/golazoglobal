@@ -163,18 +163,18 @@
           "penalties": 4
         },
         {
+          "name": "Borja Iglesias",
+          "team": "Celta",
+          "goals": 13,
+          "assists": 1,
+          "penalties": 4
+        },
+        {
           "name": "Alexander Sørloth",
           "team": "Atleti",
           "goals": 12,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Borja Iglesias",
-          "team": "Celta",
-          "goals": 12,
-          "assists": 1,
-          "penalties": 3
         },
         {
           "name": "Robert Lewandowski",
@@ -891,6 +891,13 @@
     "BSA": {
       "scorers": [
         {
+          "name": "Kevin Viveros",
+          "team": "Paranaense",
+          "goals": 8,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "Carlos Vinícius",
           "team": "Grêmio",
           "goals": 7,
@@ -912,11 +919,11 @@
           "penalties": 1
         },
         {
-          "name": "Kevin Viveros",
-          "team": "Paranaense",
+          "name": "Pedro",
+          "team": "Flamengo",
           "goals": 6,
-          "assists": 1,
-          "penalties": 1
+          "assists": 3,
+          "penalties": 0
         },
         {
           "name": "John Kennedy",
@@ -940,13 +947,6 @@
           "penalties": 1
         },
         {
-          "name": "Pedro",
-          "team": "Flamengo",
-          "goals": 5,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
           "name": "Christian",
           "team": "Cruzeiro",
           "goals": 5,
@@ -965,7 +965,7 @@
         {
           "name": "Pedro",
           "team": "Flamengo",
-          "goals": 5,
+          "goals": 6,
           "assists": 3,
           "penalties": 0
         },
@@ -979,9 +979,9 @@
         {
           "name": "Kevin Viveros",
           "team": "Paranaense",
-          "goals": 6,
+          "goals": 8,
           "assists": 1,
-          "penalties": 1
+          "penalties": 2
         },
         {
           "name": "Breno Lopes",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-26T18:47:26.738Z"
+  "generatedAt": "2026-04-26T23:38:32.668Z"
 }

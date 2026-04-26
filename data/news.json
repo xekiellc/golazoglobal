@@ -1,132 +1,140 @@
 {
   "articles": [
     {
-      "title": "Arsenal back on top after 1-0 win over Newcastle United",
-      "description": "Arsenal secured a narrow 1-0 victory over Newcastle United at the Emirates this evening, a result that supporters may not have thoroughly enjoyed, but one that still delivered three valuable points. In a title race, results often matter more than style, and t…",
-      "url": "https://www.justarsenal.com/arsenal-back-on-top-after-1-0-win-over-newcastle-united/414214",
-      "source": "Just Arsenal News",
-      "publishedAt": "2026-04-25T18:41:33Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Arsenal 1-0 Newcastle: Report, result and goals as Gunners return to Premier League summit",
-      "description": "It was a nervy afternoon for Arsenal fans at the Emirates",
-      "url": "https://www.101greatgoals.com/football/premier-league/arsenal-newcastle-report-result-goals/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-04-25T18:41:27Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Man City beat Southampton 2-1 to reach FA Cup final",
-      "description": "Nico Gonzalez’s late stunner sends Man City to the FA Cup final with a 2-1 comeback victory over Southampton, keeping their treble hopes alive.\n\nRead More: https://punchng.com/man-city-beat-southampton-2-1-to-reach-fa-cup-final/",
-      "url": "https://punchng.com/man-city-beat-southampton-2-1-to-reach-fa-cup-final/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-25T18:40:58Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Gunners hang on for slim win over Newcastle to regain PL top spot",
-      "description": "FREE TO WATCH: Highlights from the Premier League match between Arsenal and Newcastle United.",
-      "url": "https://www.skysports.com/football/video/16426/13536571/arsenal-1-0-newcastle-premier-league-highlights",
-      "source": "Sky Sports",
-      "publishedAt": "2026-04-25T18:38:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Eze rocket fires Arsenal back into top spot in Premier League",
-      "description": "Arsenal returned to the top of the Premier League as Eberechi Eze's thunderbolt sealed a tense 1-0 win against Newcastle on Saturday.For the first time since October, Arsenal had started a league game out of pole position after Manchester City's 1-0 win at Bu…",
-      "url": "https://sports.yahoo.com/articles/eze-rocket-fires-arsenal-back-183626497.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-25T18:36:26Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Eze does it for Arsenal as Arteta's men reclaim top spot",
-      "description": "Eberechi Eze's brilliant early strike fired Arsenal back to the top of the Premier League as they ground out a much needed 1-0 win against Newcastle at the Emirates Stadium.",
-      "url": "https://www.rte.ie/sport/soccer/2026/0425/1570140-eze-does-it-for-arsenal-as-artetas-men-reclaim-top-spot/",
-      "source": "RTE",
-      "publishedAt": "2026-04-25T18:36:22Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Nervy Arsenal go back to top as Eze seals vital win over Newcastle",
-      "description": "LONDON, April 25 : Arsenal arrested their slump in form with Eberechi Eze's superb early goal securing an ugly 1-0 home win against Newcastle United to reclaim top spot in the Premier League on Saturday.After successive league defeats to Bournemouth and Manch…",
-      "url": "https://www.channelnewsasia.com/sport/nervy-arsenal-go-back-top-eze-seals-vital-win-over-newcastle-6081101",
-      "source": "CNA",
-      "publishedAt": "2026-04-25T18:34:30Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Finn Azaz wonder goal not enough for Southampton as Man City reach fourth successive FA Cup final",
-      "description": "Manchester City produced a dramatic late fightback to reach their fourth successive FA Cup final with a thrilling win over Championship Southampton.",
-      "url": "https://www.independent.ie/sport/soccer/finn-azaz-wonder-goal-not-enough-for-southampton-as-man-city-reach-fourth-successive-fa-cup-final/a1131445479.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-25T18:30:27Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Arsenal go top but suffer injuries in Newcastle win",
-      "description": "Arsenal moved three points above Manchester City at the top of the Premier League with a nervy 1-0 win over Newcastle in which Kai Havertz and Eberechi Eze had to come off with injuries.",
-      "url": "https://www.skysports.com/football/news/11095/13535461/arsenal-1-0-newcastle-united-gunners-go-three-points-clear-of-man-city-with-nervy-win-but-kai-havertz-and-eberechi-eze-suffer-injuries",
-      "source": "Sky Sports",
-      "publishedAt": "2026-04-25T18:30:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Mikel Arteta reaction — What did Arsenal manager say after slim win over Newcastle?",
-      "description": "Arsenal manager Mikel Arteta oversaw another one-goal game, this one a 1-0 win over Newcastle United to boost his Gunners back atop the Premier League.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6354303a-b0fa-44c1-9a0b-69e9013e66d5",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-25T18:28:35Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Man City fight back to beat Southampton and reach fourth straight FA Cup final",
-      "description": "LONDON, April 25 : Manchester City beat Championship side Southampton 2-1 with a late goal from Nico Gonzalez to book a place in an unprecedented fourth consecutive FA Cup final and keep alive their hopes of a domestic treble.Southampton, who upset Arsenal in…",
-      "url": "https://www.channelnewsasia.com/sport/man-city-fight-back-beat-southampton-and-reach-fourth-straight-fa-cup-final-6081076",
-      "source": "CNA",
-      "publishedAt": "2026-04-25T18:27:30Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Flick talks Pedri, Roony, Rashford, La Liga title after Getafe 0-2 Barcelona",
-      "description": "FC Barcelona moved to within touching distance of lifting the La Liga title after beating Getafe 2-0 away at Coliseum Alfonso Perez.At a venue where they had not won since 2019, the Blaugrana were in ...",
-      "url": "https://barcauniversal.com/flick-talks-pedri-roony-rashford-la-liga-title-after-getafe-0-2-barcelona/",
-      "source": "Barcauniversal.com",
-      "publishedAt": "2026-04-25T17:25:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Barcelona near La Liga title: Can they clinch it against Real Madrid in El Clasico?",
-      "description": "The La Liga title is on the verge of being secured by Barcelona, who will soon face Real Madrid. Barcelona are not slowing down their dominant run in La Liga and are getting closer to securing the trophy for the second consecutive year. That makes it not only…",
-      "url": "https://worldsoccertalk.com/news/barcelona-near-la-liga-title-can-they-clinch-it-against-real-madrid-in-el-clasico/",
+      "title": "2026 World Cup: Netherlands fear losing Xavi Simons after Tottenham injury exit",
+      "description": "Xavi Simons was unable to finish Tottenham’s match due to a knee injury and could miss the 2026 FIFA World Cup with Netherlands. As the weeks go by, more and more global soccer stars are suffering injuries that put their participation in the 2026 FIFA World C…",
+      "url": "https://worldsoccertalk.com/news/2026-world-cup-netherlands-fear-losing-xavi-simons-after-tottenham-injury-exit/",
       "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-04-25T17:14:12Z",
-      "league": "La Liga"
+      "publishedAt": "2026-04-25T23:04:48Z",
+      "league": "Premier League"
     },
     {
-      "title": "“Today was nearly perfect” – Hansi Flick delighted after Barcelona win over Getafe",
-      "description": "Barcelona manager Hansi Flick was delighted with his side after they overcame Getafe 2-0 on Saturday afternoon, moving them 11 points clear of Real Madrid at the summit of the La Liga table. While it ...",
-      "url": "https://www.football-espana.net/2026/04/25/flick-getafe-win-pedri",
-      "source": "Football Espana",
-      "publishedAt": "2026-04-25T17:05:00Z",
-      "league": "La Liga"
+      "title": "Watch a full match replay from win over Newcastle",
+      "description": "Relive every kick of the ball from Emirates Stadium as we got back to winning ways in the Premier League",
+      "url": "http://www.arsenal.com/news/watch-full-match-replay-win-over-newcastle",
+      "source": "Arsenal.com",
+      "publishedAt": "2026-04-25T23:00:01Z",
+      "league": "Premier League"
     },
     {
-      "title": "Barcelona on brink of La Liga triumph with Getafe win",
-      "description": "Fermin Lopez and Marcus Rashford's goals took Barcelona to the brink of the La Liga title with a 2-0 win at Getafe on Saturday.Hansi Flick's side can win their second consecutive Spanish title if they overcome Osasuna next weekend and Real Madrid fail to beat…",
-      "url": "https://sports.yahoo.com/articles/barcelona-brink-la-liga-triumph-162957905.html",
+      "title": "“The margins are really small” Arteta is proud of his players’ discipline against Newcastle United",
+      "description": "Mikel Arteta is proud of the discipline his players showed in their 1-0 win against Newcastle United in the Premier League today. The result moved Arsenal back to the top of the league table, providing another significant step in their pursuit of the title. T…",
+      "url": "https://www.justarsenal.com/the-margins-are-really-small-arteta-is-proud-of-his-players-discipline-against-newcastle-united/414241",
+      "source": "Just Arsenal News",
+      "publishedAt": "2026-04-25T22:59:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Spurs 'really improving' under De Zerbi but can they survive?",
+      "description": "Match of the Day pundits Steph Houghton and Martin Keown believe Tottenham are \"really improving\" under Roberto de Zerbi, but can they save their Premier League status?",
+      "url": "https://www.bbc.com/sport/football/videos/cg73lxmk4dvo",
+      "source": "BBC News",
+      "publishedAt": "2026-04-25T22:58:20Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Carlos Baleba: Brighton’s asking price for United target revealed",
+      "description": "Manchester United’s plans to sign a capable replacement for Casemiro this summer will hardly be a walk in the park. The Red Devils are preparing for life after the 34 year old, whose contract runs o...",
+      "url": "https://thepeoplesperson.com/2026/04/25/carlos-baleba-brightons-asking-price-for-united-target-revealed-309287/",
+      "source": "The Peoples Person",
+      "publishedAt": "2026-04-25T22:10:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Papers: Man Utd could let up to 13 players leave this summer",
+      "description": "The top stories and transfer rumours from Sunday's newspapers...",
+      "url": "https://www.skysports.com/football/news/11095/13536628/man-utd-could-let-up-to-13-players-leave-this-summer-as-part-of-squad-overhaul-paper-talk",
+      "source": "Sky Sports",
+      "publishedAt": "2026-04-25T22:00:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Arsenal sets new season record against Newcastle United",
+      "description": "Arsenal set two individual records of the season when they scored against Newcastle United in the Premier League this evening to secure an important 1-0 victory. The Gunners needed to win to remain firmly in the title race, and although the performance was no…",
+      "url": "https://www.justarsenal.com/arsenal-sets-new-season-record-against-newcastle-united/414240",
+      "source": "Just Arsenal News",
+      "publishedAt": "2026-04-25T22:00:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "'It's not done' - Arsenal back up Rice's words with crucial win",
+      "description": "Arsenal deliver on Declan Rice's promise that the Premier League title race is \"not done\" with an important win over Newcastle.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9c6b7f08-1060-43dd-937f-39c8273a84af",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-25T16:53:15Z",
+      "publishedAt": "2026-04-25T21:55:30Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "'It's not done' - Arsenal back up Rice's words with crucial win",
+      "description": "Arsenal deliver on Declan Rice's promise that the Premier League title race is \"not done\" with an important win over Newcastle.",
+      "url": "https://www.bbc.com/sport/football/articles/c17v4j9pdz2o",
+      "source": "BBC News",
+      "publishedAt": "2026-04-25T21:43:38Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "European round-up: Kane proves a suber-sub in Bayern win",
+      "description": "Harry Kane scored a late winner as Bundesliga champions Bayern Munich fought back from 3-0 down at Mainz to win 4-3 and extend their lead at the top of the table to 18 points.",
+      "url": "https://www.rte.ie/sport/soccer/2026/0425/1570149-european-round-up-kane-proves-a-suber-sub-in-bayern-win/",
+      "source": "RTE",
+      "publishedAt": "2026-04-25T22:03:24Z",
       "league": "La Liga"
     },
     {
-      "title": "Barcelona already feel like champions",
-      "description": "Barcelona closed in on a second consecutive La Liga title after Fermín López and Marcus Rashford scored to help earn its first win at Getafe in six seasons on Saturday.\n\nFermín ded",
-      "url": "https://www.marca.com/en/football/barcelona/2026/04/25/69ece985e2704e91038b4571.html",
-      "source": "Marca",
-      "publishedAt": "2026-04-25T16:28:36Z",
+      "title": "Atlético Madrid star to miss Arsenal clash after fresh injury blow",
+      "description": "La Liga giants Atlético Madrid have on Saturday been dealt a fresh blow on the personnel front.This comes after midfielder Pablo Barrios suffered yet another injury setback.Diego Simeone’s troops w...",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_adf2af8d-8601-4e99-b5dc-9cbbc25e23c2",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-25T21:25:00Z",
       "league": "La Liga"
+    },
+    {
+      "title": "Atletico Madrid finally return to winning ways before Arsenal against miffed Athletic Club",
+      "description": "Atletico Madrid 3-2 Athletic ClubAtletico Madrid prepared for their Champions League semi-final against Arsenal with a victory over Athletic Club, in a bid to wash off the disappointment of their Copa...",
+      "url": "https://www.football-espana.net/2026/04/25/atletico-madrid-finally-return-to-winning-ways-before-arsenal-against-miffed-athletic-club",
+      "source": "Football Espana",
+      "publishedAt": "2026-04-25T21:15:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Kylian Mbappé injury update after Real Madrid 1-1 Real Betis",
+      "description": "An update on the wellbeing of Real Madrid star Kylian Mbappé has come to the fore online.This comes after the Frenchman set alarm bells sounding in Spain’s capital on Friday.Real Madrid were of cou...",
+      "url": "https://getfootballnewsspain.com/kylian-mbappe-injury-update-after-real-madrid-1-1-real-betis/",
+      "source": "Getfootballnewsspain.com",
+      "publishedAt": "2026-04-25T20:35:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "La Liga: Rashford scores as Barcelonas beat Getafe CF. 2-0",
+      "description": "FC Barcelona extend their La Liga lead with a 2-0 win in the Barcelona vs Getafe match. Goals from Fermin Lopez and Marcus Rashford sealed the victory.\n\nRead More: https://punchng.com/la-liga-rashford-scores-as-barcelonas-beat-getafe-cf-2-0/",
+      "url": "https://punchng.com/la-liga-rashford-scores-as-barcelonas-beat-getafe-cf-2-0/",
+      "source": "The Punch",
+      "publishedAt": "2026-04-25T19:51:09Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Barcelona See Off Getafe, Tighten Grip On LaLiga Crown",
+      "description": "Barcelona continued their march towards the LaLiga title with a 2-0 victory at Getafe on Saturday, as goals from Fermin Lopez and Marcus Rashford secured them a ninth consecutive league win.",
+      "url": "https://www.rediff.com/sports/report/laliga-barcelona-edge-closer-to-title-with-ninth-straight-win/20260426.htm",
+      "source": "Rediff.com",
+      "publishedAt": "2026-04-25T19:35:58Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Barcelona on the brink of defending La Liga title after beating Getafe",
+      "description": "Barcelona move 11 points clear of Real Madrid in the La Liga title race with five games to play.",
+      "url": "https://www.aljazeera.com/sports/2026/4/25/barcelona-on-the-brink-of-defending-la-liga-title-after-beating-getafe",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-25T19:15:06Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Rocchi suspends himself: ‘I am certain I will emerge unscathed and stronger than before’",
+      "description": "Gianluca Rocchi has decided to step aside from his role as head of referees in Serie A and Serie B after being placed under investigation for alleged sporting",
+      "url": "https://football-italia.net/rocchi-suspends-himself-as-referee-designator/",
+      "source": "Football Italia",
+      "publishedAt": "2026-04-25T20:12:47Z",
+      "league": "Serie A"
     },
     {
       "title": "Serie A referee scandal: What to know as officiating assignments and VAR calls under investigation",
@@ -137,29 +145,21 @@
       "league": "Serie A"
     },
     {
-      "title": "Abodi: ‘No avoiding consequences’ for Rocchi refereeing scandal",
-      "description": "Minister for Sport Andrea Abodi warns ‘there can be no avoiding consequences’ over the Gianluca Rocchi scandal after the refereeing designator was placed under investigation for sporting fraud.",
-      "url": "https://football-italia.net/abodi-no-avoiding-consequences-rocchi-scandal/",
-      "source": "Football Italia",
-      "publishedAt": "2026-04-25T17:30:36Z",
-      "league": "Serie A"
+      "title": "Finn Dahmen reiterates World Cup dream after Augsburg's survival",
+      "description": "Augsburg secured Bundesliga safety after a 1-1 draw at home with Eintracht Frankfurt. Shot-stopper Finn Dahmen addressed World Cup talks once again after he succeeded on the season's goal with the mod...",
+      "url": "https://bulinews.com/finn-dahmen-reiterates-world-cup-dream-after-augsburg-survival",
+      "source": "Bulinews.com",
+      "publishedAt": "2026-04-25T23:02:00Z",
+      "league": "Bundesliga"
     },
     {
-      "title": "Roma set for huge squad overhaul as Gasperini takes control of the market",
-      "description": "AS Roma are preparing for a major summer reshuffle, with Gian Piero Gasperini now fully in charge of shaping the squad.",
-      "url": "https://football-italia.net/roma-set-for-squad-overhaul-gasperini-control/",
-      "source": "Football Italia",
-      "publishedAt": "2026-04-25T17:17:56Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Bayern storm back to beat Mainz ahead of PSG clash",
-      "description": "Bundesliga champions Bayern Munich stormed back from three goals down to win 4-3 at Mainz on Saturday, ahead of their Champions League semi-final first leg at Paris Saint-Germain.With most of the team that started Wednesday's 2-0 German Cup semi-final win ove…",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fb2c9229-ebaa-43b3-9043-aa66b2d46dc9",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-25T16:11:37Z",
+      "title": "'Best team in the world' Bayern win 4-3 in Mainz from 3-0 down",
+      "description": "Harry Kane scored the winner off the subs' bench as Bayern Munich fought from three goals down to a 4-3 triumph at Mainz on Saturday after the freshly crowned Bundesliga champions almost paid the price for fielding a much changed line-up ahead of their big Ch…",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260425-99-237425/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-04-25T19:08:39Z",
       "league": "Bundesliga"
     }
   ],
-  "generatedAt": "2026-04-26T18:43:36.290Z"
+  "generatedAt": "2026-04-26T23:34:45.854Z"
 }
