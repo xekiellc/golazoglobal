@@ -725,28 +725,21 @@
           "penalties": 2
         },
         {
+          "name": "Murilo",
+          "team": "Gil Vicente",
+          "goals": 11,
+          "assists": 4,
+          "penalties": 6
+        },
+        {
           "name": "Pablo Felipe",
           "team": "Gil Vicente",
           "goals": 10,
           "assists": 0,
           "penalties": 2
-        },
-        {
-          "name": "Clayton",
-          "team": "Rio Ave",
-          "goals": 10,
-          "assists": 6,
-          "penalties": 2
         }
       ],
       "topAssists": [
-        {
-          "name": "Clayton",
-          "team": "Rio Ave",
-          "goals": 10,
-          "assists": 6,
-          "penalties": 2
-        },
         {
           "name": "Pedro Gonçalves",
           "team": "Sporting CP",
@@ -774,6 +767,13 @@
           "goals": 15,
           "assists": 4,
           "penalties": 3
+        },
+        {
+          "name": "Murilo",
+          "team": "Gil Vicente",
+          "goals": 11,
+          "assists": 4,
+          "penalties": 6
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-27T19:16:01.919Z"
+  "generatedAt": "2026-04-27T23:52:51.534Z"
 }

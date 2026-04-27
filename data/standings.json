@@ -31,13 +31,13 @@
         "position": 3,
         "team": "Man United",
         "played": 34,
-        "won": 16,
-        "drawn": 11,
+        "won": 17,
+        "drawn": 10,
         "lost": 7,
-        "goalsFor": 58,
-        "goalsAgainst": 45,
-        "goalDifference": 13,
-        "points": 59,
+        "goalsFor": 60,
+        "goalsAgainst": 46,
+        "goalDifference": 14,
+        "points": 61,
         "form": ""
       },
       {
@@ -81,19 +81,6 @@
       },
       {
         "position": 7,
-        "team": "Brentford",
-        "played": 34,
-        "won": 13,
-        "drawn": 10,
-        "lost": 11,
-        "goalsFor": 48,
-        "goalsAgainst": 44,
-        "goalDifference": 4,
-        "points": 49,
-        "form": ""
-      },
-      {
-        "position": 8,
         "team": "Bournemouth",
         "played": 34,
         "won": 11,
@@ -106,7 +93,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 8,
         "team": "Chelsea",
         "played": 34,
         "won": 13,
@@ -115,6 +102,19 @@
         "goalsFor": 53,
         "goalsAgainst": 45,
         "goalDifference": 8,
+        "points": 48,
+        "form": ""
+      },
+      {
+        "position": 9,
+        "team": "Brentford",
+        "played": 34,
+        "won": 13,
+        "drawn": 9,
+        "lost": 12,
+        "goalsFor": 49,
+        "goalsAgainst": 46,
+        "goalDifference": 3,
         "points": 48,
         "form": ""
       },
@@ -623,8 +623,8 @@
         "won": 12,
         "drawn": 12,
         "lost": 10,
-        "goalsFor": 34,
-        "goalsAgainst": 30,
+        "goalsFor": 37,
+        "goalsAgainst": 33,
         "goalDifference": 4,
         "points": 48,
         "form": ""
@@ -662,8 +662,8 @@
         "won": 12,
         "drawn": 8,
         "lost": 14,
-        "goalsFor": 38,
-        "goalsAgainst": 43,
+        "goalsFor": 41,
+        "goalsAgainst": 46,
         "goalDifference": -5,
         "points": 44,
         "form": ""
@@ -1563,14 +1563,14 @@
       {
         "position": 6,
         "team": "Gil Vicente",
-        "played": 30,
-        "won": 12,
+        "played": 31,
+        "won": 13,
         "drawn": 10,
         "lost": 8,
-        "goalsFor": 44,
-        "goalsAgainst": 31,
-        "goalDifference": 13,
-        "points": 46,
+        "goalsFor": 46,
+        "goalsAgainst": 32,
+        "goalDifference": 14,
+        "points": 49,
         "form": ""
       },
       {
@@ -1693,13 +1693,13 @@
       {
         "position": 16,
         "team": "Casa Pia",
-        "played": 30,
+        "played": 31,
         "won": 5,
         "drawn": 11,
-        "lost": 14,
-        "goalsFor": 28,
-        "goalsAgainst": 53,
-        "goalDifference": -25,
+        "lost": 15,
+        "goalsFor": 29,
+        "goalsAgainst": 55,
+        "goalDifference": -26,
         "points": 26,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-04-27T19:14:31.136Z"
+  "generatedAt": "2026-04-27T23:51:32.784Z"
 }

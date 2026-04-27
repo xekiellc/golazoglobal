@@ -4,28 +4,10 @@
       "league": "PL",
       "homeTeam": "Man United",
       "awayTeam": "Brentford",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-04-27T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Espanyol",
-      "awayTeam": "Levante",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-04-27T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Lazio",
-      "awayTeam": "Udinese",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-04-27T18:45:00Z"
+      "status": "FINISHED",
+      "utcDate": "2026-04-27T19:00:00Z"
     },
     {
       "league": "PD",
@@ -62,6 +44,15 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-04-26T19:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Espanyol",
+      "awayTeam": "Levante",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-04-27T19:00:00Z"
     },
     {
       "league": "SA",
@@ -107,6 +98,15 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-04-27T16:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Lazio",
+      "awayTeam": "Udinese",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-04-27T18:45:00Z"
     },
     {
       "league": "BL1",
@@ -226,6 +226,15 @@
       "utcDate": "2026-04-26T19:30:00Z"
     },
     {
+      "league": "PPL",
+      "homeTeam": "Gil Vicente",
+      "awayTeam": "Casa Pia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-04-27T19:15:00Z"
+    },
+    {
       "league": "ELC",
       "homeTeam": "Coventry City",
       "awayTeam": "Wrexham",
@@ -256,7 +265,7 @@
       "league": "BSA",
       "homeTeam": "Grêmio",
       "awayTeam": "Coritiba",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-04-26T19:00:00Z"
@@ -292,20 +301,11 @@
       "league": "BSA",
       "homeTeam": "Fluminense",
       "awayTeam": "Chapecoense",
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-04-26T23:30:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Gil Vicente",
-      "awayTeam": "Casa Pia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-27T19:15:00Z"
     }
   ],
-  "generatedAt": "2026-04-27T19:13:27.878Z"
+  "generatedAt": "2026-04-27T23:50:30.798Z"
 }
