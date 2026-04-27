@@ -267,6 +267,13 @@
           "penalties": 2
         },
         {
+          "name": "Gianluca Scamacca",
+          "team": "Atalanta",
+          "goals": 10,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "Keinan Davis",
           "team": "Udinese",
           "goals": 10,
@@ -285,13 +292,6 @@
           "team": "Torino",
           "goals": 10,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Nikola Krstović",
-          "team": "Atalanta",
-          "goals": 10,
-          "assists": 4,
           "penalties": 0
         }
       ],
@@ -325,11 +325,11 @@
           "penalties": 0
         },
         {
-          "name": "Nikola Krstović",
-          "team": "Atalanta",
-          "goals": 10,
-          "assists": 4,
-          "penalties": 0
+          "name": "Rasmus Højlund",
+          "team": "Napoli",
+          "goals": 11,
+          "assists": 3,
+          "penalties": 1
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-27T13:32:50.325Z"
+  "generatedAt": "2026-04-27T19:16:01.919Z"
 }

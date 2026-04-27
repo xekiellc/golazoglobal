@@ -1,6 +1,33 @@
 {
   "matches": [
     {
+      "league": "PL",
+      "homeTeam": "Man United",
+      "awayTeam": "Brentford",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-27T19:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Espanyol",
+      "awayTeam": "Levante",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-27T19:00:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Lazio",
+      "awayTeam": "Udinese",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-27T18:45:00Z"
+    },
+    {
       "league": "PD",
       "homeTeam": "Rayo Vallecano",
       "awayTeam": "Real Sociedad",
@@ -71,6 +98,15 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-04-26T18:45:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Cagliari",
+      "awayTeam": "Atalanta",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-04-27T16:30:00Z"
     },
     {
       "league": "BL1",
@@ -262,42 +298,6 @@
       "utcDate": "2026-04-26T23:30:00Z"
     },
     {
-      "league": "PL",
-      "homeTeam": "Man United",
-      "awayTeam": "Brentford",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-27T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Espanyol",
-      "awayTeam": "Levante",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-27T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Cagliari",
-      "awayTeam": "Atalanta",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-27T16:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Lazio",
-      "awayTeam": "Udinese",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-27T18:45:00Z"
-    },
-    {
       "league": "PPL",
       "homeTeam": "Gil Vicente",
       "awayTeam": "Casa Pia",
@@ -307,5 +307,5 @@
       "utcDate": "2026-04-27T19:15:00Z"
     }
   ],
-  "generatedAt": "2026-04-27T13:30:23.157Z"
+  "generatedAt": "2026-04-27T19:13:27.878Z"
 }
