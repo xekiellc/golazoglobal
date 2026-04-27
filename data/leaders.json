@@ -912,6 +912,13 @@
           "penalties": 0
         },
         {
+          "name": "Pedro",
+          "team": "Flamengo",
+          "goals": 7,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
           "name": "Jonathan Calleri",
           "team": "São Paulo",
           "goals": 6,
@@ -919,16 +926,9 @@
           "penalties": 1
         },
         {
-          "name": "Pedro",
-          "team": "Flamengo",
-          "goals": 6,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
           "name": "John Kennedy",
           "team": "Fluminense",
-          "goals": 5,
+          "goals": 6,
           "assists": 0,
           "penalties": 0
         },
@@ -965,7 +965,7 @@
         {
           "name": "Pedro",
           "team": "Flamengo",
-          "goals": 6,
+          "goals": 7,
           "assists": 3,
           "penalties": 0
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-26T23:38:32.668Z"
+  "generatedAt": "2026-04-27T08:17:42.349Z"
 }

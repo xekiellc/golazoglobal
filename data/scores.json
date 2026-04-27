@@ -1,114 +1,6 @@
 {
   "matches": [
     {
-      "league": "BSA",
-      "homeTeam": "Paranaense",
-      "awayTeam": "Vitória",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-04-26T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Mineiro",
-      "awayTeam": "Flamengo",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-04-26T23:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Fluminense",
-      "awayTeam": "Chapecoense",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-04-26T23:30:00Z"
-    },
-    {
-      "league": "PL",
-      "homeTeam": "Fulham",
-      "awayTeam": "Aston Villa",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T11:30:00Z"
-    },
-    {
-      "league": "PL",
-      "homeTeam": "Liverpool",
-      "awayTeam": "Crystal Palace",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T14:00:00Z"
-    },
-    {
-      "league": "PL",
-      "homeTeam": "West Ham",
-      "awayTeam": "Everton",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T14:00:00Z"
-    },
-    {
-      "league": "PL",
-      "homeTeam": "Wolverhampton",
-      "awayTeam": "Tottenham",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T14:00:00Z"
-    },
-    {
-      "league": "PL",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Newcastle",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T16:30:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Alavés",
-      "awayTeam": "Mallorca",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T12:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Getafe",
-      "awayTeam": "Barça",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T14:15:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Valencia",
-      "awayTeam": "Girona",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T16:30:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Atleti",
-      "awayTeam": "Athletic",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T19:00:00Z"
-    },
-    {
       "league": "PD",
       "homeTeam": "Rayo Vallecano",
       "awayTeam": "Real Sociedad",
@@ -143,33 +35,6 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-04-26T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Parma",
-      "awayTeam": "AC Pisa",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T13:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Bologna",
-      "awayTeam": "Roma",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T16:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Verona",
-      "awayTeam": "Lecce",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T18:45:00Z"
     },
     {
       "league": "SA",
@@ -209,60 +74,6 @@
     },
     {
       "league": "BL1",
-      "homeTeam": "Mainz",
-      "awayTeam": "Bayern",
-      "homeScore": 3,
-      "awayScore": 4,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T13:30:00Z"
-    },
-    {
-      "league": "BL1",
-      "homeTeam": "1. FC Köln",
-      "awayTeam": "Leverkusen",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T13:30:00Z"
-    },
-    {
-      "league": "BL1",
-      "homeTeam": "Augsburg",
-      "awayTeam": "Frankfurt",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T13:30:00Z"
-    },
-    {
-      "league": "BL1",
-      "homeTeam": "Wolfsburg",
-      "awayTeam": "M'gladbach",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T13:30:00Z"
-    },
-    {
-      "league": "BL1",
-      "homeTeam": "Heidenheim",
-      "awayTeam": "St. Pauli",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T13:30:00Z"
-    },
-    {
-      "league": "BL1",
-      "homeTeam": "HSV",
-      "awayTeam": "Hoffenheim",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T16:30:00Z"
-    },
-    {
-      "league": "BL1",
       "homeTeam": "Stuttgart",
       "awayTeam": "Bremen",
       "homeScore": 1,
@@ -278,33 +89,6 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-04-26T15:30:00Z"
-    },
-    {
-      "league": "FL1",
-      "homeTeam": "Olympique Lyon",
-      "awayTeam": "Auxerre",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T13:00:00Z"
-    },
-    {
-      "league": "FL1",
-      "homeTeam": "Angers SCO",
-      "awayTeam": "PSG",
-      "homeScore": 0,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T17:00:00Z"
-    },
-    {
-      "league": "FL1",
-      "homeTeam": "Toulouse",
-      "awayTeam": "Monaco",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T19:05:00Z"
     },
     {
       "league": "FL1",
@@ -353,42 +137,6 @@
     },
     {
       "league": "DED",
-      "homeTeam": "Feyenoord",
-      "awayTeam": "Groningen",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T14:30:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Heerenveen",
-      "awayTeam": "Sittard",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T16:45:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "NAC",
-      "awayTeam": "Ajax",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T18:00:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Twente",
-      "awayTeam": "NEC",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T19:00:00Z"
-    },
-    {
-      "league": "DED",
       "homeTeam": "Excelsior",
       "awayTeam": "Utrecht",
       "homeScore": 5,
@@ -404,33 +152,6 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-04-26T12:30:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Tondela",
-      "awayTeam": "CD Nacional",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T14:30:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "SL Benfica",
-      "awayTeam": "Moreirense",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T17:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Vitória SC",
-      "awayTeam": "Rio Ave",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T19:30:00Z"
     },
     {
       "league": "PPL",
@@ -470,120 +191,12 @@
     },
     {
       "league": "ELC",
-      "homeTeam": "Charlton",
-      "awayTeam": "Hull City",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Middlesbrough",
-      "awayTeam": "Watford",
-      "homeScore": 5,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "West Brom",
-      "awayTeam": "Ipswich Town",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Birmingham",
-      "awayTeam": "Bristol City",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T14:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Norwich",
-      "awayTeam": "Swansea",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T14:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Oxford United",
-      "awayTeam": "Sheffield Wed",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T14:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "QPR",
-      "awayTeam": "Derby County",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T14:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Sheffield Utd",
-      "awayTeam": "Preston NE",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T14:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Stoke",
-      "awayTeam": "Portsmouth",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T14:00:00Z"
-    },
-    {
-      "league": "ELC",
       "homeTeam": "Coventry City",
       "awayTeam": "Wrexham",
       "homeScore": 3,
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-04-26T11:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Bahia",
-      "awayTeam": "Santos",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Botafogo",
-      "awayTeam": "Internacional",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Clube do Remo",
-      "awayTeam": "Cruzeiro",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-25T21:30:00Z"
     },
     {
       "league": "BSA",
@@ -607,10 +220,19 @@
       "league": "BSA",
       "homeTeam": "Grêmio",
       "awayTeam": "Coritiba",
-      "homeScore": 2,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-04-26T19:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Paranaense",
+      "awayTeam": "Vitória",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-04-26T21:30:00Z"
     },
     {
       "league": "BSA",
@@ -620,7 +242,70 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-04-26T21:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Mineiro",
+      "awayTeam": "Flamengo",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "FINISHED",
+      "utcDate": "2026-04-26T23:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Chapecoense",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-04-26T23:30:00Z"
+    },
+    {
+      "league": "PL",
+      "homeTeam": "Man United",
+      "awayTeam": "Brentford",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-04-27T19:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Espanyol",
+      "awayTeam": "Levante",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-04-27T19:00:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Cagliari",
+      "awayTeam": "Atalanta",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-04-27T16:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Lazio",
+      "awayTeam": "Udinese",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-04-27T18:45:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Gil Vicente",
+      "awayTeam": "Casa Pia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-04-27T19:15:00Z"
     }
   ],
-  "generatedAt": "2026-04-26T23:36:10.852Z"
+  "generatedAt": "2026-04-27T08:15:21.621Z"
 }
