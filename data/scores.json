@@ -1,6 +1,24 @@
 {
   "matches": [
     {
+      "league": "CL",
+      "homeTeam": "PSG",
+      "awayTeam": "Bayern",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-28T19:00:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Southampton",
+      "awayTeam": "Ipswich Town",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-28T18:45:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Man United",
       "awayTeam": "Brentford",
@@ -44,25 +62,7 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-04-27T19:15:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "PSG",
-      "awayTeam": "Bayern",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-28T19:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Southampton",
-      "awayTeam": "Ipswich Town",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-28T18:45:00Z"
     }
   ],
-  "generatedAt": "2026-04-28T13:54:47.177Z"
+  "generatedAt": "2026-04-28T19:28:19.436Z"
 }

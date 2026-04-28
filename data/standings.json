@@ -1747,14 +1747,14 @@
       {
         "position": 2,
         "team": "Ipswich Town",
-        "played": 44,
+        "played": 45,
         "won": 22,
-        "drawn": 14,
+        "drawn": 15,
         "lost": 8,
         "goalsFor": 75,
         "goalsAgainst": 45,
         "goalDifference": 30,
-        "points": 80,
+        "points": 81,
         "form": ""
       },
       {
@@ -1786,14 +1786,14 @@
       {
         "position": 5,
         "team": "Southampton",
-        "played": 44,
+        "played": 45,
         "won": 21,
-        "drawn": 13,
+        "drawn": 14,
         "lost": 10,
         "goalsFor": 77,
         "goalsAgainst": 53,
         "goalDifference": 24,
-        "points": 76,
+        "points": 77,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-04-28T13:55:50.652Z"
+  "generatedAt": "2026-04-28T19:29:21.623Z"
 }
