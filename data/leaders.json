@@ -794,18 +794,18 @@
           "penalties": 2
         },
         {
+          "name": "Jack Clarke",
+          "team": "Ipswich Town",
+          "goals": 16,
+          "assists": 1,
+          "penalties": 6
+        },
+        {
           "name": "Oliver McBurnie",
           "team": "Hull City",
           "goals": 15,
           "assists": 8,
           "penalties": 2
-        },
-        {
-          "name": "Jack Clarke",
-          "team": "Ipswich Town",
-          "goals": 15,
-          "assists": 1,
-          "penalties": 6
         },
         {
           "name": "Josh Windass",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-28T19:30:49.885Z"
+  "generatedAt": "2026-04-28T23:55:20.897Z"
 }
