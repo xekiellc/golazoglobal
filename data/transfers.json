@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-04-27T23:49:07.277Z",
+  "transfers": [
+    {
+      "player": "Chelsea stance on Enzo Fernandez sale re",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Cityxtra.co.uk",
+      "url": "https://cityxtra.co.uk/45244/chelsea-stance-on-enzo-fernandez-sale-revealed-amid-newfound-manchester-city-interest/",
+      "publishedAt": "2026-04-27T07:00:00Z"
+    }
+  ],
+  "generatedAt": "2026-04-28T08:16:23.013Z",
   "note": "Transfers derived from news headlines at launch."
 }
