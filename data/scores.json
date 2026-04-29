@@ -1,58 +1,13 @@
 {
   "matches": [
     {
-      "league": "PL",
-      "homeTeam": "Man United",
-      "awayTeam": "Brentford",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-27T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Espanyol",
-      "awayTeam": "Levante",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-04-27T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Cagliari",
-      "awayTeam": "Atalanta",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-04-27T16:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Lazio",
-      "awayTeam": "Udinese",
-      "homeScore": 3,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-04-27T18:45:00Z"
-    },
-    {
       "league": "CL",
-      "homeTeam": null,
-      "awayTeam": null,
+      "homeTeam": "PSG",
+      "awayTeam": "Bayern",
       "homeScore": 5,
       "awayScore": 4,
       "status": "FINISHED",
       "utcDate": "2026-04-28T19:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Gil Vicente",
-      "awayTeam": "Casa Pia",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-27T19:15:00Z"
     },
     {
       "league": "ELC",
@@ -62,7 +17,25 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-04-28T18:45:00Z"
+    },
+    {
+      "league": "CL",
+      "homeTeam": "Atleti",
+      "awayTeam": "Arsenal",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-04-29T19:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Tondela",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-04-29T19:15:00Z"
     }
   ],
-  "generatedAt": "2026-04-28T23:52:56.206Z"
+  "generatedAt": "2026-04-29T08:09:54.629Z"
 }
