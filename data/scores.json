@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "CL",
+      "homeTeam": "Atleti",
+      "awayTeam": "Arsenal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-04-29T19:00:00Z"
+    },
+    {
+      "league": "CL",
       "homeTeam": "PSG",
       "awayTeam": "Bayern",
       "homeScore": 5,
@@ -19,15 +28,6 @@
       "utcDate": "2026-04-28T18:45:00Z"
     },
     {
-      "league": "CL",
-      "homeTeam": "Atleti",
-      "awayTeam": "Arsenal",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-04-29T19:00:00Z"
-    },
-    {
       "league": "PPL",
       "homeTeam": "Sporting CP",
       "awayTeam": "Tondela",
@@ -37,5 +37,5 @@
       "utcDate": "2026-04-29T19:15:00Z"
     }
   ],
-  "generatedAt": "2026-04-29T13:47:03.974Z"
+  "generatedAt": "2026-04-29T19:19:22.096Z"
 }
