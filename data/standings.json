@@ -1524,14 +1524,14 @@
       {
         "position": 3,
         "team": "Sporting CP",
-        "played": 30,
+        "played": 31,
         "won": 22,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 2,
-        "goalsFor": 75,
-        "goalsAgainst": 20,
+        "goalsFor": 77,
+        "goalsAgainst": 22,
         "goalDifference": 55,
-        "points": 72,
+        "points": 73,
         "form": ""
       },
       {
@@ -1706,14 +1706,14 @@
       {
         "position": 17,
         "team": "Tondela",
-        "played": 30,
+        "played": 31,
         "won": 4,
-        "drawn": 9,
+        "drawn": 10,
         "lost": 17,
-        "goalsFor": 21,
-        "goalsAgainst": 50,
+        "goalsFor": 23,
+        "goalsAgainst": 52,
         "goalDifference": -29,
-        "points": 21,
+        "points": 22,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-04-29T19:20:24.249Z"
+  "generatedAt": "2026-04-29T23:53:21.580Z"
 }

@@ -671,7 +671,7 @@
         {
           "name": "Luis Suárez",
           "team": "Sporting CP",
-          "goals": 24,
+          "goals": 25,
           "assists": 4,
           "penalties": 4
         },
@@ -750,7 +750,7 @@
         {
           "name": "Luis Suárez",
           "team": "Sporting CP",
-          "goals": 24,
+          "goals": 25,
           "assists": 4,
           "penalties": 4
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-04-29T19:21:47.651Z"
+  "generatedAt": "2026-04-29T23:54:49.333Z"
 }

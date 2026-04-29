@@ -1,36 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "$2 Million Tickets For The Final? It’s T",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/michaellewis/2026/04/28/2-million-tickets-for-the-final-its-the-rich-peoples-world-cup/",
-      "publishedAt": "2026-04-28T18:25:09Z"
-    },
-    {
-      "player": "Mykhailo Mudryk transfer fee to be CUT b",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/football/article-15772921/Mykhailo-Mudryk-Chelsea-transfer-SHakhtar-Donetsk.html",
-      "publishedAt": "2026-04-28T17:57:16Z"
-    },
-    {
-      "player": "Bret Bielema Appears To Accuse Georgia F",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Spun",
-      "url": "https://thespun.com/college-football/bret-bielema-appears-to-accuse-georgia-football-of-tampering",
-      "publishedAt": "2026-04-28T17:49:57Z"
-    }
-  ],
-  "generatedAt": "2026-04-29T19:17:58.223Z",
+  "transfers": [],
+  "generatedAt": "2026-04-29T23:50:52.415Z",
   "note": "Transfers derived from news headlines at launch."
 }
