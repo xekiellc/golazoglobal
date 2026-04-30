@@ -1,123 +1,59 @@
 {
   "articles": [
     {
-      "title": "PSG vs. Bayern Munich more than just history making: Epic UCL clash was soccer at its absolute finest",
-      "description": "Two of the world's best teams met, put on an absolute show, and everyone who watched it won",
-      "url": "https://www.cbssports.com/soccer/news/psg-vs-bayern-munich-classic-elite-soccer-champions-league/",
-      "source": "CBS Sports",
-      "publishedAt": "2026-04-28T23:21:34Z",
+      "title": "Tottenham suffer massive injury blow as key star could miss rest of season",
+      "description": "Tottenham Hotspur have suffered a massive blow to their Premier League survival hopes as they could be without Dominic Solanke for the remainder of the season. Spurs claimed a much-needed 1-0 win at ...",
+      "url": "https://footballtoday.com/2026/04/29/tottenham-suffer-massive-injury-blow-as-key-star-could-miss-rest-of-season/",
+      "source": "Footballtoday.com",
+      "publishedAt": "2026-04-29T08:00:00Z",
       "league": "Premier League"
     },
     {
-      "title": "Report: Julian Alvarez makes key move as Barcelona transfer edges closer",
-      "description": "Julian Alvarez is reportedly moving closer to a transfer to Barcelona after informing Atletico Madrid of his intentions. For months, Julian Alvarez’s name has appeared in multiple reports linking him with Barcelona, who are in the market for a center forward …",
-      "url": "https://worldsoccertalk.com/news/report-julian-alvarez-makes-key-move-as-barcelona-transfer-edges-closer/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-04-28T22:55:26Z",
+      "title": "Arsenal and Atletico Madrid meet in Spain aiming for Champions League final return",
+      "description": "Atletico Madrid and Arsenal begin a Champions League semifinal series Wednesday, with both clubs trying to return to the final after a long absence and aiming to win the competition for the first time. Atletico last played in the semifinals in 2016, when it r…",
+      "url": "https://sports.yahoo.com/articles/arsenal-atletico-madrid-meet-spain-074459638.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-29T07:44:59Z",
       "league": "Premier League"
     },
     {
-      "title": "McKenna 'so proud' of Ipswich performance at Saints",
-      "description": "Ipswich Town boss Kieran McKenna describes the 2-2 draw with Southampton as an \"outstanding game of football\".",
-      "url": "https://www.bbc.com/sport/football/articles/ce9pz4l4yvmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-04-28T22:26:46Z",
-      "league": "Premier League"
+      "title": "Preview: Atletico de Madrid v Arsenal",
+      "description": "Get ready for tonight's first leg at Atletico de Madrid with our preview, packed with team news, stats and more",
+      "url": "http://www.arsenal.com/news/preview-atletico-de-madrid-v-arsenal",
+      "source": "Arsenal.com",
+      "publishedAt": "2026-04-29T08:00:00Z",
+      "league": "La Liga"
     },
     {
-      "title": "Saints will 'find a way' in the play-offs - Eckert",
-      "description": "Southampton boss Tonda Eckert says that his side will \"find a way\" to win the play-offs and seal a return to the Premier League.",
-      "url": "https://www.bbc.com/sport/football/articles/c93x5jegedlo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-04-28T22:22:51Z",
-      "league": "Premier League"
+      "title": "Barcelona to hold title parade immediately after securing La Liga crown",
+      "description": "According to Mundo Deportivo, FC Barcelona have decided that their LaLiga title parade will take place immediately after being crowned champions. Following internal discussions, in which some voices s...",
+      "url": "https://barcauniversal.com/barcelona-to-hold-title-parade-immediately-after-securing-la-liga-crown/",
+      "source": "Barcauniversal.com",
+      "publishedAt": "2026-04-29T07:40:00Z",
+      "league": "La Liga"
     },
     {
-      "title": "Man United hit with fixture uncertainty after latest PL announcement",
-      "description": "Manchester United are facing a wait to find out the date for their final home game of the season against Vitor Pereira’s Nottingham Forest.Champions League football in sightUnited are just one step ...",
-      "url": "https://thepeoplesperson.com/2026/04/28/man-united-hit-with-fixture-uncertainty-after-latest-pl-announcement-309410/",
+      "title": "La Liga chief doesn’t want Barcelona to win league title vs Real Madrid in El Clasico – here’s why",
+      "description": "With just five matches remaining until the end of the season, Real Madrid are staring at the possibility of handing Barcelona the La Liga title in the upcoming El Clasico at the Camp Nou.It is a scena...",
+      "url": "https://madriduniversal.com/la-liga-chief-doesnt-want-barcelona-to-win-league-title-vs-real-madrid-in-el-clasico-heres-why/",
+      "source": "Madriduniversal.com",
+      "publishedAt": "2026-04-29T06:35:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Mercedes Benz sues Osimhen for alleged ₦142m debt",
+      "description": "German automaker Mercedes-Benz has reportedly filed a complaint with the Italian Carabinieri against Super Eagles striker Victor Osimhen for allegedly failing to complete payments for a leased vehicle.\nThe post Mercedes Benz sues Osimhen for alleged ₦142m deb…",
+      "url": "https://www.vanguardngr.com/2026/04/mercedes-benz-sues-osimhen-for-alleged-₦142m-debt/",
+      "source": "Vanguard",
+      "publishedAt": "2026-04-29T07:58:29Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Francisco Conceicao: Man United face fierce battle for Juventus star",
+      "description": "Manchester United are preparing to battle bitter rivals Liverpool to sign Juventus winger Francisco Conceição this summer, according to the latest report from Italy.Wing WizardConceição, 23, is a ...",
+      "url": "https://thepeoplesperson.com/2026/04/28/francisco-conceicao-man-united-face-fierce-battle-for-juventus-star-309403/",
       "source": "The Peoples Person",
-      "publishedAt": "2026-04-28T22:10:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Havertz ruled out of Arsenal’s Champions League clash vs Atletico: Does it affect his World Cup hopes?",
-      "description": "With the 2026 FIFA World Cup approaching, Kai Havertz has been ruled out of the UEFA Champions League clash between Arsenal and Atletico Madrid. This Wednesday, Arsenal are set to visit Atletico Madrid for the first leg of the UEFA Champions League semifinals…",
-      "url": "https://worldsoccertalk.com/news/havertz-ruled-out-of-arsenals-champions-league-clash-vs-atletico-does-it-affect-his-world-cup-hopes/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-04-28T22:08:16Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Robinson, Pulisic, and the other USMNT players to watch over final European matches",
-      "description": "The 2025-26 Americans Abroad season is in its final stretch and for several key U.S. men’s national team players, ending the campaign on a high note is vital. From Antonee Robinson’s up-and-down role with Premier League side Fulham to Sergino Dest’s race to g…",
-      "url": "https://sbisoccer.com/2026/04/robinson-pulisic-and-the-other-usmnt-players-to-watch-over-final-european-matches",
-      "source": "Sbisoccer.com",
-      "publishedAt": "2026-04-28T21:55:52Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "‘It’s clearly not working’ – Javier Tebas calls for VAR changes in La Liga",
-      "description": "Must do better, is the message.",
-      "url": "https://www.barcablaugranes.com/barcelona-la-liga/118871/its-clearly-not-working-javier-tebas-calls-for-var-changes-in-la-liga",
-      "source": "Barca Blaugranes",
-      "publishedAt": "2026-04-28T23:00:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Kylian Mbappe watches on: Real Madrid president Florentino Perez pushes for Jose Mourinho’s return as manager’s release clause value comes to light",
-      "description": "Reports suggest Florentino Perez is personally leading the search for a new coach, with the Portuguese tactician emerging as a serious option for the Spanish giant. Real Madrid could be heading toward one of the most dramatic managerial moves in recent memory…",
-      "url": "https://worldsoccertalk.com/news/kylian-mbappe-watches-on-real-madrid-president-florentino-perez-pushes-for-jose-mourinhos-return-as-managers-release-clause-value-comes-to-light/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-04-28T21:06:04Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Thibaut Courtois and Real Madrid reportedly set return date with Barcelona match on the horizon",
-      "description": "Thibaut Courtois and Real Madrid set a return date for the goalkeeper with El Clásico against Barcelona on the horizon. Real Madrid have many valuable players who have been injured, but none has been more irreplaceable than Thibaut Courtois. The goalkeeper an…",
-      "url": "https://worldsoccertalk.com/news/thibaut-courtois-and-real-madrid-reportedly-set-return-date-with-barcelona-match-on-the-horizon/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-04-28T21:03:14Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Jose Mourinho back to Real Madrid? Perez Favors Benfica Boss To Replace Arbeloa",
-      "description": "Jose Mourinho is reportedly the leading candidate to return to Real Madrid as head coach if Alvaro Arbeloa is sacked.",
-      "url": "https://www.foxsports.com/stories/soccer/jose-mourinho-back-real-madrid-perez-favors-benfica-boss-replace-arbeloa",
-      "source": "Fox Sports",
-      "publishedAt": "2026-04-28T20:57:06Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "José Mourinho makes his feelings known as Real Madrid draw up 4-man manager shortlist",
-      "description": "The brass at La Liga giants Real Madrid have drawn up a shortlist of targets to take over on the club’s bench for next season.And amongst the frontrunners for the post is ex-Blancos headmaster José...",
-      "url": "https://getfootballnewsspain.com/jose-mourinho-makes-his-feelings-known-as-real-madrid-draw-up-4-man-manager-shortlist/",
-      "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-04-28T20:45:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Christian Pulisic’s Milan and Lamine Yamal’s Barcelona braced for FIFA’s major change in European leagues after 2026 World Cup",
-      "description": "Christian Pulisic’s Milan and Lamine Yamal’s Barcelona could soon find themselves at the center of a dramatic new era in soccer after FIFA reportedly began shaping plans for a major change to how domestic leagues operate after the 2026 World Cup. The proposal…",
-      "url": "https://worldsoccertalk.com/news/christian-pulisics-milan-and-lamine-yamals-barcelona-braced-for-fifas-major-change-in-european-leagues-after-2026-world-cup/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-04-28T20:11:26Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Diego Simeone Confirms Arsenal's Interest In Julian Alvarez Ahead Of Semifinal",
-      "description": "Atletico Madrid boss Diego Simeone has addressed reports linking Julian Alvarez with a summer move to Arsenal, acknowledging that the Gunners are among the elite clubs monitoring the Argentine forward.",
-      "url": "https://www.foxsports.com/stories/soccer/diego-simeone-confirms-arsenals-interest-julian-alvarez-ahead-semifinal",
-      "source": "Fox Sports",
-      "publishedAt": "2026-04-28T19:26:19Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Serie A confirms key transfer window dates for the 2026/2027 season",
-      "description": "The important transfer window dates for the 2026/2027 Serie A season have now been confirmed, allowing clubs to begin detailed preparations behind the scenes. Recruitment departments, managers, and ex...",
-      "url": "https://www.juvefc.com/serie-a-confirms-key-transfer-window-dates-for-the-2026-2027-season/",
-      "source": "JuveFC",
-      "publishedAt": "2026-04-28T21:00:00Z",
+      "publishedAt": "2026-04-28T20:35:00Z",
       "league": "Serie A"
     },
     {
@@ -137,12 +73,20 @@
       "league": "Serie A"
     },
     {
-      "title": "Modric undergoes cheekbone surgery ahead of World Cup",
-      "description": "Croatia and AC Milan's Luka Modric sustained the injury following a clash of heads with Juventus midfielder Manuel Locatelli during their Serie A match on Sunday.",
-      "url": "https://www.rediff.com/sports/report/luka-modric-undergoes-cheekbone-surgery-ahead-of-world-cup/20260428.htm",
-      "source": "Rediff.com",
-      "publishedAt": "2026-04-28T11:26:15Z",
-      "league": "Serie A"
+      "title": "Bundesliga and 2. Bundesliga strike partnership with Adidas worth €100m",
+      "description": "The German Football League (DFL) has secured the long-awaited capital in order to further develop the Bundesliga and 2. Bundesliga with a newly agreed deal.Germany's top two football divisions will re...",
+      "url": "https://bulinews.com/bundesliga-and-2-bundesliga-strike-partnership-adidas-worth-100m",
+      "source": "Bulinews.com",
+      "publishedAt": "2026-04-29T06:15:00Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Bayern Munich wouldn’t accept record €200M fee for Michael Olise, says legend Rummenigge",
+      "description": "Bayern Munich legend and Supervisory Board member Karl-Heinz Rummenigge stated that Michael Olise wouldn't leave the club even for a record-breaking fee of €200M. Michael Olise has established himself as one of the most exciting talents in world soccer, reach…",
+      "url": "https://worldsoccertalk.com/news/bayern-munich-wouldnt-accept-record-eur200m-fee-for-michael-olise-says-legend-rummenigge/",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-04-29T02:57:22Z",
+      "league": "Bundesliga"
     },
     {
       "title": "Germany Delays World Cup Squad Reveal To Give Injured Players More Time",
@@ -161,6 +105,30 @@
       "league": "Bundesliga"
     },
     {
+      "title": "Revealed: Mason Greenwood's transfer price tag - and how Man United could cash in - as Champions League giants hope to capitalise on chaos at Marseille",
+      "description": "Manchester United's summer transfer kitty could be boosted with the sell-on clause from one of their former players.",
+      "url": "https://www.dailymail.com/sport/football/article-15774689/Mason-Greenwoods-transfer-price-tag-Man-United-cash-Champions-League-giants-hope-capitalise-chaos-Marseille.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-29T07:46:45Z",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "Ousmane Dembélé voted Man of the Match in PSG’s 5-4 win over Bayern Munich",
+      "description": "It was another masterclass performance from Ousmane Dembélé vs FC Bayern.",
+      "url": "https://www.bavarianfootballworks.com/champions-league/195586/ousmane-dembele-voted-man-of-the-match-in-psgs-5-4-win-over-bayern-munich",
+      "source": "Bavarian Football Works",
+      "publishedAt": "2026-04-28T22:04:13Z",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "PLAYER RATINGS | PSG 5-4 Bayern Munich: Les Parisiens on top in thrilling Champions League encounter",
+      "description": "UEFA Champions League, Semi-finals, 28/4/25In a high scoring encounter and undoubted UEFA Champions League classic, PSG secured a narrow margin ahead of the second leg as they emerged 5-4 victors. Ous...",
+      "url": "https://www.getfootballnewsfrance.com/2026/player-ratings-psg-5-4-bayern-munich-les-parisiens-on-top-in-thrilling-champions-league-encounter/",
+      "source": "Get French Football News",
+      "publishedAt": "2026-04-28T21:05:00Z",
+      "league": "Ligue 1"
+    },
+    {
       "title": "Utterly ridiculous! PSG beat Bayern in NINE-goal Champions League epic",
       "description": "A nine-goal Champions League classic saw holders PSG sensationally beat Bayern Munich 5-4 in the first leg of their semi-final in Paris.",
       "url": "https://www.skysports.com/football/news/11820/13537125/psg-5-4-bayern-munich-champions-league-holders-beat-bayern-in-nine-goal-thriller-in-first-leg-of-semi-final",
@@ -169,77 +137,29 @@
       "league": "Ligue 1"
     },
     {
-      "title": "Vincent Kompany praises Bayern Munich star Michael Olise, while focusing on the big picture",
-      "description": "Olise had a superb performance, but there is still work to be done.",
-      "url": "https://www.bavarianfootballworks.com/champions-league/195743/bayern-munich-vincent-kompany-praises-michael-olise-while-focusing-on-the-big-picture-ucl-champions-league",
-      "source": "Bavarian Football Works",
-      "publishedAt": "2026-04-28T23:43:09Z",
+      "title": "World Cup to get cash boost as FIFA unveils red card crackdown",
+      "description": "FIFA on Tuesday boosted overall World Cup cash distributions to nearly $900 million following concerns over the spiraling costs for teams taking part in the tournament.\nThe post World Cup to get cash boost as FIFA unveils red card crackdown appeared first on …",
+      "url": "https://www.vanguardngr.com/2026/04/world-cup-to-get-cash-boost-as-fifa-unveils-red-card-crackdown/",
+      "source": "Vanguard",
+      "publishedAt": "2026-04-29T07:52:09Z",
       "league": "Champions League"
     },
     {
-      "title": "Bayern Munich boss Vincent Kompany says team won’t lose belief after PSG loss",
-      "description": "FC Bayern will have to battle back against PSG in leg two.",
-      "url": "https://www.bavarianfootballworks.com/champions-league/195769/bayern-munich-boss-vincent-kompany-says-team-wont-lose-belief-after-psg-loss",
-      "source": "Bavarian Football Works",
-      "publishedAt": "2026-04-28T23:41:36Z",
+      "title": "Wayne Rooney blasts Harry Kane's 'incredible' post-match interview claims on Bayern Munich and PSG's nine-goal Champions League thriller",
+      "description": "Wayne Rooney criticised and questioned Harry Kane assessment of Bayern Munich's performance after he hailed their DEFENDERS in the 5-4 thriller.",
+      "url": "https://www.dailymail.com/sport/football/article-15774675/wayne-rooney-harry-kane-bayern-munich-psg.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-29T07:17:45Z",
       "league": "Champions League"
     },
     {
-      "title": "A record-breaking semi-final - the antidote to modern football?",
-      "description": "A scintillating semi-final first leg between Paris St-Germain and Bayern Munich left many to wonder if this was the antidote to modern football.",
-      "url": "https://www.bbc.com/sport/football/articles/cp3pd2kgy76o",
-      "source": "BBC News",
-      "publishedAt": "2026-04-28T23:33:30Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "Americans Abroad Player of the Week: Ricardo Pepi",
-      "description": "PSV may have already clinched the Eredivisie title but it hasn’t stopped Ricardo Pepi from making up for lost time. Pepi scored twice on Thursday in PSV’s 6-2 league victory over PEC Zwolle, taking his season tally up to 16 for the campaign. The U.S. men’s na…",
-      "url": "https://sbisoccer.com/2026/04/americans-abroad-player-of-the-week-ricardo-pepi-7",
-      "source": "Sbisoccer.com",
-      "publishedAt": "2026-04-27T13:00:37Z",
-      "league": "Eredivisie"
-    },
-    {
-      "title": "USMNT World Cup roster projection: Who's in, who's on the bubble for the 26-man squad",
-      "description": "The USMNT roster race is down to the wire. We project Mauricio Pochettino's selections and the handful of players still clinging to World Cup hope.",
-      "url": "https://sports.yahoo.com/soccer/article/usmnt-world-cup-roster-projection-whos-in-whos-on-the-bubble-for-the-26-man-squad-010006223.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-27T01:00:06Z",
-      "league": "Eredivisie"
-    },
-    {
-      "title": "Minister says B.C. gov't won't buy Vancouver Whitecaps, but will help soccer team cut costs",
-      "description": "The Whitecaps issued a statement on Monday saying stadium economics, venue access, and revenue limitations have made it difficult to attract buyers committed to keeping the team in Vancouver.",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-government-whitecaps-relocation-9.7180719",
-      "source": "CBC News",
-      "publishedAt": "2026-04-28T23:25:42Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Poland recruiting top USMNT prospect Julian Hall",
-      "description": "Julian Hall's red-hot start to the MLS season is earning plenty of attention, including from Poland's national team.",
-      "url": "https://www.usatoday.com/story/sports/soccer/usmnt/2026/04/28/julian-hall-poland-usmnt-red-bulls-forward/89835058007/",
-      "source": "USA Today",
-      "publishedAt": "2026-04-28T15:49:56Z",
-      "league": "MLS"
-    },
-    {
-      "title": "World Cup host city Vancouver risks losing its Major League Soccer club Whitecaps",
-      "description": "MLS said late Monday it “will evaluate all options” for the future of the Vancouver Whitecaps including moving out of the city. Uncertainty around the team is fueled by limited revenue options and a short-term lease at B.C. Place stadium that will host seven …",
-      "url": "https://sports.yahoo.com/articles/world-cup-host-city-vancouver-104925260.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-28T10:49:25Z",
-      "league": "MLS"
-    },
-    {
-      "title": "MLS owners discuss relocation of Vancouver Whitecaps, per report",
-      "description": "MLS owners are evaluating the future of the Vancouver Whitecaps, with possible relocation to Las Vegas being discussed, according to reports.",
-      "url": "https://www.usatoday.com/story/sports/soccer/mls/2026/04/27/vancouver-whitecaps-relocation-las-vegas-mls/89829941007/",
-      "source": "USA Today",
-      "publishedAt": "2026-04-28T02:33:13Z",
+      "title": "World Cup Host City Vancouver Risks Losing Its Major League Soccer Club Whitecaps",
+      "description": "World Cup host Vancouver is at risk of losing its Major League Soccer club to another city.",
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-host-city-vancouver-risks-losing-its-major-league-soccer-club-whitecaps",
+      "source": "Fox Sports",
+      "publishedAt": "2026-04-29T00:56:05Z",
       "league": "MLS"
     }
   ],
-  "generatedAt": "2026-04-29T23:50:52.414Z"
+  "generatedAt": "2026-04-30T08:12:51.417Z"
 }
