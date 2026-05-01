@@ -1,22 +1,6 @@
 {
   "articles": [
     {
-      "title": "Highlights: Atletico Madrid 1-1 Arsenal",
-      "description": "Watch all the best of the action from our Champions League semi-final first leg at the Metropolitano Stadium",
-      "url": "http://www.arsenal.com/news/highlights-atletico-madrid-1-1-arsenal",
-      "source": "Arsenal.com",
-      "publishedAt": "2026-04-29T22:59:59Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Arsenal, Atletico trade penalties in Champions League semifinal 1-1 draw",
-      "description": "Julian Alvarez's penalty secured Atletico Madrid a 1-1 draw against Arsenal in a nervy Champions League semi-final first leg clash on Wednesday. Viktor Gyokeres sent the Premier League leaders ahead from the spot just before the interval after he was fouled, …",
-      "url": "https://japantoday.com/category/sports/arsenal-atletico-trade-penalties-in-champions-league-semi-final-draw",
-      "source": "Japan Today",
-      "publishedAt": "2026-04-29T22:37:30Z",
-      "league": "Premier League"
-    },
-    {
       "title": "José Mourinho Responds To Real Madrid Return Rumors, Names His Favorite Club",
       "description": "Jose Mourinho has directly responded to the growing speculation linking him with a sensational return to Real Madrid as a replacement for Alvaro Arbeloa. The legendary Portuguese coach, currently in charge of Benfica, also took a moment to reflect on his emot…",
       "url": "https://www.foxsports.com/stories/soccer/jose-mourinho-responds-to-real-madrid-return-reports-as-benfica-boss-also-reveals-best-place-he-managed-in",
@@ -33,20 +17,36 @@
       "league": "La Liga"
     },
     {
-      "title": "Fan gets suspended sentence for racist abuse of Marcus Rashford",
-      "description": "A football fan in Spain has been handed a nine-month suspended prison sentence for racially abusing Manchester United star Marcus Rashford.PenalisedRashford sealed a loan move to Barcelona last summer...",
-      "url": "https://thepeoplesperson.com/2026/04/29/fan-gets-suspended-sentence-for-racist-abuse-of-marcus-rashford-309447/",
-      "source": "The Peoples Person",
-      "publishedAt": "2026-04-29T22:10:00Z",
+      "title": "Arsenal, Atletico trade penalties in Champions League semifinal 1-1 draw",
+      "description": "Julian Alvarez's penalty secured Atletico Madrid a 1-1 draw against Arsenal in a nervy Champions League semi-final first leg clash on Wednesday. Viktor Gyokeres sent the Premier League leaders ahead from the spot just before the interval after he was fouled, …",
+      "url": "https://japantoday.com/category/sports/arsenal-atletico-trade-penalties-in-champions-league-semi-final-draw",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-29T22:37:30Z",
       "league": "La Liga"
     },
     {
-      "title": "Atletico Madrid 1-1 Arsenal: Alvarez’s historic strike puts tie in the balance",
-      "description": "Atletico Madrid were held to a 1-1 draw by Arsenal in the UEFA Champions League semi-final first leg at the Metropolitano Stadium on Wednesday evening.Arsenal were the first to threaten when Noni Madu...",
-      "url": "https://footballtoday.com/2026/04/29/atletico-madrid-1-1-arsenal-alvarezs-historic-strike-puts-tie-in-the-balance/",
+      "title": "Benfica eye Premier League boss as potential Jose Mourinho replacement",
+      "description": "Benfica are preparing for life without Jose Mourinho for next season, as he is linked with a sensational return to Real Madrid. According to a report from Record, Benfica have placed Premier League b...",
+      "url": "https://footballtoday.com/2026/04/30/benfica-eye-premier-league-boss-as-potential-jose-mourinho-replacement/",
       "source": "Footballtoday.com",
-      "publishedAt": "2026-04-29T21:05:00Z",
-      "league": "La Liga"
+      "publishedAt": "2026-04-30T08:05:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Palace shortlist Lampard and McKenna to replace Glasner",
+      "description": "Crystal Palace have stepped up their search for Oliver Glasner’s successor as his time at Selhurst Park comes to a close soon.According to Miguel Delaney, Crystal Palace are eyeing Coventry City man...",
+      "url": "https://sportsview.co.uk/2026/04/palace-shortlist-lampard-and-mckenna-to-replace-glasner?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=palace-shortlist-lampard-and-mckenna-to-replace-glasner",
+      "source": "Sportsview.co.uk",
+      "publishedAt": "2026-04-30T07:20:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Romano — Enormous transfer boost for United as one move now ‘absolutely impossible’ for primary midfield target",
+      "description": "Fabrizio Romano has revealed that a return to Serie A for Sandro Tonali is now considered ‘absolutely impossible’ this summer.As a result, it paves the way for Manchester United to act on their in...",
+      "url": "https://strettynews.com/2026/04/30/fabrizio-romano-sandro-tonali-serie-a-manchester-united-newcastle/",
+      "source": "Strettynews.com",
+      "publishedAt": "2026-04-30T05:15:00Z",
+      "league": "Serie A"
     },
     {
       "title": "Manchester City and Hugo Viana exploring £60M transfer for AC Milan’s Rafael Leao",
@@ -65,52 +65,28 @@
       "league": "Serie A"
     },
     {
-      "title": "UCL: PSG confirm Hakimi injury ahead of Champions League semi-final",
-      "description": "PSG suffer a major setback as Achraf Hakimi is ruled out for several weeks with a thigh injury ahead of the Champions League semi-final second leg.\n\nRead More: https://punchng.com/ucl-psg-confirm-hakimi-injury-ahead-of-champions-league-semi-final/",
-      "url": "https://punchng.com/ucl-psg-confirm-hakimi-injury-ahead-of-champions-league-semi-final/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-29T20:25:34Z",
-      "league": "Bundesliga"
+      "title": "Mikel Arteta has already spoken to the highly sought-after attacker",
+      "description": "Mikel Arteta has taken a further step to underline his admiration for Julian Alvarez as Arsenal intensifies their efforts to sign him from Atletico Madrid in the summer transfer window. The Gunners are keen to strengthen their attacking options and view the A…",
+      "url": "https://www.justarsenal.com/mikel-arteta-has-already-spoken-to-the-highly-sought-after-attacker/414427",
+      "source": "Just Arsenal News",
+      "publishedAt": "2026-04-30T08:00:00Z",
+      "league": "Premier League"
     },
     {
-      "title": "Struggling Wolfsburg without captain Arnold in remaining season games",
-      "description": "Wolfsburg must try to avoid their first ever Bundesliga relegation without captain Maximilian Arnold for injury reasons, the club said on Wednesday. Arnold, 31, has been nursing adductor problems for weeks.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_63dcc27d-0e0b-4838-abdf-7d7194e37f7e",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-29T19:08:27Z",
-      "league": "Bundesliga"
+      "title": "“Ideal for the Barca system” – Former Barcelona scout urges club to sign Chelsea star this summer",
+      "description": "Former Barcelona scout Bojan Krkic senior has told the La Liga side to sign Joao Pedro over Atletico Madrid’s Julian Alvarez. DOWNLOAD THE OFFICIAL CHELSEA NEWS APP FOR ALL THE LATEST UPDATES – S...",
+      "url": "https://chelsea.news/2026/04/barcelona-chelsea-joao-pedro-transfer/",
+      "source": "Chelsea.news",
+      "publishedAt": "2026-04-30T06:15:00Z",
+      "league": "La Liga"
     },
     {
-      "title": "Freiburg quartet around Ginter fit for Braga Europa League semi-final",
-      "description": "A quartet of key players led by Germany defender Matthias Ginter is fit to face Portugal's Braga in Freiburg's first ever continental semi-final tie in the Europa League on Thursday. Coach Julian Schuster said that Ginter, Johan Manzambi, Yuito Suzuki and Jor…",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260429-99-281229/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-04-29T18:53:53Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Fox's World Cup coverage will have British flavor, with 6 of 9 play-by-play commentators from UK",
-      "description": "Fox will use British play-by-play commentators for six of its nine announcer teams at this year’s World Cup, adding Ian Crocker, Darren Fletcher and Mark Scott to Ian Darke, Derek Rae and Jacqui Oatley",
-      "url": "https://abcnews.com/Entertainment/wireStory/foxs-world-cup-coverage-british-flavor-6-9-132501343",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-29T18:40:49Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "PSG's Hakimi out of Bayern return leg with injury",
-      "description": "Paris St‑Germain full-back Achraf Hakimi has been ruled out for the \"next few weeks\" after suffering an injury during their dramatic win against Bayern Munich in the Champions League.",
-      "url": "https://www.bbc.com/sport/football/articles/czd21418352o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-04-29T18:37:37Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Folarin Balogun named Monaco’s April Player of the Month",
-      "description": "Folarin Balogun is continuing to pick up the silverware at AS Monaco this season. The Ligue 1 club named Balogun its Player of the Month for April, AS Monaco announced Wednesday. Balogun has now earned the honors in two of the last three months after continui…",
-      "url": "https://sbisoccer.com/2026/04/folarin-balogun-named-monacos-april-player-of-the-month",
-      "source": "Sbisoccer.com",
-      "publishedAt": "2026-04-29T22:25:05Z",
-      "league": "Ligue 1"
+      "title": "Barcelona offered chance to sign La Liga defender for €30m",
+      "description": "Barcelona are looking to sign a new central defender this summer, and their leading target is Inter’s Alessandro Bastoni. But given that it is far from certain that they will be able to afford a dea...",
+      "url": "https://www.football-espana.net/2026/04/30/barcelona-offered-la-liga-defender",
+      "source": "Football Espana",
+      "publishedAt": "2026-04-30T00:00:00Z",
+      "league": "La Liga"
     },
     {
       "title": "Juventus eye €50m Mason Greenwood deal with Edon Zhegrova potentially heading to Marseille",
@@ -121,45 +97,69 @@
       "league": "Ligue 1"
     },
     {
-      "title": "Toulouse coach Carles Martínez Novell to leave French club after 3 seasons in charge",
-      "description": "Toulouse coach Carles Martínez Novell is leaving the French club at the end of the Ligue 1 season. Toulouse announced the decision Wednesday, with the team sitting 10th in the standings with three games left to play. The Spanish coach has managed the team for…",
-      "url": "https://sports.yahoo.com/articles/toulouse-coach-carles-mart-nez-100852377.html",
+      "title": "Barcelona dressing room eager to secure La Liga title this weekend",
+      "description": "According to SPORT, the FC Barcelona squad and head coach Hansi Flick are clear in their objective: they want to win La Liga as soon as possible, ideally this weekend.Last weekend proved decisive in s...",
+      "url": "https://barcauniversal.com/barcelona-dressing-room-eager-to-secure-la-liga-title-this-weekend/",
+      "source": "Barcauniversal.com",
+      "publishedAt": "2026-04-30T07:10:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Flick considers it a priority to develop two La Masia talents next season",
+      "description": "As FC Barcelona approach the final stretch of the season with the La Liga title within reach, another major development could arrive at the same time: the renewal of Hansi Flick.The German coach has o...",
+      "url": "https://barcauniversal.com/flick-considers-it-a-priority-to-develop-two-la-masia-talents-next-season/",
+      "source": "Barcauniversal.com",
+      "publishedAt": "2026-04-30T07:50:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "World Cup absence confirmed for Real Madrid star following successful surgery",
+      "description": "Real Madrid have had wretched luck with injuries over the last 2-3 years, and their problems have continued in recent weeks. They lost Rodrygo Goes for the foreseeable future after he tore his ACL aga...",
+      "url": "https://www.football-espana.net/2026/04/30/world-cup-absence-real-madrid-star",
+      "source": "Football Espana",
+      "publishedAt": "2026-04-30T00:20:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Bayern Munich coach Vincent Kompany insists winning the Bundesliga is challenging",
+      "description": "The Bundesliga has always been an exciting league, featuring top-quality teams, according to FC Bayern coach Kompany.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5c4ff0d3-9b91-47dc-8216-58a050a1666d",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-29T10:08:52Z",
+      "publishedAt": "2026-04-30T01:00:00Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Bayern Munich’s Dayot Upamecano: Vincent Kompany ‘brings me so much��",
+      "description": "Upamecano feels that he gets a great deal at FC Bayern from Kompany.",
+      "url": "https://www.bavarianfootballworks.com/bayern-munich-coaches/195415/bayern-munichs-dayot-upamecano-vincent-kompany-brings-me-so-much",
+      "source": "Bavarian Football Works",
+      "publishedAt": "2026-04-29T23:30:00Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Kim Min-jae speaks out on reduced role at Bayern Munich",
+      "description": "The FC Bayern center-back is taking his reduction in playing time in stride.",
+      "url": "https://www.bavarianfootballworks.com/bayern-munich-transfer-rumors-news/184379/kim-min-jae-bayern-munich-reduced-role-south-korea-jonathan-tah-dayot-upamecano",
+      "source": "Bavarian Football Works",
+      "publishedAt": "2026-04-29T22:00:00Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "UCL: PSG confirm Hakimi injury ahead of Champions League semi-final",
+      "description": "PSG suffer a major setback as Achraf Hakimi is ruled out for several weeks with a thigh injury ahead of the Champions League semi-final second leg.\n\nRead More: https://punchng.com/ucl-psg-confirm-hakimi-injury-ahead-of-champions-league-semi-final/",
+      "url": "https://punchng.com/ucl-psg-confirm-hakimi-injury-ahead-of-champions-league-semi-final/",
+      "source": "The Punch",
+      "publishedAt": "2026-04-29T20:25:34Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Injury fears confirmed: PSG’s Achraf Hakimi set to miss UCL semis second leg vs. Bayern Munich",
+      "description": "Hakimi will miss leg 2 of the UCL semis at FC Bayern",
+      "url": "https://www.bavarianfootballworks.com/champions-league/196098/injury-fears-confirmed-psgs-achraf-hakimi-set-to-miss-ucl-semis-second-leg-vs-bayern-munich",
+      "source": "Bavarian Football Works",
+      "publishedAt": "2026-04-29T20:30:00Z",
       "league": "Ligue 1"
-    },
-    {
-      "title": "Johnny Cardoso Becomes Third American To Start In A Champions League Semifinal",
-      "description": "Antoine Griezmann has made the most of his final home match with Atletico Madrid in the Champions League.",
-      "url": "https://www.foxsports.com/stories/soccer/johnny-cardoso-becomes-third-american-start-champions-league-semifinal",
-      "source": "Fox Sports",
-      "publishedAt": "2026-04-29T23:23:41Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "Luis Suarez sanctioned by MLS: Is he available for Inter Miami vs Orlando City?",
-      "description": "Major League Soccer announced a sanction for Luis Suarez just days before Inter Miami’s clash with Orlando City. Inter Miami star Luis Suarez was sanctioned by Major League Soccer this week, just days before the Herons face Orlando City in a key league matchu…",
-      "url": "https://worldsoccertalk.com/news/luis-suarez-sanctioned-by-mls-is-he-available-for-inter-miami-vs-orlando-city/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-04-29T22:58:54Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "Cristiano Ronaldo matches own legendary Real Madrid winning streak record with Al-Nassr in Saudi Pro League",
-      "description": "The night carried a familiar feeling, the kind that has followed Cristiano Ronaldo throughout his career, as Al-Nassr took a major step toward the title. The night carried a familiar feeling, the kind that has followed Cristiano Ronaldo throughout his career,…",
-      "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-matches-own-legendary-real-madrid-winning-streak-record-with-al-nassr-in-saudi-pro-league/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-04-29T22:58:10Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "Akil Howson to make history as first black FA Cup final official",
-      "description": "Akil Howson will become the first black official to take part in an FA Cup final when Chelsea face Manchester City next month.\nThe post Akil Howson to make history as first black FA Cup final official appeared first on Vanguard News.",
-      "url": "https://www.vanguardngr.com/2026/04/akil-howson-to-make-history-as-first-black-fa-cup-final-official/",
-      "source": "Vanguard",
-      "publishedAt": "2026-04-29T16:37:10Z",
-      "league": "Championship"
     }
   ],
-  "generatedAt": "2026-04-30T23:47:57.756Z"
+  "generatedAt": "2026-05-01T08:06:35.413Z"
 }

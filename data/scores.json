@@ -1,23 +1,32 @@
 {
   "matches": [
     {
-      "league": "CL",
-      "homeTeam": "Atleti",
-      "awayTeam": "Arsenal",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-04-29T19:00:00Z"
+      "league": "PL",
+      "homeTeam": "Leeds United",
+      "awayTeam": "Burnley",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-05-01T19:00:00Z"
     },
     {
-      "league": "PPL",
-      "homeTeam": "Sporting CP",
-      "awayTeam": "Tondela",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-04-29T19:15:00Z"
+      "league": "PD",
+      "homeTeam": "Girona",
+      "awayTeam": "Mallorca",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-05-01T19:00:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "AC Pisa",
+      "awayTeam": "Lecce",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-05-01T18:45:00Z"
     }
   ],
-  "generatedAt": "2026-04-30T23:49:22.930Z"
+  "generatedAt": "2026-05-01T08:08:00.769Z"
 }
