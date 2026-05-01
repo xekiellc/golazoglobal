@@ -4,29 +4,29 @@
       "league": "PL",
       "homeTeam": "Leeds United",
       "awayTeam": "Burnley",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
       "utcDate": "2026-05-01T19:00:00Z"
     },
     {
       "league": "PD",
       "homeTeam": "Girona",
       "awayTeam": "Mallorca",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
       "utcDate": "2026-05-01T19:00:00Z"
     },
     {
       "league": "SA",
       "homeTeam": "AC Pisa",
       "awayTeam": "Lecce",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
       "utcDate": "2026-05-01T18:45:00Z"
     }
   ],
-  "generatedAt": "2026-05-01T13:11:02.003Z"
+  "generatedAt": "2026-05-01T19:06:50.424Z"
 }
