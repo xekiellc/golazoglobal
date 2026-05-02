@@ -12,9 +12,9 @@
         {
           "name": "Thiago Rodrigues",
           "team": "Brentford",
-          "goals": 21,
+          "goals": 22,
           "assists": 1,
-          "penalties": 7
+          "penalties": 8
         },
         {
           "name": "Antoine Semenyo",
@@ -31,10 +31,17 @@
           "penalties": 0
         },
         {
+          "name": "Viktor Gyökeres",
+          "team": "Arsenal",
+          "goals": 14,
+          "assists": 1,
+          "penalties": 3
+        },
+        {
           "name": "Danny Welbeck",
           "team": "Brighton Hove",
           "goals": 13,
-          "assists": 0,
+          "assists": 1,
           "penalties": 1
         },
         {
@@ -43,13 +50,6 @@
           "goals": 13,
           "assists": 4,
           "penalties": 1
-        },
-        {
-          "name": "Viktor Gyökeres",
-          "team": "Arsenal",
-          "goals": 12,
-          "assists": 0,
-          "penalties": 3
         },
         {
           "name": "Dominic Calvert-Lewin",
@@ -350,6 +350,13 @@
           "penalties": 0
         },
         {
+          "name": "Patrik Schick",
+          "team": "Leverkusen",
+          "goals": 16,
+          "assists": 2,
+          "penalties": 4
+        },
+        {
           "name": "Luis Díaz",
           "team": "Bayern",
           "goals": 15,
@@ -366,30 +373,30 @@
         {
           "name": "Michael Olise",
           "team": "Bayern",
-          "goals": 13,
-          "assists": 18,
-          "penalties": 0
-        },
-        {
-          "name": "Patrik Schick",
-          "team": "Leverkusen",
-          "goals": 13,
-          "assists": 2,
-          "penalties": 4
-        },
-        {
-          "name": "Christoph Baumgartner",
-          "team": "RB Leipzig",
-          "goals": 12,
-          "assists": 7,
+          "goals": 14,
+          "assists": 19,
           "penalties": 0
         },
         {
           "name": "Andrej Kramarić",
           "team": "Hoffenheim",
-          "goals": 12,
+          "goals": 14,
           "assists": 5,
           "penalties": 5
+        },
+        {
+          "name": "Christoph Baumgartner",
+          "team": "RB Leipzig",
+          "goals": 13,
+          "assists": 7,
+          "penalties": 0
+        },
+        {
+          "name": "Said El Mala",
+          "team": "1. FC Köln",
+          "goals": 12,
+          "assists": 4,
+          "penalties": 1
         },
         {
           "name": "Yan Diomandé",
@@ -397,21 +404,14 @@
           "goals": 12,
           "assists": 7,
           "penalties": 0
-        },
-        {
-          "name": "Nadiem Amiri",
-          "team": "Mainz",
-          "goals": 11,
-          "assists": 2,
-          "penalties": 8
         }
       ],
       "topAssists": [
         {
           "name": "Michael Olise",
           "team": "Bayern",
-          "goals": 13,
-          "assists": 18,
+          "goals": 14,
+          "assists": 19,
           "penalties": 0
         },
         {
@@ -424,7 +424,7 @@
         {
           "name": "Christoph Baumgartner",
           "team": "RB Leipzig",
-          "goals": 12,
+          "goals": 13,
           "assists": 7,
           "penalties": 0
         },
@@ -470,7 +470,7 @@
         {
           "name": "Folarin Balogun",
           "team": "Monaco",
-          "goals": 12,
+          "goals": 13,
           "assists": 3,
           "penalties": 3
         },
@@ -480,6 +480,13 @@
           "goals": 12,
           "assists": 3,
           "penalties": 1
+        },
+        {
+          "name": "Pablo Pagis",
+          "team": "Lorient",
+          "goals": 10,
+          "assists": 3,
+          "penalties": 2
         },
         {
           "name": "Wesley Saïd",
@@ -508,13 +515,6 @@
           "goals": 10,
           "assists": 6,
           "penalties": 2
-        },
-        {
-          "name": "Pavel Šulc",
-          "team": "Olympique Lyon",
-          "goals": 10,
-          "assists": 3,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -549,7 +549,7 @@
         {
           "name": "Folarin Balogun",
           "team": "Monaco",
-          "goals": 12,
+          "goals": 13,
           "assists": 3,
           "penalties": 3
         }
@@ -568,7 +568,7 @@
           "name": "Mika Godts",
           "team": "Ajax",
           "goals": 16,
-          "assists": 11,
+          "assists": 12,
           "penalties": 0
         },
         {
@@ -586,18 +586,18 @@
           "penalties": 1
         },
         {
+          "name": "Ricardo Pepi",
+          "team": "PSV",
+          "goals": 14,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Guus Til",
           "team": "PSV",
           "goals": 13,
           "assists": 5,
           "penalties": 0
-        },
-        {
-          "name": "Ricardo Pepi",
-          "team": "PSV",
-          "goals": 13,
-          "assists": 0,
-          "penalties": 1
         },
         {
           "name": "Bryan Linssen",
@@ -633,7 +633,7 @@
           "name": "Mika Godts",
           "team": "Ajax",
           "goals": 16,
-          "assists": 11,
+          "assists": 12,
           "penalties": 0
         },
         {
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-02T13:03:22.635Z"
+  "generatedAt": "2026-05-02T18:56:19.727Z"
 }

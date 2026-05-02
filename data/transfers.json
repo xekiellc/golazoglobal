@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Nobody at Real Madrid has spoken to me",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Onefootball.com",
-      "url": "https://onefootball.com/en/news/nobody-at-real-madrid-has-spoken-to-me-mourinho-denies-contact-42797580",
-      "publishedAt": "2026-05-01T12:56:00Z"
-    }
-  ],
-  "generatedAt": "2026-05-02T12:59:27.608Z",
+  "transfers": [],
+  "generatedAt": "2026-05-02T18:52:24.250Z",
   "note": "Transfers derived from news headlines at launch."
 }
