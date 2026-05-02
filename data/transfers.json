@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Mexico Legend Guillermo Ochoa Set for Hi",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/mexico-legend-guillermo-ochoa-set-historic-sixth-world-cup-retirement-draft",
-      "publishedAt": "2026-04-30T20:21:30Z"
-    },
-    {
-      "player": "Bruno Fernandes reportedly sets conditio",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Worldsoccertalk.com",
-      "url": "https://worldsoccertalk.com/news/bruno-fernandes-reportedly-sets-conditions-to-stay-at-man-united-amid-76m-release-clause-uncertainty/",
-      "publishedAt": "2026-04-30T19:31:14Z"
-    }
-  ],
-  "generatedAt": "2026-05-01T23:46:02.664Z",
+  "transfers": [],
+  "generatedAt": "2026-05-02T07:25:41.525Z",
   "note": "Transfers derived from news headlines at launch."
 }
