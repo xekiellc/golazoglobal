@@ -794,6 +794,13 @@
           "penalties": 2
         },
         {
+          "name": "Oliver McBurnie",
+          "team": "Hull City",
+          "goals": 17,
+          "assists": 8,
+          "penalties": 3
+        },
+        {
           "name": "Jack Clarke",
           "team": "Ipswich Town",
           "goals": 16,
@@ -801,16 +808,9 @@
           "penalties": 6
         },
         {
-          "name": "Oliver McBurnie",
-          "team": "Hull City",
-          "goals": 15,
-          "assists": 8,
-          "penalties": 2
-        },
-        {
           "name": "Josh Windass",
           "team": "Wrexham",
-          "goals": 14,
+          "goals": 15,
           "assists": 5,
           "penalties": 3
         },
@@ -836,27 +836,27 @@
           "penalties": 1
         },
         {
-          "name": "Carlton Morris",
-          "team": "Derby County",
-          "goals": 12,
-          "assists": 2,
-          "penalties": 3
-        },
-        {
           "name": "Tommy Conway",
           "team": "Middlesbrough",
-          "goals": 12,
+          "goals": 13,
           "assists": 5,
           "penalties": 4
+        },
+        {
+          "name": "Ellis Simms",
+          "team": "Coventry City",
+          "goals": 13,
+          "assists": 3,
+          "penalties": 0
         }
       ],
       "topAssists": [
         {
           "name": "Oliver McBurnie",
           "team": "Hull City",
-          "goals": 15,
+          "goals": 17,
           "assists": 8,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Morgan Whittaker",
@@ -868,14 +868,14 @@
         {
           "name": "Josh Windass",
           "team": "Wrexham",
-          "goals": 14,
+          "goals": 15,
           "assists": 5,
           "penalties": 3
         },
         {
           "name": "Tommy Conway",
           "team": "Middlesbrough",
-          "goals": 12,
+          "goals": 13,
           "assists": 5,
           "penalties": 4
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-02T07:29:25.672Z"
+  "generatedAt": "2026-05-02T13:03:22.635Z"
 }

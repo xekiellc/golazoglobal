@@ -1,6 +1,123 @@
 {
   "matches": [
     {
+      "league": "ELC",
+      "homeTeam": "Blackburn",
+      "awayTeam": "Leicester City",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-02T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Bristol City",
+      "awayTeam": "Stoke",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-02T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Derby County",
+      "awayTeam": "Sheffield Utd",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-02T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Hull City",
+      "awayTeam": "Norwich",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-02T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Ipswich Town",
+      "awayTeam": "QPR",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-02T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Millwall",
+      "awayTeam": "Oxford United",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-02T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Portsmouth",
+      "awayTeam": "Birmingham",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-02T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Preston NE",
+      "awayTeam": "Southampton",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-02T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Sheffield Wed",
+      "awayTeam": "West Brom",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-02T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Swansea",
+      "awayTeam": "Charlton",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-02T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Watford",
+      "awayTeam": "Coventry City",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-02T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Wrexham",
+      "awayTeam": "Middlesbrough",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-02T11:30:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Villarreal",
+      "awayTeam": "Levante",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "PAUSED",
+      "utcDate": "2026-05-02T12:00:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Leeds United",
       "awayTeam": "Burnley",
@@ -62,15 +179,6 @@
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-05-02T16:30:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Villarreal",
-      "awayTeam": "Levante",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-02T12:00:00Z"
     },
     {
       "league": "PD",
@@ -298,114 +406,6 @@
       "utcDate": "2026-05-02T19:30:00Z"
     },
     {
-      "league": "ELC",
-      "homeTeam": "Blackburn",
-      "awayTeam": "Leicester City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-02T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Bristol City",
-      "awayTeam": "Stoke",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-02T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Derby County",
-      "awayTeam": "Sheffield Utd",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-02T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Hull City",
-      "awayTeam": "Norwich",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-02T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Ipswich Town",
-      "awayTeam": "QPR",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-02T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Millwall",
-      "awayTeam": "Oxford United",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-02T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Portsmouth",
-      "awayTeam": "Birmingham",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-02T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Preston NE",
-      "awayTeam": "Southampton",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-02T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Sheffield Wed",
-      "awayTeam": "West Brom",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-02T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Swansea",
-      "awayTeam": "Charlton",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-02T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Watford",
-      "awayTeam": "Coventry City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-02T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Wrexham",
-      "awayTeam": "Middlesbrough",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-02T11:30:00Z"
-    },
-    {
       "league": "BSA",
       "homeTeam": "Botafogo",
       "awayTeam": "Clube do Remo",
@@ -451,5 +451,5 @@
       "utcDate": "2026-05-03T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-02T07:27:05.789Z"
+  "generatedAt": "2026-05-02T13:00:54.613Z"
 }
