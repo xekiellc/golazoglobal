@@ -144,7 +144,7 @@
         {
           "name": "Ferrán Torres",
           "team": "Barça",
-          "goals": 14,
+          "goals": 15,
           "assists": 2,
           "penalties": 0
         },
@@ -170,18 +170,18 @@
           "penalties": 4
         },
         {
+          "name": "Robert Lewandowski",
+          "team": "Barça",
+          "goals": 13,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
           "name": "Alexander Sørloth",
           "team": "Atleti",
           "goals": 12,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Robert Lewandowski",
-          "team": "Barça",
-          "goals": 12,
-          "assists": 2,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -216,7 +216,7 @@
         {
           "name": "Ferrán Torres",
           "team": "Barça",
-          "goals": 14,
+          "goals": 15,
           "assists": 2,
           "penalties": 0
         }
@@ -567,7 +567,7 @@
         {
           "name": "Mika Godts",
           "team": "Ajax",
-          "goals": 16,
+          "goals": 17,
           "assists": 12,
           "penalties": 0
         },
@@ -632,7 +632,7 @@
         {
           "name": "Mika Godts",
           "team": "Ajax",
-          "goals": 16,
+          "goals": 17,
           "assists": 12,
           "penalties": 0
         },
@@ -933,6 +933,13 @@
           "penalties": 0
         },
         {
+          "name": "José Manuel López",
+          "team": "Palmeiras",
+          "goals": 5,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
           "name": "Breno Lopes",
           "team": "Coritiba",
           "goals": 5,
@@ -952,13 +959,6 @@
           "goals": 5,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Isidro Pitta",
-          "team": "Bragantino",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -966,6 +966,13 @@
           "name": "Pedro",
           "team": "Flamengo",
           "goals": 7,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
+          "name": "José Manuel López",
+          "team": "Palmeiras",
+          "goals": 5,
           "assists": 3,
           "penalties": 0
         },
@@ -989,16 +996,9 @@
           "goals": 5,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Luciano Juba",
-          "team": "Bahia",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 1
         }
       ]
     }
   },
-  "generatedAt": "2026-05-02T18:56:19.727Z"
+  "generatedAt": "2026-05-02T23:41:52.503Z"
 }
