@@ -1,49 +1,22 @@
 {
   "matches": [
     {
-      "league": "SA",
-      "homeTeam": "Inter",
-      "awayTeam": "Parma",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-03T18:45:00Z"
-    },
-    {
-      "league": "BL1",
-      "homeTeam": "Freiburg",
-      "awayTeam": "Wolfsburg",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-03T17:30:00Z"
-    },
-    {
-      "league": "FL1",
-      "homeTeam": "Olympique Lyon",
-      "awayTeam": "Stade Rennais",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-03T18:45:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Braga",
-      "awayTeam": "Estoril Praia",
+      "league": "BSA",
+      "homeTeam": "Chapecoense",
+      "awayTeam": "Bragantino",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "IN_PLAY",
-      "utcDate": "2026-05-03T17:00:00Z"
+      "utcDate": "2026-05-03T21:30:00Z"
     },
     {
-      "league": "PL",
-      "homeTeam": "Aston Villa",
-      "awayTeam": "Tottenham",
+      "league": "BSA",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Corinthians",
       "homeScore": 0,
-      "awayScore": 2,
-      "status": "PAUSED",
-      "utcDate": "2026-05-03T18:00:00Z"
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-03T23:30:00Z"
     },
     {
       "league": "PL",
@@ -98,6 +71,15 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-05-03T14:30:00Z"
+    },
+    {
+      "league": "PL",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Tottenham",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-05-03T18:00:00Z"
     },
     {
       "league": "PD",
@@ -163,6 +145,15 @@
       "utcDate": "2026-05-03T16:30:00Z"
     },
     {
+      "league": "PD",
+      "homeTeam": "Espanyol",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-05-03T19:00:00Z"
+    },
+    {
       "league": "SA",
       "homeTeam": "Udinese",
       "awayTeam": "Torino",
@@ -215,6 +206,15 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-05-03T16:00:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Inter",
+      "awayTeam": "Parma",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-05-03T18:45:00Z"
     },
     {
       "league": "BL1",
@@ -289,6 +289,15 @@
       "utcDate": "2026-05-03T15:30:00Z"
     },
     {
+      "league": "BL1",
+      "homeTeam": "Freiburg",
+      "awayTeam": "Wolfsburg",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-05-03T17:30:00Z"
+    },
+    {
       "league": "FL1",
       "homeTeam": "Nantes",
       "awayTeam": "Marseille",
@@ -359,6 +368,15 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-05-03T15:15:00Z"
+    },
+    {
+      "league": "FL1",
+      "homeTeam": "Olympique Lyon",
+      "awayTeam": "Stade Rennais",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-05-03T18:45:00Z"
     },
     {
       "league": "DED",
@@ -496,6 +514,24 @@
       "utcDate": "2026-05-03T14:30:00Z"
     },
     {
+      "league": "PPL",
+      "homeTeam": "Braga",
+      "awayTeam": "Estoril Praia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-05-03T17:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Rio Ave",
+      "awayTeam": "Gil Vicente",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-05-03T19:30:00Z"
+    },
+    {
       "league": "ELC",
       "homeTeam": "Blackburn",
       "awayTeam": "Leicester City",
@@ -616,7 +652,7 @@
       "league": "BSA",
       "homeTeam": "Palmeiras",
       "awayTeam": "Santos",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-05-02T21:30:00Z"
@@ -649,68 +685,32 @@
       "utcDate": "2026-05-03T00:00:00Z"
     },
     {
-      "league": "PD",
-      "homeTeam": "Espanyol",
-      "awayTeam": "Real Madrid",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-03T19:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Rio Ave",
-      "awayTeam": "Gil Vicente",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-03T19:30:00Z"
-    },
-    {
       "league": "BSA",
       "homeTeam": "Flamengo",
       "awayTeam": "Vasco da Gama",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-05-03T19:00:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "São Paulo",
       "awayTeam": "Bahia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-05-03T19:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Chapecoense",
-      "awayTeam": "Bragantino",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-03T21:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Internacional",
       "awayTeam": "Fluminense",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-05-03T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Mirassol",
-      "awayTeam": "Corinthians",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-03T23:30:00Z"
     }
   ],
-  "generatedAt": "2026-05-03T18:53:50.591Z"
+  "generatedAt": "2026-05-03T23:40:44.998Z"
 }

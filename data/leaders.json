@@ -149,6 +149,13 @@
           "penalties": 0
         },
         {
+          "name": "Vinicius Junior",
+          "team": "Real Madrid",
+          "goals": 15,
+          "assists": 5,
+          "penalties": 4
+        },
+        {
           "name": "Borja Iglesias",
           "team": "Celta",
           "goals": 14,
@@ -161,13 +168,6 @@
           "goals": 14,
           "assists": 3,
           "penalties": 6
-        },
-        {
-          "name": "Vinicius Junior",
-          "team": "Real Madrid",
-          "goals": 13,
-          "assists": 5,
-          "penalties": 4
         },
         {
           "name": "Robert Lewandowski",
@@ -195,7 +195,7 @@
         {
           "name": "Vinicius Junior",
           "team": "Real Madrid",
-          "goals": 13,
+          "goals": 15,
           "assists": 5,
           "penalties": 4
         },
@@ -228,7 +228,14 @@
           "name": "Lautaro Martínez",
           "team": "Inter",
           "goals": 16,
-          "assists": 4,
+          "assists": 5,
+          "penalties": 0
+        },
+        {
+          "name": "Marcus Thuram-Ulien",
+          "team": "Inter",
+          "goals": 13,
+          "assists": 5,
           "penalties": 0
         },
         {
@@ -243,13 +250,6 @@
           "team": "Como 1907",
           "goals": 12,
           "assists": 6,
-          "penalties": 0
-        },
-        {
-          "name": "Marcus Thuram-Ulien",
-          "team": "Inter",
-          "goals": 12,
-          "assists": 5,
           "penalties": 0
         },
         {
@@ -311,17 +311,17 @@
           "penalties": 1
         },
         {
-          "name": "Marcus Thuram-Ulien",
+          "name": "Lautaro Martínez",
           "team": "Inter",
-          "goals": 12,
+          "goals": 16,
           "assists": 5,
           "penalties": 0
         },
         {
-          "name": "Lautaro Martínez",
+          "name": "Marcus Thuram-Ulien",
           "team": "Inter",
-          "goals": 16,
-          "assists": 4,
+          "goals": 13,
+          "assists": 5,
           "penalties": 0
         },
         {
@@ -449,7 +449,7 @@
         {
           "name": "Esteban Lepaul",
           "team": "Stade Rennais",
-          "goals": 18,
+          "goals": 19,
           "assists": 5,
           "penalties": 3
         },
@@ -489,6 +489,13 @@
           "penalties": 3
         },
         {
+          "name": "Corentin Tolisso",
+          "team": "Olympique Lyon",
+          "goals": 10,
+          "assists": 4,
+          "penalties": 2
+        },
+        {
           "name": "Pablo Pagis",
           "team": "Lorient",
           "goals": 10,
@@ -508,13 +515,6 @@
           "goals": 10,
           "assists": 5,
           "penalties": 2
-        },
-        {
-          "name": "Bradley Barcola",
-          "team": "PSG",
-          "goals": 10,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -528,7 +528,7 @@
         {
           "name": "Esteban Lepaul",
           "team": "Stade Rennais",
-          "goals": 18,
+          "goals": 19,
           "assists": 5,
           "penalties": 3
         },
@@ -547,11 +547,11 @@
           "penalties": 3
         },
         {
-          "name": "Folarin Balogun",
-          "team": "Monaco",
-          "goals": 13,
-          "assists": 3,
-          "penalties": 3
+          "name": "Corentin Tolisso",
+          "team": "Olympique Lyon",
+          "goals": 10,
+          "assists": 4,
+          "penalties": 2
         }
       ]
     },
@@ -898,6 +898,13 @@
           "penalties": 2
         },
         {
+          "name": "Pedro",
+          "team": "Flamengo",
+          "goals": 8,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
           "name": "Carlos Vinícius",
           "team": "Grêmio",
           "goals": 7,
@@ -912,17 +919,10 @@
           "penalties": 0
         },
         {
-          "name": "Pedro",
-          "team": "Flamengo",
-          "goals": 7,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
           "name": "Jonathan Calleri",
           "team": "São Paulo",
           "goals": 6,
-          "assists": 0,
+          "assists": 1,
           "penalties": 1
         },
         {
@@ -931,6 +931,13 @@
           "goals": 6,
           "assists": 0,
           "penalties": 0
+        },
+        {
+          "name": "Luciano Juba",
+          "team": "Bahia",
+          "goals": 6,
+          "assists": 1,
+          "penalties": 1
         },
         {
           "name": "José Manuel López",
@@ -947,13 +954,6 @@
           "penalties": 0
         },
         {
-          "name": "Luciano Juba",
-          "team": "Bahia",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 1
-        },
-        {
           "name": "Christian",
           "team": "Cruzeiro",
           "goals": 5,
@@ -965,7 +965,7 @@
         {
           "name": "Pedro",
           "team": "Flamengo",
-          "goals": 7,
+          "goals": 8,
           "assists": 3,
           "penalties": 0
         },
@@ -991,14 +991,14 @@
           "penalties": 2
         },
         {
-          "name": "Breno Lopes",
-          "team": "Coritiba",
-          "goals": 5,
+          "name": "Jonathan Calleri",
+          "team": "São Paulo",
+          "goals": 6,
           "assists": 1,
-          "penalties": 0
+          "penalties": 1
         }
       ]
     }
   },
-  "generatedAt": "2026-05-03T18:56:13.150Z"
+  "generatedAt": "2026-05-03T23:43:20.415Z"
 }
