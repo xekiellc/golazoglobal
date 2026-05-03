@@ -2177,6 +2177,19 @@
       },
       {
         "position": 11,
+        "team": "Mineiro",
+        "played": 14,
+        "won": 5,
+        "drawn": 2,
+        "lost": 7,
+        "goalsFor": 17,
+        "goalsAgainst": 20,
+        "goalDifference": -3,
+        "points": 17,
+        "form": ""
+      },
+      {
+        "position": 12,
         "team": "Grêmio",
         "played": 14,
         "won": 4,
@@ -2189,7 +2202,7 @@
         "form": ""
       },
       {
-        "position": 12,
+        "position": 13,
         "team": "Vasco da Gama",
         "played": 13,
         "won": 4,
@@ -2202,20 +2215,20 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Cruzeiro",
-        "played": 13,
+        "played": 14,
         "won": 4,
         "drawn": 4,
-        "lost": 5,
-        "goalsFor": 17,
-        "goalsAgainst": 21,
-        "goalDifference": -4,
+        "lost": 6,
+        "goalsFor": 18,
+        "goalsAgainst": 24,
+        "goalDifference": -6,
         "points": 16,
         "form": ""
       },
       {
-        "position": 14,
+        "position": 15,
         "team": "Corinthians",
         "played": 13,
         "won": 3,
@@ -2228,7 +2241,7 @@
         "form": ""
       },
       {
-        "position": 15,
+        "position": 16,
         "team": "Santos",
         "played": 14,
         "won": 3,
@@ -2238,19 +2251,6 @@
         "goalsAgainst": 22,
         "goalDifference": -3,
         "points": 15,
-        "form": ""
-      },
-      {
-        "position": 16,
-        "team": "Mineiro",
-        "played": 13,
-        "won": 4,
-        "drawn": 2,
-        "lost": 7,
-        "goalsFor": 14,
-        "goalsAgainst": 19,
-        "goalDifference": -5,
-        "points": 14,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-02T23:40:31.756Z"
+  "generatedAt": "2026-05-03T07:57:41.033Z"
 }
