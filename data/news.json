@@ -1,76 +1,108 @@
 {
   "articles": [
     {
-      "title": "‘Definitely…’ – Mo Salah provides injury update which’ll have Liverpool fans rejoicing",
-      "description": "Mo Salah has reassured Liverpool fans that they’ll ‘definitely’ get at least one more chance to see him in action before he leaves the club in a few weeks’ time.DOWNLOAD THE OFFICIAL EMPIRE OF...",
-      "url": "https://www.empireofthekop.com/2026/05/02/mo-salah-provides-injury-update-whichll-have-liverpool-fans-rejoicing/",
-      "source": "Empire of The Kop",
-      "publishedAt": "2026-05-02T07:25:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Man Utd accelerate £80m move for Aston Villa star Morgan Rogers as Champions League return looms",
-      "description": "Manchester United are accelerating plans to sign Aston Villa midfielder Morgan Rogers this summer.The club have identified Rogers as a top target, with the Red Devils preparing to upgrade their squad ...",
-      "url": "https://www.footballmuse.com/transfers/man-utd-accelerate-ps80m-move-for-aston-villa-star-morgan-rogers-as-champions-league-return-looms",
-      "source": "Footballmuse.com",
-      "publishedAt": "2026-05-02T07:15:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Man Utd vs Liverpool: Premier League – preview, team news, start, lineups",
-      "description": "Man United just need two points to secure qualification, while Liverpool can draw level with the Red Devils with a win.",
-      "url": "https://www.aljazeera.com/sports/2026/5/2/man-utd-vs-liverpool-premier-league-preview-team-news-start",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-02T07:14:03Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Casemiro puts the critics in their place with an outstanding late gallop at Old Trafford",
-      "description": "Jamie Carragher admits he was wrong about the Brazilian, who leaves Manchester United at the end of the season",
-      "url": "https://www.irishtimes.com/sport/soccer/2026/05/02/casemiro-puts-the-critics-in-their-place-with-an-outstanding-late-gallop-at-old-trafford/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-02T07:00:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Exclusive: Barcelona agree principals for Man City winger",
-      "description": "Barça Universal can exclusively claim that Barcelona are closing in on the signing of Bernardo Silva, with the deal already around 80% complete. The Portuguese midfielder is expected to arrive as a ...",
-      "url": "https://barcauniversal.com/exclusive-barcelona-agree-principals-for-man-city-winger/",
-      "source": "Barcauniversal.com",
-      "publishedAt": "2026-05-02T06:00:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Hansi Flick set to sign new contract at Barcelona",
-      "description": "Hansi Flick has agreed to sign a new contract at Barcelona. The 61-year-old’s current deal expires in June next year, and the club’s hierarchy have been keen to extend his stay. According to Mun...",
-      "url": "https://footballtoday.com/2026/05/02/hansi-flick-set-to-sign-new-contract-at-barcelona/",
-      "source": "Footballtoday.com",
-      "publishedAt": "2026-05-02T05:55:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Kylian Mbappé and Thibaut Courtois out for Real Madrid against Espanyol but may return in Barcelona",
-      "description": "Kylian Mbappé and Thibaut Courtois can't play for Real Madrid against Espanyol but aren't discarded for Barcelona. This weekend, the La Liga title could be decided if Real Madrid cannot get a victory against Espanyol and Barcelona beat Osasuna in Pamplona. Fo…",
-      "url": "https://worldsoccertalk.com/news/kylian-mbappe-and-thibaut-courtois-out-for-real-madrid-against-espanyol-but-may-return-in-barcelona/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-05-01T23:15:20Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Mallorca wins away for first time since October as La Liga relegation fight tightens",
-      "description": "A first half goal from Samú Costa was enough to give Mallorca a 1-0 win at Girona and further tighten the already wicked relegation fight in La Liga on Friday. Mallorca’s first away win since October lifted it above Girona on goal difference into 15th place i…",
-      "url": "https://sports.yahoo.com/articles/mallorca-wins-away-first-time-213921916.html",
+      "title": "US consortium completes purchase of beleaguered Sheffield Wednesday and says the club is 'reborn'",
+      "description": "An American consortium has completed the purchase of Sheffield Wednesday, ending the historic English club's long takeover saga and the controversial tenure of former owner Dejphon Chansiri. Arise Capital Partners, fronted by U.S. businessman David Storch, ta…",
+      "url": "https://sports.yahoo.com/articles/us-consortium-completes-purchase-beleaguered-124930435.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-01T21:39:21Z",
+      "publishedAt": "2026-05-02T12:49:30Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Man Utd v Liverpool: Key stats and talking points",
+      "description": "Manchester United take on Liverpool at Old Trafford on Sunday (15:30 BST) in what is the 186th league meeting between England's two most successful clubs. With four games to go, just three points separate United in third and Liverpool in fourth. A win for Mic…",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpzz9kq9ro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-02T12:15:28Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Arsenal v Fulham: The night that could make or break the title dream",
+      "description": "Arsenal welcome Fulham to the Emirates tonight knowing that this is far more than just another Premier League fixture. With the title race reaching its final stretch, every match now carries enormous weight, but this one feels different. There is a growing se…",
+      "url": "https://www.justarsenal.com/arsenal-v-fulham-the-night-that-could-make-or-break-the-title-dream/414587",
+      "source": "Just Arsenal News",
+      "publishedAt": "2026-05-02T12:15:15Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Aston Villa v Tottenham: Key stats and talking points",
+      "description": "Two teams with vastly different objectives at the business end of the season will clash in the unusual Sunday evening slot (19:00 BST) when Aston Villa welcome Tottenham Hotspur to the West Midlands. Villa, off the back of a 1-0 defeat by Nottingham Forest in…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0b808592-8aaa-4dc3-abe0-073f3811074c",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-02T12:12:35Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Arsenal Starting XI vs Fulham: Confirmed Team News and Predicted Lineup",
+      "description": "Arsenal vs Fulham: Arteta Faces Selection Test in Title RaceArsenal chase vital Premier League advantageArsenal meet Fulham at the Emirates Stadium with opportunity and anxiety walking side by side. M...",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_275c80f5-23a3-4f9d-96de-76435760e515",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-02T12:05:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Real Madrid expect star player to return for decisive El Clasico showdown",
+      "description": "Real Madrid must win at Espanyol on Saturday to ensure they remain in the La Liga title race alongside arch rivals Barcelona. Alvaro Arbeloa’s side currently trail the Catalans by 11 points, with th...",
+      "url": "https://www.football-espana.net/2026/05/02/real-madrid-star-player-return-el-clasico",
+      "source": "Football Espana",
+      "publishedAt": "2026-05-02T12:05:00Z",
       "league": "La Liga"
     },
     {
-      "title": "Barcelona in sight of La Liga title a week before El Clasico with Real",
-      "description": "Barcelona face Osasuna in La Liga on Saturday where a win will heap more pressure on Real Madrid at Espanyol on Sunday.",
-      "url": "https://www.aljazeera.com/sports/2026/5/1/how-can-barcelona-beat-real-madrid-to-la-liga-title-this-weekend",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-01T20:13:59Z",
+      "title": "Barcelona superstar voices uncertainty over future in honest talks with club – report",
+      "description": "Barcelona are dealing with a delicate situation surrounding Raphinha, as the winger is said to be reflecting on his future ahead of a crucial summer.Recent updates from SPORT suggest that Raphinha has...",
+      "url": "https://barcauniversal.com/barcelona-superstar-voices-uncertainty-over-future-in-honest-talks-with-club-report/",
+      "source": "Barcauniversal.com",
+      "publishedAt": "2026-05-02T11:55:00Z",
       "league": "La Liga"
+    },
+    {
+      "title": "Real Madrid’s Carvajal suffers toe fracture",
+      "description": "Real Madrid defender Dani Carvajal will miss the Clasico on May 10 after suffering a toe fracture, his club said Saturday.\nThe post Real Madrid’s Carvajal suffers toe fracture appeared first on Vanguard News.",
+      "url": "https://www.vanguardngr.com/2026/05/real-madrids-carvajal-suffers-toe-fracture/",
+      "source": "Vanguard",
+      "publishedAt": "2026-05-02T11:42:14Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Osasuna vs Barcelona – Match preview and team news",
+      "description": "Barcelona travels away from home to Pamplona as they face e Osasuna in their next La Liga encounter on Saturday.Barcelona are leading the La Liga table and are on the verge of winning the league under...",
+      "url": "https://thefootballfaithful.com/osasuna-vs-barcelona-match-preview-and-team-news/",
+      "source": "The Football Faithful",
+      "publishedAt": "2026-05-02T11:40:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Dani Carvajal injury risks disappointing end to Real Madrid career",
+      "description": "Real Madrid captain Dani Carvajal may have played his final game for the club, after suffering an injury that could keep him out until the final game of the season. The 34-year-old is out of contract ...",
+      "url": "https://www.football-espana.net/2026/05/02/dani-carvajal-injury",
+      "source": "Football Espana",
+      "publishedAt": "2026-05-02T10:05:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Arbeloa talks Ceballos, Gonzalo Garcia, Mastantuono, Mourinho ahead of Espanyol vs Real Madrid",
+      "description": "Real Madrid manager Alvaro Arbeloa addressed the media ahead of a decisive La Liga clash against Espanyol, with the title race hanging in the balance and pressure mounting on Los Blancos.Real Madrid h...",
+      "url": "https://madriduniversal.com/arbeloa-talks-ceballos-gonzalo-garcia-mastantuono-mourinho-ahead-of-espanyol-vs-real-madrid/",
+      "source": "Madriduniversal.com",
+      "publishedAt": "2026-05-02T09:25:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Venezia coach hails ‘incredible journey’ after return to Serie A, Pisa and Verona relegated",
+      "description": "Venezia coach Giovanni Stroppa hailed the club's \"incredible journey\" back to Serie A as they secured promotion from Serie B.",
+      "url": "https://www.101greatgoals.com/football/serie-a/venezia-promoted-pisa-verona-relegation/",
+      "source": "101 Great Goals",
+      "publishedAt": "2026-05-02T08:51:56Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Official: Hellas Verona relegated to Serie B for 2026-27",
+      "description": "Though they are not due to play until Sunday evening, Hellas Verona’s relegation from Serie A has been mathematically confirmed following Lecce’s 2-1 victory",
+      "url": "https://football-italia.net/official-verona-relegated-to-serie-b-2026-27/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-02T08:45:55Z",
+      "league": "Serie A"
     },
     {
       "title": "Serie A | Pisa 1-2 Lecce – Banda & Cheddira keep Lecce afloat as Pisa officially relegated",
@@ -78,14 +110,6 @@
       "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a2927bd-25a5-4850-bc2a-d6a42cbc6b7f",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-05-01T20:45:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Serie A | Pisa 1-2 Lecce – Banda & Cheddira keep Lecce afloat as Pisa officially relegated",
-      "description": "Lecce secured a vital 2-1 win away to Pisa, a result that confirms the hosts’ relegation from Serie A while boosting the visitors’ survival hopes.",
-      "url": "https://football-italia.net/serie-a-pisa-1-2-lecce-banda-cheddira/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-01T20:43:51Z",
       "league": "Serie A"
     },
     {
@@ -97,69 +121,45 @@
       "league": "Serie A"
     },
     {
-      "title": "Guillermo Ochoa announces retirement after World Cup",
-      "description": "Guillermo Ochoa made it to 6 World Cup teams and had had club careers in five countries outside Mexico.",
-      "url": "https://www.fmfstateofmind.com/international-news/26937/guillermo-ochoa-announces-retirement-after-world-cup",
-      "source": "Fmfstateofmind.com",
-      "publishedAt": "2026-05-02T04:10:55Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "PSG coach Luis Enrique weighs up how many players to rest against Lorient ahead of Bayern return",
-      "description": "Paris Saint-Germain coach Luis Enrique is weighing up how many players to rest for Saturday's home game against mid-table Lorient in Ligue 1. PSG has yet to secure the French title but has a massive game on Wednesday, the return fixture of an intense Champion…",
-      "url": "https://sports.yahoo.com/articles/psg-coach-luis-enrique-weighs-141422637.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-01T14:14:22Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "PSG's Luis Enrique slams critics of epic Bayern first leg",
-      "description": "Paris Saint-Germain coach Luis Enrique has used strong words to reject criticism of the spectacular Champions League semi-final first leg against Bayern Munich which produced nine goals. \"It's like in life, there are opinions everywhere.",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260501-99-300565/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-05-01T13:53:29Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Alan Shearer believes rumored Bayern Munich target Anthony Gordon simply ‘wouldn’t get in the team’",
-      "description": "Harry Kane's competitor is not a fan of Gordon.",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-transfer-rumors-news/196660/alan-shearer-believes-rumored-bayern-munich-target-anthony-gordon-simply-wouldnt-get-in-the-team-paris-saint-germain-champions-league-newcastle-dembele-kvaratskhelia-olise-diaz-harry-kane",
-      "source": "Bavarian Football Works",
-      "publishedAt": "2026-05-02T07:00:00Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "Preview: Lyon v Arsenal Women",
-      "description": "We look to book our place in back-to-back Women’s Champions League finals with Saturday’s semi-final second leg away to Lyon",
-      "url": "http://www.arsenal.com/news/preview-lyon-v-arsenal-women-0",
-      "source": "Arsenal.com",
-      "publishedAt": "2026-05-02T07:00:00Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "Paul Joyce: Liverpool ‘likely’ to target PSG magician this summer; he could plausibly be tempted",
-      "description": "Liverpool are ‘likely’ to have one player from Paris Saint-Germain’s star-studded squad on their shortlist of prospective recruits this summer, according to Paul Joyce.DOWNLOAD THE OFFICIAL EMPI...",
-      "url": "https://www.empireofthekop.com/2026/05/02/paul-joyce-liverpool-likely-to-target-psg-magician-this-summer/",
+      "title": "Report: Liverpool targeting £35m move for ‘Swiss Army knife’ player who’d be a ‘perfect fit’",
+      "description": "According to reports from Germany, Liverpool have identified one Bundesliga defender as a ‘top target’ ahead of the summer transfer window.With just a few weeks remaining until the market reopens ...",
+      "url": "https://www.empireofthekop.com/2026/05/02/report-liverpool-targeting-35m-move-for-swiss-army-knife-player-whod-be-a-perfect-fit/",
       "source": "Empire of The Kop",
-      "publishedAt": "2026-05-02T06:45:00Z",
+      "publishedAt": "2026-05-02T09:20:00Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "'PSG and Bayern in different world to Premier League'",
+      "description": "Arsenal manager Mikel Arteta says Champions League rivals Paris St-Germain and Bayern Munich are in a \"different world\" to tired Premier League teams.",
+      "url": "https://www.bbc.com/sport/football/articles/c1w2j53p2r3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-02T10:55:50Z",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "Allegri on Pulisic, Leao and Champions League target: ‘Some values don’t change’",
+      "description": "Massimiliano Allegri insists that he is not concerned by Christian Pulisic’s lack of goals in 2026, has confirmed the players that are in line to replace the",
+      "url": "https://football-italia.net/allegri-on-pulisic-leao-champions-league-goal/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-02T12:56:34Z",
       "league": "Champions League"
     },
     {
-      "title": "Dutch football braces for ruling in player eligibility dispute",
-      "description": "May 1 : A ruling by a Dutch court on Monday threatens to throw the Eredivisie into turmoil if NAC Breda succeed in their bid to force a replay of their match against Go Ahead Eagles over the eligibility of defender Dean James, with officials warning the decis…",
-      "url": "https://www.channelnewsasia.com/sport/dutch-football-braces-ruling-in-player-eligibility-dispute-6095136",
-      "source": "CNA",
-      "publishedAt": "2026-05-01T18:12:21Z",
-      "league": "Eredivisie"
+      "title": "Good news at last for Sheffield Wednesday as takeover is finally completed to end reign of hated owner Dejphon Chansiri - and there will be NO points deduction for next season",
+      "description": "Sheffield Wednesday's long takeover saga is finally over after US consortium Arise Capital Partners completed its purchase of the club - and the EFL did NOT impose a 15-point deduction.",
+      "url": "https://www.dailymail.com/sport/football/article-15784647/Good-news-Sheffield-Wednesday-takeover-finally-completed-end-reign-hated-owner-Dejphon-Chansiri-NO-points-deduction-season.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-02T12:18:27Z",
+      "league": "Championship"
     },
     {
-      "title": "Mohamed Salah ‘deserves big send-off’, says Liverpool boss Slot",
-      "description": "Egypt international Mohamed Salah set to return for Liverpool before the season ends as Anfield exit looms.",
-      "url": "https://www.aljazeera.com/sports/2026/5/1/mohamed-salah-deserves-big-send-off-says-liverpool-boss-slot",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-01T09:51:33Z",
-      "league": "MLS"
+      "title": "US consortium takes over Sheffield Wednesday",
+      "description": "Sheffield Wednesday have announced that US consortium Arise Capital Partners has completed a takeover of the club.",
+      "url": "https://www.bbc.com/sport/football/articles/c1e278wgqwjo",
+      "source": "BBC News",
+      "publishedAt": "2026-05-02T11:37:37Z",
+      "league": "Transfers"
     }
   ],
-  "generatedAt": "2026-05-03T07:55:14.548Z"
+  "generatedAt": "2026-05-03T12:59:03.411Z"
 }

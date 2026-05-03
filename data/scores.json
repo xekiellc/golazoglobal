@@ -1,6 +1,33 @@
 {
   "matches": [
     {
+      "league": "DED",
+      "homeTeam": "Sittard",
+      "awayTeam": "Feyenoord",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-03T12:30:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "Zwolle",
+      "awayTeam": "Heracles",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-03T12:30:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Celta",
+      "awayTeam": "Elche",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "PAUSED",
+      "utcDate": "2026-05-03T12:00:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Brentford",
       "awayTeam": "West Ham",
@@ -98,6 +125,15 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-05-02T18:45:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Bologna",
+      "awayTeam": "Cagliari",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-05-03T10:30:00Z"
     },
     {
       "league": "BL1",
@@ -224,6 +260,15 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-05-02T19:00:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "Volendam",
+      "awayTeam": "Heerenveen",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-05-03T10:15:00Z"
     },
     {
       "league": "PPL",
@@ -452,15 +497,6 @@
     },
     {
       "league": "PD",
-      "homeTeam": "Celta",
-      "awayTeam": "Elche",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-03T12:00:00Z"
-    },
-    {
-      "league": "PD",
       "homeTeam": "Getafe",
       "awayTeam": "Rayo Vallecano",
       "homeScore": null,
@@ -485,15 +521,6 @@
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-05-03T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Bologna",
-      "awayTeam": "Cagliari",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-03T10:30:00Z"
     },
     {
       "league": "SA",
@@ -596,33 +623,6 @@
     },
     {
       "league": "DED",
-      "homeTeam": "Volendam",
-      "awayTeam": "Heerenveen",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-03T10:15:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Sittard",
-      "awayTeam": "Feyenoord",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-03T12:30:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Zwolle",
-      "awayTeam": "Heracles",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-03T12:30:00Z"
-    },
-    {
-      "league": "DED",
       "homeTeam": "AZ",
       "awayTeam": "Twente",
       "homeScore": null,
@@ -712,5 +712,5 @@
       "utcDate": "2026-05-03T23:30:00Z"
     }
   ],
-  "generatedAt": "2026-05-03T07:56:38.906Z"
+  "generatedAt": "2026-05-03T13:00:28.907Z"
 }

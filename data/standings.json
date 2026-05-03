@@ -95,14 +95,14 @@
       {
         "position": 8,
         "team": "Bournemouth",
-        "played": 34,
+        "played": 35,
         "won": 11,
-        "drawn": 16,
+        "drawn": 17,
         "lost": 7,
         "goalsFor": 52,
         "goalsAgainst": 52,
         "goalDifference": 0,
-        "points": 49,
+        "points": 50,
         "form": ""
       },
       {
@@ -173,14 +173,14 @@
       {
         "position": 14,
         "team": "Crystal Palace",
-        "played": 33,
+        "played": 34,
         "won": 11,
-        "drawn": 10,
+        "drawn": 11,
         "lost": 12,
         "goalsFor": 36,
         "goalsAgainst": 39,
         "goalDifference": -3,
-        "points": 43,
+        "points": 44,
         "form": ""
       },
       {
@@ -331,14 +331,14 @@
       {
         "position": 6,
         "team": "Celta",
-        "played": 33,
-        "won": 11,
+        "played": 34,
+        "won": 12,
         "drawn": 11,
         "lost": 11,
-        "goalsFor": 45,
+        "goalsFor": 47,
         "goalsAgainst": 43,
-        "goalDifference": 2,
-        "points": 44,
+        "goalDifference": 4,
+        "points": 47,
         "form": ""
       },
       {
@@ -435,13 +435,13 @@
       {
         "position": 14,
         "team": "Elche",
-        "played": 33,
+        "played": 34,
         "won": 9,
         "drawn": 11,
-        "lost": 13,
+        "lost": 14,
         "goalsFor": 44,
-        "goalsAgainst": 50,
-        "goalDifference": -6,
+        "goalsAgainst": 52,
+        "goalDifference": -8,
         "points": 38,
         "form": ""
       },
@@ -554,14 +554,14 @@
       {
         "position": 3,
         "team": "Milan",
-        "played": 34,
+        "played": 35,
         "won": 19,
-        "drawn": 10,
+        "drawn": 11,
         "lost": 5,
         "goalsFor": 48,
         "goalsAgainst": 27,
         "goalDifference": 21,
-        "points": 67,
+        "points": 68,
         "form": ""
       },
       {
@@ -618,6 +618,19 @@
       },
       {
         "position": 8,
+        "team": "Bologna",
+        "played": 35,
+        "won": 14,
+        "drawn": 7,
+        "lost": 14,
+        "goalsFor": 42,
+        "goalsAgainst": 41,
+        "goalDifference": 1,
+        "points": 49,
+        "form": ""
+      },
+      {
+        "position": 9,
         "team": "Lazio",
         "played": 34,
         "won": 12,
@@ -626,19 +639,6 @@
         "goalsFor": 37,
         "goalsAgainst": 33,
         "goalDifference": 4,
-        "points": 48,
-        "form": ""
-      },
-      {
-        "position": 9,
-        "team": "Bologna",
-        "played": 34,
-        "won": 14,
-        "drawn": 6,
-        "lost": 14,
-        "goalsFor": 42,
-        "goalsAgainst": 41,
-        "goalDifference": 1,
         "points": 48,
         "form": ""
       },
@@ -658,14 +658,14 @@
       {
         "position": 11,
         "team": "Sassuolo",
-        "played": 34,
+        "played": 35,
         "won": 13,
-        "drawn": 7,
+        "drawn": 8,
         "lost": 14,
         "goalsFor": 41,
         "goalsAgainst": 44,
         "goalDifference": -3,
-        "points": 46,
+        "points": 47,
         "form": ""
       },
       {
@@ -723,14 +723,14 @@
       {
         "position": 16,
         "team": "Cagliari",
-        "played": 34,
+        "played": 35,
         "won": 9,
-        "drawn": 9,
+        "drawn": 10,
         "lost": 16,
         "goalsFor": 36,
         "goalsAgainst": 49,
         "goalDifference": -13,
-        "points": 36,
+        "points": 37,
         "form": ""
       },
       {
@@ -1052,14 +1052,14 @@
       {
         "position": 3,
         "team": "Lille",
-        "played": 31,
+        "played": 32,
         "won": 17,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 8,
         "goalsFor": 50,
         "goalsAgainst": 34,
         "goalDifference": 16,
-        "points": 57,
+        "points": 58,
         "form": ""
       },
       {
@@ -1195,14 +1195,14 @@
       {
         "position": 14,
         "team": "Le Havre",
-        "played": 31,
+        "played": 32,
         "won": 6,
-        "drawn": 13,
+        "drawn": 14,
         "lost": 12,
         "goalsFor": 29,
         "goalsAgainst": 42,
         "goalDifference": -13,
-        "points": 31,
+        "points": 32,
         "form": ""
       },
       {
@@ -1275,14 +1275,14 @@
       {
         "position": 2,
         "team": "Feyenoord",
-        "played": 31,
+        "played": 32,
         "won": 17,
-        "drawn": 7,
+        "drawn": 8,
         "lost": 7,
         "goalsFor": 65,
         "goalsAgainst": 42,
         "goalDifference": 23,
-        "points": 58,
+        "points": 59,
         "form": ""
       },
       {
@@ -1326,6 +1326,19 @@
       },
       {
         "position": 6,
+        "team": "Heerenveen",
+        "played": 32,
+        "won": 14,
+        "drawn": 8,
+        "lost": 10,
+        "goalsFor": 57,
+        "goalsAgainst": 51,
+        "goalDifference": 6,
+        "points": 50,
+        "form": ""
+      },
+      {
+        "position": 7,
         "team": "AZ",
         "played": 31,
         "won": 14,
@@ -1338,7 +1351,7 @@
         "form": ""
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "Utrecht",
         "played": 32,
         "won": 13,
@@ -1347,19 +1360,6 @@
         "goalsFor": 51,
         "goalsAgainst": 41,
         "goalDifference": 10,
-        "points": 47,
-        "form": ""
-      },
-      {
-        "position": 8,
-        "team": "Heerenveen",
-        "played": 31,
-        "won": 13,
-        "drawn": 8,
-        "lost": 10,
-        "goalsFor": 55,
-        "goalsAgainst": 51,
-        "goalDifference": 4,
         "points": 47,
         "form": ""
       },
@@ -1405,18 +1405,31 @@
       {
         "position": 12,
         "team": "Sittard",
-        "played": 31,
+        "played": 32,
         "won": 10,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 15,
         "goalsFor": 45,
         "goalsAgainst": 57,
         "goalDifference": -12,
-        "points": 36,
+        "points": 37,
         "form": ""
       },
       {
         "position": 13,
+        "team": "Zwolle",
+        "played": 32,
+        "won": 9,
+        "drawn": 10,
+        "lost": 13,
+        "goalsFor": 42,
+        "goalsAgainst": 66,
+        "goalDifference": -24,
+        "points": 37,
+        "form": ""
+      },
+      {
+        "position": 14,
         "team": "Excelsior",
         "played": 32,
         "won": 9,
@@ -1425,19 +1438,6 @@
         "goalsFor": 39,
         "goalsAgainst": 53,
         "goalDifference": -14,
-        "points": 34,
-        "form": ""
-      },
-      {
-        "position": 14,
-        "team": "Zwolle",
-        "played": 31,
-        "won": 8,
-        "drawn": 10,
-        "lost": 13,
-        "goalsFor": 41,
-        "goalsAgainst": 66,
-        "goalDifference": -25,
         "points": 34,
         "form": ""
       },
@@ -1457,13 +1457,13 @@
       {
         "position": 16,
         "team": "Volendam",
-        "played": 31,
+        "played": 32,
         "won": 8,
         "drawn": 7,
-        "lost": 16,
+        "lost": 17,
         "goalsFor": 33,
-        "goalsAgainst": 50,
-        "goalDifference": -17,
+        "goalsAgainst": 52,
+        "goalDifference": -19,
         "points": 31,
         "form": ""
       },
@@ -1483,13 +1483,13 @@
       {
         "position": 18,
         "team": "Heracles",
-        "played": 31,
+        "played": 32,
         "won": 5,
         "drawn": 4,
-        "lost": 22,
+        "lost": 23,
         "goalsFor": 34,
-        "goalsAgainst": 79,
-        "goalDifference": -45,
+        "goalsAgainst": 80,
+        "goalDifference": -46,
         "points": 19,
         "form": ""
       }
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-03T07:57:41.033Z"
+  "generatedAt": "2026-05-03T13:01:31.133Z"
 }

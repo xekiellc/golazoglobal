@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-05-03T07:55:14.549Z",
+  "transfers": [
+    {
+      "player": "US consortium takes over Sheffield Wedne",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c1e278wgqwjo",
+      "publishedAt": "2026-05-02T11:37:37Z"
+    }
+  ],
+  "generatedAt": "2026-05-03T12:59:03.412Z",
   "note": "Transfers derived from news headlines at launch."
 }
