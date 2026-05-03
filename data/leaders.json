@@ -59,18 +59,18 @@
           "penalties": 3
         },
         {
+          "name": "Eli Kroupi",
+          "team": "Bournemouth",
+          "goals": 12,
+          "assists": 0,
+          "penalties": 2
+        },
+        {
           "name": "Hugo Ekitike",
           "team": "Liverpool",
           "goals": 11,
           "assists": 4,
           "penalties": 0
-        },
-        {
-          "name": "Eli Kroupi",
-          "team": "Bournemouth",
-          "goals": 11,
-          "assists": 0,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -149,6 +149,13 @@
           "penalties": 0
         },
         {
+          "name": "Borja Iglesias",
+          "team": "Celta",
+          "goals": 14,
+          "assists": 1,
+          "penalties": 4
+        },
+        {
           "name": "Mikel Oyarzabal",
           "team": "Real Sociedad",
           "goals": 14,
@@ -160,13 +167,6 @@
           "team": "Real Madrid",
           "goals": 13,
           "assists": 5,
-          "penalties": 4
-        },
-        {
-          "name": "Borja Iglesias",
-          "team": "Celta",
-          "goals": 13,
-          "assists": 1,
           "penalties": 4
         },
         {
@@ -399,10 +399,10 @@
           "penalties": 1
         },
         {
-          "name": "Yan Diomandé",
-          "team": "RB Leipzig",
+          "name": "Haris Tabaković",
+          "team": "M'gladbach",
           "goals": 12,
-          "assists": 7,
+          "assists": 1,
           "penalties": 0
         }
       ],
@@ -429,18 +429,18 @@
           "penalties": 0
         },
         {
-          "name": "Yan Diomandé",
-          "team": "RB Leipzig",
-          "goals": 12,
-          "assists": 7,
-          "penalties": 0
-        },
-        {
           "name": "Deniz Undav",
           "team": "Stuttgart",
           "goals": 18,
           "assists": 5,
           "penalties": 0
+        },
+        {
+          "name": "Andrej Kramarić",
+          "team": "Hoffenheim",
+          "goals": 14,
+          "assists": 5,
+          "penalties": 5
         }
       ]
     },
@@ -450,7 +450,7 @@
           "name": "Esteban Lepaul",
           "team": "Stade Rennais",
           "goals": 18,
-          "assists": 4,
+          "assists": 5,
           "penalties": 3
         },
         {
@@ -482,6 +482,13 @@
           "penalties": 1
         },
         {
+          "name": "Lassine Sinayoko",
+          "team": "Auxerre",
+          "goals": 10,
+          "assists": 4,
+          "penalties": 3
+        },
+        {
           "name": "Pablo Pagis",
           "team": "Lorient",
           "goals": 10,
@@ -508,13 +515,6 @@
           "goals": 10,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Ousmane Dembélé",
-          "team": "PSG",
-          "goals": 10,
-          "assists": 6,
-          "penalties": 2
         }
       ],
       "topAssists": [
@@ -526,11 +526,11 @@
           "penalties": 5
         },
         {
-          "name": "Ousmane Dembélé",
-          "team": "PSG",
-          "goals": 10,
-          "assists": 6,
-          "penalties": 2
+          "name": "Esteban Lepaul",
+          "team": "Stade Rennais",
+          "goals": 18,
+          "assists": 5,
+          "penalties": 3
         },
         {
           "name": "Florian Thauvin",
@@ -540,9 +540,9 @@
           "penalties": 2
         },
         {
-          "name": "Esteban Lepaul",
-          "team": "Stade Rennais",
-          "goals": 18,
+          "name": "Lassine Sinayoko",
+          "team": "Auxerre",
+          "goals": 10,
           "assists": 4,
           "penalties": 3
         },
@@ -614,18 +614,18 @@
           "penalties": 0
         },
         {
+          "name": "Tobias Lauritsen",
+          "team": "Sparta",
+          "goals": 12,
+          "assists": 4,
+          "penalties": 3
+        },
+        {
           "name": "Koen Kostons",
           "team": "Zwolle",
           "goals": 11,
           "assists": 6,
           "penalties": 0
-        },
-        {
-          "name": "Tobias Lauritsen",
-          "team": "Sparta",
-          "goals": 11,
-          "assists": 3,
-          "penalties": 3
         }
       ],
       "topAssists": [
@@ -685,7 +685,7 @@
         {
           "name": "Yanis Begraoui",
           "team": "Estoril Praia",
-          "goals": 19,
+          "goals": 20,
           "assists": 1,
           "penalties": 5
         },
@@ -700,7 +700,7 @@
           "name": "Rodrigo Zalazar",
           "team": "Braga",
           "goals": 16,
-          "assists": 4,
+          "assists": 5,
           "penalties": 10
         },
         {
@@ -741,6 +741,13 @@
       ],
       "topAssists": [
         {
+          "name": "Rodrigo Zalazar",
+          "team": "Braga",
+          "goals": 16,
+          "assists": 5,
+          "penalties": 10
+        },
+        {
           "name": "Pedro Gonçalves",
           "team": "Sporting CP",
           "goals": 13,
@@ -753,13 +760,6 @@
           "goals": 25,
           "assists": 4,
           "penalties": 4
-        },
-        {
-          "name": "Rodrigo Zalazar",
-          "team": "Braga",
-          "goals": 16,
-          "assists": 4,
-          "penalties": 10
         },
         {
           "name": "Ricardo Horta",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-03T13:02:55.905Z"
+  "generatedAt": "2026-05-03T18:56:13.150Z"
 }
