@@ -2242,19 +2242,6 @@
       },
       {
         "position": 16,
-        "team": "Corinthians",
-        "played": 14,
-        "won": 3,
-        "drawn": 7,
-        "lost": 4,
-        "goalsFor": 9,
-        "goalsAgainst": 11,
-        "goalDifference": -2,
-        "points": 16,
-        "form": ""
-      },
-      {
-        "position": 17,
         "team": "Santos",
         "played": 14,
         "won": 3,
@@ -2267,7 +2254,33 @@
         "form": ""
       },
       {
+        "position": 17,
+        "team": "Corinthians",
+        "played": 14,
+        "won": 3,
+        "drawn": 6,
+        "lost": 5,
+        "goalsFor": 10,
+        "goalsAgainst": 13,
+        "goalDifference": -3,
+        "points": 15,
+        "form": ""
+      },
+      {
         "position": 18,
+        "team": "Mirassol",
+        "played": 13,
+        "won": 3,
+        "drawn": 3,
+        "lost": 7,
+        "goalsFor": 15,
+        "goalsAgainst": 19,
+        "goalDifference": -4,
+        "points": 12,
+        "form": ""
+      },
+      {
+        "position": 19,
         "team": "Clube do Remo",
         "played": 14,
         "won": 2,
@@ -2277,19 +2290,6 @@
         "goalsAgainst": 24,
         "goalDifference": -9,
         "points": 11,
-        "form": ""
-      },
-      {
-        "position": 19,
-        "team": "Mirassol",
-        "played": 13,
-        "won": 2,
-        "drawn": 4,
-        "lost": 7,
-        "goalsFor": 13,
-        "goalsAgainst": 18,
-        "goalDifference": -5,
-        "points": 10,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-03T23:41:48.134Z"
+  "generatedAt": "2026-05-04T08:26:41.512Z"
 }
