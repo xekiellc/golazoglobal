@@ -21,8 +21,8 @@
         "won": 21,
         "drawn": 8,
         "lost": 5,
-        "goalsFor": 66,
-        "goalsAgainst": 29,
+        "goalsFor": 69,
+        "goalsAgainst": 32,
         "goalDifference": 37,
         "points": 71,
         "form": ""
@@ -125,8 +125,8 @@
         "won": 13,
         "drawn": 9,
         "lost": 13,
-        "goalsFor": 41,
-        "goalsAgainst": 41,
+        "goalsFor": 44,
+        "goalsAgainst": 44,
         "goalDifference": 0,
         "points": 48,
         "form": ""
@@ -343,19 +343,6 @@
       },
       {
         "position": 7,
-        "team": "Real Sociedad",
-        "played": 34,
-        "won": 11,
-        "drawn": 11,
-        "lost": 12,
-        "goalsFor": 52,
-        "goalsAgainst": 52,
-        "goalDifference": 0,
-        "points": 44,
-        "form": ""
-      },
-      {
-        "position": 8,
         "team": "Getafe",
         "played": 34,
         "won": 13,
@@ -368,7 +355,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 8,
         "team": "Athletic",
         "played": 34,
         "won": 13,
@@ -378,6 +365,19 @@
         "goalsAgainst": 50,
         "goalDifference": -10,
         "points": 44,
+        "form": ""
+      },
+      {
+        "position": 9,
+        "team": "Real Sociedad",
+        "played": 34,
+        "won": 11,
+        "drawn": 10,
+        "lost": 13,
+        "goalsFor": 52,
+        "goalsAgainst": 53,
+        "goalDifference": -1,
+        "points": 43,
         "form": ""
       },
       {
@@ -473,6 +473,19 @@
       },
       {
         "position": 17,
+        "team": "Sevilla FC",
+        "played": 34,
+        "won": 10,
+        "drawn": 7,
+        "lost": 17,
+        "goalsFor": 41,
+        "goalsAgainst": 55,
+        "goalDifference": -14,
+        "points": 37,
+        "form": ""
+      },
+      {
+        "position": 18,
         "team": "Alavés",
         "played": 34,
         "won": 9,
@@ -482,19 +495,6 @@
         "goalsAgainst": 53,
         "goalDifference": -13,
         "points": 36,
-        "form": ""
-      },
-      {
-        "position": 18,
-        "team": "Sevilla FC",
-        "played": 34,
-        "won": 9,
-        "drawn": 8,
-        "lost": 17,
-        "goalsFor": 40,
-        "goalsAgainst": 55,
-        "goalDifference": -15,
-        "points": 35,
         "form": ""
       },
       {
@@ -579,6 +579,19 @@
       },
       {
         "position": 5,
+        "team": "Roma",
+        "played": 35,
+        "won": 20,
+        "drawn": 4,
+        "lost": 11,
+        "goalsFor": 52,
+        "goalsAgainst": 29,
+        "goalDifference": 23,
+        "points": 64,
+        "form": ""
+      },
+      {
+        "position": 6,
         "team": "Como 1907",
         "played": 35,
         "won": 17,
@@ -587,19 +600,6 @@
         "goalsFor": 59,
         "goalsAgainst": 28,
         "goalDifference": 31,
-        "points": 62,
-        "form": ""
-      },
-      {
-        "position": 6,
-        "team": "Roma",
-        "played": 35,
-        "won": 19,
-        "drawn": 5,
-        "lost": 11,
-        "goalsFor": 48,
-        "goalsAgainst": 29,
-        "goalDifference": 19,
         "points": 62,
         "form": ""
       },
@@ -712,12 +712,12 @@
         "team": "Fiorentina",
         "played": 35,
         "won": 8,
-        "drawn": 14,
-        "lost": 13,
+        "drawn": 13,
+        "lost": 14,
         "goalsFor": 38,
-        "goalsAgainst": 45,
-        "goalDifference": -7,
-        "points": 38,
+        "goalsAgainst": 49,
+        "goalDifference": -11,
+        "points": 37,
         "form": ""
       },
       {
@@ -1510,6 +1510,19 @@
       },
       {
         "position": 2,
+        "team": "Sporting CP",
+        "played": 32,
+        "won": 23,
+        "drawn": 7,
+        "lost": 2,
+        "goalsFor": 82,
+        "goalsAgainst": 23,
+        "goalDifference": 59,
+        "points": 76,
+        "form": ""
+      },
+      {
+        "position": 3,
         "team": "SL Benfica",
         "played": 32,
         "won": 22,
@@ -1519,19 +1532,6 @@
         "goalsAgainst": 22,
         "goalDifference": 47,
         "points": 76,
-        "form": ""
-      },
-      {
-        "position": 3,
-        "team": "Sporting CP",
-        "played": 31,
-        "won": 22,
-        "drawn": 7,
-        "lost": 2,
-        "goalsFor": 77,
-        "goalsAgainst": 22,
-        "goalDifference": 55,
-        "points": 73,
         "form": ""
       },
       {
@@ -1576,13 +1576,13 @@
       {
         "position": 7,
         "team": "Vitória SC",
-        "played": 31,
+        "played": 32,
         "won": 12,
         "drawn": 6,
-        "lost": 13,
-        "goalsFor": 38,
-        "goalsAgainst": 43,
-        "goalDifference": -5,
+        "lost": 14,
+        "goalsFor": 39,
+        "goalsAgainst": 48,
+        "goalDifference": -9,
         "points": 42,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-04T19:24:48.635Z"
+  "generatedAt": "2026-05-04T23:52:42.011Z"
 }

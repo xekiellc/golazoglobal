@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-05-04T19:22:21.478Z",
+  "transfers": [
+    {
+      "player": "PSG eyeing transfer for Bayern Munich st",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Bavarian Football Works",
+      "url": "https://www.bavarianfootballworks.com/bayern-munich-transfer-news-rumors/197260/psg-eyeing-transfer-for-bayern-munich-star-harry-kane",
+      "publishedAt": "2026-05-03T23:30:00Z"
+    }
+  ],
+  "generatedAt": "2026-05-04T23:50:16.367Z",
   "note": "Transfers derived from news headlines at launch."
 }

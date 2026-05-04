@@ -2,42 +2,6 @@
   "matches": [
     {
       "league": "PL",
-      "homeTeam": "Everton",
-      "awayTeam": "Man City",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-04T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Sevilla FC",
-      "awayTeam": "Real Sociedad",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-04T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Roma",
-      "awayTeam": "Fiorentina",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-04T18:45:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Sporting CP",
-      "awayTeam": "Vitória SC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-04T19:15:00Z"
-    },
-    {
-      "league": "PL",
       "homeTeam": "Bournemouth",
       "awayTeam": "Crystal Palace",
       "homeScore": 3,
@@ -71,6 +35,15 @@
       "awayScore": 3,
       "status": "FINISHED",
       "utcDate": "2026-05-04T14:00:00Z"
+    },
+    {
+      "league": "PL",
+      "homeTeam": "Everton",
+      "awayTeam": "Man City",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-05-04T19:00:00Z"
     },
     {
       "league": "PD",
@@ -107,6 +80,15 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-05-03T19:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Sevilla FC",
+      "awayTeam": "Real Sociedad",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-05-04T19:00:00Z"
     },
     {
       "league": "SA",
@@ -152,6 +134,15 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-05-04T16:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Roma",
+      "awayTeam": "Fiorentina",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-05-04T18:45:00Z"
     },
     {
       "league": "BL1",
@@ -247,7 +238,7 @@
       "league": "DED",
       "homeTeam": "Zwolle",
       "awayTeam": "Heracles",
-      "homeScore": 2,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-05-03T12:30:00Z"
@@ -296,6 +287,15 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-05-03T19:30:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Vitória SC",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-05-04T19:15:00Z"
     },
     {
       "league": "BSA",
@@ -352,5 +352,5 @@
       "utcDate": "2026-05-03T23:30:00Z"
     }
   ],
-  "generatedAt": "2026-05-04T19:23:46.093Z"
+  "generatedAt": "2026-05-04T23:51:40.066Z"
 }
