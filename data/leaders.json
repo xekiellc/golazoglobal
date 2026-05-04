@@ -26,7 +26,7 @@
         {
           "name": "João Pedro",
           "team": "Chelsea",
-          "goals": 14,
+          "goals": 15,
           "assists": 5,
           "penalties": 0
         },
@@ -48,7 +48,7 @@
           "name": "Morgan Gibbs-White",
           "team": "Nottingham",
           "goals": 13,
-          "assists": 4,
+          "assists": 5,
           "penalties": 1
         },
         {
@@ -84,21 +84,21 @@
         {
           "name": "João Pedro",
           "team": "Chelsea",
-          "goals": 14,
+          "goals": 15,
           "assists": 5,
           "penalties": 0
-        },
-        {
-          "name": "Antoine Semenyo",
-          "team": "Man City",
-          "goals": 15,
-          "assists": 4,
-          "penalties": 1
         },
         {
           "name": "Morgan Gibbs-White",
           "team": "Nottingham",
           "goals": 13,
+          "assists": 5,
+          "penalties": 1
+        },
+        {
+          "name": "Antoine Semenyo",
+          "team": "Man City",
+          "goals": 15,
           "assists": 4,
           "penalties": 1
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-04T13:51:33.955Z"
+  "generatedAt": "2026-05-04T19:26:09.404Z"
 }

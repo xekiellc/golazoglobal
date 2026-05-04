@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Report",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "English Premier League Index - Opta Stats",
-      "url": "https://eplindex.com/146007/report-manchester-united-keen-on-26m-brazilian-midfielder.html",
-      "publishedAt": "2026-05-03T08:50:00Z"
-    }
-  ],
-  "generatedAt": "2026-05-04T13:47:33.189Z",
+  "transfers": [],
+  "generatedAt": "2026-05-04T19:22:21.478Z",
   "note": "Transfers derived from news headlines at launch."
 }

@@ -1,405 +1,165 @@
 {
   "articles": [
     {
-      "title": " Bournemouth ace turns Palace scourge in record-breaking season",
-      "description": "Bournemouth's bid for European football is alive and well this afternoon as they host Crystal Palace at Vitality Stadium. An own goal from former midfielder Jefferson Lerma in the 10th minute set the ...",
-      "url": "https://onefootball.com/en/news/bournemouth-ace-turns-palace-scourge-in-record-breaking-season-42807359",
-      "source": "Onefootball.com",
-      "publishedAt": "2026-05-03T13:44:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Liverpool team news v Man Utd: Slot rolls the dice with Frimpong decision among two changes",
-      "description": "Liverpool have the chance to go third in the Premier League table this afternoon if they can defeat arch-rivals Manchester United at Old Trafford.The Reds will have revenge on their minds after losing...",
-      "url": "https://www.empireofthekop.com/2026/05/03/liverpool-team-news-v-man-utd-slot-rolls-the-dice-with-frimpong-decision-among-two-changes/",
-      "source": "Empire of The Kop",
-      "publishedAt": "2026-05-03T13:25:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Newcastle Reportedly Make Final Eddie Howe Decision: Breaking",
-      "description": "As shocking as it is, The Athletic is reporting that Newcastle United are set to retain Eddie Howe as head coach for next season despite a significant downturn in results during the current season and a guaranteed bottom-half finish in the Premier League. The…",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_17786f2d-216a-4898-b6b9-a34d319b1b78",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-03T13:23:13Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Confirmed Man United starting XI vs Liverpool: Cunha returns, Heaven keeps his place",
-      "description": "Benjamin Sesko and Luke Shaw both play for Manchester United against Liverpool today, despite reports that both were doubtful for the game. Matheus Cunha is also available again, having missed the Bre...",
-      "url": "https://thepeoplesperson.com/2026/05/03/confirmed-man-united-starting-xi-vs-liverpool-309581/",
-      "source": "The Peoples Person",
-      "publishedAt": "2026-05-03T13:20:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Manchester United v Liverpool: Confirmed line-ups for Old Trafford clash",
-      "description": "Manchester United host Liverpool in a massive game at Old Trafford, with the two arch rivals each on the brink of Champions League qualification. A draw would see United seal a return to European football’s top table, though they will qualify for the Champion…",
-      "url": "https://www.101greatgoals.com/football/premier-league/manchester-united-liverpool-team-news/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-05-03T13:17:28Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Premier League: Bournemouth lead Crystal Palace as they eye sixth spot",
-      "description": "Follow live text commentary, score updates and match stats from AFC Bournemouth vs Crystal Palace in the Premier League",
-      "url": "https://www.bbc.com/sport/football/live/c794w4l1drgt?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "title": "Carrick secures Champions League - what are Man Utd waiting for?",
+      "description": "Unless Manchester United appoint Luis Enrique, it is hard to think of an acceptable alternative to giving Michael Carrick the job on a permanent basis, writes Simon Stone.",
+      "url": "https://www.bbc.com/sport/football/articles/c2e2xjyeyk7o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
       "source": "BBC News",
-      "publishedAt": "2026-05-03T13:17:15Z",
+      "publishedAt": "2026-05-03T19:20:48Z",
       "league": "Premier League"
     },
     {
-      "title": "Manchester United vs Liverpool - Premier League LIVE: Red Devils look to pull six points ahead of European rivals with a win at Old Trafford",
-      "description": "Follow Daily Mail Sport's live blog for the latest score, team news and updates as Manchester United welcome Liverpool to Old Trafford in the Premier League.",
-      "url": "https://www.dailymail.com/sport/football/article-15779743/Manchester-United-vs-Liverpool-2025-26-Premier-League-LIVE-Result.html",
+      "title": "84-yr-old Alex Ferguson rushed to hospital before Man Utd win against Liverpool",
+      "description": "Legendary former Manchester United manager Alex Ferguson was taken to hospital after falling ill before the Red Devils' 3-2 win over rivals Liverpool on Sunday.\nThe post 84-yr-old Alex Ferguson rushed to hospital before Man Utd win against Liverpool appeared …",
+      "url": "https://www.vanguardngr.com/2026/05/84-yr-old-alex-ferguson-rushed-to-hospital-before-man-utd-win-against-liverpool/",
+      "source": "Vanguard",
+      "publishedAt": "2026-05-03T19:10:22Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Slot's VAR fury but loss highlights Liverpool issues",
+      "description": "Liverpool boss Arne Slot was furious with Manchester United's second goal being allowed to stand, but the Reds boss highlighted other issues to address following 3-2 defeat.",
+      "url": "https://www.bbc.com/sport/football/articles/c242nrvy17vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-03T19:07:21Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Jamie Carragher reveals the three positions Liverpool MUST strengthen this summer after sobering 3-2 defeat against bitter rivals Man United",
+      "description": "Jamie Carragher has urged Liverpool to ditch their transfer policy adopted last summer and revert to the methods used beforehand which made them successful.",
+      "url": "https://www.dailymail.com/sport/football/article-15786901/Jamie-Carragher-reveals-three-positions-Liverpool-strengthen-summer-sobering-3-2-defeat-against-bitter-rivals-Man-United.html",
       "source": "Dailymail.com",
-      "publishedAt": "2026-05-03T13:04:13Z",
+      "publishedAt": "2026-05-03T18:59:30Z",
       "league": "Premier League"
     },
     {
-      "title": "Report: Chelsea set to battle Man United in the race to sign 26-year-old defender",
-      "description": "Maximiliano Araújo Transfer Race Puts Chelsea And Man United On AlertAraújo Profile Fits Modern Premier League DemandsMaximiliano Araújo is becoming exactly the kind of player Premier League recrui...",
-      "url": "https://eplindex.com/146013/report-chelsea-set-to-battle-man-united-in-the-race-to-sign-26-year-old-defender.html",
-      "source": "English Premier League Index - Opta Stats",
-      "publishedAt": "2026-05-03T12:55:00Z",
+      "title": "WATCH: Tottenham carve out huge two-goal lead at Aston Villa",
+      "description": "Tottenham find themselves 2-0 up against Aston Villa in a crucial game for their Premier League survival hopes.",
+      "url": "https://www.101greatgoals.com/football/premier-league/watch-tottenham-carve-out-huge-two-goal-lead-at-aston-villa/",
+      "source": "101 Great Goals",
+      "publishedAt": "2026-05-03T18:55:39Z",
       "league": "Premier League"
     },
     {
-      "title": "Aaron Danks: United make key decision on pursuit of Bayern coach",
-      "description": "Manchester United are determined to get their managerial appointment right this summer after a couple of false starts under INEOS. The Red Devils handed the reins of the first team to caretaker manage...",
-      "url": "https://thepeoplesperson.com/2026/05/03/aaron-danks-united-make-key-decision-on-pursuit-of-bayern-coach-309577/",
-      "source": "The Peoples Person",
-      "publishedAt": "2026-05-03T12:40:00Z",
+      "title": "Man Utd job feels 'natural' to Carrick",
+      "description": "Michael Carrick said he feels like a \"natural\" in the pressurised role as Manchester United manager after securing a return to the Champions League next season.An 11th league defeat of the season leaves Liverpool with work to do if they are to secure Champion…",
+      "url": "https://sports.yahoo.com/articles/man-utd-job-feels-natural-185340465.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-03T18:53:40Z",
       "league": "Premier League"
     },
     {
-      "title": "Mason Greenwood torn apart by French press after 'scandalous' performance': Ex-Man United star given a ZERO rating after 'acting like he was in a circus' during Marseille's woeful 3-0 defeat",
-      "description": "Greenwood has enjoyed a productive season with 15 goals in Ligue 1 but he has only found the net once in his last nine games.",
-      "url": "https://www.dailymail.com/sport/football/article-15786469/Mason-Greenwood-Marseille-Man-United.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-03T12:36:39Z",
+      "title": "Sir Alex Ferguson Hospitalized Before Man United Vs Liverpool",
+      "description": "Legendary former Manchester United manager Sir Alex Ferguson has been taken to hospital from Old Trafford after feeling unwell.",
+      "url": "https://www.foxsports.com/stories/soccer/sir-alex-ferguson-hospitalized-before-man-united-vs-liverpool",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-03T18:44:48Z",
       "league": "Premier League"
     },
     {
-      "title": "Rising La Liga defensive sensation shuts down Barcelona and Real Madrid links — “Fans can rest easy”",
-      "description": "Barcelona have been linked with a move for Jon Martin as they look for a new defender this summer to partner Pau Cubarsi. Alessandro Bastoni remains the definitive choice, but amid ongoing negotiation...",
-      "url": "https://barcauniversal.com/rising-la-liga-defensive-sensation-shuts-down-barcelona-and-real-madrid-links-fans-can-rest-easy/",
-      "source": "Barcauniversal.com",
-      "publishedAt": "2026-05-03T13:10:00Z",
+      "title": "Real Madrid to Release Dani Carvajal, Clearing Way for Trent Alexander-Arnold",
+      "description": "Real Madrid legend Dani Carvajal faces a heartbreaking exit as the club plan to release the veteran right-back this summer.",
+      "url": "https://www.foxsports.com/stories/soccer/real-madrid-release-dani-carvajal-clearing-way-trent-alexander-arnold",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-03T19:17:20Z",
       "league": "La Liga"
     },
     {
-      "title": "Highly-rated La Liga defender responds to Real Madrid links: ‘Impossible not to hear about it’",
-      "description": "Transfer rumours are beginning to swirl around Jon Martin, but the Real Sociedad defender has made it clear where his focus lies – on his current club.In recent weeks, the young centre-back has been...",
-      "url": "https://madriduniversal.com/highly-rated-la-liga-defender-responds-to-real-madrid-links-impossible-not-to-hear-about-it/",
-      "source": "Madriduniversal.com",
-      "publishedAt": "2026-05-03T12:00:00Z",
+      "title": "Espanyol vs Real Madrid: Line-ups confirmed for La Liga clash",
+      "description": "Catch up with all the team news ahead of Espanyol vs Real Madrid in La Liga",
+      "url": "https://www.101greatgoals.com/football/la-liga/espanyol-vs-real-madrid-line-ups-confirmed/",
+      "source": "101 Great Goals",
+      "publishedAt": "2026-05-03T17:57:35Z",
       "league": "La Liga"
     },
     {
-      "title": "Real Madrid announce squad for LaLiga match against Espanyol",
-      "description": "Real Madrid have published their squad list for Sunday’s match against Espanyol in LaLiga. REAL MADRID SQUAD LIST:Goalkeepers: Lunin, Fran González, and Mestre. Defenders: Alaba, Trent, Asencio, Á. Carreras, Fran García, Rüdiger, Mendy, Huijsen, and David Jim…",
-      "url": "https://www.managingmadrid.com/107256/real-madrid-squad-liga-match-against-espanyol",
+      "title": "CONFIRMED lineups: Espanyol vs Real Madrid, 2026 La Liga",
+      "description": "Real Madrid have published their starting lineup for the upcoming match against Espanyol in La Liga. STARTING LINEUPS Real Madrid starting XI: Lunin; Trent, Rüdiger, Huijsen, Mendy; Tchouaméni, Valverde, Thiago; Bellingham; Vinicius and Brahim. Espanyol start…",
+      "url": "https://www.managingmadrid.com/107259/espanyol-vs-real-madrid-2026-la-liga-live-online-stream",
       "source": "Managing Madrid",
-      "publishedAt": "2026-05-03T10:25:42Z",
+      "publishedAt": "2026-05-03T17:35:37Z",
       "league": "La Liga"
     },
     {
-      "title": "Official: Real Madrid squad list for Espanyol clash",
-      "description": "Real Madrid head into a crucial La Liga clash against Espanyol with a heavily depleted squad, as the club confirmed a long list of absentees ahead of the match. For Real Madrid, this is far from an i...",
-      "url": "https://madriduniversal.com/official-real-madrid-squad-list-for-espanyol-clash/",
-      "source": "Madriduniversal.com",
-      "publishedAt": "2026-05-03T10:05:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Espanyol vs Real Madrid 2026 live stream: Time, TV channels and how to watch La Liga online",
-      "description": "Real Madrid visit Espanyol a week ahead of El Clásico. Barcelona have all but clinched LaLiga title so Los Blancos have nothing to play for, that being the main reason why key starters like Güler, Tchouameni or Mbappé won’t be rushed back from injury. Gonzalo…",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7f3659fc-b340-4c51-8877-b4f4c137a0b2",
+      "title": "Barcelona watching Espanyol-Real Madrid before hoping to celebrate title win",
+      "description": "Barcelona is looking to city rival Espanyol for a favor to celebrate another Spanish league title. Espanyol hosted second-place Real Madrid later Sunday with the visitors needing a win to prolong the title fight for another week at least. Anything less than a…",
+      "url": "https://sports.yahoo.com/articles/barcelona-watching-espanyol-real-madrid-172003807.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-03T09:06:12Z",
+      "publishedAt": "2026-05-03T17:20:03Z",
       "league": "La Liga"
     },
     {
-      "title": "Espanyol vs Real Madrid – Match preview and team news",
-      "description": "Real Madrid travels to the RCDE Stadium as they go head-to-head against Espanyol in a La Liga matchday 34 clash on Sunday night.Alvaro Arbeloa’s men are currently in second position in the league ta...",
-      "url": "https://thefootballfaithful.com/espanyol-vs-real-madrid-match-preview-and-team-news/",
-      "source": "The Football Faithful",
-      "publishedAt": "2026-05-03T08:50:00Z",
+      "title": "Incisive Rayo Vallecano become the rare side to outbattle Getafe at the Coliseum",
+      "description": "Getafe 0-2 Rayo VallecanoRayo Vallecano left the Coliseum in rude health after their battle with Getafe, making it three wins out of four, and providing ‘peace of mind’ that Inigo Perez sought ahe...",
+      "url": "https://www.football-espana.net/2026/05/03/incisive-rayo-vallecano-become-the-rare-side-to-outbattle-getafe-at-the-coliseum",
+      "source": "Football Espana",
+      "publishedAt": "2026-05-03T16:30:00Z",
       "league": "La Liga"
     },
     {
-      "title": "Real Madrid predicted lineup and team news vs Espanyol",
-      "description": "Real Madrid travel to the RCDE Stadium on Sunday night to face Espanyol in a crucial La Liga Matchday 34 fixture.Alvaro Arbeloa’s side currently sits second in the table, and anything less than a vi...",
-      "url": "https://thefootballfaithful.com/real-madrid-predicted-lineup-and-team-news-vs-espanyol/",
-      "source": "The Football Faithful",
-      "publishedAt": "2026-05-03T08:50:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Why Sassuolo vs. Milan will be shown on TikTok in UK and Ireland",
-      "description": "The upcoming Serie A match between Sassuolo and Milan on Sunday afternoon will be available to watch live on TikTok in the UK and Ireland, the first time that",
-      "url": "https://football-italia.net/why-sassuolo-vs-milan-will-be-shown-on-tiktok/",
+      "title": "Spalletti: ‘Juventus disappointed and have regrets’ after surprising 1-1",
+      "description": "Luciano Spalletti admits Juventus are ‘disappointed and have regrets’ after a surprising 1-1 draw with Verona, along with tension on the touchline with director Sean Sogliano.",
+      "url": "https://football-italia.net/spalletti-juventus-disappointed-have-regrets/",
       "source": "Football Italia",
-      "publishedAt": "2026-05-03T12:39:15Z",
+      "publishedAt": "2026-05-03T19:05:41Z",
       "league": "Serie A"
     },
     {
-      "title": "Official Serie A Week 35 line-ups: Sassuolo vs. Milan",
-      "description": "Milan look to Rafael Leao and Christopher Nkunku in attack, while Domenico Berardi returns to Sassuolo's starting XI after serving a two-game ban.",
-      "url": "https://football-italia.net/official-serie-a-line-ups-sassuolo-v-milan/",
+      "title": "Milan loudly jeered by supporters after 2-0 Sassuolo defeat",
+      "description": "It was an afternoon to forget for Milan, who fell to a 2-0 defeat away against Sassuolo in Serie A on Sunday, and were then loudly booed by their travelling",
+      "url": "https://football-italia.net/milan-jeered-by-supporters-after-sassuolo-loss/",
       "source": "Football Italia",
-      "publishedAt": "2026-05-03T11:52:22Z",
+      "publishedAt": "2026-05-03T15:31:53Z",
       "league": "Serie A"
     },
     {
-      "title": "✅ Bologna v Cagliari line-ups: Folorunsho in, Italiano shakes it up! ",
-      "description": "A hugely packed Sunday of Serie A football gets underway, one that could hand Inter their 21st Scudetto.First, though, it starts with Bologna vs Cagliari: let’s take a look at the official selection...",
-      "url": "https://onefootball.com/en/news/bologna-v-cagliari-line-ups-folorunsho-in-italiano-shakes-it-up-42806420",
-      "source": "Onefootball.com",
-      "publishedAt": "2026-05-03T09:38:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Serie A Preview: Sassuolo vs Milan – Team News, Lineups & Prediction",
-      "description": "Serie A top-four hopefuls Milan head to the Mapei Stadium to face mid-table Sassuolo in a must-win clash on Sunday afternoon. While the result won’t mean much for the home side, it could prove decis...",
-      "url": "https://cultofcalcio.com/serie-a-preview-sassuolo-vs-milan-team-news-lineups-prediction/",
-      "source": "Cultofcalcio.com",
-      "publishedAt": "2026-05-03T09:10:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Serie A: Inter vs. Parma – probable line-ups, where to watch on TV",
-      "description": "Inter star Alessandro Bastoni is expected to start against Parma, while Lautaro Martinez will go on the bench with the Nerazzurri needing just one point to",
-      "url": "https://football-italia.net/inter-v-parma-probable-line-ups-watch-on-tv/",
+      "title": "Why Tomori was sent off after 24 minutes of Sassuolo vs. Milan",
+      "description": "Life became more difficult for Milan in their Serie A match away against Sassuolo after the  24th-minute red card shown to centre-back Fikayo Tomori. Here is",
+      "url": "https://football-italia.net/why-tomori-was-sent-off-sassuolo-vs-milan/",
       "source": "Football Italia",
-      "publishedAt": "2026-05-03T08:53:06Z",
+      "publishedAt": "2026-05-03T14:02:34Z",
       "league": "Serie A"
     },
     {
-      "title": "Serie A: Juventus vs. Verona – probable line-ups, where to watch on TV",
-      "description": "Kenan Yildiz is expected to return to the Juventus starting XI for a must-win Serie A match against already-relegated Hellas Verona.",
-      "url": "https://football-italia.net/juventus-v-verona-probable-line-ups-watch-tv/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-03T08:33:32Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Serie A: Sassuolo vs. Milan – probable line-ups, where to watch on TV",
-      "description": "Milan star Christian Pulisic is expected to start on the bench, but the Rossoneri need a win against Sassuolo to boost their Champions League qualification",
-      "url": "https://football-italia.net/sassuolo-v-milan-probable-line-ups-watch-on-tv/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-03T07:51:50Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "\"Sky\": Batz set for Bundesliga move after the season",
-      "description": "Borussia Mönchengladbach could be set for changes between the posts, with Mainz 05 goalkeeper Daniel Batz reportedly earning a move to the Bundesliga club after some strong performances. According to...",
-      "url": "https://bulinews.com/sky-batz-set-for-bundesliga-move-after-the-season",
-      "source": "Bulinews.com",
-      "publishedAt": "2026-05-03T13:00:00Z",
+      "title": "St. Pauli edges closer to Bundesliga relegation, Mainz and Gladbach are safe",
+      "description": "St. Pauli lost 2-1 at home to Mainz to edge closer to Bundesliga relegation, with Wolfsburg hoping to take advantage later Sunday. Phillip Tietz and Phillipp Mwene scored in the first half for Mainz to secure its place in the division next season with no conc…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13c710d7-f2c1-4602-860a-02bece904f60",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-03T17:56:07Z",
       "league": "Bundesliga"
     },
     {
-      "title": " 8 goals in one half! 2. Bundesliga promotion race goes mad",
-      "description": "Only on Saturday evening did FC Schalke 04 show what it takes to earn promotion to the Bundesliga. With tremendous fighting spirit and even more energy, the Royal Blues ground down Fortuna Düsseldorf...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_00931d46-eca7-48ac-8f7b-faa4541da929",
+      "title": "Gladbach sink Dortmund, St Pauli edge closer to drop",
+      "description": "Haris Tabakovic scored with two minutes remaining to give Borussia Moenchengladbach a 1-0 home win over Borussia Dortmund on Sunday, while Mainz pushed St Pauli closer to relegation. Earlier on Sunday, goals from Phillip Tietz and Phillipp Mwene took Mainz to…",
+      "url": "https://sports.yahoo.com/articles/gladbach-sink-dortmund-st-pauli-174221214.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-03T12:28:00Z",
+      "publishedAt": "2026-05-03T17:42:21Z",
       "league": "Bundesliga"
     },
     {
-      "title": "Leipzig query ball-boy rules as Leverkusen put top four in own hands",
-      "description": "RB Leipzig coach Ole Werner has called for rules governing ball-boys to be clarified after Bayer Leverkusen's opening goal in their 4-1 Bundesliga win over the Red Bulls on Saturday. Third-placed Leipzig now have Leverkusen on their tails as the Werkself jump…",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260503-99-313340/",
+      "title": "Barça down Bayern, make sixth straight women's Champions League final",
+      "description": "A brace from Alexia Putellas helped send Barcelona into a sixth straight women's Champions League final following a 4-2 win over Bayern Munich on Sunday and a 5-3 aggregate success. The Spanish hosts, who already sealed a seventh successive domestic title, we…",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260503-99-314244/",
       "source": "Dpa-international.com",
-      "publishedAt": "2026-05-03T11:08:33Z",
+      "publishedAt": "2026-05-03T16:38:33Z",
       "league": "Bundesliga"
     },
     {
-      "title": "How Schalke returned to the Bundesliga after their 'worst season ever'",
-      "description": "After three seasons in the second flight, Schalke's 1-0 home win over Fortuna Duesseldorf on Saturday returned the German giants to the Bundesliga.A Schalke return to the top flight also means the stage is set for regular Revierderby clashes with Dortmund, pe…",
-      "url": "https://sports.yahoo.com/articles/schalke-returned-bundesliga-worst-season-094557774.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-03T09:45:57Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Official | Miron Muslic extends Schalke 04 contract following promotion",
-      "description": "Schalke 04 secured their Bundesliga return after a three-year absence following a 1-0 victory over Fortuna Düsseldorf on Saturday. And there was even more reason for celebrations after Miron Muslic��...",
-      "url": "https://www.getfootballnewsgermany.com/2026/muslic-extends-schalke-contract-promotion/",
-      "source": "Getfootballnewsgermany.com",
-      "publishedAt": "2026-05-03T08:45:00Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Juventus cross their fingers as Thiago Motta emerges as top candidate for Ligue 1 job",
-      "description": "Juventus are hoping to finally ditch Thiago Motta from their payroll, as the manager is being linked with the LOSC Lille hot seat.The 43-year-old emerged as one of the most exciting young tacticians i...",
-      "url": "https://www.juvefc.com/juventus-fingers-thiago-motta-lille/",
-      "source": "JuveFC",
-      "publishedAt": "2026-05-03T12:00:00Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Report: Liverpool target £35m Ligue 1 midfielder as Mac Allister replacement",
-      "description": "Midfield uncertainty drives recruitment focusLiverpool’s midfield rebuild is once again under the microscope, with fresh speculation suggesting that Mamadou Sangare could emerge as a key target shou...",
-      "url": "https://anfieldindex.com/93781/report-liverpool-target-35m-ligue-1-midfielder-as-mac-allister-replacement.html",
-      "source": "Anfieldindex.com",
-      "publishedAt": "2026-05-03T10:50:00Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "PSG eye shock move for Real Madrid academy gem with €150m release clause",
-      "description": "As per MARCA, Real Madrid could soon find themselves in the middle of an unexpected transfer battle, with Paris Saint-Germain setting their sights on one of the club’s brightest academy prospects ��...",
-      "url": "https://madriduniversal.com/psg-eye-shock-move-for-real-madrid-academy-gem-with-e150m-release-clause/",
-      "source": "Madriduniversal.com",
-      "publishedAt": "2026-05-03T07:45:00Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "PSG fringe team held by Lorient as Bayern Munich return leg looms",
-      "description": "Paris Saint-Germain warmed up for the second leg of their Champions League semi-final against Bayern Munich by fielding a second-string line-up and throwing away the lead twice in a 2-2 draw with Lorient in Ligue 1 on Saturday.On Saturday, they clinched the L…",
-      "url": "https://sports.yahoo.com/articles/psg-fringe-team-held-lorient-213129784.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-02T21:31:29Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "European round-up: Napoli hand title to Inter as Bayern and PSG both draw",
-      "description": "Catch up with the action from Europe's top five leagues including Napoli, Bayern Munich and PSG",
-      "url": "https://www.101greatgoals.com/football/european-round-up-napoli-hand-title-to-inter-as-bayern-and-psg-both-draw/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-05-02T20:07:47Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Loan watch: Ansu Fati hits stoppage-time winner for Monaco",
-      "description": "The forward is into double figures in Ligue 1.",
-      "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/119207/loan-watch-ansu-fati-hits-stoppage-time-winner-for-monaco",
-      "source": "Barca Blaugranes",
-      "publishedAt": "2026-05-02T19:56:25Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Knaak grabs late winner as Man City beat Liverpool to close on WSL title",
-      "description": "STOCKHOLM, SWEDEN, May 3 : Manchester City's Rebecca Knaak scored a stoppage-time winner to give her side a nervy 1-0 home victory over Liverpool and put one hand on the Women's Super League trophy for the first time since 2016. City top the standings on 52 p…",
-      "url": "https://www.channelnewsasia.com/sport/knaak-grabs-late-winner-man-city-beat-liverpool-close-wsl-title-6096971",
-      "source": "CNA",
-      "publishedAt": "2026-05-03T13:17:53Z",
+      "title": "Putellas double earns Bayern victory over Barcelona",
+      "description": "Midfielder Alexia Putellas struck twice as Barcelona beat Bayern Munich 4-2 in the second leg of their Women's Champions League semi-final to complete a ⁠thrilling 5-3 aggregate win and set up a final showdown with French side OL Lyonnes.",
+      "url": "https://www.rte.ie/sport/soccer/2026/0503/1571588-putellas-double-earns-bayern-victory-over-barcelona/",
+      "source": "RTE",
+      "publishedAt": "2026-05-03T19:14:59Z",
       "league": "Champions League"
     },
     {
-      "title": "Knaak's late strike edges Man City closer to WSL title",
-      "description": "Rebecca Knaak's late strike saw Manchester City beat Liverpool 1-0 and take a step closer to the WSL title.",
-      "url": "https://www.skysports.com/football/news/35730/13538828/man-city-1-0-liverpool-rebecca-knaaks-late-goal-puts-hosts-on-verge-of-wsl-title",
-      "source": "Sky Sports",
-      "publishedAt": "2026-05-03T13:15:00Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "Diogo Costa dedicates Porto title win to Diogo Jota",
-      "description": "Diogo Costa dedicated Porto's Primeira Liga title win to former team-mate Diogo Jota after they secured the crown with a 1-0 victory over Alverca.",
-      "url": "https://www.101greatgoals.com/football/diogo-costa-porto-title-win-diogo-jota/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-05-03T11:28:59Z",
-      "league": "Primeira Liga"
-    },
-    {
-      "title": " Official: Portugal have crowned their champions!",
-      "description": "FC Porto are back on the throne of Portuguese football.The Dragons officially secured their 31st national league title this Saturday after a decisive win over Alverca on Matchday 32 of the Primeira Li...",
-      "url": "https://onefootball.com/en/news/official-portugal-have-crowned-their-champions-42804371",
-      "source": "Onefootball.com",
-      "publishedAt": "2026-05-02T21:30:00Z",
-      "league": "Primeira Liga"
-    },
-    {
-      "title": "Watford sack Ed Still after just 15 GAMES in charge: Ruthless EFL club get rid of another manager in brutal fashion - six months after his brother was sacked by a rival club!",
-      "description": "Still oversaw just three league wins, with Watford drawing twice and losing eight as they slid out of play-off contention to finish the season in 16th place.",
-      "url": "https://www.dailymail.com/sport/football/article-15786365/Watford-sack-Ed-15-GAMES.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-03T10:41:57Z",
-      "league": "Championship"
-    },
-    {
-      "title": "Ryan Reynolds 'gutted' as Wrexham misses shot at EPL promotion",
-      "description": "Movie star and Wrexham co-owner Ryan Reynolds says he is \"gutted\" but proud after the Welsh club narrowly missed a shot at a Premier League promotion.",
-      "url": "https://www.abc.net.au/news/2026-05-03/ryan-reynolds-gutted-wrexham-misses-premier-league-promotion/106635638",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-02T22:11:30Z",
-      "league": "Championship"
-    },
-    {
-      "title": "Are Ipswich better equipped for Premier League this time?",
-      "description": "Ipswich Town have won promotion from the Championship for the second time in three years - but are they better equipped for the Premier League in 2026?",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpw5ye21jo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-05-02T17:17:32Z",
-      "league": "Championship"
-    },
-    {
-      "title": "Wrexham's Premier League dream on hold after missing out on playoffs. Ipswich secures promotion",
-      "description": "Wrexham's dream of reaching the Premier League is over, for this season anyway. The Welsh club owned by Hollywood celebrities Ryan Reynolds and Rob Mac missed out on a place in the playoffs in the second-tier Championship after drawing 2-2 with Middlesbrough …",
-      "url": "https://sports.yahoo.com/articles/wrexhams-premier-league-dream-hold-133823646.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-02T13:38:23Z",
-      "league": "Championship"
-    },
-    {
-      "title": "US consortium completes purchase of beleaguered Sheffield Wednesday and says the club is 'reborn'",
-      "description": "An American consortium has completed the purchase of Sheffield Wednesday, ending the historic English club's long takeover saga and the controversial tenure of former owner Dejphon Chansiri. Arise Capital Partners, fronted by U.S. businessman David Storch, ta…",
-      "url": "https://sports.yahoo.com/articles/us-consortium-completes-purchase-beleaguered-124930435.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-02T12:49:30Z",
-      "league": "Championship"
-    },
-    {
-      "title": "Sheffield Wednesday avoid 26-27 points deduction as takeover finally completed",
-      "description": "The long-awaited takeover of Sheffield Wednesday has officially been completed, and the club will not face a points deduction next season.",
-      "url": "https://www.101greatgoals.com/football/sheffield-wednesday-takeover-completed/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-05-02T12:20:31Z",
-      "league": "Championship"
-    },
-    {
-      "title": "Manchester City eye Pumas UNAM star after successful Talent ID visit to Mexico",
-      "description": "Man City have taken an interest in signing Pumas UNAM’s Pedro Vite.The 24-year-old has emerged as a transfer prospect after the English side’s recent visit to Mexico.City look to finalise this pot...",
-      "url": "https://cityxtra.co.uk/45529/manchester-city-eye-pumas-unam-star-after-successful-talent-id-visit-to-mexico/",
-      "source": "Cityxtra.co.uk",
-      "publishedAt": "2026-05-03T08:00:00Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Manchester United ace ‘tempted’ to join Inter Miami this summer",
-      "description": "Major League Soccer (MLS) club Inter Miami are interested in signing Manchester United star Casemiro. The Brazilian has already announced he will leave Old Trafford at the end of his contract this su...",
-      "url": "https://footballtoday.com/2026/05/03/manchester-united-ace-tempted-to-join-inter-miami-this-summer/",
-      "source": "Footballtoday.com",
-      "publishedAt": "2026-05-03T06:15:00Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Ojeda gets hat trick, Messi and Inter Miami waste 3-0 lead and fall 4-3 to Orlando City",
-      "description": "Lionel Messi and Inter Miami had a 3-0 lead, against in-state rival Orlando City, on co-owner David Beckham's 51st birthday no less, finally looking poised to get the long-awaited first win on its new home field. Martin Ojeda and Orlando City had other ideas.…",
-      "url": "https://sports.yahoo.com/articles/ojeda-gets-hat-trick-messi-014435952.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-03T01:44:35Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Casemiro to Inter Miami: What Fabrizio Romano is saying",
-      "description": "Casemiro is in the final few weeks of his four-year spell at Manchester United, having joined the club from Real Madrid in the summer of 2022.The 34-year-old appears to be enjoying his time under inte...",
-      "url": "https://thepeoplesperson.com/2026/05/02/casemiro-to-inter-miami-what-fabrizio-romano-is-saying-309556/",
-      "source": "The Peoples Person",
-      "publishedAt": "2026-05-02T19:35:00Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Report: Manchester United keen on £26m Brazilian midfielder",
-      "description": "Man Utd interest gathers paceManchester United’s recruitment radar has stretched deep into South America, where Danilo of Botafogo is rapidly becoming one of the most talked-about midfield prospects...",
-      "url": "https://eplindex.com/146007/report-manchester-united-keen-on-26m-brazilian-midfielder.html",
-      "source": "English Premier League Index - Opta Stats",
-      "publishedAt": "2026-05-03T08:50:00Z",
-      "league": "Transfers"
+      "title": "2026 World Cup: Eduardo Camavinga is at risk of being left off France’s roster due to his poor form at Real Madrid",
+      "description": "After establishing as one of the most well-rounded midfielders, Eduardo Camavinga seemed to be a sure bet for France. However, his form has dipped at Real Madrid, affecting his performance with the national team. As a result, he risks being left off Didier De…",
+      "url": "https://worldsoccertalk.com/world-cup/2026-world-cup-eduardo-camavinga-is-at-risk-of-being-left-off-frances-roster-due-to-his-poor-form-at-real-madrid/",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-05-03T19:18:30Z",
+      "league": "World Cup"
     }
   ],
-  "generatedAt": "2026-05-04T13:47:33.188Z"
+  "generatedAt": "2026-05-04T19:22:21.477Z"
 }
