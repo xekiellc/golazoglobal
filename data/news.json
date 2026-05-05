@@ -1,20 +1,84 @@
 {
   "articles": [
     {
-      "title": "Pep Guardiola Hints He Will Stay On As Manchester City Boss For 2026-27 Season",
-      "description": "Pep Guardiola has hinted he will remain at Manchester City next season, suggesting he still has the energy to continue building on his legacy.",
-      "url": "https://www.foxsports.com/stories/soccer/pep-guardiola-hints-he-will-stay-manchester-city-boss-2026-27-season",
-      "source": "Fox Sports",
-      "publishedAt": "2026-05-04T19:10:55Z",
+      "title": "A remarkable finale - but will 13 chaotic minutes cost Man City title?",
+      "description": "A chaotic 13-minute spell from Man City in the second half of a six-goal thriller at Everton could prove to be the visitors' undoing in the Premier League title race.",
+      "url": "https://www.bbc.com/sport/football/articles/cedpn81ep1do?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-04T23:16:22Z",
       "league": "Premier League"
     },
     {
-      "title": "Bayern Munich coach Vincent Kompany believes Harry Kane was underestimated in England",
-      "description": "Moving to FC Bayern raised Kane’s profile",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-coaches/198175/bayern-munich-coach-vincent-kompany-believes-harry-kane-was-underestimated-in-england",
-      "source": "Bavarian Football Works",
-      "publishedAt": "2026-05-04T19:00:00Z",
+      "title": "Defiant Guardiola insists City's title challenge not over",
+      "description": "Pep Guardiola promised his Manchester City side will keep fighting in the Premier League title race against Arsenal after dropping two critical points in a dramatic 3-3 draw at Everton on Monday night.",
+      "url": "https://www.rte.ie/sport/soccer/2026/0504/1571715-defiant-guardiola-insists-citys-title-challenge-not-over/",
+      "source": "RTE",
+      "publishedAt": "2026-05-04T22:46:11Z",
       "league": "Premier League"
+    },
+    {
+      "title": "Arsenal control their Premier League title fate",
+      "description": "Arsenal’s simple task just became even simpler: win three matches, win the Premier League. With Manchester City drawing 3-3 at Everton, Arsenal control their Premier League destiny. Pep Guardiola’s side needed to win out to force Arsenal to do the same to fin…",
+      "url": "https://theshortfuse.sbnation.com/premier-league/36855/arsenal-manchester-city-premier-league-title-race",
+      "source": "SB Nation",
+      "publishedAt": "2026-05-04T22:39:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Title race slips from City's grasp as Guardiola concedes control",
+      "description": "LIVERPOOL, May 4 : Manchester City manager Pep Guardiola admitted the Premier League title race had slipped out of his team's control after they were held to a chaotic 3-3 draw at Everton on Monday.\"It's now not in our hands, before it was, now no,\" Guardiola…",
+      "url": "https://www.channelnewsasia.com/sport/title-race-slips-citys-grasp-guardiola-concedes-control-6099666",
+      "source": "CNA",
+      "publishedAt": "2026-05-04T22:32:23Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Pep Guardiola rues 'rushed decisions' in 'emotional' display at Everton as costly mistakes hand advantage to title rivals Arsenal",
+      "description": "JACK GAUGHAN AT HILL DICKINSON STADIUM: Pep Guardiola was left ruing individual mistakes and refereeing decisions as Manchester City handed Arsenal an enviable advantage.",
+      "url": "https://www.dailymail.com/sport/football/article-15789949/Pep-Guardiola-rues-rushed-decisions-emotional-display-Everton-costly-mistakes-hand-advantage-title-rivals-Arsenal.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-04T22:23:40Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Everton 3-3 Man City: What Guardiola and Doku said",
+      "description": "The British Premier League - we know that. Jeremy Doku's equaliser (96:49) was Manchester City's third-latest goal on record (since 2006-07) in a Premier League game after John Stones' strike against Arsenal in September 2024 (97:14) and Gabriel Jesus' goal a…",
+      "url": "https://www.bbc.com/sport/football/articles/cdep9k79n8yo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-04T22:14:44Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Sevilla escapes La Liga relegation zone with win over Real Sociedad",
+      "description": "A second half goal from Alexis Sánchez lifted Sevilla over Real Sociedad 1-0 and out of La Liga’s relegation zone on Monday. Sevilla rose to one point above Alaves in the third relegation place. Only three points separate Alaves in 18th and Valencia in 12th a…",
+      "url": "https://sports.yahoo.com/articles/sevilla-escapes-la-liga-relegation-214648954.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-04T21:46:48Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Alvarez set to return for Atletico as Simeone makes 'cheaper' hotel switch in London",
+      "description": "Julian Alvarez is set to return from injury for Atletico Madrid for the second-leg semifinal against Arsenal in the Champions League on Tuesday. The Argentina striker scored Atletico's equalizer from the penalty spot in last week's first leg, which finished 1…",
+      "url": "https://sports.yahoo.com/articles/alvarez-set-return-atletico-simeone-202315801.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-04T20:23:15Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Atletico Madrid handed Julian Alvarez injury boost ahead of crucial Champions League game",
+      "description": "Atletico Madrid have confirmed their 25-man roster for their UEFA Champions League semi-final second leg against Arsenal at the Emirates Stadium, with Julian Alvarez one of four major inclusions for the visitors",
+      "url": "https://www.alloutsoccer.com/news/atletico-madrid-julian-alvarez-arsenal-1821358",
+      "source": "Alloutsoccer.com",
+      "publishedAt": "2026-05-04T20:09:31Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Real Madrid boss Arbeloa speaks on Kylian Mbappé vacation drama",
+      "description": "Real Madrid head coach Álvaro Arbeloa has provided his take on the latest drama surrounding the name of star frontman Kylian Mbappé.This comes amid a headline-grabbing last couple of days for the F...",
+      "url": "https://getfootballnewsspain.com/real-madrid-boss-arbeloa-speaks-on-kylian-mbappe-vacation-drama/",
+      "source": "Getfootballnewsspain.com",
+      "publishedAt": "2026-05-04T18:00:00Z",
+      "league": "La Liga"
     },
     {
       "title": "Official: Villarreal announce Marcelino exit after UCL qualification",
@@ -25,28 +89,20 @@
       "league": "La Liga"
     },
     {
-      "title": "Real Madrid star ruled out for 5 months through injury",
-      "description": "La Liga giants Real Madrid have early this week been hit with yet another setback on the personnel front.This comes amid confirmation of Ferland Mendy being primed for a long-term incoming spell on th...",
-      "url": "https://getfootballnewsspain.com/real-madrid-star-ruled-out-for-5-months-through-injury/",
+      "title": "Liverpool ready to offer €80m for Barcelona star",
+      "description": "A member of the defensive ranks at La Liga giants Barcelona is attracting big-money transfer interest by way of the Premier League.This comes amid the understanding that Liverpool have set their sight...",
+      "url": "https://getfootballnewsspain.com/liverpool-ready-to-offer-e80m-for-barcelona-star/",
       "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-05-04T16:35:00Z",
+      "publishedAt": "2026-05-04T17:10:00Z",
       "league": "La Liga"
     },
     {
-      "title": "Courtois Returns to Full Training as Real Madrid Begin El Clásico Preparations",
-      "description": "﻿Belgian goalkeeper completes session ahead of Barcelona clash while several key players remain sidelined",
-      "url": "https://www.managingmadrid.com/real-madrid-cf-news/107308/courtois-returns-to-full-training-as-real-madrid-begin-el-clasico-preparations",
-      "source": "Managing Madrid",
-      "publishedAt": "2026-05-04T16:30:37Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Official: Real Madrid confirm fresh injury blow to full-back; could be out for 5 months",
-      "description": "Real Madrid have issued an official statement confirming that Ferland Mendy has suffered a fresh injury to the rectus femoris tendon in his right leg.“Following tests carried out today on our player...",
-      "url": "https://madriduniversal.com/official-real-madrid-confirm-fresh-injury-blow-to-full-back-could-be-out-for-5-months/",
-      "source": "Madriduniversal.com",
-      "publishedAt": "2026-05-04T14:05:00Z",
-      "league": "La Liga"
+      "title": "Inter Milan's Marcus Thuram Pays Tribute To Kobe Bryant After Serie A Title Win",
+      "description": "Marcus Thuram paid tribute to NBA legend Kobe Bryant after Inter secured the Serie A title.",
+      "url": "https://www.foxsports.com/stories/soccer/inter-milans-marcus-thuram-pays-tribute-kobe-bryant-after-serie-title-win",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-04T19:28:31Z",
+      "league": "Serie A"
     },
     {
       "title": "Report: Milan could sell Pulisic for €60m amid Manchester United links",
@@ -57,100 +113,44 @@
       "league": "Serie A"
     },
     {
-      "title": "Spalletti sends transfer message to Juventus amid Man City duo speculation",
-      "description": "Juventus coach Luciano Spalletti admits the Bianconeri need 'quality' in tight spaces, amid speculation that the Bianconeri want both Bernardo Silva and",
-      "url": "https://football-italia.net/spalletti-transfer-message-juventus-man-city/",
+      "title": "Inter eye Palestra and Liverpool’s Leoni in summer rebuild after Scudetto triumph",
+      "description": "Inter Milan are already planning their summer transfer business after clinching the Scudetto, with president Beppe Marotta having made clear the club intend",
+      "url": "https://football-italia.net/inter-summer-palestra-leoni/",
       "source": "Football Italia",
-      "publishedAt": "2026-05-04T14:42:57Z",
+      "publishedAt": "2026-05-04T14:26:10Z",
       "league": "Serie A"
     },
     {
-      "title": "Inter president Marotta: ‘I won’t deny Barcelona want Bastoni’",
-      "description": "Inter Milan president Beppe Marotta has addressed speculation linking Alessandro Bastoni with Barcelona, insisting the defender is content at the club despite",
-      "url": "https://football-italia.net/inter-president-marotta-barcelona-bastoni/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-04T12:07:19Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "PREVIEW | Bayern München vs PSG: team news, lineups, predictions (Champions League 06/05)",
-      "description": "Bayern München and PSG clash this Wednesday at the Allianz Arena for a match of the semi-finals of the UEFA Champions League. The match will be broadcast live at 20:00 on TNT Sports 1.In their last f...",
-      "url": "https://www.playmakerstats.com/news/preview-bayern-munchen-vs-psg-team-news-lineups-predictions-champions-league-06-05-/1115938",
-      "source": "Playmakerstats.com",
-      "publishedAt": "2026-05-04T19:05:00Z",
+      "title": "UCL burning questions: Is Khvicha Kvaratskhelia the world's most fun player? Has Viktor Gyokeres arrived?",
+      "description": "Here are the biggest questions ahead of this week's intense UCL semifinal second legs",
+      "url": "https://www.cbssports.com/soccer/news/ucl-burning-questions-psg-bayern-munich-arsenal-atletico-madrid-khvicha-kvaratskhelia-viktor-gyokeres/",
+      "source": "CBS Sports",
+      "publishedAt": "2026-05-04T19:54:58Z",
       "league": "Bundesliga"
     },
     {
-      "title": "Hurzeler agrees new long-term contract at Brighton",
-      "description": "Brighton have agreed a new long-term contract with head coach Fabian Hurzeler.",
-      "url": "https://www.skysports.com/football/news/11095/13540124/fabian-hurzeler-brighton-head-coach-signs-new-long-term-contract-at-the-amex-as-club-chase-european-finish",
-      "source": "Sky Sports",
-      "publishedAt": "2026-05-04T15:36:00Z",
-      "league": "Bundesliga"
+      "title": "Atletico Madrid manager Diego Simeone on Arsenal clash – ‘We need to manage our emotions effectively’",
+      "description": "Atletico Madrid manager Diego Simeone has told the press that his side must manage their emotions effectively to beat Arsenal in the second leg of their Champions League semi-final on Tuesday, but sai...",
+      "url": "https://www.football-espana.net/2026/05/05/simeone-atletico-arsenal",
+      "source": "Football Espana",
+      "publishedAt": "2026-05-04T23:35:00Z",
+      "league": "Champions League"
     },
     {
-      "title": " Bayern unveil shirt for the 2026/2027 season",
-      "description": "Bayern Munich unveiled its new home kit for the 2026/2027 season this Monday.Bundesliga champion, Bayern is still fighting for the Champions League and is in the German Cup final, and is expected to w...",
-      "url": "https://onefootball.com/en/news/bayern-unveil-shirt-for-the-20262027-season-42812266",
-      "source": "Onefootball.com",
-      "publishedAt": "2026-05-04T10:56:00Z",
-      "league": "Bundesliga"
+      "title": "Atletico Madrid star willing to take pain-killing injection to face Arsenal in Champions League",
+      "description": "Atletico Madrid forward Julian Alvarez is set to play against Arsenal in the return leg of their Champions League semi-final on Tuesday night, but there is no certainty on what state he will be in. Lo...",
+      "url": "https://www.football-espana.net/2026/05/05/atletico-madrid-star-willing-to-take-pain-killing-injection-to-face-arsenal-in-champions-league",
+      "source": "Football Espana",
+      "publishedAt": "2026-05-04T23:35:00Z",
+      "league": "Champions League"
     },
     {
-      "title": "Endrick Shines Again for Lyon and Opens Door to Extended Stay Amid Uncertain Real Madrid Future",
-      "description": "Brazilian teenager delivers goal and assist in win over Rennes as he leaves his next move “in God’s hands”﻿",
-      "url": "https://www.managingmadrid.com/latest-news/107306/endrick-shines-again-for-lyon-and-opens-door-to-extended-stay-amid-uncertain-real-madrid-future",
-      "source": "Managing Madrid",
-      "publishedAt": "2026-05-04T16:27:12Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "‘I would like to stay here’ – Real Madrid loanee Endrick hints at desire to extend Lyon stay",
-      "description": "Olympique Lyonnais are well on course to qualify for next season’s UEFA Champions League. Real Madrid loanee Endrick (19) could yet stick around for the European campaign, as he revealed on Sunday n...",
-      "url": "https://www.getfootballnewsfrance.com/2026/i-would-like-to-stay-here-real-madrid-loanee-endrick-hints-at-desire-to-extend-lyon-stay/",
-      "source": "Get French Football News",
-      "publishedAt": "2026-05-04T10:05:00Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Raphaël Guerreiro returns to team training ahead of PSG clash",
-      "description": "Raphaël Guerreiro has returned to team training ahead of FC Bayern Munich’s Champions League semi-final second leg against Paris Saint-Germain at the Allianz Arena on Wednesday.The versatile 32-yea...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_540d8aa9-81ed-4709-a377-3a9283462ff8",
+      "title": "USMNT World Cup roster watch: Sergiño Dest is back, but the real concern is the back line",
+      "description": "The weekend delivered heartening news — Sergiño Dest’s return to active duty after almost two months away — but also ongoing concern about center backs Tim Ream and Miles Robinson.",
+      "url": "https://sports.yahoo.com/soccer/article/usmnt-world-cup-roster-watch-sergino-dest-is-back-but-the-real-concern-is-the-back-line-031839777.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-04T18:55:00Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "Chelsea slump to worst run in 33 years after Forest defeat",
-      "description": "LONDON, May 4 : It is not the record that Chelsea's owners dreamt of when they bought the club four years ago - Monday's 3-1 home defeat by Nottingham Forest means the Londoners have now lost six league games in a row for the first time since 1993.It could ha…",
-      "url": "https://www.channelnewsasia.com/sport/chelsea-slump-worst-run-in-33-years-after-forest-defeat-6099221",
-      "source": "CNA",
-      "publishedAt": "2026-05-04T18:49:05Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "Who has qualified for the Champions League next season? Teams, clubs to contest UEFA top competition in 2026/27",
-      "description": "The UEFA Champions League has for decades been known as not only the top competition in European club football, but even beyond that, the most coveted club trophy around the world.",
-      "url": "https://www.sportingnews.com/us/soccer/news/who-qualified-champions-league-next-season-teams-clubs-uefa/2a5301b6dfca8349f1145ceb",
-      "source": "Sporting News",
-      "publishedAt": "2026-05-03T18:58:46Z",
+      "publishedAt": "2026-05-04T03:18:39Z",
       "league": "Eredivisie"
-    },
-    {
-      "title": "Portuguese referee appointed for Bayern vs PSG Champions League semi-final second leg",
-      "description": "João Pinheiro has been appointed to referee Bayern Munich’s Champions League semi-final second leg against Paris Saint-Germain at the Allianz Arena on Wednesday.The Portuguese referee has previousl...",
-      "url": "https://bulinews.com/portuguese-referee-appointed-for-bayern-psg-champions-league-semi-final-second-leg",
-      "source": "Bulinews.com",
-      "publishedAt": "2026-05-04T08:40:00Z",
-      "league": "Primeira Liga"
-    },
-    {
-      "title": "Diogo Costa dedicates Porto title win to Diogo Jota",
-      "description": "Diogo Costa dedicated Porto's Primeira Liga title win to former team-mate Diogo Jota after they secured the crown with a 1-0 victory over Alverca.",
-      "url": "https://www.101greatgoals.com/football/diogo-costa-porto-title-win-diogo-jota/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-05-03T11:28:59Z",
-      "league": "Primeira Liga"
     },
     {
       "title": "Kei Kamara, second-leading all-time MLS scorer, retires at age 41",
@@ -161,5 +161,5 @@
       "league": "MLS"
     }
   ],
-  "generatedAt": "2026-05-05T19:12:33.418Z"
+  "generatedAt": "2026-05-05T23:43:05.090Z"
 }
