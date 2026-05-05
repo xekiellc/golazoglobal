@@ -1,36 +1,124 @@
 {
   "articles": [
     {
-      "title": "Match Report: Liverpool Left Frustrated As United Claim 3-2 Premier League Win",
-      "description": "Manchester United 3-2 Liverpool: Mainoo Delivers Old Trafford DramaMainoo Moment Defines Premier League ClassicKobbie Mainoo chose the grandest stage and the fiercest rivalry to write another defining...",
-      "url": "https://anfieldindex.com/93794/match-report-liverpool-left-frustrated-as-united-claim-3-2-premier-league-win.html",
-      "source": "Anfieldindex.com",
-      "publishedAt": "2026-05-04T07:55:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Liverpool Fall Short at Old Trafford Despite Second-Half Fightback",
-      "description": "Manchester United 3 – 2 Liverpool – PL Player RatingsThe Premier League Super Sunday saw the reigning champions, Liverpool, head to Old Trafford to try to overcome their biggest rivals.The lineup ...",
-      "url": "https://anfieldindex.com/93800/liverpool-fall-short-at-old-trafford-despite-second-half-fightback.html",
-      "source": "Anfieldindex.com",
-      "publishedAt": "2026-05-04T07:55:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Vinicius Junior reacts to match-winning Real Madrid performance against Espanyol – “We knew we were going to win”",
-      "description": "Real Madrid sealed an important 2-0 victory over Espanyol on Sunday, which ensured that Barcelona have to wait to become La Liga champions. Two second half goals from Vinicius Junior got the job done,...",
-      "url": "https://www.football-espana.net/2026/05/04/vinicius-junior-reacts-real-madrid-espanyol",
-      "source": "Football Espana",
-      "publishedAt": "2026-05-04T03:50:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Vinicius scores twice as Madrid win to keep Barcelona waiting for title",
-      "description": "Vinicius Jr scores twice as Real Madrid beat Espanyol 2-0 to keep Barcelona waiting to win the La Liga title ahead of next week's El Clasico.",
-      "url": "https://www.bbc.com/sport/football/videos/cvgznj2678wo",
+      "title": "'Pozzo was the solution... now he's the problem'",
+      "description": "Watford fans have their say after head coach Ed Still was sacked less than three months after taking over from Javi Gracia.",
+      "url": "https://www.bbc.com/sport/football/articles/cy02nep2p1ro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
       "source": "BBC News",
-      "publishedAt": "2026-05-03T23:11:12Z",
+      "publishedAt": "2026-05-04T13:16:34Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Arsenal vs Atletico Madrid: Champions League – team news, start, lineups",
+      "description": "The two sides, who have never lifted the trophy, renew their rivalry after the first leg of the semifinal finished 1-1.",
+      "url": "https://www.aljazeera.com/sports/2026/5/4/arsenal-vs-atletico-madrid-champions-league-preview-team-news-start-lineups",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-04T13:15:04Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Brentford in talks over £16m deal for 6ft 3in Austria teen - whose father coached Germany's ski jumpers",
+      "description": "Although considered a little raw, Brentford believe there is enough evidence to suggest he can make a successful transition to the physicality of the Premier League.",
+      "url": "https://www.dailymail.com/sport/football/article-15788599/Brentford-talks-16m-deal-Austria-teen-father-coached-Germanys-ski-jumpers.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-04T13:13:54Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Who is Jesse Derry? Chelsea hand rising star Premier League debut in clash with Nottingham Forest",
+      "description": "Chelsea have named Jesse Derry in their team to face Nottingham Forest in the Premier League this afternoon.It's aPremier League debut for the 18-year-old winger, following a string of impressive perf...",
+      "url": "https://www.footballmuse.com/news/who-is-jesse-derry-chelsea-hand-rising-star-premier-league-debut-in-clash-with-nottingham-forest",
+      "source": "Footballmuse.com",
+      "publishedAt": "2026-05-04T13:10:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "‘I don’t get it at all’: Gary Lineker ‘absolutely bewildered’ by Man Utd decision after watching their win over LFC",
+      "description": "Gary Lineker is still as perplexed as Manchester United supporters over Ruben Amorim’s treatment of Kobbie Mainoo.The midfielder scored an emphatic late winner yesterday to seal all three points for...",
+      "url": "https://strettynews.com/2026/05/04/gary-lineker-absolutely-bewildered-by-kobbie-mainoo-omission-ruben-amorim-man-united/",
+      "source": "Strettynews.com",
+      "publishedAt": "2026-05-04T13:10:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Chelsea vs Nottingham Forest – Team News: Academy star picked for first senior start",
+      "description": "Chelsea face Nottingham Forest at Stamford Bridge in the Premier League in just over an hour, and the team news for the game is in!If you enjoy Chelsea News coverage and want to see more of it, add us...",
+      "url": "https://chelsea.news/2026/05/team-news-chelsea-nottingham-forest-academy-star-picked/",
+      "source": "Chelsea.news",
+      "publishedAt": "2026-05-04T13:05:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Michael Carrick expected to be offered head coach deal by Manchester United",
+      "description": "Senior officials at Old Trafford have been impressed with Carrick’s impact since he replaced Ruben Amorim",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/05/04/michael-carrick-expected-to-be-offered-head-coach-deal-by-manchester-united/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-04T12:57:13Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "La Liga: Villarreal coach to leave at end of season",
+      "description": "Villarreal coach Marcelino will leave the club at the end of the season despite securing a Champions League spot for the second consecutive year.\n\nRead More: https://punchng.com/la-liga-villarreal-coach-to-leave-at-end-of-season/",
+      "url": "https://punchng.com/la-liga-villarreal-coach-to-leave-at-end-of-season/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-04T13:23:48Z",
       "league": "La Liga"
+    },
+    {
+      "title": "Vinicius joins Ronaldo and Benzema with incredible Real Madrid milestone",
+      "description": "Real Madrid once again leaned on Vinicius Jr. to get the job done, as the Brazilian forward delivered both goals in a 2-0 win over Espanyol. But apart from the result, the performance marked another ...",
+      "url": "https://madriduniversal.com/vinicius-joins-ronaldo-and-benzema-with-incredible-real-madrid-milestone/",
+      "source": "Madriduniversal.com",
+      "publishedAt": "2026-05-04T12:40:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Villarreal announce managerial exit days after securing Champions League qualification",
+      "description": "Villarreal sealed Champions League qualification at the weekend, but they will not have Marcelino Garcia Toral in charge for their return to Europe next season. The 60-year-old, who gas guided the Yel...",
+      "url": "https://www.football-espana.net/2026/05/04/villarreal-announce-managerial-exit",
+      "source": "Football Espana",
+      "publishedAt": "2026-05-04T12:15:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Manager Marcelino to leave Villarreal",
+      "description": "Manager Marcelino will leave Villarreal at the end of the season after three years in charge.",
+      "url": "https://www.bbc.com/sport/football/articles/cwy2471xrzyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-04T11:51:28Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Barcelona could move for another Serie A defender as deal for top target ‘complicated’ – report",
+      "description": "FC Barcelona are firm about their interest in Alessandro Bastoni of Inter Milan ahead of the summer transfer window.The Italian centre-back has become one of the club’s top targets before the new se...",
+      "url": "https://barcauniversal.com/barcelona-could-move-for-another-serie-a-defender-as-deal-for-top-target-complicated-report/",
+      "source": "Barcauniversal.com",
+      "publishedAt": "2026-05-04T10:55:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Inter Milan president responds to Barcelona interest in Bastoni – ‘He wants to stay’",
+      "description": "It is no secret at this point that FC Barcelona are pursuing the signing of Inter Milan defender Alessandro Bastoni heading into the summer transfer window.The Blaugrana have made the 27-year-old Ital...",
+      "url": "https://barcauniversal.com/inter-milan-president-responds-to-barcelona-interest-in-bastoni-he-wants-to-stay/",
+      "source": "Barcauniversal.com",
+      "publishedAt": "2026-05-04T10:35:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Inter president Marotta: ‘I won’t deny Barcelona want Bastoni’",
+      "description": "Inter Milan president Beppe Marotta has addressed speculation linking Alessandro Bastoni with Barcelona, insisting the defender is content at the club despite",
+      "url": "https://football-italia.net/inter-president-marotta-barcelona-bastoni/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-04T12:07:19Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Cesc Fabregas reveals he WILL one day manage a Premier League club - but deals former side Chelsea a setback by issuing key coaching demand",
+      "description": "Fabregas has been touted as one of the contenders to take charge at Stamford Bridge, after the Blues sacked head coach Liam Rosenior last month after 106 days in charge.",
+      "url": "https://www.dailymail.com/sport/football/article-15788041/Cesc-Fabregas-manage-Premier-League-Chelsea-setback-key-coaching-demand.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-04T09:57:37Z",
+      "league": "Serie A"
     },
     {
       "title": "Fireworks in Milan as Inter clinch Serie A title with a 2-0 win over Parma",
@@ -49,117 +137,29 @@
       "league": "Serie A"
     },
     {
-      "title": "Serie A | Inter 2-0 Parma: Champions of Italy crowned with victory!",
-      "description": "Inter are the Champions of Italy for the 21st time, as Marcus Thuram and Henrikh Mkhitaryan secured the 2-0 victory over Parma to get the party started at San Siro.",
-      "url": "https://football-italia.net/serie-a-inter-2-0-parma-champions-of-italy/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-03T20:40:26Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "German Chancellor Merz believes Germany can go far at World Cup",
-      "description": "German Chancellor Friedrich Merz believes the Germany national team has what it takes to go far at World Cup in the United States, Mexico, and Canada in June and July. \"The German team is in such good shape right now and has developed so well that it has a ch…",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260503-99-317185/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-05-03T21:38:36Z",
+      "title": " Bayern unveil shirt for the 2026/2027 season",
+      "description": "Bayern Munich unveiled its new home kit for the 2026/2027 season this Monday.Bundesliga champion, Bayern is still fighting for the Champions League and is in the German Cup final, and is expected to w...",
+      "url": "https://onefootball.com/en/news/bayern-unveil-shirt-for-the-20262027-season-42812266",
+      "source": "Onefootball.com",
+      "publishedAt": "2026-05-04T10:56:00Z",
       "league": "Bundesliga"
     },
     {
-      "title": "Endrick eyes future after Copa and teaches reporter Jamal's step ",
-      "description": "With about two weeks to go before Brazil’s national team squad is announced for the 2026 World Cup, Endrick has been showing at Lyon that he could be crucial in the hunt for a sixth title.This Sunda...",
-      "url": "https://onefootball.com/en/news/endrick-eyes-future-after-copa-and-teaches-reporter-jamals-step-42810280",
-      "source": "Onefootball.com",
-      "publishedAt": "2026-05-03T23:38:00Z",
-      "league": "Ligue 1"
+      "title": "Women's Champions League: Bayern fall to Barcelona in semis",
+      "description": "Bayern Munich have come up short in their bid to win the Women's Champions League for the first time after losing to Barcelona in the semifinals.",
+      "url": "https://www.dw.com/en/womens-champions-league-bayern-fall-to-barcelona-in-semis/a-77030846",
+      "source": "DW (English)",
+      "publishedAt": "2026-05-04T09:19:00Z",
+      "league": "Bundesliga"
     },
     {
-      "title": "Talisman Endrick fires resurgent Lyon into third in France",
-      "description": "Lyon secures a crucial 4-2 victory over Rennes, moving into third place in the Ligue 1 table and boosting their Champions League qualification hopes.\n\nRead More: https://punchng.com/talisman-endrick-fires-resurgent-lyon-into-third-in-france/",
-      "url": "https://punchng.com/talisman-endrick-fires-resurgent-lyon-into-third-in-france/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-03T22:36:05Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": " Wants a World Cup spot! Endrick scores again, pressures Ancelotti",
-      "description": "Carlo Ancelotti was at the Maracanã to, for example, watch Pedro in person during this Sunday’s (3) Flamengo vs. Vasco match.And Endrick made a point of stressing that he is still very much alive i...",
-      "url": "https://onefootball.com/en/news/wants-a-world-cup-spot-endrick-scores-again-pressures-ancelotti-42810026",
-      "source": "Onefootball.com",
-      "publishedAt": "2026-05-03T22:01:00Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Every club qualified for next season's Champions League as Manchester United confirm league-phase berth",
-      "description": "Manchester United have secured their place in next season's Champions League after beating Liverpool at the weekend.Kobbie Mainoo's winner secured the Red Devils a 3-2 win at Old Trafford, a result th...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e1e9ebca-625c-41a5-8e60-75dce4df1ef5",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-04T07:35:00Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "Sergino Dest makes PSV return after lengthy injury absence",
-      "description": "Eight weeks after Sergino Dest suffered a knee injury with Dutch side PSV, the American defender made his long-awaited return on Saturday. Dest came off the bench and played the final 30 minutes in PSV’s 2-2 road Eredivisie draw with Ajax. The U.S. men’s nati…",
-      "url": "https://sbisoccer.com/2026/05/sergino-dest-makes-psv-return-after-lengthy-injury-absence",
-      "source": "Sbisoccer.com",
-      "publishedAt": "2026-05-03T03:26:30Z",
-      "league": "Eredivisie"
-    },
-    {
-      "title": "Diogo Costa dedicates Porto title win to Diogo Jota",
-      "description": "Diogo Costa dedicated Porto's Primeira Liga title win to former team-mate Diogo Jota after they secured the crown with a 1-0 victory over Alverca.",
-      "url": "https://www.101greatgoals.com/football/diogo-costa-porto-title-win-diogo-jota/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-05-03T11:28:59Z",
-      "league": "Primeira Liga"
-    },
-    {
-      "title": "Manchester United ace ‘tempted’ to join Inter Miami this summer",
-      "description": "Major League Soccer (MLS) club Inter Miami are interested in signing Manchester United star Casemiro. The Brazilian has already announced he will leave Old Trafford at the end of his contract this su...",
-      "url": "https://footballtoday.com/2026/05/03/manchester-united-ace-tempted-to-join-inter-miami-this-summer/",
-      "source": "Footballtoday.com",
-      "publishedAt": "2026-05-03T06:15:00Z",
-      "league": "MLS"
-    },
-    {
-      "title": "FIFA World Cup: Everything (and more) you need to know about the 16 stadiums",
-      "description": "We take a closer look at the 16 World Cup stadiums for this year's tournament.",
-      "url": "https://www.cbc.ca/sports/fifa-world-cup-stadiums-2026-9.7175902",
-      "source": "CBC News",
-      "publishedAt": "2026-05-04T08:00:00Z",
+      "title": "FIFA faces World Cup broadcast crisis in India and China",
+      "description": "Millions of soccer fans in the world's two most populous nations may not be able to watch the World Cup that starts ⁠next month, due to a deadlock over broadcast rights in India and no official decision in China.",
+      "url": "https://www.rte.ie/sport/soccer/2026/0504/1571671-fifa-faces-world-cup-broadcast-crisis-in-india-and-china/",
+      "source": "RTE",
+      "publishedAt": "2026-05-04T13:22:56Z",
       "league": "World Cup"
-    },
-    {
-      "title": "Path of Progress: DTLA Alliance launches new public-private initiative ahead of LA28",
-      "description": "FIFA World Cup 2026 is coming this summer. LA28 Olympic and Paralympic Games are on the horizon. LA is about to welcome the world to walk, shop, play and eat on its streets, and DTLA Alliance is taking its job…",
-      "url": "https://www.ladowntownnews.com/news/path-of-progress-dtla-alliance-launches-new-public-private-initiative-ahead-of-la28/article_8f0917e9-9817-4b1f-9365-8eaf9bded2e8.html",
-      "source": "Ladowntownnews.com",
-      "publishedAt": "2026-05-04T07:30:00Z",
-      "league": "World Cup"
-    },
-    {
-      "title": "Barcelona forward to be Spain’s third captain at FIFA World Cup",
-      "description": "Barcelona forward Ferran Torres is set to take on a major leadership role for the Spain national football team at the upcoming 2026 World Cup. In what is a significant recognition of his growth and c...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_49488c12-9234-48d3-a635-28405bbf98a7",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-04T07:10:00Z",
-      "league": "World Cup"
-    },
-    {
-      "title": "World Cup prize pool nears $900 million as FIFA boosts payouts. Here’s who gets what",
-      "description": "FIFA's upcoming World Cup is set to be the most lucrative on-record, with a 'record breaking' prize pool on offer, as FIFA shrugs off other controversies.",
-      "url": "https://www.cnbc.com/2026/05/04/fifa-world-cup-team-payouts-ticket-prices.html",
-      "source": "CNBC",
-      "publishedAt": "2026-05-04T06:11:02Z",
-      "league": "World Cup"
-    },
-    {
-      "title": "USMNT World Cup roster watch: Sergiño Dest is back, but the real concern is the back line",
-      "description": "The weekend delivered heartening news — Sergiño Dest’s return to active duty after almost two months away — but also ongoing concern about center backs Tim Ream and Miles Robinson.",
-      "url": "https://sports.yahoo.com/soccer/article/usmnt-world-cup-roster-watch-sergino-dest-is-back-but-the-real-concern-is-the-back-line-031839777.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-04T03:18:39Z",
-      "league": "La Liga"
     }
   ],
-  "generatedAt": "2026-05-05T08:02:32.187Z"
+  "generatedAt": "2026-05-05T13:27:23.830Z"
 }
