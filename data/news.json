@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "title": "Match Report: Liverpool Left Frustrated As United Claim 3-2 Premier League Win",
+      "description": "Manchester United 3-2 Liverpool: Mainoo Delivers Old Trafford DramaMainoo Moment Defines Premier League ClassicKobbie Mainoo chose the grandest stage and the fiercest rivalry to write another defining...",
+      "url": "https://anfieldindex.com/93794/match-report-liverpool-left-frustrated-as-united-claim-3-2-premier-league-win.html",
+      "source": "Anfieldindex.com",
+      "publishedAt": "2026-05-04T07:55:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Liverpool Fall Short at Old Trafford Despite Second-Half Fightback",
+      "description": "Manchester United 3 – 2 Liverpool – PL Player RatingsThe Premier League Super Sunday saw the reigning champions, Liverpool, head to Old Trafford to try to overcome their biggest rivals.The lineup ...",
+      "url": "https://anfieldindex.com/93800/liverpool-fall-short-at-old-trafford-despite-second-half-fightback.html",
+      "source": "Anfieldindex.com",
+      "publishedAt": "2026-05-04T07:55:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Vinicius Junior reacts to match-winning Real Madrid performance against Espanyol – “We knew we were going to win”",
+      "description": "Real Madrid sealed an important 2-0 victory over Espanyol on Sunday, which ensured that Barcelona have to wait to become La Liga champions. Two second half goals from Vinicius Junior got the job done,...",
+      "url": "https://www.football-espana.net/2026/05/04/vinicius-junior-reacts-real-madrid-espanyol",
+      "source": "Football Espana",
+      "publishedAt": "2026-05-04T03:50:00Z",
+      "league": "La Liga"
+    },
+    {
       "title": "Vinicius scores twice as Madrid win to keep Barcelona waiting for title",
       "description": "Vinicius Jr scores twice as Real Madrid beat Espanyol 2-0 to keep Barcelona waiting to win the La Liga title ahead of next week's El Clasico.",
       "url": "https://www.bbc.com/sport/football/videos/cvgznj2678wo",
@@ -9,28 +33,12 @@
       "league": "La Liga"
     },
     {
-      "title": "Vinicius double delays Barca title as Real Madrid down Espanyol",
-      "description": "Vinicius Junior’s brilliant double secured a 2-0 win for Real Madrid over Espanyol, forcing La Liga leaders Barcelona to wait to be crowned champions.\n\nRead More: https://punchng.com/vinicius-double-delays-barca-title-as-real-madrid-down-espanyol/",
-      "url": "https://punchng.com/vinicius-double-delays-barca-title-as-real-madrid-down-espanyol/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-03T22:36:05Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Real Madrid stays alive in La Liga title race with victory at Espanyol",
-      "description": "Two goals by Vinicius Jr allowed Madrid to remain in title contention with Barcelona ahead of El Clasico next Sunday.",
-      "url": "https://www.aljazeera.com/sports/2026/5/3/real-madrid-stays-alive-in-la-liga-title-race-with-victory-at-espanyol",
+      "title": "Fireworks in Milan as Inter clinch Serie A title with a 2-0 win over Parma",
+      "description": "Inter Milan win their 21st Scudetto, edging Napoli, with three matches remaining in the Italian football league season.",
+      "url": "https://www.aljazeera.com/sports/2026/5/4/fireworks-in-milan-as-inter-clinch-serie-a-title-with-a-2-0-win-over-parma",
       "source": "Al Jazeera English",
-      "publishedAt": "2026-05-03T21:22:15Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Vinicius brace delays Barca title as Real Madrid down Espanyol",
-      "description": "Vinicius Junior struck twice for Real Madrid in a 2-0 win over Espanyol on Sunday to make La Liga leaders Barcelona wait to be crowned Spanish champions.\nThe post Vinicius brace delays Barca title as Real Madrid down Espanyol appeared first on Vanguard News.",
-      "url": "https://www.vanguardngr.com/2026/05/vinicius-brace-delays-barca-title-as-real-madrid-down-espanyol/",
-      "source": "Vanguard",
-      "publishedAt": "2026-05-03T21:13:36Z",
-      "league": "La Liga"
+      "publishedAt": "2026-05-04T05:15:35Z",
+      "league": "Serie A"
     },
     {
       "title": "Inter Milan win Italian title for third time in six seasons",
@@ -49,68 +57,12 @@
       "league": "Serie A"
     },
     {
-      "title": "Inter, Champions of Italy: player comments",
-      "description": "Inter are Champions of Italy. It’s Scudetto number 21 – a remarkable triumph, secured with three games to spare. A dominant league campaign, sealed by a 2-0 win over Parma at the Meazza. Goals fro...",
-      "url": "https://www.inter.it/en/news/interviews-scudetto-2026-inter-parma",
-      "source": "Inter.it",
-      "publishedAt": "2026-05-03T22:11:00Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "Carrick 'deserves chance' to continue at Man Utd - Shearer",
-      "description": "Match of the Day pundit Alan Shearer says Michael Carrick \"deserves a chance\" as Manchester United's manager next season after securing a Champions League spot.",
-      "url": "https://www.bbc.com/sport/football/videos/c3w2ezejpd1o",
-      "source": "BBC News",
-      "publishedAt": "2026-05-03T22:57:02Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "'Exceptional' Mainoo is proving his worth - Richards",
-      "description": "Match of the Day pundit Micah Richards says Manchester United's Kobbie Mainoo is \"exceptional\" after scoring the winning goal in their match against Liverpool in the Premier League.",
-      "url": "https://www.bbc.com/sport/football/videos/c1j209j0g0yo",
-      "source": "BBC News",
-      "publishedAt": "2026-05-03T22:38:44Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Has tide turned for troubled Spurs under De Zerbi?",
-      "description": "Is Tottenham Hotspur's superb win at Aston Villa the moment the tide turned in their fight against Premier League relegation, asks chief football writer Phil McNulty?",
-      "url": "https://www.bbc.com/sport/football/articles/c1e2l4g106go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-05-03T22:34:44Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "De Zerbi sends clear message to Spurs players after climbing out of relegation zone – and gives update on Bentancur",
-      "description": "Roberto De Zerbi stressed that his Spurs players must remember the situation they have found themselves in after recording back-to-back Premier League wins. Tottenham had not won a Premier League gam...",
-      "url": "https://hayters.com/de-zerbi-sends-clear-message-to-spurs-players-after-climbing-out-of-relegation-zone-and-gives-update-on-bentancur/",
-      "source": "Hayters.com",
-      "publishedAt": "2026-05-03T21:35:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Frenkie De Jong On Marcus Rashford's Impact At Barcelona: ‘He Really Adds A Lot'",
-      "description": "Frenkie de Jong has praised Marcus Rashford's profound tactical impact at Barcelona since his loan move from Manchester United.",
-      "url": "https://www.foxsports.com/stories/soccer/frenkie-de-jong-what-rashford-brings-barcelona-he-really-adds-lot",
-      "source": "Fox Sports",
-      "publishedAt": "2026-05-03T23:27:59Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Lautaro Martinez: ‘Not easy after Inter season, saw some things I didn’t like’",
-      "description": "Lautaro Martinez admits Inter needed ‘a change’ with Cristian Chivu replacing Simone Inzaghi, but does not regret his harsh words on the path to the Scudetto.",
-      "url": "https://football-italia.net/lautaro-martinez-not-easy-after-inter-season/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-03T21:24:10Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Barella and Thuram: ‘Inter always get back on our feet’",
-      "description": "Marcus Thuram and Nicolò Barella insist the genuine bond between players is what gave Inter the strength to ‘get back on our feet’ after ending the season empty-handed, going on to win the Scudetto.",
-      "url": "https://football-italia.net/barella-thuram-inter-always-back-on-our-feet/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-03T21:07:10Z",
-      "league": "Serie A"
+      "title": "German Chancellor Merz believes Germany can go far at World Cup",
+      "description": "German Chancellor Friedrich Merz believes the Germany national team has what it takes to go far at World Cup in the United States, Mexico, and Canada in June and July. \"The German team is in such good shape right now and has developed so well that it has a ch…",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260503-99-317185/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-05-03T21:38:36Z",
+      "league": "Bundesliga"
     },
     {
       "title": "Endrick eyes future after Copa and teaches reporter Jamal's step ",
@@ -129,12 +81,28 @@
       "league": "Ligue 1"
     },
     {
-      "title": "German Chancellor Merz believes Germany can go far at World Cup",
-      "description": "German Chancellor Friedrich Merz believes the Germany national team has what it takes to go far at World Cup in the United States, Mexico, and Canada in June and July. \"The German team is in such good shape right now and has developed so well that it has a ch…",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260503-99-317185/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-05-03T21:38:36Z",
-      "league": "Bundesliga"
+      "title": " Wants a World Cup spot! Endrick scores again, pressures Ancelotti",
+      "description": "Carlo Ancelotti was at the Maracanã to, for example, watch Pedro in person during this Sunday’s (3) Flamengo vs. Vasco match.And Endrick made a point of stressing that he is still very much alive i...",
+      "url": "https://onefootball.com/en/news/wants-a-world-cup-spot-endrick-scores-again-pressures-ancelotti-42810026",
+      "source": "Onefootball.com",
+      "publishedAt": "2026-05-03T22:01:00Z",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "Every club qualified for next season's Champions League as Manchester United confirm league-phase berth",
+      "description": "Manchester United have secured their place in next season's Champions League after beating Liverpool at the weekend.Kobbie Mainoo's winner secured the Red Devils a 3-2 win at Old Trafford, a result th...",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e1e9ebca-625c-41a5-8e60-75dce4df1ef5",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-04T07:35:00Z",
+      "league": "Champions League"
+    },
+    {
+      "title": "Sergino Dest makes PSV return after lengthy injury absence",
+      "description": "Eight weeks after Sergino Dest suffered a knee injury with Dutch side PSV, the American defender made his long-awaited return on Saturday. Dest came off the bench and played the final 30 minutes in PSV’s 2-2 road Eredivisie draw with Ajax. The U.S. men’s nati…",
+      "url": "https://sbisoccer.com/2026/05/sergino-dest-makes-psv-return-after-lengthy-injury-absence",
+      "source": "Sbisoccer.com",
+      "publishedAt": "2026-05-03T03:26:30Z",
+      "league": "Eredivisie"
     },
     {
       "title": "Diogo Costa dedicates Porto title win to Diogo Jota",
@@ -145,21 +113,53 @@
       "league": "Primeira Liga"
     },
     {
-      "title": " Official: Portugal have crowned their champions!",
-      "description": "FC Porto are back on the throne of Portuguese football.The Dragons officially secured their 31st national league title this Saturday after a decisive win over Alverca on Matchday 32 of the Primeira Li...",
-      "url": "https://onefootball.com/en/news/official-portugal-have-crowned-their-champions-42804371",
-      "source": "Onefootball.com",
-      "publishedAt": "2026-05-02T21:30:00Z",
-      "league": "Primeira Liga"
+      "title": "Manchester United ace ‘tempted’ to join Inter Miami this summer",
+      "description": "Major League Soccer (MLS) club Inter Miami are interested in signing Manchester United star Casemiro. The Brazilian has already announced he will leave Old Trafford at the end of his contract this su...",
+      "url": "https://footballtoday.com/2026/05/03/manchester-united-ace-tempted-to-join-inter-miami-this-summer/",
+      "source": "Footballtoday.com",
+      "publishedAt": "2026-05-03T06:15:00Z",
+      "league": "MLS"
     },
     {
-      "title": "PSG eyeing transfer for Bayern Munich star Harry Kane?",
-      "description": "Paris Saint-Germain wants FC Bayern star Harry Kane.",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-transfer-news-rumors/197260/psg-eyeing-transfer-for-bayern-munich-star-harry-kane",
-      "source": "Bavarian Football Works",
-      "publishedAt": "2026-05-03T23:30:00Z",
-      "league": "Transfers"
+      "title": "FIFA World Cup: Everything (and more) you need to know about the 16 stadiums",
+      "description": "We take a closer look at the 16 World Cup stadiums for this year's tournament.",
+      "url": "https://www.cbc.ca/sports/fifa-world-cup-stadiums-2026-9.7175902",
+      "source": "CBC News",
+      "publishedAt": "2026-05-04T08:00:00Z",
+      "league": "World Cup"
+    },
+    {
+      "title": "Path of Progress: DTLA Alliance launches new public-private initiative ahead of LA28",
+      "description": "FIFA World Cup 2026 is coming this summer. LA28 Olympic and Paralympic Games are on the horizon. LA is about to welcome the world to walk, shop, play and eat on its streets, and DTLA Alliance is taking its job…",
+      "url": "https://www.ladowntownnews.com/news/path-of-progress-dtla-alliance-launches-new-public-private-initiative-ahead-of-la28/article_8f0917e9-9817-4b1f-9365-8eaf9bded2e8.html",
+      "source": "Ladowntownnews.com",
+      "publishedAt": "2026-05-04T07:30:00Z",
+      "league": "World Cup"
+    },
+    {
+      "title": "Barcelona forward to be Spain’s third captain at FIFA World Cup",
+      "description": "Barcelona forward Ferran Torres is set to take on a major leadership role for the Spain national football team at the upcoming 2026 World Cup. In what is a significant recognition of his growth and c...",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_49488c12-9234-48d3-a635-28405bbf98a7",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-04T07:10:00Z",
+      "league": "World Cup"
+    },
+    {
+      "title": "World Cup prize pool nears $900 million as FIFA boosts payouts. Here’s who gets what",
+      "description": "FIFA's upcoming World Cup is set to be the most lucrative on-record, with a 'record breaking' prize pool on offer, as FIFA shrugs off other controversies.",
+      "url": "https://www.cnbc.com/2026/05/04/fifa-world-cup-team-payouts-ticket-prices.html",
+      "source": "CNBC",
+      "publishedAt": "2026-05-04T06:11:02Z",
+      "league": "World Cup"
+    },
+    {
+      "title": "USMNT World Cup roster watch: Sergiño Dest is back, but the real concern is the back line",
+      "description": "The weekend delivered heartening news — Sergiño Dest’s return to active duty after almost two months away — but also ongoing concern about center backs Tim Ream and Miles Robinson.",
+      "url": "https://sports.yahoo.com/soccer/article/usmnt-world-cup-roster-watch-sergino-dest-is-back-but-the-real-concern-is-the-back-line-031839777.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-04T03:18:39Z",
+      "league": "La Liga"
     }
   ],
-  "generatedAt": "2026-05-04T23:50:16.366Z"
+  "generatedAt": "2026-05-05T08:02:32.187Z"
 }
