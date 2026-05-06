@@ -1,51 +1,6 @@
 {
   "matches": [
     {
-      "league": "PL",
-      "homeTeam": "Chelsea",
-      "awayTeam": "Nottingham",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-05-04T14:00:00Z"
-    },
-    {
-      "league": "PL",
-      "homeTeam": "Everton",
-      "awayTeam": "Man City",
-      "homeScore": 3,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-05-04T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Sevilla FC",
-      "awayTeam": "Real Sociedad",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-05-04T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Cremonese",
-      "awayTeam": "Lazio",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-05-04T16:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Roma",
-      "awayTeam": "Fiorentina",
-      "homeScore": 4,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-05-04T18:45:00Z"
-    },
-    {
       "league": "CL",
       "homeTeam": "Arsenal",
       "awayTeam": "Atleti",
@@ -55,14 +10,14 @@
       "utcDate": "2026-05-05T19:00:00Z"
     },
     {
-      "league": "PPL",
-      "homeTeam": "Sporting CP",
-      "awayTeam": "Vitória SC",
-      "homeScore": 5,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-05-04T19:15:00Z"
+      "league": "CL",
+      "homeTeam": "Bayern",
+      "awayTeam": "PSG",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-05-06T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-05T23:44:30.233Z"
+  "generatedAt": "2026-05-06T08:19:27.423Z"
 }
