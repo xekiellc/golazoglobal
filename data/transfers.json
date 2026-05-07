@@ -1,5 +1,46 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-05-06T23:47:27.820Z",
+  "transfers": [
+    {
+      "player": "Liverpool midfielder closes in on Inter ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Anfieldwatch.co.uk",
+      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-transfer-news-curtis-jones-midfielder-closes-in-on-inter-milan-move/",
+      "publishedAt": "2026-05-06T07:05:00Z"
+    },
+    {
+      "player": "Real Madrid forward unlikely to leave th",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Madriduniversal.com",
+      "url": "https://madriduniversal.com/real-madrid-forward-unlikely-to-leave-this-summer-despite-ongoing-contract-standoff/",
+      "publishedAt": "2026-05-06T06:40:00Z"
+    },
+    {
+      "player": "Barcelona eye Eli Kroupi to replace Lewa",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Footballtoday.com",
+      "url": "https://footballtoday.com/2026/05/06/barcelona-eye-eli-kroupi-to-replace-lewandowski/",
+      "publishedAt": "2026-05-06T06:15:00Z"
+    },
+    {
+      "player": "Manchester United accept defeat in Ellio",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Cityxtra.co.uk",
+      "url": "https://cityxtra.co.uk/45943/manchester-united-accept-defeat-in-elliot-anderson-chase-as-manchester-city-plan-100m-transfer-talks/",
+      "publishedAt": "2026-05-06T05:35:00Z"
+    }
+  ],
+  "generatedAt": "2026-05-07T08:27:11.972Z",
   "note": "Transfers derived from news headlines at launch."
 }

@@ -2,15 +2,6 @@
   "matches": [
     {
       "league": "CL",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Atleti",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-05-05T19:00:00Z"
-    },
-    {
-      "league": "CL",
       "homeTeam": "Bayern",
       "awayTeam": "PSG",
       "homeScore": 1,
@@ -19,5 +10,5 @@
       "utcDate": "2026-05-06T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-06T23:48:51.658Z"
+  "generatedAt": "2026-05-07T08:28:36.149Z"
 }
