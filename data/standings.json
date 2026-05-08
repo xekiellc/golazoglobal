@@ -383,14 +383,14 @@
       {
         "position": 10,
         "team": "Osasuna",
-        "played": 34,
+        "played": 35,
         "won": 11,
-        "drawn": 9,
+        "drawn": 10,
         "lost": 14,
         "goalsFor": 40,
         "goalsAgainst": 42,
         "goalDifference": -2,
-        "points": 42,
+        "points": 43,
         "form": ""
       },
       {
@@ -500,14 +500,14 @@
       {
         "position": 19,
         "team": "Levante",
-        "played": 34,
+        "played": 35,
         "won": 8,
-        "drawn": 9,
+        "drawn": 10,
         "lost": 17,
         "goalsFor": 38,
         "goalsAgainst": 55,
         "goalDifference": -17,
-        "points": 33,
+        "points": 34,
         "form": ""
       },
       {
@@ -631,6 +631,19 @@
       },
       {
         "position": 9,
+        "team": "Sassuolo",
+        "played": 36,
+        "won": 14,
+        "drawn": 8,
+        "lost": 14,
+        "goalsFor": 43,
+        "goalsAgainst": 44,
+        "goalDifference": -1,
+        "points": 50,
+        "form": ""
+      },
+      {
+        "position": 10,
         "team": "Bologna",
         "played": 35,
         "won": 14,
@@ -639,19 +652,6 @@
         "goalsFor": 42,
         "goalsAgainst": 41,
         "goalDifference": 1,
-        "points": 49,
-        "form": ""
-      },
-      {
-        "position": 10,
-        "team": "Sassuolo",
-        "played": 35,
-        "won": 14,
-        "drawn": 7,
-        "lost": 14,
-        "goalsFor": 43,
-        "goalsAgainst": 44,
-        "goalDifference": -1,
         "points": 49,
         "form": ""
       },
@@ -684,14 +684,14 @@
       {
         "position": 13,
         "team": "Torino",
-        "played": 35,
+        "played": 36,
         "won": 11,
-        "drawn": 8,
+        "drawn": 9,
         "lost": 16,
         "goalsFor": 39,
         "goalsAgainst": 58,
         "goalDifference": -19,
-        "points": 41,
+        "points": 42,
         "form": ""
       },
       {
@@ -803,13 +803,13 @@
       {
         "position": 2,
         "team": "Dortmund",
-        "played": 32,
+        "played": 33,
         "won": 20,
         "drawn": 7,
-        "lost": 5,
+        "lost": 6,
         "goalsFor": 65,
-        "goalsAgainst": 32,
-        "goalDifference": 33,
+        "goalsAgainst": 33,
+        "goalDifference": 32,
         "points": 67,
         "form": ""
       },
@@ -867,6 +867,19 @@
       },
       {
         "position": 7,
+        "team": "Frankfurt",
+        "played": 33,
+        "won": 12,
+        "drawn": 10,
+        "lost": 11,
+        "goalsFor": 58,
+        "goalsAgainst": 60,
+        "goalDifference": -2,
+        "points": 46,
+        "form": ""
+      },
+      {
+        "position": 8,
         "team": "Freiburg",
         "played": 32,
         "won": 12,
@@ -876,19 +889,6 @@
         "goalsAgainst": 53,
         "goalDifference": -8,
         "points": 44,
-        "form": ""
-      },
-      {
-        "position": 8,
-        "team": "Frankfurt",
-        "played": 32,
-        "won": 11,
-        "drawn": 10,
-        "lost": 11,
-        "goalsFor": 57,
-        "goalsAgainst": 60,
-        "goalDifference": -3,
-        "points": 43,
         "form": ""
       },
       {
@@ -1039,14 +1039,14 @@
       {
         "position": 2,
         "team": "RC Lens",
-        "played": 31,
+        "played": 32,
         "won": 20,
-        "drawn": 4,
+        "drawn": 5,
         "lost": 7,
         "goalsFor": 61,
         "goalsAgainst": 33,
         "goalDifference": 28,
-        "points": 64,
+        "points": 65,
         "form": ""
       },
       {
@@ -1234,14 +1234,14 @@
       {
         "position": 17,
         "team": "Nantes",
-        "played": 32,
+        "played": 33,
         "won": 5,
-        "drawn": 8,
+        "drawn": 9,
         "lost": 19,
         "goalsFor": 29,
         "goalsAgainst": 51,
         "goalDifference": -22,
-        "points": 23,
+        "points": 24,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-08T13:24:08.534Z"
+  "generatedAt": "2026-05-08T19:12:45.493Z"
 }
