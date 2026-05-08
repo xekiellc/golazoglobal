@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-05-08T19:10:18.490Z",
+  "transfers": [
+    {
+      "player": "Freiburg and Villa to clash in Europa Le",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Dpa-international.com",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260507-99-362468/",
+      "publishedAt": "2026-05-07T22:08:40Z"
+    }
+  ],
+  "generatedAt": "2026-05-08T23:52:54.061Z",
   "note": "Transfers derived from news headlines at launch."
 }

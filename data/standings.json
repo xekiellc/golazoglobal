@@ -385,12 +385,12 @@
         "team": "Osasuna",
         "played": 35,
         "won": 11,
-        "drawn": 10,
-        "lost": 14,
-        "goalsFor": 40,
-        "goalsAgainst": 42,
-        "goalDifference": -2,
-        "points": 43,
+        "drawn": 9,
+        "lost": 15,
+        "goalsFor": 42,
+        "goalsAgainst": 45,
+        "goalDifference": -3,
+        "points": 42,
         "form": ""
       },
       {
@@ -501,13 +501,13 @@
         "position": 19,
         "team": "Levante",
         "played": 35,
-        "won": 8,
-        "drawn": 10,
+        "won": 9,
+        "drawn": 9,
         "lost": 17,
-        "goalsFor": 38,
-        "goalsAgainst": 55,
-        "goalDifference": -17,
-        "points": 34,
+        "goalsFor": 41,
+        "goalsAgainst": 57,
+        "goalDifference": -16,
+        "points": 36,
         "form": ""
       },
       {
@@ -631,19 +631,6 @@
       },
       {
         "position": 9,
-        "team": "Sassuolo",
-        "played": 36,
-        "won": 14,
-        "drawn": 8,
-        "lost": 14,
-        "goalsFor": 43,
-        "goalsAgainst": 44,
-        "goalDifference": -1,
-        "points": 50,
-        "form": ""
-      },
-      {
-        "position": 10,
         "team": "Bologna",
         "played": 35,
         "won": 14,
@@ -652,6 +639,19 @@
         "goalsFor": 42,
         "goalsAgainst": 41,
         "goalDifference": 1,
+        "points": 49,
+        "form": ""
+      },
+      {
+        "position": 10,
+        "team": "Sassuolo",
+        "played": 36,
+        "won": 14,
+        "drawn": 7,
+        "lost": 15,
+        "goalsFor": 44,
+        "goalsAgainst": 46,
+        "goalDifference": -2,
         "points": 49,
         "form": ""
       },
@@ -670,6 +670,19 @@
       },
       {
         "position": 12,
+        "team": "Torino",
+        "played": 36,
+        "won": 12,
+        "drawn": 8,
+        "lost": 16,
+        "goalsFor": 41,
+        "goalsAgainst": 59,
+        "goalDifference": -18,
+        "points": 44,
+        "form": ""
+      },
+      {
+        "position": 13,
         "team": "Parma",
         "played": 35,
         "won": 10,
@@ -678,19 +691,6 @@
         "goalsFor": 25,
         "goalsAgainst": 42,
         "goalDifference": -17,
-        "points": 42,
-        "form": ""
-      },
-      {
-        "position": 13,
-        "team": "Torino",
-        "played": 36,
-        "won": 11,
-        "drawn": 9,
-        "lost": 16,
-        "goalsFor": 39,
-        "goalsAgainst": 58,
-        "goalDifference": -19,
         "points": 42,
         "form": ""
       },
@@ -804,13 +804,13 @@
         "position": 2,
         "team": "Dortmund",
         "played": 33,
-        "won": 20,
+        "won": 21,
         "drawn": 7,
-        "lost": 6,
-        "goalsFor": 65,
-        "goalsAgainst": 33,
-        "goalDifference": 32,
-        "points": 67,
+        "lost": 5,
+        "goalsFor": 68,
+        "goalsAgainst": 34,
+        "goalDifference": 34,
+        "points": 70,
         "form": ""
       },
       {
@@ -867,19 +867,6 @@
       },
       {
         "position": 7,
-        "team": "Frankfurt",
-        "played": 33,
-        "won": 12,
-        "drawn": 10,
-        "lost": 11,
-        "goalsFor": 58,
-        "goalsAgainst": 60,
-        "goalDifference": -2,
-        "points": 46,
-        "form": ""
-      },
-      {
-        "position": 8,
         "team": "Freiburg",
         "played": 32,
         "won": 12,
@@ -889,6 +876,19 @@
         "goalsAgainst": 53,
         "goalDifference": -8,
         "points": 44,
+        "form": ""
+      },
+      {
+        "position": 8,
+        "team": "Frankfurt",
+        "played": 33,
+        "won": 11,
+        "drawn": 10,
+        "lost": 12,
+        "goalsFor": 59,
+        "goalsAgainst": 63,
+        "goalDifference": -4,
+        "points": 43,
         "form": ""
       },
       {
@@ -1040,13 +1040,13 @@
         "position": 2,
         "team": "RC Lens",
         "played": 32,
-        "won": 20,
-        "drawn": 5,
+        "won": 21,
+        "drawn": 4,
         "lost": 7,
-        "goalsFor": 61,
+        "goalsFor": 62,
         "goalsAgainst": 33,
-        "goalDifference": 28,
-        "points": 65,
+        "goalDifference": 29,
+        "points": 67,
         "form": ""
       },
       {
@@ -1236,12 +1236,12 @@
         "team": "Nantes",
         "played": 33,
         "won": 5,
-        "drawn": 9,
-        "lost": 19,
+        "drawn": 8,
+        "lost": 20,
         "goalsFor": 29,
-        "goalsAgainst": 51,
-        "goalDifference": -22,
-        "points": 24,
+        "goalsAgainst": 52,
+        "goalDifference": -23,
+        "points": 23,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-08T19:12:45.493Z"
+  "generatedAt": "2026-05-08T23:55:22.940Z"
 }
