@@ -5,8 +5,8 @@
         {
           "name": "Erling Haaland",
           "team": "Man City",
-          "goals": 25,
-          "assists": 7,
+          "goals": 26,
+          "assists": 8,
           "penalties": 3
         },
         {
@@ -77,8 +77,8 @@
         {
           "name": "Erling Haaland",
           "team": "Man City",
-          "goals": 25,
-          "assists": 7,
+          "goals": 26,
+          "assists": 8,
           "penalties": 3
         },
         {
@@ -158,7 +158,7 @@
         {
           "name": "Borja Iglesias",
           "team": "Celta",
-          "goals": 14,
+          "goals": 15,
           "assists": 1,
           "penalties": 4
         },
@@ -177,11 +177,11 @@
           "penalties": 1
         },
         {
-          "name": "Alexander Sørloth",
-          "team": "Atleti",
+          "name": "Toni Martínez",
+          "team": "Alavés",
           "goals": 12,
-          "assists": 0,
-          "penalties": 0
+          "assists": 3,
+          "penalties": 1
         }
       ],
       "topAssists": [
@@ -214,11 +214,11 @@
           "penalties": 6
         },
         {
-          "name": "Ferrán Torres",
-          "team": "Barça",
-          "goals": 15,
-          "assists": 2,
-          "penalties": 0
+          "name": "Toni Martínez",
+          "team": "Alavés",
+          "goals": 12,
+          "assists": 3,
+          "penalties": 1
         }
       ]
     },
@@ -227,15 +227,15 @@
         {
           "name": "Lautaro Martínez",
           "team": "Inter",
-          "goals": 16,
-          "assists": 5,
+          "goals": 17,
+          "assists": 6,
           "penalties": 0
         },
         {
           "name": "Marcus Thuram-Ulien",
           "team": "Inter",
           "goals": 13,
-          "assists": 5,
+          "assists": 6,
           "penalties": 0
         },
         {
@@ -284,7 +284,7 @@
           "name": "Keinan Davis",
           "team": "Udinese",
           "goals": 10,
-          "assists": 3,
+          "assists": 4,
           "penalties": 4
         },
         {
@@ -296,6 +296,20 @@
         }
       ],
       "topAssists": [
+        {
+          "name": "Lautaro Martínez",
+          "team": "Inter",
+          "goals": 17,
+          "assists": 6,
+          "penalties": 0
+        },
+        {
+          "name": "Marcus Thuram-Ulien",
+          "team": "Inter",
+          "goals": 13,
+          "assists": 6,
+          "penalties": 0
+        },
         {
           "name": "Nico Paz",
           "team": "Como 1907",
@@ -311,25 +325,11 @@
           "penalties": 1
         },
         {
-          "name": "Lautaro Martínez",
-          "team": "Inter",
-          "goals": 16,
-          "assists": 5,
-          "penalties": 0
-        },
-        {
-          "name": "Marcus Thuram-Ulien",
-          "team": "Inter",
-          "goals": 13,
-          "assists": 5,
-          "penalties": 0
-        },
-        {
-          "name": "Rasmus Højlund",
-          "team": "Napoli",
-          "goals": 11,
-          "assists": 3,
-          "penalties": 1
+          "name": "Keinan Davis",
+          "team": "Udinese",
+          "goals": 10,
+          "assists": 4,
+          "penalties": 4
         }
       ]
     },
@@ -345,7 +345,7 @@
         {
           "name": "Deniz Undav",
           "team": "Stuttgart",
-          "goals": 18,
+          "goals": 19,
           "assists": 5,
           "penalties": 0
         },
@@ -364,6 +364,13 @@
           "penalties": 4
         },
         {
+          "name": "Michael Olise",
+          "team": "Bayern",
+          "goals": 15,
+          "assists": 19,
+          "penalties": 0
+        },
+        {
           "name": "Luis Díaz",
           "team": "Bayern",
           "goals": 15,
@@ -371,24 +378,17 @@
           "penalties": 0
         },
         {
-          "name": "Michael Olise",
-          "team": "Bayern",
-          "goals": 14,
-          "assists": 19,
-          "penalties": 0
-        },
-        {
           "name": "Andrej Kramarić",
           "team": "Hoffenheim",
           "goals": 14,
-          "assists": 5,
+          "assists": 6,
           "penalties": 5
         },
         {
           "name": "Christoph Baumgartner",
           "team": "RB Leipzig",
           "goals": 13,
-          "assists": 7,
+          "assists": 8,
           "penalties": 0
         },
         {
@@ -399,18 +399,18 @@
           "penalties": 1
         },
         {
-          "name": "Haris Tabaković",
-          "team": "M'gladbach",
+          "name": "Ermedin Demirovic",
+          "team": "Stuttgart",
           "goals": 12,
-          "assists": 1,
-          "penalties": 0
+          "assists": 3,
+          "penalties": 1
         }
       ],
       "topAssists": [
         {
           "name": "Michael Olise",
           "team": "Bayern",
-          "goals": 14,
+          "goals": 15,
           "assists": 19,
           "penalties": 0
         },
@@ -425,22 +425,22 @@
           "name": "Christoph Baumgartner",
           "team": "RB Leipzig",
           "goals": 13,
-          "assists": 7,
-          "penalties": 0
-        },
-        {
-          "name": "Deniz Undav",
-          "team": "Stuttgart",
-          "goals": 18,
-          "assists": 5,
+          "assists": 8,
           "penalties": 0
         },
         {
           "name": "Andrej Kramarić",
           "team": "Hoffenheim",
           "goals": 14,
-          "assists": 5,
+          "assists": 6,
           "penalties": 5
+        },
+        {
+          "name": "Deniz Undav",
+          "team": "Stuttgart",
+          "goals": 19,
+          "assists": 5,
+          "penalties": 0
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-09T13:09:17.774Z"
+  "generatedAt": "2026-05-09T18:57:34.885Z"
 }

@@ -1,108 +1,116 @@
 {
   "articles": [
     {
-      "title": "Arteta confirms Arsenal without 2 injured players for West Ham",
-      "description": "Arsenal head to West Ham with their squad in strong shape and the Premier League title now within sight, though Mikel Arteta will still be without two players this weekend.Photo by Shaun Botterill/Get...",
-      "url": "https://dailycannon.com/2026/05/arsenal-west-ham-team-news/",
-      "source": "Dailycannon.com",
-      "publishedAt": "2026-05-08T13:05:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Spanish right-back suspended for alleged messages to underage girl",
-      "description": "AFC Bournemouth have announced that right-back Alex Jimenez will be suspended for their clash with Fulham this week, as they investigate his activity on social media. The 21-year-old has allegedly bee...",
-      "url": "https://www.football-espana.net/2026/05/08/spanish-right-back-suspended-for-alleged-messages-to-underage-girl",
-      "source": "Football Espana",
-      "publishedAt": "2026-05-08T13:00:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Revealed: Southampton staff member 'caught spying in Middlesbrough bushes' was a junior intern as EFL launch probe",
-      "description": "CRAIG HOPE: Daily Mail Sport has learnt the identity of the employee in his early 20s who was caught in the bushes at Boro's Rockliffe Park training ground this week.",
-      "url": "https://www.dailymail.com/sport/football/article-15801553/Southampton-staff-member-spying-Middlesbrough-bushes-junior-intern-EFL-launch-probe.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-08T12:59:04Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Has Rodri absence cost Man City? Or is his importance overstated?",
-      "description": "Rodri's injury coincided with Manchester City's damaging draw at Everton - but there evidence suggests his importance is overplayed.",
-      "url": "https://www.bbc.com/sport/football/articles/cj3pev7y2kzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "title": "Arteta rallies Arsenal for huge Premier League weekend",
+      "description": "As the Premier League title race nears its conclusion, Arsenal manager Mikel Arteta tells his players and the Gunners fans to \"stay present and live the moment\".",
+      "url": "https://www.bbc.com/sport/football/articles/cvgz7v5ve2eo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
       "source": "BBC News",
-      "publishedAt": "2026-05-08T12:54:10Z",
+      "publishedAt": "2026-05-08T18:49:26Z",
       "league": "Premier League"
     },
     {
-      "title": "‘Stay focused’ – Carles Puyol sends Barcelona Clasico warning amid Real Madrid chaos",
-      "description": "Los Blancos are in a mess ahead of the big game.",
-      "url": "https://www.barcablaugranes.com/barcelona-la-liga/119683/stay-focused-carles-puyol-sends-barcelona-clasico-warning-amid-real-madrid-chaos",
-      "source": "Barca Blaugranes",
-      "publishedAt": "2026-05-08T11:47:21Z",
+      "title": "Bayern Munich Working on Transfer for Newcastle’s Anthony Gordon: Report",
+      "description": "Bayern Munich have taken a concrete step toward signing Newcastle winger Anthony Gordon, with negotiations now underway and a transfer likely to be completed at some point in the next few weeks once all sides agree to terms. “Bayern Munich have opened talks w…",
+      "url": "https://cominghomenewcastle.sbnation.com/newcastle-united-transfer-news-rumors/21637/bayern-munich-working-on-transfer-for-newcastles-anthony-gordon-report",
+      "source": "SB Nation",
+      "publishedAt": "2026-05-08T18:00:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Manchester United’s Bruno Fernandes named FWA Footballer of the Year",
+      "description": "Arsenal’s Declan Rice finished second, with Manchester City’s Erling Haaland in third",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/05/08/manchester-uniteds-bruno-fernandes-named-fwa-footballer-of-the-year/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-08T17:46:38Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Lille forward attracting transfer interest from Manchester City and Inter Milan",
+      "description": "Manchester City have identified 21-year-old Matias Fernandez-Pardo as a potential addition to their attacking ranks following his breakthrough year at Lille.Italian champions Inter Milan and Cesc Fàb...",
+      "url": "https://cityxtra.co.uk/46105/lille-forward-attracting-transfer-interest-from-manchester-city-and-inter-milan/",
+      "source": "Cityxtra.co.uk",
+      "publishedAt": "2026-05-08T17:45:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Real Madrid fines Valverde, Tchouameni combined $1.2M for fight",
+      "description": "Real Madrid fined Federico Valverde and Aurelien Tchouameni $589,000 apiece for a fight at their training ground, the La Liga club announced Friday.",
+      "url": "https://www.upi.com/Sports_News/Soccer/2026/05/08/Real-Madrid-fines-Valverde-Tchouameni/5931778261390/",
+      "source": "UPI.com",
+      "publishedAt": "2026-05-08T18:52:58Z",
       "league": "La Liga"
     },
     {
-      "title": "Barcelona expect to earn up to €15 million from El Clasico ticket sales",
-      "description": "FC Barcelona and their supporters are eagerly counting down to Sunday’s El Clasico, a match in which the team could be crowned champions against their eternal rivals, Real Madrid. It would mark an u...",
-      "url": "https://barcauniversal.com/barcelona-expect-to-earn-up-to-e15-million-from-el-clasico-ticket-sales/",
-      "source": "Barcauniversal.com",
-      "publishedAt": "2026-05-08T11:35:00Z",
+      "title": "Real Madrid star ruled out of El Clásico with ‘traumatic brain injury’",
+      "description": "La Liga giants Real Madrid are set to be without the services of midfield star Federico Valverde for their upcoming showdown with arch rivals Barcelona.This comes as a result of the injuries suffered ...",
+      "url": "https://getfootballnewsspain.com/real-madrid-star-ruled-out-of-el-clasico-with-traumatic-brain-injury/",
+      "source": "Getfootballnewsspain.com",
+      "publishedAt": "2026-05-08T18:20:00Z",
       "league": "La Liga"
     },
     {
-      "title": "Tchouameni: Blockbuster contract United can offer to Real Madrid star",
-      "description": "Aurelien Tchouameni’s Real Madrid career has been thrown into turmoil, just at the right time as far as Manchester United are concerned.Real have opened disciplinary proceedings against Tchouameni a...",
-      "url": "https://thepeoplesperson.com/2026/05/08/tchouameni-blockbuster-contract-united-can-offer-real-madrid-star-309800/",
-      "source": "The Peoples Person",
-      "publishedAt": "2026-05-08T11:35:00Z",
+      "title": "Robert Lewandowski doubting Barcelona stay after €15m salary offer",
+      "description": "Robert Lewandowski is reportedly having doubts over his Barcelona future this summer, with a strong offer from Chicago Fire to consider. The Polish striker is expected to seek clarity on his next step...",
+      "url": "https://www.football-espana.net/2026/05/08/robert-lewandowski-doubting-barcelona-stay-after-e15m-salary-offer",
+      "source": "Football Espana",
+      "publishedAt": "2026-05-08T17:50:00Z",
       "league": "La Liga"
     },
     {
-      "title": "Is Vinicius Jr manager Alvaro Arbeloa’s snitch? Real Madrid dressing room crisis deepens as Vinicius Jr faces squad’s distrust ahead of El Clasico",
-      "description": "Real Madrid’s internal problems have reportedly worsened just days before their crucial El Clasico clash against Barcelona. Reports from Spain claim several senior players now distrust Vinicius Junior, believing the Brazilian winger has been passing private d…",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/is-vinicius-jr-manager-alvaro-arbeloas-snitch-real-madrid-dressing-room-crisis-deepens-as-vinicius-jr-faces-squads-distrust-ahead-of-el-clasico/articleshow/130958374.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-08T11:14:53Z",
+      "title": "Cristano Ronaldo’s 100 Saudi Pro League goals breakdown: Which clubs did he score against, how he scored, and who is his favorite ‘victim’?",
+      "description": "The Portuguese icon brought up his 100th Saudi Pro League goal during a dramatic victory over Al-Shabab, further cementing his influence on the title race and the league itself. Cristiano Ronaldo has reached another extraordinary milestone in Saudi Arabia, co…",
+      "url": "https://worldsoccertalk.com/news/cristano-ronaldos-100-saudi-pro-league-goals-breakdown-which-clubs-did-he-score-against-how-he-scored-and-who-is-his-favorite-victim/",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-05-08T17:37:50Z",
       "league": "La Liga"
     },
     {
-      "title": "Barcelona in talks with the agent of Tottenham Hotspur defender Luka Vuskovic",
-      "description": "The agent of Tottenham Hotspur defender Luka Vuskovic, Pini Zahavi, has been holding talks with Barcelona, according to Sky Sports Germany journalist Florian Plettenberg. The Tottenham Hotspur Stadium...",
-      "url": "https://sportsview.co.uk/2026/05/barcelona-in-talks-with-the-agent-of-tottenham-hotspur-defender-luka-vuskovic?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=barcelona-in-talks-with-the-agent-of-tottenham-hotspur-defender-luka-vuskovic",
-      "source": "Sportsview.co.uk",
-      "publishedAt": "2026-05-08T08:45:00Z",
+      "title": "Cristiano Ronaldo becomes first player in Saudi Pro League history to complete astonishing full-league goalscoring record",
+      "description": "The Al-Nassr superstar once again delivered on the big stage during his side���s dramatic 4-2 victory over Al-Shabab, but the result only told part of the story surrounding another astonishing milestone in his legendary career. Cristiano Ronaldo continues to re…",
+      "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-becomes-first-player-in-saudi-pro-league-history-to-complete-astonishing-full-league-goalscoring-record/",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-05-08T17:37:16Z",
       "league": "La Liga"
     },
     {
-      "title": "Spain earns bonus 5th Champions League entry with Real Betis in line to benefit",
-      "description": "Spain has clinched a bonus fifth entry into the Champions League next season, UEFA confirmed Friday, with Real Betis on course to earn the spot through the La Liga standings. Rayo Vallecano’s win against Strasbourg in the Conference League semifinals Thursday…",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_116a5996-d0f8-4ff3-b24f-7121a86b4c43",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-08T08:41:34Z",
+      "title": "Real Madrid Fines Valverde, Tchouaméni Half a Million Euros Each for Altercation",
+      "description": "Real Madrid has fined Federico Valverde and Aurélien Tchouaméni $588,000 each for their altercation during practice.",
+      "url": "https://www.foxsports.com/stories/soccer/real-madrid-fines-valverde-and-tchouameni-half-a-million-euros-each-for-altercation",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-08T17:16:31Z",
       "league": "La Liga"
     },
     {
-      "title": "Barcelona plan to announce Hansi Flick’s contract extension after winning La Liga – report",
-      "description": "While all eyes are on Barcelona’s upcoming El Clasico against Real Madrid this weekend, the club are hard at work trying to close out the futures of a couple of key individuals in Robert Lewandowski...",
-      "url": "https://barcauniversal.com/barcelona-plan-to-announce-hansi-flicks-contract-extension-after-winning-la-liga-report/",
-      "source": "Barcauniversal.com",
-      "publishedAt": "2026-05-08T07:20:00Z",
+      "title": "Atlético Madrid closing on €45m deal for Premier League star",
+      "description": "La Liga giants Atlético Madrid are inching closer to a full agreement for a member of the midfield ranks at Premier League outfit Wolverhampton Wanderers.The player in question? João Gomes.Midfiel...",
+      "url": "https://getfootballnewsspain.com/atletico-madrid-closing-on-e45m-deal-for-premier-league-star/",
+      "source": "Getfootballnewsspain.com",
+      "publishedAt": "2026-05-08T17:05:00Z",
       "league": "La Liga"
     },
     {
-      "title": "When can Barcelona win La Liga title? How Barca can inflict Clasico embarrassment on Real Madrid",
-      "description": "Barcelona are on the brink of La Liga glory and welcome eternal rivals Real Madrid to Camp Nou this weekend.",
-      "url": "https://www.sportingnews.com/us/soccer/news/when-can-barcelona-win-la-liga-title-real-madrid/9dbac54b8c424a6c76b1aa70",
-      "source": "Sporting News",
-      "publishedAt": "2026-05-08T07:00:01Z",
-      "league": "La Liga"
+      "title": "Lazio vs Inter Preview: Coppa Italia Dress Rehearsal",
+      "description": "Stadio Olimpico sets the stage for a mouth-watering Serie A showdown between Lazio and Inter. Saturday’s clash in Italy’s capital will serve as the final rehearsal ahead of next week’s Coppa Ita...",
+      "url": "https://cultofcalcio.com/lazio-vs-inter-preview-coppa-italia-dress-rehearsal-set-for-rome-showdown/",
+      "source": "Cultofcalcio.com",
+      "publishedAt": "2026-05-08T15:50:00Z",
+      "league": "Serie A"
     },
     {
-      "title": "Real Madrid take action against Valverde & Tchouameni after shocking training ground bust-up",
-      "description": "Real Madrid have confirmed they have opened disciplinary proceedings into Aurelien Tchouameni and Federico Valverde after their shocking training ground bust-up. The two stars were involved in a seco...",
-      "url": "https://footballtoday.com/2026/05/08/real-madrid-take-action-against-valverde-tchouameni-after-shocking-training-ground-bust-up/",
-      "source": "Footballtoday.com",
-      "publishedAt": "2026-05-08T05:00:00Z",
-      "league": "La Liga"
+      "title": "Study identifies top 3 most financially stable clubs in Serie A and most efficient coach",
+      "description": "The second Global State of Football report shows that Fiorentina, Atalanta and Napoli were the most financially stable Serie A clubs in 2024-25, while Gian",
+      "url": "https://football-italia.net/study-top-3-financially-stable-clubs-serie-a/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-08T14:49:51Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Bayern Munich sets a huge asking price for Juventus target",
+      "description": "Juventus have identified Kim Min-jae as one of its leading transfer targets ahead of next season as the club continues to strengthen its plans for the future. The South Korean defender has remained hi...",
+      "url": "https://www.juvefc.com/bayern-munich-sets-a-huge-asking-price-for-juventus-target/",
+      "source": "JuveFC",
+      "publishedAt": "2026-05-08T14:00:00Z",
+      "league": "Serie A"
     },
     {
       "title": "English clubs reach all three European finals for first time",
@@ -113,53 +121,45 @@
       "league": "Serie A"
     },
     {
-      "title": "Report Goretzka very close to full Milan agreement as free agent",
-      "description": "There are growing reports that Milan are very close to finalising personal terms with Leon Goretzka, who will be a free agent from Bayern Munich.",
-      "url": "https://football-italia.net/report-goretzka-v-close-full-milan-agreement/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-07T18:05:19Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Canada star Alphonso Davies injures hamstring with a month to go before World Cup",
-      "description": "Canada left back Alphonso Davies has injured his hamstring with just over month to go before his country co-hosts the World Cup, Bayern Munich said Friday. The club says team doctors expect Davies to be out “for several weeks,” with Canada starting the World …",
-      "url": "https://sports.yahoo.com/articles/canada-star-alphonso-davies-injures-123231105.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-08T12:32:31Z",
+      "title": "Canada Star Alphonso Davies Injures Hamstring With a Month To Go Before World Cup",
+      "description": "Canada left back Alphonso Davies has injured his hamstring with just over month to go before his country co-hosts the World Cup.",
+      "url": "https://www.foxsports.com/stories/soccer/alphonso-davies-injury-udpate-timeline-canada-world-cup",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-08T16:53:13Z",
       "league": "Bundesliga"
     },
     {
-      "title": "Canada captain Davies' World Cup preparations hit by fresh injury",
-      "description": "Canada captain Alphonso Davies has suffered a hamstring injury that will sideline him for \"several weeks\", Bayern Munich said on Friday, potentially disrupting his World Cup preparations.It is the latest setback for Davies, who has suffered a series of muscle…",
-      "url": "https://sports.yahoo.com/articles/canada-captain-davies-world-cup-122010373.html",
+      "title": "Canada’s Alphonso Davies out several weeks with hamstring injury as World Cup nears",
+      "description": "Canada captain Alphonso Davies has suffered a hamstring injury that will sideline him for “several weeks”, Bayern Munich said on Friday, potentially disrupting his World Cup preparations. Davies was injured in Wednesday’s 1-1 draw in the second leg of the Cha…",
+      "url": "https://sports.yahoo.com/articles/canada-alphonso-davies-several-weeks-153330884.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-08T12:20:10Z",
+      "publishedAt": "2026-05-08T15:33:30Z",
       "league": "Bundesliga"
     },
     {
-      "title": "Another spying controversy hits English soccer as Southampton accused of 'unauthorized filming'",
-      "description": "“The alleged incident is said to have taken place on Middlesbrough’s private property by an individual identified to be associated with Southampton,\" the statement continued. The EFL said it was treating this matter as “potential misconduct\" and has requested…",
-      "url": "https://sports.yahoo.com/articles/another-spying-controversy-hits-english-074530881.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-08T07:45:30Z",
-      "league": "Championship"
+      "title": "Stuttgart against Leverkusen dubbed the €20 million game",
+      "description": "VfB Stuttgart against Bayer Leverkusen on Saturday has been dubbed the €20 million game in German media as the pair battle it out for the fourth and final Champions League spot in the Bundesliga. It was confirmed on Thursday that fifth place in Spain not Germ…",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260508-99-368373/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-05-08T14:38:30Z",
+      "league": "Bundesliga"
     },
     {
-      "title": "Southampton investigated by EFL over alleged spying on Middlesbrough",
-      "description": "May 7 : The English Football League has launched an investigation into allegations that a member of Southampton's staff was caught filming a closed Middlesbrough training session ahead of the first leg of their Championship playoff semi-final on Saturday.\"The…",
-      "url": "https://www.channelnewsasia.com/sport/southampton-investigated-efl-over-alleged-spying-middlesbrough-6108396",
-      "source": "CNA",
-      "publishedAt": "2026-05-07T23:10:19Z",
-      "league": "Championship"
+      "title": "Ousmane Dembélé’s career turnaround enters international spotlight",
+      "description": "The reigning Ballon d’Or holder is part of a star-studded French attack seeking their second World Cup in three attempts.",
+      "url": "https://www.sbnation.com/26-in-26/1113592/ousmane-dembeles-career-turnaround-enters-international-spotlight",
+      "source": "SB Nation",
+      "publishedAt": "2026-05-08T14:18:31Z",
+      "league": "Ligue 1"
     },
     {
-      "title": "U.S. Soccer turns page to its future with opening of national training center",
-      "description": "FAYETTEVILLE, Ga. — The U.S. Soccer Federation officially opened the sprawling Arthur M. Blank U.S. Soccer National Training Center (NTC) on Thursday in Fayette County, with a guest list that included MLS commissioner Don Garber, U.S. women’s national team he…",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8e75fa48-38d9-4883-8f5f-247394578363",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-08T10:16:05Z",
-      "league": "MLS"
+      "title": "‘There are other favorites in better form’: Messi names six teams to challenge Argentina at 2026 World Cup",
+      "description": "Lionel Messi spoke about Argentina’s chances at the 2026 FIFA World Cup. Argentina are 39 days away from making their debut at the 2026 FIFA World Cup against Algeria on June 16 at Arrowhead Stadium in Kansas City. Lionel Messi recently discussed the national…",
+      "url": "https://worldsoccertalk.com/world-cup/there-are-other-favorites-in-better-form-messi-names-six-teams-to-challenge-argentina-at-2026-world-cup/",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-05-08T18:21:35Z",
+      "league": "World Cup"
     }
   ],
-  "generatedAt": "2026-05-09T13:05:22.824Z"
+  "generatedAt": "2026-05-09T18:53:38.110Z"
 }
