@@ -43,14 +43,14 @@
       {
         "position": 4,
         "team": "Liverpool",
-        "played": 35,
+        "played": 36,
         "won": 17,
-        "drawn": 7,
+        "drawn": 8,
         "lost": 11,
-        "goalsFor": 59,
-        "goalsAgainst": 47,
+        "goalsFor": 60,
+        "goalsAgainst": 48,
         "goalDifference": 12,
-        "points": 58,
+        "points": 59,
         "form": ""
       },
       {
@@ -108,14 +108,14 @@
       {
         "position": 9,
         "team": "Chelsea",
-        "played": 35,
+        "played": 36,
         "won": 13,
-        "drawn": 9,
+        "drawn": 10,
         "lost": 13,
-        "goalsFor": 54,
-        "goalsAgainst": 48,
+        "goalsFor": 55,
+        "goalsAgainst": 49,
         "goalDifference": 6,
-        "points": 48,
+        "points": 49,
         "form": ""
       },
       {
@@ -408,6 +408,19 @@
       },
       {
         "position": 12,
+        "team": "Elche",
+        "played": 35,
+        "won": 9,
+        "drawn": 12,
+        "lost": 14,
+        "goalsFor": 45,
+        "goalsAgainst": 53,
+        "goalDifference": -8,
+        "points": 39,
+        "form": ""
+      },
+      {
+        "position": 13,
         "team": "Valencia",
         "played": 34,
         "won": 10,
@@ -420,7 +433,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Espanyol",
         "played": 34,
         "won": 10,
@@ -430,19 +443,6 @@
         "goalsAgainst": 51,
         "goalDifference": -14,
         "points": 39,
-        "form": ""
-      },
-      {
-        "position": 14,
-        "team": "Elche",
-        "played": 34,
-        "won": 9,
-        "drawn": 11,
-        "lost": 14,
-        "goalsFor": 45,
-        "goalsAgainst": 53,
-        "goalDifference": -8,
-        "points": 38,
         "form": ""
       },
       {
@@ -473,6 +473,19 @@
       },
       {
         "position": 17,
+        "team": "Alavés",
+        "played": 35,
+        "won": 9,
+        "drawn": 10,
+        "lost": 16,
+        "goalsFor": 40,
+        "goalsAgainst": 53,
+        "goalDifference": -13,
+        "points": 37,
+        "form": ""
+      },
+      {
+        "position": 18,
         "team": "Sevilla FC",
         "played": 34,
         "won": 10,
@@ -482,19 +495,6 @@
         "goalsAgainst": 55,
         "goalDifference": -14,
         "points": 37,
-        "form": ""
-      },
-      {
-        "position": 18,
-        "team": "Alavés",
-        "played": 34,
-        "won": 9,
-        "drawn": 9,
-        "lost": 16,
-        "goalsFor": 40,
-        "goalsAgainst": 53,
-        "goalDifference": -13,
-        "points": 36,
         "form": ""
       },
       {
@@ -658,14 +658,14 @@
       {
         "position": 11,
         "team": "Udinese",
-        "played": 35,
+        "played": 36,
         "won": 13,
-        "drawn": 8,
+        "drawn": 9,
         "lost": 14,
         "goalsFor": 43,
         "goalsAgainst": 46,
         "goalDifference": -3,
-        "points": 47,
+        "points": 48,
         "form": ""
       },
       {
@@ -709,6 +709,19 @@
       },
       {
         "position": 15,
+        "team": "Cagliari",
+        "played": 36,
+        "won": 9,
+        "drawn": 11,
+        "lost": 16,
+        "goalsFor": 36,
+        "goalsAgainst": 49,
+        "goalDifference": -13,
+        "points": 38,
+        "form": ""
+      },
+      {
+        "position": 16,
         "team": "Fiorentina",
         "played": 35,
         "won": 8,
@@ -717,19 +730,6 @@
         "goalsFor": 38,
         "goalsAgainst": 49,
         "goalDifference": -11,
-        "points": 37,
-        "form": ""
-      },
-      {
-        "position": 16,
-        "team": "Cagliari",
-        "played": 35,
-        "won": 9,
-        "drawn": 10,
-        "lost": 16,
-        "goalsFor": 36,
-        "goalsAgainst": 49,
-        "goalDifference": -13,
         "points": 37,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-09T07:52:38.181Z"
+  "generatedAt": "2026-05-09T13:07:49.541Z"
 }

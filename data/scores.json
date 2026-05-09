@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "PD",
+      "homeTeam": "Elche",
+      "awayTeam": "Alavés",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "PAUSED",
+      "utcDate": "2026-05-09T12:00:00Z"
+    },
+    {
+      "league": "PD",
       "homeTeam": "Levante",
       "awayTeam": "Osasuna",
       "homeScore": 3,
@@ -80,15 +89,6 @@
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-05-09T16:30:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Elche",
-      "awayTeam": "Alavés",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-09T12:00:00Z"
     },
     {
       "league": "PD",
@@ -217,5 +217,5 @@
       "utcDate": "2026-05-10T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-09T07:51:36.453Z"
+  "generatedAt": "2026-05-09T13:06:47.208Z"
 }
