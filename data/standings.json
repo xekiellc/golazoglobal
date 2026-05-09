@@ -318,14 +318,14 @@
       {
         "position": 5,
         "team": "Real Betis",
-        "played": 34,
+        "played": 35,
         "won": 13,
-        "drawn": 14,
+        "drawn": 15,
         "lost": 7,
-        "goalsFor": 52,
-        "goalsAgainst": 41,
+        "goalsFor": 54,
+        "goalsAgainst": 43,
         "goalDifference": 11,
-        "points": 53,
+        "points": 54,
         "form": ""
       },
       {
@@ -356,6 +356,19 @@
       },
       {
         "position": 8,
+        "team": "Real Sociedad",
+        "played": 35,
+        "won": 11,
+        "drawn": 11,
+        "lost": 13,
+        "goalsFor": 54,
+        "goalsAgainst": 55,
+        "goalDifference": -1,
+        "points": 44,
+        "form": ""
+      },
+      {
+        "position": 9,
         "team": "Athletic",
         "played": 34,
         "won": 13,
@@ -365,19 +378,6 @@
         "goalsAgainst": 50,
         "goalDifference": -10,
         "points": 44,
-        "form": ""
-      },
-      {
-        "position": 9,
-        "team": "Real Sociedad",
-        "played": 34,
-        "won": 11,
-        "drawn": 10,
-        "lost": 13,
-        "goalsFor": 52,
-        "goalsAgainst": 53,
-        "goalDifference": -1,
-        "points": 43,
         "form": ""
       },
       {
@@ -553,6 +553,19 @@
       },
       {
         "position": 3,
+        "team": "Juventus",
+        "played": 36,
+        "won": 19,
+        "drawn": 11,
+        "lost": 6,
+        "goalsFor": 59,
+        "goalsAgainst": 30,
+        "goalDifference": 29,
+        "points": 68,
+        "form": ""
+      },
+      {
+        "position": 4,
         "team": "Milan",
         "played": 35,
         "won": 19,
@@ -562,19 +575,6 @@
         "goalsAgainst": 29,
         "goalDifference": 19,
         "points": 67,
-        "form": ""
-      },
-      {
-        "position": 4,
-        "team": "Juventus",
-        "played": 35,
-        "won": 18,
-        "drawn": 11,
-        "lost": 6,
-        "goalsFor": 58,
-        "goalsAgainst": 30,
-        "goalDifference": 28,
-        "points": 65,
         "form": ""
       },
       {
@@ -736,13 +736,13 @@
       {
         "position": 17,
         "team": "Lecce",
-        "played": 35,
+        "played": 36,
         "won": 8,
         "drawn": 8,
-        "lost": 19,
+        "lost": 20,
         "goalsFor": 24,
-        "goalsAgainst": 47,
-        "goalDifference": -23,
+        "goalsAgainst": 48,
+        "goalDifference": -24,
         "points": 32,
         "form": ""
       },
@@ -2074,14 +2074,14 @@
       {
         "position": 3,
         "team": "Fluminense",
-        "played": 14,
+        "played": 15,
         "won": 8,
-        "drawn": 2,
+        "drawn": 3,
         "lost": 4,
-        "goalsFor": 23,
-        "goalsAgainst": 18,
+        "goalsFor": 25,
+        "goalsAgainst": 20,
         "goalDifference": 5,
-        "points": 26,
+        "points": 27,
         "form": ""
       },
       {
@@ -2139,31 +2139,44 @@
       {
         "position": 8,
         "team": "Coritiba",
-        "played": 14,
+        "played": 15,
         "won": 5,
-        "drawn": 4,
+        "drawn": 5,
         "lost": 5,
-        "goalsFor": 16,
-        "goalsAgainst": 17,
+        "goalsFor": 18,
+        "goalsAgainst": 19,
         "goalDifference": -1,
-        "points": 19,
+        "points": 20,
         "form": ""
       },
       {
         "position": 9,
         "team": "Vitória",
-        "played": 13,
+        "played": 14,
         "won": 5,
-        "drawn": 3,
+        "drawn": 4,
         "lost": 5,
-        "goalsFor": 16,
-        "goalsAgainst": 18,
+        "goalsFor": 18,
+        "goalsAgainst": 20,
         "goalDifference": -2,
-        "points": 18,
+        "points": 19,
         "form": ""
       },
       {
         "position": 10,
+        "team": "Internacional",
+        "played": 15,
+        "won": 4,
+        "drawn": 6,
+        "lost": 5,
+        "goalsFor": 16,
+        "goalsAgainst": 16,
+        "goalDifference": 0,
+        "points": 18,
+        "form": ""
+      },
+      {
+        "position": 11,
         "team": "Botafogo",
         "played": 13,
         "won": 5,
@@ -2176,7 +2189,7 @@
         "form": ""
       },
       {
-        "position": 11,
+        "position": 12,
         "team": "Mineiro",
         "played": 14,
         "won": 5,
@@ -2185,19 +2198,6 @@
         "goalsFor": 17,
         "goalsAgainst": 20,
         "goalDifference": -3,
-        "points": 17,
-        "form": ""
-      },
-      {
-        "position": 12,
-        "team": "Internacional",
-        "played": 14,
-        "won": 4,
-        "drawn": 5,
-        "lost": 5,
-        "goalsFor": 14,
-        "goalsAgainst": 14,
-        "goalDifference": 0,
         "points": 17,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-09T18:56:04.180Z"
+  "generatedAt": "2026-05-09T23:44:20.459Z"
 }

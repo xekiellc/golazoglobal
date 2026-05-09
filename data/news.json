@@ -1,36 +1,76 @@
 {
   "articles": [
     {
-      "title": "Arteta rallies Arsenal for huge Premier League weekend",
-      "description": "As the Premier League title race nears its conclusion, Arsenal manager Mikel Arteta tells his players and the Gunners fans to \"stay present and live the moment\".",
-      "url": "https://www.bbc.com/sport/football/articles/cvgz7v5ve2eo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-05-08T18:49:26Z",
+      "title": "World Cup tickets are hitting $2.3 million — and N.J. lawmakers are furious",
+      "description": "New Jersey Democrats are criticizing FIFA over World Cup ticket prices, accusing the organization of creating \"artificial scarcity\" and pricing out fans.",
+      "url": "https://www.nj.com/politics/2026/05/world-cup-tickets-are-hitting-23-million-and-nj-lawmakers-are-furious.html",
+      "source": "nj.com",
+      "publishedAt": "2026-05-08T22:44:24Z",
       "league": "Premier League"
     },
     {
-      "title": "Bayern Munich Working on Transfer for Newcastle’s Anthony Gordon: Report",
-      "description": "Bayern Munich have taken a concrete step toward signing Newcastle winger Anthony Gordon, with negotiations now underway and a transfer likely to be completed at some point in the next few weeks once all sides agree to terms. “Bayern Munich have opened talks w…",
-      "url": "https://cominghomenewcastle.sbnation.com/newcastle-united-transfer-news-rumors/21637/bayern-munich-working-on-transfer-for-newcastles-anthony-gordon-report",
-      "source": "SB Nation",
-      "publishedAt": "2026-05-08T18:00:00Z",
+      "title": "Injuries mount for USMNT as Tanner Tessmann sidelined with World Cup approaching",
+      "description": "U.S. Men's National Team and Lyon midfielder Tanner Tessmann has been dealt an injury blow just over a month away from their FIFA World Cup opener against Paraguay",
+      "url": "https://www.alloutsoccer.com/news/usmnt-injury-tessmann-world-cup-1828847",
+      "source": "Alloutsoccer.com",
+      "publishedAt": "2026-05-08T22:13:10Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Southampton CHARGED by the EFL after staff member was 'caught spying' in the Middlesbrough bushes ahead of play-off clash",
+      "description": "Southampton have been charged by the EFL for spying on Middlesbrough's training session ahead of their Championship play-off semi-final.",
+      "url": "https://www.dailymail.com/sport/football/article-15803089/Southampton-CHARGED-EFL-staff-member-caught-spying-Middlesbrough-bushes-ahead-play-clash.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-08T22:04:54Z",
       "league": "Premier League"
     },
     {
-      "title": "Manchester United’s Bruno Fernandes named FWA Footballer of the Year",
-      "description": "Arsenal’s Declan Rice finished second, with Manchester City’s Erling Haaland in third",
-      "url": "https://www.irishtimes.com/sport/soccer/2026/05/08/manchester-uniteds-bruno-fernandes-named-fwa-footballer-of-the-year/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-08T17:46:38Z",
+      "title": "Southampton charged by EFL over alleged spying on Middlesbrough",
+      "description": "LONDON, May 8 : The English Football League (EFL) charged second tier Southampton on Friday after rivals Middlesbrough complained of spying ahead of a Championship promotion playoff semi-final first leg clash.The two sides are due to play at Middlesbrough on …",
+      "url": "https://www.channelnewsasia.com/sport/southampton-charged-efl-over-alleged-spying-middlesbrough-6110541",
+      "source": "CNA",
+      "publishedAt": "2026-05-08T21:33:58Z",
       "league": "Premier League"
     },
     {
-      "title": "Lille forward attracting transfer interest from Manchester City and Inter Milan",
-      "description": "Manchester City have identified 21-year-old Matias Fernandez-Pardo as a potential addition to their attacking ranks following his breakthrough year at Lille.Italian champions Inter Milan and Cesc Fàb...",
-      "url": "https://cityxtra.co.uk/46105/lille-forward-attracting-transfer-interest-from-manchester-city-and-inter-milan/",
-      "source": "Cityxtra.co.uk",
-      "publishedAt": "2026-05-08T17:45:00Z",
+      "title": "Bruno Fernandes and 'Bunny' Shaw win soccer writers' awards in England",
+      "description": "Manchester United captain Bruno Fernandes was voted as footballer of the year in England by soccer writers, while Manchester City striker Khadija “Bunny” Shaw won the women's award for a second time on Friday. Fernandes captured the accolade handed out by the…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_642ee9de-3d9d-4efc-8d4a-cf4fc1bb2d46",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-08T21:59:01Z",
       "league": "Premier League"
+    },
+    {
+      "title": "Fran Garcia And Camavinga To Start | 4-4-2 Real Madrid Predicted Lineup Vs Barcelona",
+      "description": "Real Madrid will lock horns with Barcelona at the Nou Camp this Sunday night as they look to earn a good result on their travels in La Liga. Los Blancos managed to secure a solid 2-0 win away at Espan...",
+      "url": "https://the4thofficial.net/2026/05/fran-garcia-and-camavinga-to-start-4-4-2-real-madrid-predicted-lineup-vs-barcelona/",
+      "source": "The4thofficial.net",
+      "publishedAt": "2026-05-08T21:25:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Barcelona to wear Olivia Rodrigo Spotify kits for El Clásico match",
+      "description": "In the latest collaboration of its partnership with Spotify, Barcelona will wear Olivia Rodrigo kits in its match against rival Real Madrid.",
+      "url": "https://www.usatoday.com/story/sports/soccer/2026/05/08/barcelona-olivia-rodrigo-spotify-kits-el-clasico-real-madrid/89997154007/",
+      "source": "USA Today",
+      "publishedAt": "2026-05-08T20:44:41Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "PREVIEW | Barcelona vs Real Madrid: team news, lineups, predictions (La Liga 10/05)",
+      "description": "Barcelona host Real Madrid this Sunday at the Spotify Camp Nou on Match Day 35 of the La Liga. The match will be broadcast live at 20:00 on Premier Sports.Barcelona currently have 88 points and lie in...",
+      "url": "https://www.playmakerstats.com/news/preview-barcelona-vs-real-madrid-team-news-lineups-predictions-la-liga-10-05-/1120175",
+      "source": "Playmakerstats.com",
+      "publishedAt": "2026-05-08T19:50:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Real Madrid fines players $589K after brawl in stunner",
+      "description": "Finally a fine that may actually prevent repeatable behavior.",
+      "url": "https://nypost.com/2026/05/08/sports/real-madrid-fines-players-589k-after-brawl-in-stunner/",
+      "source": "New York Post",
+      "publishedAt": "2026-05-08T19:39:50Z",
+      "league": "La Liga"
     },
     {
       "title": "Real Madrid fines Valverde, Tchouameni combined $1.2M for fight",
@@ -41,59 +81,51 @@
       "league": "La Liga"
     },
     {
-      "title": "Real Madrid star ruled out of El Clásico with ‘traumatic brain injury’",
-      "description": "La Liga giants Real Madrid are set to be without the services of midfield star Federico Valverde for their upcoming showdown with arch rivals Barcelona.This comes as a result of the injuries suffered ...",
-      "url": "https://getfootballnewsspain.com/real-madrid-star-ruled-out-of-el-clasico-with-traumatic-brain-injury/",
-      "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-05-08T18:20:00Z",
-      "league": "La Liga"
+      "title": "Dortmund beat Eintracht Frankfurt in five-goal thriller",
+      "description": "Borussia Dortmund survive a late scare as they hang on to beat Eintracht Frankfurt 3-2 at Signal Iduna Park to secure second place in the German Bundesliga.",
+      "url": "https://www.bbc.com/sport/football/videos/cx215090p3xo",
+      "source": "BBC News",
+      "publishedAt": "2026-05-08T20:58:05Z",
+      "league": "Bundesliga"
     },
     {
-      "title": "Robert Lewandowski doubting Barcelona stay after €15m salary offer",
-      "description": "Robert Lewandowski is reportedly having doubts over his Barcelona future this summer, with a strong offer from Chicago Fire to consider. The Polish striker is expected to seek clarity on his next step...",
-      "url": "https://www.football-espana.net/2026/05/08/robert-lewandowski-doubting-barcelona-stay-after-e15m-salary-offer",
-      "source": "Football Espana",
-      "publishedAt": "2026-05-08T17:50:00Z",
-      "league": "La Liga"
+      "title": "BVB turn the game around to win 3-2 and secure second-place finish",
+      "description": "BVB began the match with the same starting XI as in Gladbach (a 1-0 loss), with returnees Niklas Süle, Felix Nmecha and Karim Adeyemi on the bench,  – and duly conceded the quickest goal of the s...",
+      "url": "https://www.bvb.de/de/en/news/news-overview/news.html/2026/5/8/BVB-turn-the-game-around-to-win-3-2-and-secure-second-place-finish.html",
+      "source": "Www.bvb.de",
+      "publishedAt": "2026-05-08T21:40:00Z",
+      "league": "Bundesliga"
     },
     {
-      "title": "Cristano Ronaldo’s 100 Saudi Pro League goals breakdown: Which clubs did he score against, how he scored, and who is his favorite ‘victim’?",
-      "description": "The Portuguese icon brought up his 100th Saudi Pro League goal during a dramatic victory over Al-Shabab, further cementing his influence on the title race and the league itself. Cristiano Ronaldo has reached another extraordinary milestone in Saudi Arabia, co…",
-      "url": "https://worldsoccertalk.com/news/cristano-ronaldos-100-saudi-pro-league-goals-breakdown-which-clubs-did-he-score-against-how-he-scored-and-who-is-his-favorite-victim/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-05-08T17:37:50Z",
-      "league": "La Liga"
+      "title": "Teenage striker scores on debut as Lens keep Ligue 1 title hopes alive",
+      "description": "Teenage striker Mezian Soares scored on his debut as Lens beat Nantes 1-0 on Friday to assure its place in next season’s Champions League and keep alive its slim hopes of wresting the Ligue 1 title from Paris Saint-Germain. Soares, a 16-year-old who has playe…",
+      "url": "https://sports.yahoo.com/articles/teenage-striker-scores-debut-lens-210728827.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-08T21:07:28Z",
+      "league": "Ligue 1"
     },
     {
-      "title": "Cristiano Ronaldo becomes first player in Saudi Pro League history to complete astonishing full-league goalscoring record",
-      "description": "The Al-Nassr superstar once again delivered on the big stage during his side���s dramatic 4-2 victory over Al-Shabab, but the result only told part of the story surrounding another astonishing milestone in his legendary career. Cristiano Ronaldo continues to re…",
-      "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-becomes-first-player-in-saudi-pro-league-history-to-complete-astonishing-full-league-goalscoring-record/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-05-08T17:37:16Z",
-      "league": "La Liga"
+      "title": "Lens secure Champions League spot and send Nantes down",
+      "description": "Teenage substitute Mezian Soares gave Lens a 1-0 win over Nantes in Ligue 1 on Friday to give his side direct qualification for next season's Champions League while relegating Nantes to the second tier.French champions in 2001 Nantes are now guaranteed to fin…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_09c78590-d2a4-4a8a-b072-d1e1f1c2591b",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-08T20:58:49Z",
+      "league": "Ligue 1"
     },
     {
-      "title": "Real Madrid Fines Valverde, Tchouaméni Half a Million Euros Each for Altercation",
-      "description": "Real Madrid has fined Federico Valverde and Aurélien Tchouaméni $588,000 each for their altercation during practice.",
-      "url": "https://www.foxsports.com/stories/soccer/real-madrid-fines-valverde-and-tchouameni-half-a-million-euros-each-for-altercation",
-      "source": "Fox Sports",
-      "publishedAt": "2026-05-08T17:16:31Z",
-      "league": "La Liga"
+      "title": "He scores his first Ligue 1 goal at 16... 11 seconds into his debut ",
+      "description": "Well, this...Absolute madness in Ligue 1 this Friday night!The first goal of the match between RC Lens and FC Nantes was scored by Mezian Mesloub, a 16-year-old Sang & Or striker, who had literally ju...",
+      "url": "https://onefootball.com/en/news/he-scores-his-first-ligue-1-goal-at-16-11-seconds-into-his-debut-42835954",
+      "source": "Onefootball.com",
+      "publishedAt": "2026-05-08T20:27:00Z",
+      "league": "Ligue 1"
     },
     {
-      "title": "Atlético Madrid closing on €45m deal for Premier League star",
-      "description": "La Liga giants Atlético Madrid are inching closer to a full agreement for a member of the midfield ranks at Premier League outfit Wolverhampton Wanderers.The player in question? João Gomes.Midfiel...",
-      "url": "https://getfootballnewsspain.com/atletico-madrid-closing-on-e45m-deal-for-premier-league-star/",
-      "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-05-08T17:05:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Lazio vs Inter Preview: Coppa Italia Dress Rehearsal",
-      "description": "Stadio Olimpico sets the stage for a mouth-watering Serie A showdown between Lazio and Inter. Saturday’s clash in Italy’s capital will serve as the final rehearsal ahead of next week’s Coppa Ita...",
-      "url": "https://cultofcalcio.com/lazio-vs-inter-preview-coppa-italia-dress-rehearsal-set-for-rome-showdown/",
-      "source": "Cultofcalcio.com",
-      "publishedAt": "2026-05-08T15:50:00Z",
+      "title": "European round-up: Lens pile pressure on PSG in Ligue 1 title race",
+      "description": "Lens cut the gap to Paris Saint-Germain in the Ligue 1 title race to three points by beating Nantes 1-0.",
+      "url": "https://www.101greatgoals.com/football/ligue-1/lens-pressure-psg-ligue1-title-race/",
+      "source": "101 Great Goals",
+      "publishedAt": "2026-05-08T21:06:23Z",
       "league": "Serie A"
     },
     {
@@ -105,61 +137,29 @@
       "league": "Serie A"
     },
     {
-      "title": "Bayern Munich sets a huge asking price for Juventus target",
-      "description": "Juventus have identified Kim Min-jae as one of its leading transfer targets ahead of next season as the club continues to strengthen its plans for the future. The South Korean defender has remained hi...",
-      "url": "https://www.juvefc.com/bayern-munich-sets-a-huge-asking-price-for-juventus-target/",
-      "source": "JuveFC",
-      "publishedAt": "2026-05-08T14:00:00Z",
-      "league": "Serie A"
+      "title": "World Cup 2026: Messi picks France, Brazil, Spain as top contenders",
+      "description": "Lionel Messi names his top World Cup 2026 contenders, highlighting France, Brazil, and Spain as favorites despite Argentina’s recent success.\n\nRead More: https://punchng.com/world-cup-2026-messi-picks-france-brazil-spain-as-top-contenders/",
+      "url": "https://punchng.com/world-cup-2026-messi-picks-france-brazil-spain-as-top-contenders/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-08T21:35:51Z",
+      "league": "MLS"
     },
     {
-      "title": "English clubs reach all three European finals for first time",
-      "description": "English teams have reached the finals of three different European competitions in the same season for the first time.",
-      "url": "https://www.bbc.com/sport/football/articles/c5yr4vle9w2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-05-07T22:32:15Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Canada Star Alphonso Davies Injures Hamstring With a Month To Go Before World Cup",
-      "description": "Canada left back Alphonso Davies has injured his hamstring with just over month to go before his country co-hosts the World Cup.",
-      "url": "https://www.foxsports.com/stories/soccer/alphonso-davies-injury-udpate-timeline-canada-world-cup",
-      "source": "Fox Sports",
-      "publishedAt": "2026-05-08T16:53:13Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Canada’s Alphonso Davies out several weeks with hamstring injury as World Cup nears",
-      "description": "Canada captain Alphonso Davies has suffered a hamstring injury that will sideline him for “several weeks”, Bayern Munich said on Friday, potentially disrupting his World Cup preparations. Davies was injured in Wednesday’s 1-1 draw in the second leg of the Cha…",
-      "url": "https://sports.yahoo.com/articles/canada-alphonso-davies-several-weeks-153330884.html",
+      "title": "Messi says Argentina up against 'other favorites' in World Cup repeat bid",
+      "description": "Lionel Messi says Argentina fans are right to dream of a second straight World Cup crown, but warns other contenders, including France and Spain, \"are in better shape\".\"As of today, France are in great shape again.",
+      "url": "https://sports.yahoo.com/articles/messi-says-argentina-against-other-203753148.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-08T15:33:30Z",
-      "league": "Bundesliga"
+      "publishedAt": "2026-05-08T20:37:53Z",
+      "league": "MLS"
     },
     {
-      "title": "Stuttgart against Leverkusen dubbed the €20 million game",
-      "description": "VfB Stuttgart against Bayer Leverkusen on Saturday has been dubbed the €20 million game in German media as the pair battle it out for the fourth and final Champions League spot in the Bundesliga. It was confirmed on Thursday that fifth place in Spain not Germ…",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260508-99-368373/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-05-08T14:38:30Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Ousmane Dembélé’s career turnaround enters international spotlight",
-      "description": "The reigning Ballon d’Or holder is part of a star-studded French attack seeking their second World Cup in three attempts.",
-      "url": "https://www.sbnation.com/26-in-26/1113592/ousmane-dembeles-career-turnaround-enters-international-spotlight",
-      "source": "SB Nation",
-      "publishedAt": "2026-05-08T14:18:31Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "‘There are other favorites in better form’: Messi names six teams to challenge Argentina at 2026 World Cup",
-      "description": "Lionel Messi spoke about Argentina’s chances at the 2026 FIFA World Cup. Argentina are 39 days away from making their debut at the 2026 FIFA World Cup against Algeria on June 16 at Arrowhead Stadium in Kansas City. Lionel Messi recently discussed the national…",
-      "url": "https://worldsoccertalk.com/world-cup/there-are-other-favorites-in-better-form-messi-names-six-teams-to-challenge-argentina-at-2026-world-cup/",
+      "title": "Lionel Messi’s one-word verdict on his rivalry with Cristiano Ronaldo: ‘Beautiful’",
+      "description": "Lionel Messi opened up about his rivalry with Cristiano Ronaldo. For nearly two decades, Lionel Messi and Cristiano Ronaldo have dominated world soccer, collecting countless trophies and individual awards along the way. Even now, as both players approach the …",
+      "url": "https://worldsoccertalk.com/news/lionel-messis-one-word-verdict-on-his-rivalry-with-cristiano-ronaldo-beautiful/",
       "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-05-08T18:21:35Z",
-      "league": "World Cup"
+      "publishedAt": "2026-05-08T15:38:41Z",
+      "league": "MLS"
     }
   ],
-  "generatedAt": "2026-05-09T18:53:38.110Z"
+  "generatedAt": "2026-05-09T23:41:54.346Z"
 }
