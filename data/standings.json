@@ -2113,13 +2113,13 @@
       {
         "position": 6,
         "team": "Bahia",
-        "played": 13,
+        "played": 14,
         "won": 6,
         "drawn": 4,
-        "lost": 3,
-        "goalsFor": 19,
-        "goalsAgainst": 16,
-        "goalDifference": 3,
+        "lost": 4,
+        "goalsFor": 20,
+        "goalsAgainst": 18,
+        "goalDifference": 2,
         "points": 22,
         "form": ""
       },
@@ -2164,6 +2164,19 @@
       },
       {
         "position": 10,
+        "team": "Cruzeiro",
+        "played": 15,
+        "won": 5,
+        "drawn": 4,
+        "lost": 6,
+        "goalsFor": 20,
+        "goalsAgainst": 25,
+        "goalDifference": -5,
+        "points": 19,
+        "form": ""
+      },
+      {
+        "position": 11,
         "team": "Internacional",
         "played": 15,
         "won": 4,
@@ -2176,7 +2189,7 @@
         "form": ""
       },
       {
-        "position": 11,
+        "position": 12,
         "team": "Botafogo",
         "played": 13,
         "won": 5,
@@ -2189,7 +2202,7 @@
         "form": ""
       },
       {
-        "position": 12,
+        "position": 13,
         "team": "Mineiro",
         "played": 14,
         "won": 5,
@@ -2202,7 +2215,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Vasco da Gama",
         "played": 14,
         "won": 4,
@@ -2215,7 +2228,7 @@
         "form": ""
       },
       {
-        "position": 14,
+        "position": 15,
         "team": "Grêmio",
         "played": 14,
         "won": 4,
@@ -2225,19 +2238,6 @@
         "goalsAgainst": 16,
         "goalDifference": -1,
         "points": 17,
-        "form": ""
-      },
-      {
-        "position": 15,
-        "team": "Cruzeiro",
-        "played": 14,
-        "won": 4,
-        "drawn": 4,
-        "lost": 6,
-        "goalsFor": 18,
-        "goalsAgainst": 24,
-        "goalDifference": -6,
-        "points": 16,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-09T23:44:20.459Z"
+  "generatedAt": "2026-05-10T08:05:08.058Z"
 }
