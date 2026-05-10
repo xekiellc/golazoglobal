@@ -66,10 +66,10 @@
           "penalties": 2
         },
         {
-          "name": "Hugo Ekitike",
-          "team": "Liverpool",
-          "goals": 11,
-          "assists": 4,
+          "name": "Ollie Watkins",
+          "team": "Aston Villa",
+          "goals": 12,
+          "assists": 2,
           "penalties": 0
         }
       ],
@@ -103,10 +103,10 @@
           "penalties": 1
         },
         {
-          "name": "Hugo Ekitike",
-          "team": "Liverpool",
-          "goals": 11,
-          "assists": 4,
+          "name": "Ollie Watkins",
+          "team": "Aston Villa",
+          "goals": 12,
+          "assists": 2,
           "penalties": 0
         }
       ]
@@ -246,6 +246,13 @@
           "penalties": 0
         },
         {
+          "name": "Donyell Malen",
+          "team": "Roma",
+          "goals": 13,
+          "assists": 2,
+          "penalties": 3
+        },
+        {
           "name": "Nico Paz",
           "team": "Como 1907",
           "goals": 12,
@@ -265,13 +272,6 @@
           "goals": 11,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Donyell Malen",
-          "team": "Roma",
-          "goals": 11,
-          "assists": 2,
-          "penalties": 2
         },
         {
           "name": "Gianluca Scamacca",
@@ -574,22 +574,22 @@
         {
           "name": "Troy Parrott",
           "team": "AZ",
-          "goals": 15,
+          "goals": 16,
           "assists": 4,
           "penalties": 2
+        },
+        {
+          "name": "Ricardo Pepi",
+          "team": "PSV",
+          "goals": 15,
+          "assists": 0,
+          "penalties": 1
         },
         {
           "name": "Ismael Saibari",
           "team": "PSV",
           "goals": 15,
           "assists": 6,
-          "penalties": 1
-        },
-        {
-          "name": "Ricardo Pepi",
-          "team": "PSV",
-          "goals": 14,
-          "assists": 0,
           "penalties": 1
         },
         {
@@ -621,11 +621,11 @@
           "penalties": 3
         },
         {
-          "name": "Koen Kostons",
-          "team": "Zwolle",
-          "goals": 11,
-          "assists": 6,
-          "penalties": 0
+          "name": "Mathis Suray",
+          "team": "Go Ahead",
+          "goals": 12,
+          "assists": 2,
+          "penalties": 1
         }
       ],
       "topAssists": [
@@ -651,16 +651,16 @@
           "penalties": 1
         },
         {
-          "name": "Koen Kostons",
-          "team": "Zwolle",
-          "goals": 11,
-          "assists": 6,
-          "penalties": 0
-        },
-        {
           "name": "Guus Til",
           "team": "PSV",
           "goals": 13,
+          "assists": 5,
+          "penalties": 0
+        },
+        {
+          "name": "Jacob Trenskow",
+          "team": "Heerenveen",
+          "goals": 12,
           "assists": 5,
           "penalties": 0
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-10T13:11:13.423Z"
+  "generatedAt": "2026-05-10T18:58:50.529Z"
 }
