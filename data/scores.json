@@ -2,6 +2,60 @@
   "matches": [
     {
       "league": "PL",
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "Everton",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-10T13:00:00Z"
+    },
+    {
+      "league": "PL",
+      "homeTeam": "Burnley",
+      "awayTeam": "Aston Villa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-10T13:00:00Z"
+    },
+    {
+      "league": "PL",
+      "homeTeam": "Nottingham",
+      "awayTeam": "Newcastle",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-10T13:00:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Genoa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-10T13:00:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Cremonese",
+      "awayTeam": "AC Pisa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-10T13:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Mallorca",
+      "awayTeam": "Villarreal",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "PAUSED",
+      "utcDate": "2026-05-10T12:00:00Z"
+    },
+    {
+      "league": "PL",
       "homeTeam": "Liverpool",
       "awayTeam": "Chelsea",
       "homeScore": 1,
@@ -109,6 +163,15 @@
       "utcDate": "2026-05-09T18:45:00Z"
     },
     {
+      "league": "SA",
+      "homeTeam": "Verona",
+      "awayTeam": "Como 1907",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-05-10T10:30:00Z"
+    },
+    {
       "league": "BL1",
       "homeTeam": "Stuttgart",
       "awayTeam": "Leverkusen",
@@ -191,48 +254,12 @@
     },
     {
       "league": "PL",
-      "homeTeam": "Crystal Palace",
-      "awayTeam": "Everton",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-10T13:00:00Z"
-    },
-    {
-      "league": "PL",
-      "homeTeam": "Burnley",
-      "awayTeam": "Aston Villa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-10T13:00:00Z"
-    },
-    {
-      "league": "PL",
-      "homeTeam": "Nottingham",
-      "awayTeam": "Newcastle",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-10T13:00:00Z"
-    },
-    {
-      "league": "PL",
       "homeTeam": "West Ham",
       "awayTeam": "Arsenal",
       "homeScore": null,
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-05-10T15:30:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Mallorca",
-      "awayTeam": "Villarreal",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-10T12:00:00Z"
     },
     {
       "league": "PD",
@@ -260,33 +287,6 @@
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-05-10T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Verona",
-      "awayTeam": "Como 1907",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-10T10:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Fiorentina",
-      "awayTeam": "Genoa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-10T13:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Cremonese",
-      "awayTeam": "AC Pisa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-10T13:00:00Z"
     },
     {
       "league": "SA",
@@ -568,5 +568,5 @@
       "utcDate": "2026-05-10T23:30:00Z"
     }
   ],
-  "generatedAt": "2026-05-10T08:04:06.178Z"
+  "generatedAt": "2026-05-10T13:08:32.280Z"
 }

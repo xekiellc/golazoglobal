@@ -123,7 +123,7 @@
         {
           "name": "Vedat Muriqi",
           "team": "Mallorca",
-          "goals": 21,
+          "goals": 22,
           "assists": 1,
           "penalties": 5
         },
@@ -232,18 +232,18 @@
           "penalties": 0
         },
         {
+          "name": "Anastasios Douvikas",
+          "team": "Como 1907",
+          "goals": 13,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Marcus Thuram-Ulien",
           "team": "Inter",
           "goals": 13,
           "assists": 6,
           "penalties": 0
-        },
-        {
-          "name": "Anastasios Douvikas",
-          "team": "Como 1907",
-          "goals": 12,
-          "assists": 1,
-          "penalties": 1
         },
         {
           "name": "Nico Paz",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-10T08:06:29.152Z"
+  "generatedAt": "2026-05-10T13:11:13.423Z"
 }
