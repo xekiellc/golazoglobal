@@ -135,18 +135,18 @@
           "penalties": 6
         },
         {
+          "name": "Ferrán Torres",
+          "team": "Barça",
+          "goals": 16,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Lamine Yamal",
           "team": "Barça",
           "goals": 16,
           "assists": 11,
           "penalties": 3
-        },
-        {
-          "name": "Ferrán Torres",
-          "team": "Barça",
-          "goals": 15,
-          "assists": 2,
-          "penalties": 0
         },
         {
           "name": "Vinicius Junior",
@@ -449,7 +449,7 @@
         {
           "name": "Esteban Lepaul",
           "team": "Stade Rennais",
-          "goals": 19,
+          "goals": 20,
           "assists": 5,
           "penalties": 3
         },
@@ -463,9 +463,9 @@
         {
           "name": "Mason Greenwood",
           "team": "Marseille",
-          "goals": 15,
+          "goals": 16,
           "assists": 7,
-          "penalties": 5
+          "penalties": 6
         },
         {
           "name": "Folarin Balogun",
@@ -484,14 +484,14 @@
         {
           "name": "Lassine Sinayoko",
           "team": "Auxerre",
-          "goals": 10,
+          "goals": 11,
           "assists": 4,
           "penalties": 3
         },
         {
           "name": "Corentin Tolisso",
           "team": "Olympique Lyon",
-          "goals": 10,
+          "goals": 11,
           "assists": 4,
           "penalties": 2
         },
@@ -499,7 +499,7 @@
           "name": "Pablo Pagis",
           "team": "Lorient",
           "goals": 10,
-          "assists": 3,
+          "assists": 5,
           "penalties": 2
         },
         {
@@ -521,16 +521,23 @@
         {
           "name": "Mason Greenwood",
           "team": "Marseille",
-          "goals": 15,
+          "goals": 16,
           "assists": 7,
-          "penalties": 5
+          "penalties": 6
         },
         {
           "name": "Esteban Lepaul",
           "team": "Stade Rennais",
-          "goals": 19,
+          "goals": 20,
           "assists": 5,
           "penalties": 3
+        },
+        {
+          "name": "Pablo Pagis",
+          "team": "Lorient",
+          "goals": 10,
+          "assists": 5,
+          "penalties": 2
         },
         {
           "name": "Florian Thauvin",
@@ -542,16 +549,9 @@
         {
           "name": "Lassine Sinayoko",
           "team": "Auxerre",
-          "goals": 10,
+          "goals": 11,
           "assists": 4,
           "penalties": 3
-        },
-        {
-          "name": "Corentin Tolisso",
-          "team": "Olympique Lyon",
-          "goals": 10,
-          "assists": 4,
-          "penalties": 2
         }
       ]
     },
@@ -947,15 +947,15 @@
           "penalties": 0
         },
         {
-          "name": "Breno Lopes",
-          "team": "Coritiba",
+          "name": "Luciano",
+          "team": "São Paulo",
           "goals": 5,
           "assists": 1,
           "penalties": 0
         },
         {
-          "name": "Christian",
-          "team": "Cruzeiro",
+          "name": "Breno Lopes",
+          "team": "Coritiba",
           "goals": 5,
           "assists": 1,
           "penalties": 0
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-10T18:58:50.529Z"
+  "generatedAt": "2026-05-10T23:49:40.318Z"
 }
