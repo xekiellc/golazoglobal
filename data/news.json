@@ -1,75 +1,123 @@
 {
   "articles": [
     {
-      "title": "Scottish Premier League – Le Celtic glane le Old Firm et relance la course au titre",
-      "description": "Celtic 3-1 Rangers",
-      "url": "https://www.sofoot.com/breves/scottish-premier-league-le-celtic-glane-le-old-firm-et-relance-la-course-au-titre",
-      "source": "SO FOOT",
-      "publishedAt": "2026-05-10T14:25:49Z",
+      "title": "Neville: Arsenal VAR call was 'biggest in Premier League history'",
+      "description": "Gary Neville reacts to the dramatic VAR decision that denied West Ham a late equaliser against Arsenal and says it could be the biggest VAR moment in Premier League history.",
+      "url": "https://www.skysports.com/football/video/30998/13542531/west-ham-v-arsenal-gary-neville-says-arsenal-var-decision-could-be-biggest-in-premier-league-history",
+      "source": "Sky Sports",
+      "publishedAt": "2026-05-10T19:41:00Z",
       "league": "Premier League"
     },
     {
-      "title": " The 5 most iconic celebrations in El Clásico history",
-      "description": "El Clásico is not a match like any other. It is a stage where legends are written as much through goals as through the way they are celebrated.From silencing gestures to shirts held up to the sky, he...",
-      "url": "https://onefootball.com/en/news/the-5-most-iconic-celebrations-in-el-clasico-history-42844550",
+      "title": "EPL: Arteta hails referees for ‘brave decision’ after Arsenal win",
+      "description": "Arsenal manager Mikel Arteta praises match officials for making a “brave decision” during the controversial win against West Ham in the Premier League.\n\nRead More: https://punchng.com/epl-arteta-hails-referees-for-brave-decision-after-arsenal-win/",
+      "url": "https://punchng.com/epl-arteta-hails-referees-for-brave-decision-after-arsenal-win/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-10T19:37:40Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Highlights: West Ham United 0-1 Arsenal",
+      "description": "Watch the best of the action from the London Stadium as we beat the Hammers to move to within two wins of the Premier League title",
+      "url": "http://www.arsenal.com/news/highlights-west-ham-united-0-1-arsenal",
+      "source": "Arsenal.com",
+      "publishedAt": "2026-05-10T19:30:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Arteta reacts to huge VAR decision in Arsenal’s tense West Ham win",
+      "description": "Mikel Arteta admitted Arsenal experienced a “big moment” after the dramatic late VAR decision which denied West Ham an equaliser during the Gunners’ tense 1-0 victory at the London Stadium. Leandro Trossard’s second-half goal appeared enough to secure the poi…",
+      "url": "https://www.justarsenal.com/arteta-reacts-to-huge-var-decision-in-arsenals-tense-west-ham-win/414985",
+      "source": "Just Arsenal News",
+      "publishedAt": "2026-05-10T19:30:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Arteta lauds \"phenomenal\" week after a big victory",
+      "description": "Mikel Arteta reflects on a brilliant few days which saw us make the Champions League final and beat West Ham United",
+      "url": "http://www.arsenal.com/news/arteta-lauds-phenomenal-week-after-big-victory",
+      "source": "Arsenal.com",
+      "publishedAt": "2026-05-10T19:21:02Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "EPL: Arsenal edge West Ham to put title within reach",
+      "description": "Arsenal cleared arguably the most dangerous remaining obstacle in their path to the Premier League title by the skin of their teeth as Leandro Trossard's late goal secured a dramatic 1-0 win at West Ham United to restore their five-point lead on Sunday.",
+      "url": "https://www.rediff.com/sports/report/english-premier-league-arsenal-two-wins-away-from-title-burnley-dent-villas-european-dreams/20260511.htm",
+      "source": "Rediff.com",
+      "publishedAt": "2026-05-10T19:12:15Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Trossard scores late as Arsenal beats West Ham, moves closer to title",
+      "description": "Winger Leandro Trossard scores the match's only goal as Arsenal survives VAR controversy to win at West Ham.",
+      "url": "https://www.aljazeera.com/sports/2026/5/10/trossard-scores-late-as-arsenal-beats-west-ham-moves-closer-to-title",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-10T19:09:39Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Rashford ends long Clásico wait in stunning style as Barça close in ",
+      "description": "Barcelona are closing in on winning their 29th La Liga title in the best possible style with a win over their fiercest rivals, Real Madrid. Marcus Rashford got the party started after just nine minut...",
+      "url": "https://onefootball.com/en/news/rashford-ends-long-clasico-wait-in-stunning-style-as-barca-close-in-42846019",
       "source": "Onefootball.com",
-      "publishedAt": "2026-05-10T14:24:00Z",
+      "publishedAt": "2026-05-10T19:38:00Z",
       "league": "La Liga"
     },
     {
-      "title": "Hansi Flick to lead Barcelona in El Clasico despite father’s death",
-      "description": "Both Barca and Real released statements ahead of the game",
-      "url": "https://www.101greatgoals.com/football/la-liga/hansi-flick-to-lead-barcelona-in-el-clasico-despite-fathers-death/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-05-10T13:33:03Z",
+      "title": "Barcelona coach Hansi Flick at title-deciding clasico after club announces death of his father",
+      "description": "Barcelona coach Hansi Flick was in the dugout for Sunday's clasico against Real Madrid following the death of his father. Barcelona is hosting Madrid at Camp Nou with the opportunity to seal a second straight Spanish league title by avoiding defeat against it…",
+      "url": "https://sports.yahoo.com/articles/barcelona-coach-hansi-flick-title-192201736.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-10T19:22:01Z",
       "league": "La Liga"
     },
     {
-      "title": "Flick to lead Barca v Real despite father's death",
-      "description": "Manager Hansi Flick will take charge of Barcelona in Sunday's El Clasico against Real Madrid despite the death of his father.",
-      "url": "https://www.bbc.com/sport/football/articles/cgepgr2nn7vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-05-10T13:07:54Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Can Marcus Rashford secure his Barcelona future with a big performance in El Clásico?",
-      "description": "Time to talk the Englishman’s last chance",
-      "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/119847/can-marcus-rashford-secure-his-barcelona-future-with-a-big-performance-in-el-clasico",
-      "source": "Barca Blaugranes",
-      "publishedAt": "2026-05-10T13:00:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Real Madrid forward Mbappé to miss El Clasico against Barcelona",
-      "description": "Real Madrid forward Kylian Mbappé will miss the Clasico against Barcelona later on Sunday. The French football star was not included in the squad list published by Madrid ahead of the match.",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260510-99-383419/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-05-10T12:53:30Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Why is Kylian Mbappe not playing for Real Madrid vs. Barcelona today?",
-      "description": "Real Madrid will be without star forward Kylian Mbappé for Sunday's Clásico against Barcelona.",
-      "url": "https://www.usatoday.com/story/sports/soccer/2026/05/10/kylian-mbappe-injury-news-real-madrid-clasico/90020301007/",
-      "source": "USA Today",
-      "publishedAt": "2026-05-10T12:23:39Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Kylian Mbappe drops out of Real Madrid squad for El Clasico",
-      "description": "Real Madrid must defeat Barcelona in Sunday’s El Clasico showdown at the Spotify Camp Nou if they are to keep the La Liga title race alive for another week, but their task won’t be easy, given the...",
-      "url": "https://www.football-espana.net/2026/05/10/kylian-mbappe-real-madrid-squad-el-clasico",
+      "title": "WATCH: Marcus Rashford strikes first blow as Barcelona lead El Clasico",
+      "description": "Barcelona only need to avoid defeat in El Clasico to wrap up their second La Liga title in a row, but they are on course to do it in style after taking the lead in the opening stages at the Spotify Ca...",
+      "url": "https://www.football-espana.net/2026/05/10/barcelona-real-madrid-la-liga-goal",
       "source": "Football Espana",
-      "publishedAt": "2026-05-10T12:05:00Z",
+      "publishedAt": "2026-05-10T19:20:00Z",
       "league": "La Liga"
     },
     {
-      "title": "Fiorentina hand full debut to 19-year-old Italy talent Braschi: Everything you need to know",
-      "description": "Fiorentina have handed a full senior debut to talented 19-year-old striker Riccardo Braschi for Sunday’s Serie A match against Genoa. Here is everything you",
-      "url": "https://football-italia.net/fiorentina-hand-debut-teenage-italy-talent/",
+      "title": "Lamine Yamal races for World Cup 2026 fitness as Barcelona and Spain strike rare workload deal",
+      "description": "Lamine Yamal is locked in a high-stakes race against time to lead Spain’s attack for the 2026 FIFA World Cup following a hamstring injury that has officially",
+      "url": "https://blazetrends.com/lamine-yamal-races-for-world-cup-2026-fitness-as-barcelona-and-spain-strike-rare-workload-deal/",
+      "source": "Blazetrends.com",
+      "publishedAt": "2026-05-10T19:16:18Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "La Liga: Barcelona’s Flick to lead team in El Clásico after father’s death Gilbert Ekugbe Barcelona coach Hansi Flick will take charge of FC Barcelona in Sunday’s El Clásico against Real Madrid CF despite the death of his father, the club confirmed. Barcelona announced the news on Sunday and said tributes would be held before kick-off at Camp Nou, including a minute’s silence and black armbands worn by players. “FC Barcelona and the entire blaugrana family wish to send all our love to Hansi Flick after the passing of his father,” the club said in a statement. “We share in your sorrow and our thoughts are with you and your family during this difficult time.” Flick, 61, has decided to remain with the team for one of the most important matches of the season as Barcelona seek to secure consecutive La Liga titles. A win or draw against Real Madrid would move the Catalan club closer to retaining the championship. The German coach has overseen a successful period since replacing Xavi in May 2024, guiding Barcelona to four trophies during his tenure. Real Madrid also paid tribute to Flick and his family ahead of the match. “Real Madrid, its president and its directors deeply regret the death of the father of Hansi Flick,” the Spanish club said. “Real Madrid wants to express its condolences and affection to their families and all their loved ones. Rest in peace.” Sunday’s El Clásico is expected to begin in an emotional atmosphere before attention turns to the latest chapter in one of football’s biggest rivalries.",
+      "description": "Barcelona coach Hansi Flick will take charge of FC Barcelona in Sunday’s El Clásico against Real Madrid CF despite the death of his father, the club confirmed. Barcelona announced the news on Sunday and said tributes would be held before kick-off at Camp Nou,…",
+      "url": "https://punchng.com/la-liga-barcelonas-flick-to-lead-team-in-el-clasico-after-fathers-death-gilbert-ekugbe-barcelona-coach-hansi-flick-will-take-charge-of-fc-barcelona-in-sundays-el-clasico-agains/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-10T19:08:36Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Madrid’s Tchouameni starts Clasico despite Valverde clash",
+      "description": "Aurelien Tchouameni starts the Clasico for Real Madrid at Barcelona despite his training ground row that left teammate Federico Valverde injured.\n\nRead More: https://punchng.com/real-madrids-tchouameni-starts-clasico-despite-valverde-clash/",
+      "url": "https://punchng.com/real-madrids-tchouameni-starts-clasico-despite-valverde-clash/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-10T18:50:45Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Parma 2-3 Roma – Dybala: ‘No contact about renewal; the derby will be my last home match’",
+      "description": "Paulo Dybala has revealed he has received no contact from Roma regarding a contract renewal, confirming that next weekend's derby against Lazio will be his",
+      "url": "https://football-italia.net/parma-2-3-roma-dybala-no-contact-about-renewal/",
       "source": "Football Italia",
-      "publishedAt": "2026-05-10T14:06:52Z",
+      "publishedAt": "2026-05-10T18:34:58Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Serie A | Parma 2-3 Roma: Malen secures incredible comeback victory",
+      "description": "Roma scraped an extraordinary 3-2 thriller at the 101st minute with a Donyell Malen penalty after Parma had turned it around to lead 2-1 at the 87th.",
+      "url": "https://football-italia.net/serie-a-parma-2-3-roma-incredible-comeback/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-10T18:05:50Z",
       "league": "Serie A"
     },
     {
@@ -89,35 +137,19 @@
       "league": "Serie A"
     },
     {
-      "title": "PHOTOS: Pope meets Inter Milan players after Serie A victory",
-      "description": "Pope Leo XIV meets Inter Milan players at the Vatican to celebrate their Serie A win, urging them to be positive role models for young people.\n\nRead More: https://punchng.com/photos-pope-meets-inter-milan-players-after-serie-a-victory/",
-      "url": "https://punchng.com/photos-pope-meets-inter-milan-players-after-serie-a-victory/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-10T06:08:47Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Osimhen’s strikes seal Turkish League for Galatasaray",
-      "description": "Victor Osimhen scores twice as Galatasaray clinches a record 26th Turkish Super Lig title with a dramatic 4-2 comeback victory over Antalyaspor.\n\nRead More: https://punchng.com/osimhens-strikes-seal-turkish-league-for-galatasaray/",
-      "url": "https://punchng.com/osimhens-strikes-seal-turkish-league-for-galatasaray/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-10T00:35:17Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Udinese's Keinan Davis alleges racist slur by Cagliari's Alberto Dossena",
-      "description": "Udinese forward Keinan Davis has accused Cagliari defender Alberto Dossena of calling him a “monkey” during Saturday’s Serie A match. Dossena denied any wrongdoing. Towards the end of Udinese’s 2-0 victory at Cagliari, Davis — who is Black — reacted angrily a…",
-      "url": "https://sports.yahoo.com/articles/udineses-keinan-davis-alleges-racist-204817237.html",
+      "title": "Europa League finalist Freiburg loses at Hamburg in Bundesliga",
+      "description": "Two goals from Igor Matanovic were not enough to stop Europa League finalist Freiburg losing 3-2 at Hamburger SV in the Bundesliga on Sunday. Bakery Jatta opened the scoring for Hamburg when he was left unmarked but Matanovic soon leveled for Freiburg. Goals …",
+      "url": "https://sports.yahoo.com/articles/europa-league-finalist-freiburg-loses-153930724.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-09T20:48:17Z",
-      "league": "Serie A"
+      "publishedAt": "2026-05-10T15:39:30Z",
+      "league": "Bundesliga"
     },
     {
-      "title": "Hearts & Celtic guaranteed Champions League qualifiers",
-      "description": "Hearts will play in the Champions League qualifiers next season for the first time in 20 years after Celtic's win over Rangers on Sunday guaranteed a top-two Scottish Premiership finish for both sides.",
-      "url": "https://www.bbc.com/sport/football/articles/c86d14qdg2po?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-05-10T14:19:39Z",
+      "title": "Como’s stunning rise: A 1-0 win at Verona seals the club’s first-ever European spot",
+      "description": "Seven years ago, Como was playing in the fourth division of Italian soccer. Como won 1-0 at Hellas Verona in Serie A on Sunday to guarantee a spot in at least the Conference League as it can't finish lower than sixth. Anastasios Douvikas scored for Como.",
+      "url": "https://sports.yahoo.com/articles/como-stunning-rise-1-0-190647694.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-10T19:06:47Z",
       "league": "Champions League"
     },
     {
@@ -127,39 +159,7 @@
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-05-10T09:50:00Z",
       "league": "MLS"
-    },
-    {
-      "title": "Lionel Messi has 3 goal contributions to become fastest to 100 as Inter Miami tops Toronto 4-2",
-      "description": "Lionel Messi had a goal and two assists to become the fastest player in MLS history to reach 100 goal contributions, and Inter Miami doubled up Toronto FC 4-2 on Saturday, upping its winning streak on the road to six. Messi’s effort gives him 59 goals and 41 …",
-      "url": "https://sports.yahoo.com/articles/lionel-messi-3-goal-contributions-195404108.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-09T19:54:04Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Toronto FC welcomes Messi's Inter Miami at new-look BMO Field in World Cup dress rehearsal",
-      "description": "An Inter Miami-Toronto FC match at the new-look BMO Field on Saturday provided a dress rehearsal for the FIFA World Cup next month.",
-      "url": "https://www.cbc.ca/sports/soccer/toronto-fc-welcomes-inter-miami-at-new-look-bmo-field-in-dress-rehearsal-for-fifa-world-cup-9.7194094",
-      "source": "CBC News",
-      "publishedAt": "2026-05-09T19:49:22Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Messi on target as Miami swat Toronto",
-      "description": "Lionel Messi scored one goal and set up two more as Inter Miami got back to winning ways with a 4-2 defeat of Toronto FC in Major League Soccer on Saturday.Miami, beaten 4-3 at home by Orlando in last week’s Florida derby, bounced back from that disappointmen…",
-      "url": "https://sports.yahoo.com/articles/messi-target-miami-swat-toronto-193749578.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-09T19:37:49Z",
-      "league": "MLS"
-    },
-    {
-      "title": "I'm looking forward to using the new Philips Hue smart light sports sync feature during the World Cup — as long as it doesn't signal goals too early",
-      "description": "Signify is giving its Philips Hue smart lights a special Sports Live feature for the duration of the World Cup 2026.",
-      "url": "https://www.techradar.com/home/smart-lights/im-looking-forward-to-using-the-new-philips-hue-smart-light-sports-sync-feature-during-the-world-cup-as-long-as-it-doesnt-signal-goals-too-early",
-      "source": "TechRadar",
-      "publishedAt": "2026-05-10T13:30:00Z",
-      "league": "World Cup"
     }
   ],
-  "generatedAt": "2026-05-11T14:38:37.967Z"
+  "generatedAt": "2026-05-11T19:41:41.069Z"
 }
