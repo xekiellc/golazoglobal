@@ -1,5 +1,36 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-05-11T19:41:41.070Z",
+  "transfers": [
+    {
+      "player": "Rashford’s El Clasico masterclass puts B",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sportsview.co.uk",
+      "url": "https://sportsview.co.uk/2026/05/rashfords-el-clasico-masterclass-puts-barcelona-future-in-spotlight-as-manchester-united-seek-permanent-exit?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rashfords-el-clasico-masterclass-puts-barcelona-future-in-spotlight-as-manchester-united-seek-permanent-exit",
+      "publishedAt": "2026-05-10T21:25:00Z"
+    },
+    {
+      "player": "Liverpool Are Keeping A Keen Eye On This",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The4thofficial.net",
+      "url": "https://the4thofficial.net/2026/05/liverpool-are-keeping-a-keen-eye-on-this-atletico-madrid-defender/",
+      "publishedAt": "2026-05-10T20:25:00Z"
+    },
+    {
+      "player": "Manchester City's Phil Foden To Sign New",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/phil-foden-makes-huge-man-city-future-decision-as-several-clubs-in-the-premier-league-and-abroad-monitor-potential-transfer-opportunity",
+      "publishedAt": "2026-05-10T20:21:30Z"
+    }
+  ],
+  "generatedAt": "2026-05-11T23:53:51.056Z",
   "note": "Transfers derived from news headlines at launch."
 }

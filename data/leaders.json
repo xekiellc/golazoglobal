@@ -38,6 +38,13 @@
           "penalties": 3
         },
         {
+          "name": "Dominic Calvert-Lewin",
+          "team": "Leeds United",
+          "goals": 13,
+          "assists": 1,
+          "penalties": 4
+        },
+        {
           "name": "Danny Welbeck",
           "team": "Brighton Hove",
           "goals": 13,
@@ -50,13 +57,6 @@
           "goals": 13,
           "assists": 5,
           "penalties": 1
-        },
-        {
-          "name": "Dominic Calvert-Lewin",
-          "team": "Leeds United",
-          "goals": 12,
-          "assists": 1,
-          "penalties": 3
         },
         {
           "name": "Eli Kroupi",
@@ -263,7 +263,7 @@
           "name": "Rasmus Højlund",
           "team": "Napoli",
           "goals": 11,
-          "assists": 3,
+          "assists": 4,
           "penalties": 1
         },
         {
@@ -325,11 +325,11 @@
           "penalties": 1
         },
         {
-          "name": "Keinan Davis",
-          "team": "Udinese",
-          "goals": 10,
+          "name": "Rasmus Højlund",
+          "team": "Napoli",
+          "goals": 11,
           "assists": 4,
-          "penalties": 4
+          "penalties": 1
         }
       ]
     },
@@ -671,16 +671,16 @@
         {
           "name": "Luis Suárez",
           "team": "Sporting CP",
-          "goals": 26,
+          "goals": 27,
           "assists": 6,
-          "penalties": 4
+          "penalties": 5
         },
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
-          "goals": 22,
+          "goals": 23,
           "assists": 3,
-          "penalties": 9
+          "penalties": 10
         },
         {
           "name": "Yanis Begraoui",
@@ -743,9 +743,9 @@
         {
           "name": "Luis Suárez",
           "team": "Sporting CP",
-          "goals": 26,
+          "goals": 27,
           "assists": 6,
-          "penalties": 4
+          "penalties": 5
         },
         {
           "name": "Pedro Gonçalves",
@@ -817,7 +817,7 @@
         {
           "name": "Joe Gelhardt",
           "team": "Hull City",
-          "goals": 14,
+          "goals": 15,
           "assists": 3,
           "penalties": 1
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-11T19:45:48.998Z"
+  "generatedAt": "2026-05-11T23:57:41.447Z"
 }
