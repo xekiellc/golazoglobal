@@ -1,5 +1,46 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-05-10T23:45:43.833Z",
+  "transfers": [
+    {
+      "player": "Luis Díaz causes surge in Bayern Munich’",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Bavarian Football Works",
+      "url": "https://www.bavarianfootballworks.com/bavarian-financial-works/200299/luis-diaz-causes-surge-in-bayenr-munichs-latam-popularity",
+      "publishedAt": "2026-05-10T07:00:00Z"
+    },
+    {
+      "player": "Bayern Munich honorary president opens u",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Madriduniversal.com",
+      "url": "https://madriduniversal.com/bayern-munich-honorary-president-opens-up-about-german-midfielders-real-madrid-move-never-earn-10-million-here/",
+      "publishedAt": "2026-05-10T06:20:00Z"
+    },
+    {
+      "player": "Report",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Strettynews.com",
+      "url": "https://strettynews.com/2026/05/10/report-man-united-leading-the-race-to-sign-25-year-old-la-liga-star-in-red-hot-form/",
+      "publishedAt": "2026-05-10T06:00:00Z"
+    },
+    {
+      "player": "Atletico Madrid optimistic over continui",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Football Espana",
+      "url": "https://www.football-espana.net/2026/05/10/atletico-madrid-optimistic-star-midfielder",
+      "publishedAt": "2026-05-10T02:10:00Z"
+    }
+  ],
+  "generatedAt": "2026-05-11T09:31:45.766Z",
   "note": "Transfers derived from news headlines at launch."
 }

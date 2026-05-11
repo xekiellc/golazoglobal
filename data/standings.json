@@ -2062,13 +2062,13 @@
         "position": 2,
         "team": "Flamengo",
         "played": 14,
-        "won": 8,
-        "drawn": 4,
+        "won": 9,
+        "drawn": 3,
         "lost": 2,
-        "goalsFor": 26,
+        "goalsFor": 27,
         "goalsAgainst": 12,
-        "goalDifference": 14,
-        "points": 28,
+        "goalDifference": 15,
+        "points": 30,
         "form": ""
       },
       {
@@ -2086,28 +2086,28 @@
       },
       {
         "position": 4,
-        "team": "Paranaense",
+        "team": "São Paulo",
         "played": 15,
         "won": 7,
         "drawn": 3,
         "lost": 5,
-        "goalsFor": 20,
-        "goalsAgainst": 15,
+        "goalsFor": 21,
+        "goalsAgainst": 16,
         "goalDifference": 5,
         "points": 24,
         "form": ""
       },
       {
         "position": 5,
-        "team": "São Paulo",
+        "team": "Paranaense",
         "played": 15,
         "won": 7,
-        "drawn": 3,
-        "lost": 5,
+        "drawn": 2,
+        "lost": 6,
         "goalsFor": 20,
         "goalsAgainst": 16,
         "goalDifference": 4,
-        "points": 24,
+        "points": 23,
         "form": ""
       },
       {
@@ -2138,6 +2138,19 @@
       },
       {
         "position": 8,
+        "team": "Vasco da Gama",
+        "played": 15,
+        "won": 5,
+        "drawn": 5,
+        "lost": 5,
+        "goalsFor": 21,
+        "goalsAgainst": 21,
+        "goalDifference": 0,
+        "points": 20,
+        "form": ""
+      },
+      {
+        "position": 9,
         "team": "Coritiba",
         "played": 15,
         "won": 5,
@@ -2150,7 +2163,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "Vitória",
         "played": 14,
         "won": 5,
@@ -2163,7 +2176,7 @@
         "form": ""
       },
       {
-        "position": 10,
+        "position": 11,
         "team": "Cruzeiro",
         "played": 15,
         "won": 5,
@@ -2176,7 +2189,7 @@
         "form": ""
       },
       {
-        "position": 11,
+        "position": 12,
         "team": "Botafogo",
         "played": 14,
         "won": 5,
@@ -2189,7 +2202,7 @@
         "form": ""
       },
       {
-        "position": 12,
+        "position": 13,
         "team": "Mineiro",
         "played": 15,
         "won": 5,
@@ -2202,7 +2215,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Internacional",
         "played": 15,
         "won": 4,
@@ -2215,7 +2228,7 @@
         "form": ""
       },
       {
-        "position": 14,
+        "position": 15,
         "team": "Santos",
         "played": 15,
         "won": 4,
@@ -2228,42 +2241,29 @@
         "form": ""
       },
       {
-        "position": 15,
-        "team": "Vasco da Gama",
-        "played": 15,
-        "won": 4,
-        "drawn": 6,
-        "lost": 5,
-        "goalsFor": 20,
-        "goalsAgainst": 21,
-        "goalDifference": -1,
-        "points": 18,
-        "form": ""
-      },
-      {
         "position": 16,
-        "team": "Grêmio",
-        "played": 15,
-        "won": 4,
-        "drawn": 6,
-        "lost": 5,
-        "goalsFor": 15,
-        "goalsAgainst": 16,
-        "goalDifference": -1,
-        "points": 18,
-        "form": ""
-      },
-      {
-        "position": 17,
         "team": "Corinthians",
         "played": 15,
         "won": 4,
         "drawn": 6,
         "lost": 5,
         "goalsFor": 13,
-        "goalsAgainst": 14,
-        "goalDifference": -1,
+        "goalsAgainst": 15,
+        "goalDifference": -2,
         "points": 18,
+        "form": ""
+      },
+      {
+        "position": 17,
+        "team": "Grêmio",
+        "played": 15,
+        "won": 4,
+        "drawn": 5,
+        "lost": 6,
+        "goalsFor": 15,
+        "goalsAgainst": 17,
+        "goalDifference": -2,
+        "points": 17,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-10T23:48:11.056Z"
+  "generatedAt": "2026-05-11T09:34:14.629Z"
 }
