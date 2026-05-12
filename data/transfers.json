@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Fabrizio Romano Making Daily World Cup S",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/05/fabrizio-romano-making-daily-world-cup-soccer-show-x-1236887899/",
-      "publishedAt": "2026-05-11T08:00:00Z"
-    }
-  ],
-  "generatedAt": "2026-05-12T08:33:03.905Z",
+  "transfers": [],
+  "generatedAt": "2026-05-12T14:09:51.595Z",
   "note": "Transfers derived from news headlines at launch."
 }
