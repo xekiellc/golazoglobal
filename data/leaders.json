@@ -170,17 +170,17 @@
           "penalties": 7
         },
         {
+          "name": "Alexander Sørloth",
+          "team": "Atleti",
+          "goals": 13,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Robert Lewandowski",
           "team": "Barça",
           "goals": 13,
           "assists": 2,
-          "penalties": 1
-        },
-        {
-          "name": "Toni Martínez",
-          "team": "Alavés",
-          "goals": 12,
-          "assists": 3,
           "penalties": 1
         }
       ],
@@ -214,11 +214,11 @@
           "penalties": 7
         },
         {
-          "name": "Toni Martínez",
-          "team": "Alavés",
-          "goals": 12,
-          "assists": 3,
-          "penalties": 1
+          "name": "Ferrán Torres",
+          "team": "Barça",
+          "goals": 16,
+          "assists": 2,
+          "penalties": 0
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-12T19:47:27.343Z"
+  "generatedAt": "2026-05-12T23:59:52.807Z"
 }

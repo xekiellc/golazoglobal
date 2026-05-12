@@ -1,24 +1,6 @@
 {
   "matches": [
     {
-      "league": "PD",
-      "homeTeam": "Real Betis",
-      "awayTeam": "Elche",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-12T18:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Osasuna",
-      "awayTeam": "Atleti",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-12T19:30:00Z"
-    },
-    {
       "league": "PL",
       "homeTeam": "Tottenham",
       "awayTeam": "Leeds United",
@@ -44,6 +26,24 @@
       "awayScore": 3,
       "status": "FINISHED",
       "utcDate": "2026-05-12T17:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Elche",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-05-12T18:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Osasuna",
+      "awayTeam": "Atleti",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-05-12T19:30:00Z"
     },
     {
       "league": "SA",
@@ -136,5 +136,5 @@
       "utcDate": "2026-05-12T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-12T19:45:07.844Z"
+  "generatedAt": "2026-05-12T23:57:30.280Z"
 }
