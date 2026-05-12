@@ -1,6 +1,24 @@
 {
   "matches": [
     {
+      "league": "PD",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Elche",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-12T18:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Osasuna",
+      "awayTeam": "Atleti",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-12T19:30:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Tottenham",
       "awayTeam": "Leeds United",
@@ -17,6 +35,15 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-05-11T19:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Celta",
+      "awayTeam": "Levante",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-05-12T17:00:00Z"
     },
     {
       "league": "SA",
@@ -107,34 +134,7 @@
       "awayScore": null,
       "status": "SCHEDULED",
       "utcDate": "2026-05-12T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Celta",
-      "awayTeam": "Levante",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-12T17:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Real Betis",
-      "awayTeam": "Elche",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-12T18:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Osasuna",
-      "awayTeam": "Atleti",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-12T19:30:00Z"
     }
   ],
-  "generatedAt": "2026-05-12T14:11:15.372Z"
+  "generatedAt": "2026-05-12T19:45:07.844Z"
 }

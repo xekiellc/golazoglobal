@@ -1,76 +1,52 @@
 {
   "articles": [
     {
-      "title": "Japan Waits on Star Forward Mitoma's Fitness For 2026 World Cup After Injury",
-      "description": "Japan coach Hajime Moriyasu has an anxious wait on the fitness of star forward Kaoru Mitoma before naming a World Cup squad Friday.",
-      "url": "https://www.foxsports.com/stories/soccer/japan-2026-fifa-world-cup-karou-mitoma-injury",
-      "source": "Fox Sports",
-      "publishedAt": "2026-05-11T13:44:11Z",
+      "title": "Liverpool and USMNT prospect Keyrol Figueroa switches to Honduras",
+      "description": "Liverpool teenager Keyrol Figueroa has confirmed he is changing his international allegiance from the United States to Honduras.",
+      "url": "https://www.usatoday.com/story/sports/soccer/usmnt/2026/05/11/keyrol-figueroa-honduras-switch-usa-liverpool/90031870007/",
+      "source": "USA Today",
+      "publishedAt": "2026-05-11T19:17:58Z",
       "league": "Premier League"
     },
     {
-      "title": "Watch: PSG manager erupts with joy after Barcelona’s El Clasico win and La Liga title triumph",
-      "description": "Barcelona stormed to a 2-0 win over Real Madrid last night at the Spotify Camp Nou, sealing their place as league champions for the ongoing season in the process.The match, for the most part, was a on...",
-      "url": "https://barcauniversal.com/watch-psg-manager-erupts-with-joy-after-barcelonas-el-clasico-win-and-la-liga-title-triumph/",
-      "source": "Barcauniversal.com",
-      "publishedAt": "2026-05-11T13:40:00Z",
+      "title": "Official: Real Madrid star undergoes surgery",
+      "description": "La Liga giants Real Madrid have on Monday announced that defensive star Ferland Mendy has undergone a successful surgical procedure.This comes after the Frenchman was condemned to a fresh spell on the...",
+      "url": "https://getfootballnewsspain.com/official-real-madrid-star-undergoes-surgery/",
+      "source": "Getfootballnewsspain.com",
+      "publishedAt": "2026-05-11T19:35:00Z",
       "league": "La Liga"
     },
     {
-      "title": "‘Barca is the best team in the world’ - Simeone hails Flick’s side after La Liga triumph",
-      "description": "The Catalans are champions again.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8a66783a-e8a9-48d8-a9d4-ae5bbc91d5b2",
+      "title": "Watched by its grieving coach, Barcelona retains Spanish league title by beating rival Real Madrid",
+      "description": "Goals by Marcus Rashford in the ninth minute and Ferran Torres in the 18th gave Barcelona the victory and an insurmountable 14-point advantage over its fierce rival with three rounds remaining in La Liga. Barcelona coach Hansi Flick was in the dugout for Sund…",
+      "url": "https://economictimes.indiatimes.com/news/sports/watched-by-its-grieving-coach-barcelona-retains-spanish-league-title-by-beating-rival-real-madrid/articleshow/131022985.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-11T19:17:53Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "USMNT's Johnny Cardoso to undergo ankle surgery, all but certain to miss World Cup",
+      "description": "Even if healthy, Cardoso was not certain of making Mauricio Pochettino’s 26-man U.S. squad.",
+      "url": "https://sports.yahoo.com/soccer/article/usmnts-johnny-cardoso-to-undergo-ankle-surgery-all-but-certain-to-miss-world-cup-191611541.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-11T13:39:50Z",
+      "publishedAt": "2026-05-11T19:16:11Z",
       "league": "La Liga"
     },
     {
-      "title": "Barcelona fans celebrate winning La Liga title in El Clasico",
-      "description": "Barcelona's inner city turned into a huge street party after the club beat Real Madrid to win their 29th league title.",
-      "url": "https://www.aljazeera.com/sports/2026/5/11/barcelona-fans-celebrate-winning-la-liga-title-in-el-clasico",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-11T13:30:40Z",
+      "title": "USMNT midfielder Johnny Cardoso needs ankle surgery, likely out for World Cup",
+      "description": "United States midfielder Johnny Cardoso will require surgery after suffering an ankle injury in Atletico Madrid training, the club confirmed.",
+      "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/05/11/johnny-cardoso-injury-update-ankle-surgery-usmnt/90031471007/",
+      "source": "USA Today",
+      "publishedAt": "2026-05-11T18:14:23Z",
       "league": "La Liga"
     },
     {
-      "title": "Real Madrid still have one major objective left after El Clasico humiliation",
-      "description": "The mood around Real Madrid could hardly be lower after their defeat to Barcelona officially handed the La Liga title to their biggest rivals.A 0-2 loss in El Clasico at Spotify Camp Nou not only ende...",
-      "url": "https://madriduniversal.com/real-madrid-still-have-one-major-objective-left-after-el-clasico-humiliation/",
-      "source": "Madriduniversal.com",
-      "publishedAt": "2026-05-11T13:30:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Nico Williams suffers ‘moderate’ hamstring injury to join Lamine Yamal on the sidelines in pre-World Cup worry for Spain",
-      "description": "Spain have concerns over their two first-choice wingers ahead of the World Cup",
-      "url": "https://www.101greatgoals.com/football/world-cup-news/nico-williams-suffers-moderate-hamstring-injury-lamine-yamal-pre-world-cup-worry-for-spain/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-05-11T13:25:30Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Marcus Rashford discusses his future after helping Barcelona secure league title",
-      "description": "Marcus Rashford suggested he would be keen to stay at Barcelona beyond this season after helping the club to back-to-back La Liga titles.Rashford scored as Barcelona beat fierce rivals Real Madrid 2-0...",
-      "url": "https://hayters.com/marcus-rashford-discusses-his-future-after-helping-barcelona-secure-league-title/",
-      "source": "Hayters.com",
-      "publishedAt": "2026-05-11T13:05:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Florentino Perez ready to make key Real Madrid managerial decisions",
-      "description": "Real Madrid saw their dismal season come to an end on Sunday, as the 2-0 El Clasico defeat to Barcelona officially ended their La Liga title chances. They have nothing to play for in their final three...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_07caf343-a844-4dbc-af03-13b9a5081257",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-11T13:05:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Barcelona veteran leaves the door open for exit after season ends – ‘I’m not ruling it out’",
-      "description": "Robert Lewandowski enjoyed the La Liga title celebrations with his family after FC Barcelona’s win against Real Madrid. His reactions on the night were closely watched for any hint that he might be ...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d10de7f3-26e9-4c5a-9648-acb8c74374a6",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-11T12:40:00Z",
-      "league": "La Liga"
+      "title": "40-year-old Džeko leads Bosnia and Herzegovina’s World Cup squad",
+      "description": "Sergej Barbarez’s Bosnia and Herzegovina became the first team to nominate the full squad for the 2026 World Cup. Schalke’s 40-year-old striker Edin Džeko will be the captain for the side coached...",
+      "url": "https://bulinews.com/40-year-old-dzeko-leads-bosnia-and-herzegovina-world-cup-squad",
+      "source": "Bulinews.com",
+      "publishedAt": "2026-05-11T18:17:00Z",
+      "league": "Bundesliga"
     },
     {
       "title": "Bundesliga trio included in Argentina's preliminary World Cup squad",
@@ -81,28 +57,68 @@
       "league": "Bundesliga"
     },
     {
-      "title": "German referee Siebert to officiate Champions League final",
-      "description": "German referee Daniel Siebert will officiate the Champions League final between defending champions Paris Saint-Germain and Arsenal, European ruling body UEFA said on Monday. Siebert refereed nine matches in this season's tournament, including the quarter-fin…",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260511-99-393472/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-05-11T14:08:31Z",
+      "title": "When is France World Cup roster announcement? Date, time of Didier Deschamps' Les Bleus squad reveal",
+      "description": "France have reached two consecutive World Cup finals and will be aiming for another in 2026.",
+      "url": "https://www.sportingnews.com/us/soccer/news/france-world-cup-roster-announcement-date-time-squad/796576b65dd42e896dee7c23",
+      "source": "Sporting News",
+      "publishedAt": "2026-05-11T19:30:02Z",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "James Rodríguez shuts down retirement talk after 2026 World Cup: ‘I have a couple of years left’",
+      "description": "Following his limited role at Minnesota United, rumors about James Rodríguez retiring after the 2026 World Cup with Colombia began to gain momentum. Nevertheless, the 34-year-old star has decided to deny those rumors, making it clear that he still has several…",
+      "url": "https://worldsoccertalk.com/world-cup/james-rodriguez-shuts-down-retirement-talk-after-2026-world-cup-i-have-a-couple-of-years-left/",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-05-11T19:32:00Z",
       "league": "Champions League"
     },
     {
-      "title": "Germany's Siebert to referee Champions League final",
-      "description": "May 11 : Germany's Daniel Siebert, who officiated the second leg of Arsenal's Champions League semi-final against Atletico Madrid, will be the referee when the English side take on holders Paris St Germain in the final on May 30, UEFA said on Monday.Francois …",
-      "url": "https://www.channelnewsasia.com/sport/germanys-siebert-referee-champions-league-final-6113911",
-      "source": "CNA",
-      "publishedAt": "2026-05-11T13:51:36Z",
+      "title": "USA Midfielder Johnny Cardoso To Miss World Cup Due To Ankle Surgery",
+      "description": "United States midfielder Johnny Cardoso is set to miss the World Cup because of a right ankle injury that requires surgery.",
+      "url": "https://www.foxsports.com/stories/soccer/us-midfielder-cardoso-set-to-miss-the-world-cup-because-of-ankle-surgery",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-11T18:51:19Z",
       "league": "Champions League"
     },
     {
-      "title": "German referee Siebert gets Arsenal-PSG in Champions League final after missing out on World Cup",
-      "description": "German referee Daniel Siebert was picked Monday by UEFA for the Champions League final after FIFA left him off its World Cup list. The game between Arsenal and Paris Saint-Germain on May 30 at Puskas Arena in Budapest will be Siebert’s 10th in the Champions L…",
-      "url": "https://sports.yahoo.com/articles/german-referee-siebert-gets-arsenal-133927457.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-11T13:39:27Z",
+      "title": "USMNT’s Johnny Cardoso out for World Cup in brutal injury blow",
+      "description": "The U.S. men's national team is down a midfielder for the World Cup.",
+      "url": "https://nypost.com/2026/05/11/sports/usmnts-johnny-cardoso-out-for-world-cup-in-brutal-injury-blow/",
+      "source": "New York Post",
+      "publishedAt": "2026-05-11T18:49:42Z",
       "league": "Champions League"
+    },
+    {
+      "title": "Victoria Pelova to depart Arsenal",
+      "description": "Victoria Pelova will leave Arsenal when her contract expires at the end of the 2025/26 campaign",
+      "url": "http://www.arsenal.com/news/victoria-pelova-depart-arsenal",
+      "source": "Arsenal.com",
+      "publishedAt": "2026-05-11T08:58:02Z",
+      "league": "Eredivisie"
+    },
+    {
+      "title": "Barcelona defender achieves incredible feat no other player in world football has managed",
+      "description": "Joao Cancelo added a historic achievement to his career after helping Barcelona win the La Liga title against Real Madrid in El Clasico.As such, the Portuguese defender has now entered an exclusive ca...",
+      "url": "https://barcauniversal.com/barcelona-defender-achieves-incredible-feat-no-other-player-in-world-football-has-managed/",
+      "source": "Barcauniversal.com",
+      "publishedAt": "2026-05-11T08:00:00Z",
+      "league": "Primeira Liga"
+    },
+    {
+      "title": "Joao Cancelo makes history: first player to win four of the five main European leagues after La Liga title with Barcelona",
+      "description": "Joao Cancelo has made history after Barcelona were crowned as La Liga champions on Sunday night.The full-back has become the first player in history to have won four of Europe's top-five leagues, afte...",
+      "url": "https://www.footballmuse.com/news/joao-cancelo-makes-history-first-player-to-win-four-of-the-five-main-european-leagues-after-la-liga-title-with-barcelona",
+      "source": "Footballmuse.com",
+      "publishedAt": "2026-05-11T07:20:00Z",
+      "league": "Primeira Liga"
+    },
+    {
+      "title": "James Rodriguez dismisses retirement rumors, saying reports were to 'get likes'",
+      "description": "After his best showing in MLS, Colombia star James Rodriguez confirmed his plans in the near-term and long-term, with retirement not figuring in yet.",
+      "url": "https://www.usatoday.com/story/sports/soccer/2026/05/10/james-rodriguez-retirement-colombia-national-team-world-cup/90024759007/",
+      "source": "USA Today",
+      "publishedAt": "2026-05-11T02:57:20Z",
+      "league": "MLS"
     },
     {
       "title": "FIFA to give debut patches to first-time World Cup players",
@@ -121,6 +137,14 @@
       "league": "MLS"
     },
     {
+      "title": "World Cup debutants to wear collectable patches on shirts",
+      "description": "All players who make their first tournament appearance at this summer's Fifa World Cup will wear a debut patch on their shirts.",
+      "url": "https://www.bbc.com/sport/football/articles/cqjp7enez4yo",
+      "source": "BBC News",
+      "publishedAt": "2026-05-10T16:35:19Z",
+      "league": "MLS"
+    },
+    {
       "title": "Messi reaches 100 MLS goals+assists for Inter Miami, smashing league record by 31 games",
       "description": "Lionel Messi has obliterated the Major League Soccer record as the fastest player to reach 100 regular-season goals and assists.TheInter Miami superstar brought up a century of goal involvements durin...",
       "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_81f33791-1735-43e5-98d9-67548be12b29",
@@ -129,37 +153,13 @@
       "league": "MLS"
     },
     {
-      "title": "Leonardo: No algorithm can replace Maldini at Milan: ‘It hurts’",
-      "description": "Former Milan star and director Leonardo is 'hurt' that Paolo Maldini is no longer at Milan, insisting that the Rossoneri legend 'can't be replaced' by an",
-      "url": "https://football-italia.net/leonardo-no-algorithm-replace-maldini-milan/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-11T12:13:20Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Crisis club Milan's Champions League return at risk, Como in Europe",
-      "description": "AC Milan slumped into a full-blown crisis on Sunday after a 3-2 home defeat to Atalanta put their Champions League return at risk, while Como qualified for Europe for the first time.Defeat capped an awful day for Milan whose key rivals for a Champions League …",
-      "url": "https://sports.yahoo.com/articles/crisis-club-milans-champions-league-210441963.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-10T21:04:41Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Goretzka set for Bayern farewell party before AC Milan move",
-      "description": "Departing Bayern Munich midfielder Leon Goretzka has opted for a move to AC Milan over Juventus, according to AZ.The German international, whose contract with FC Bayern expires this summer, is expecte...",
-      "url": "https://bulinews.com/goretzka-set-for-bayern-farewell-party-before-milan-move",
-      "source": "Bulinews.com",
-      "publishedAt": "2026-05-11T09:26:00Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "PSG all but secure Ligue 1 title with two games to spare",
-      "description": "Paris Saint-Germain effectively wrapped up another Ligue 1 title on Sunday as a 1-0 win over Brest left them six points clear of nearest rivals Lens with two games remaining, with Luis Enrique's side also boasting a superior goal difference.Behind them, their…",
-      "url": "https://sports.yahoo.com/articles/psg-secure-ligue-1-title-220228495.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-10T22:02:28Z",
-      "league": "Ligue 1"
+      "title": "Invincible but without a title? Benfica two games away from repeating a historic feat and reliving old pain",
+      "description": "Benfica will complete an invincible season if they avoid defeat against Braga on Monday night and against Estoril Praia on the Primeira Liga's final day.Jose Mourinho's side are two games from complet...",
+      "url": "https://www.footballmuse.com/features/invincible-but-without-a-title-benfica-two-games-away-from-repeating-a-historic-feat-and-reliving-old-pain",
+      "source": "Footballmuse.com",
+      "publishedAt": "2026-05-10T11:55:00Z",
+      "league": "Primeira Liga"
     }
   ],
-  "generatedAt": "2026-05-12T14:09:51.595Z"
+  "generatedAt": "2026-05-12T19:43:43.265Z"
 }
