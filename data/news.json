@@ -1,28 +1,100 @@
 {
   "articles": [
     {
-      "title": "Manchester City vs Crystal Palace – Predicted lineup and team news",
-      "description": "Manchester City host Crystal Palace in the Premier League tonight aiming to keep their title dream alive.Anything but maximum points will leave Pep Guardiola’s side up against it, with Arsenal curre...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6af8bda1-8f90-4bba-ac46-2042bbb5c6b5",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-13T08:30:00Z",
+      "title": "EPL: Carrick set to be recommended as Man United manager — Report",
+      "description": "Man United interim coach Michael Carrick is reportedly the top candidate to become the club’s permanent manager after an impressive run as caretaker.\n\nRead More: https://punchng.com/epl-carrick-set-to-be-recommended-as-man-united-manager-report/",
+      "url": "https://punchng.com/epl-carrick-set-to-be-recommended-as-man-united-manager-report/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-13T13:51:43Z",
       "league": "Premier League"
     },
     {
-      "title": "Crystal Palace vs Manchester City – Predicted lineup and team news",
-      "description": "Crystal Palace head to the Etihad this evening to take on title-chasing Manchester City.Oliver Glasner’s side have endured an underwhelming Premier League campaign, but progress to the Europa Confer...",
-      "url": "https://thefootballfaithful.com/crystal-palace-vs-manchester-city-predicted-lineup-and-team-news-2/",
-      "source": "The Football Faithful",
-      "publishedAt": "2026-05-13T08:30:00Z",
+      "title": "Report: Chelsea have held talks with three managers",
+      "description": "Xabi Alonso to Chelsea, Blues Begin Ambitious Head Coach SearchChelsea Open Talks With AlonsoChelsea’s search for permanence has begun with a name that carries weight, glamour and risk according to ...",
+      "url": "https://eplindex.com/146361/report-chelsea-have-held-talks-with-three-managers.html",
+      "source": "English Premier League Index - Opta Stats",
+      "publishedAt": "2026-05-13T13:50:00Z",
       "league": "Premier League"
     },
     {
-      "title": "“There is a chance” – Pep Guardiola makes Rodri fitness admission ahead of FIFA World Cup",
-      "description": "Pep says Man City are better with Rodri but that Kovacic, Nico & Bernardo as capable deputiesMan City boss insists 2024-25 woes weren’t solely down to Rodri’s absence Catalan is confident Rodri wi...",
-      "url": "https://cityxtra.co.uk/46317/there-is-a-chance-pep-guardiola-makes-rodri-fitness-admission-ahead-of-fifa-world-cup/",
+      "title": "United to open talks with Carrick over permanent role",
+      "description": "Manchester United are set to speak to Michael Carrick about staying in charge beyond the end of the season, it's understood.",
+      "url": "https://www.rte.ie/sport/soccer/2026/0513/1573169-united-to-open-talks-with-carrick-over-permanent-role/",
+      "source": "RTE",
+      "publishedAt": "2026-05-13T13:44:10Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "FIFA set to drop solo player walkouts for 2026 World Cup, exploring fresh pre-match entry format instead",
+      "description": "FIFA are set to abandon the single-player walk outs seen at last summer's Club World Cup at the 2026 World Cup.FIFA trialled the walkout format during last summer's Club World Cup in the United States...",
+      "url": "https://www.footballmuse.com/news/fifa-set-to-drop-solo-player-walkouts-for-2026-world-cup-exploring-fresh-pre-match-entry-format-instead",
+      "source": "Footballmuse.com",
+      "publishedAt": "2026-05-13T13:25:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Mourinho rumours continue as Madrid president calls press conference",
+      "description": "Real Madrid president Florentino Perez will address the media on Tuesday evening amid reports Jose Mourinho has agreed to return to the club as head coach. The Portuguese is reported to have struck a deal with the Spanish club’s management, with Perez said to…",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260512-99-404728/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-05-13T13:08:59Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Manchester City nearing contract renewal for Rodri to fend off Real Madrid interest",
+      "description": "Manchester City are pressing ahead with plans to secure Rodri to a new contract, determined to remove any possibility of losing arguably the world’s finest defensive midfielder to Real Madrid.City o...",
+      "url": "https://sportsview.co.uk/2026/05/manchester-city-nearing-contract-renewal-for-rodri-to-fend-off-real-madrid-interest?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=manchester-city-nearing-contract-renewal-for-rodri-to-fend-off-real-madrid-interest",
+      "source": "Sportsview.co.uk",
+      "publishedAt": "2026-05-13T12:20:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Mbappe can show ‘commitment’ to Real Madrid – Arbeloa",
+      "description": "Real Madrid coach Alvaro Arbeloa calls on Kylian Mbappe to demonstrate his commitment to the club amid criticism from fans during the final matches.\n\nRead More: https://punchng.com/mbappe-can-show-commitment-to-real-madrid-arbeloa/",
+      "url": "https://punchng.com/mbappe-can-show-commitment-to-real-madrid-arbeloa/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-13T11:55:12Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Is Mourinho returning to Real Madrid?",
+      "description": "Real Madrid president Florentino Perez rejected resignation rumours, addressed Jose Mourinho speculation and defended his leadership after a chaotic, trophyless season for the Spanish giants.",
+      "url": "https://www.rediff.com/sports/report/is-mourinho-returning-to-real-madrid-perez-opens-up/20260513.htm",
+      "source": "Rediff.com",
+      "publishedAt": "2026-05-13T11:37:17Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Atlético Madrid leading the race for out-of-contract Dortmund star Julian Brandt",
+      "description": "It has already been confirmed that Julian Brandt will leave Borussia Dortmund when his contract expires this summer – but his next destination remains unclear.According to Sport Bild, Atlético Madr...",
+      "url": "https://bulinews.com/atletico-madrid-leading-the-race-for-out-contract-dortmund-star-julian-brandt",
+      "source": "Bulinews.com",
+      "publishedAt": "2026-05-13T11:25:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Rodri moves closer to bumper Manchester City contract extension",
+      "description": "Manchester City are reportedly advancing in their efforts towards securing a long-term future for Rodri, fending off lingering interest from La Liga giants.Despite Real Madrid’s admiration for the S...",
+      "url": "https://cityxtra.co.uk/46344/rodri-moves-closer-to-bumper-manchester-city-contract-extension/",
       "source": "Cityxtra.co.uk",
-      "publishedAt": "2026-05-13T08:30:00Z",
-      "league": "Premier League"
+      "publishedAt": "2026-05-13T10:55:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Barcelona veteran close to summer exit with Saudi Arabia emerging as likely destination",
+      "description": "In a major development, Polish journalist Tomasz Wodarczyk reports that Robert Lewandowski is close to deciding to leave FC Barcelona at the end of the season.The journalist, who is considered someone...",
+      "url": "https://barcauniversal.com/barcelona-veteran-close-to-summer-exit-with-saudi-arabia-emerging-as-likely-destination/",
+      "source": "Barcauniversal.com",
+      "publishedAt": "2026-05-13T10:30:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Strahinja Pavlovic: Man United prepared to win race for AC Milan titan",
+      "description": "Manchester United are ready to ramp up their pursuit of AC Milan colossus Strahinja Pavlovic, according to the latest report from Italy.Serbian MonsterThe Red Devils are on the hunt for defensive rein...",
+      "url": "https://thepeoplesperson.com/2026/05/13/strahinja-pavlovic-man-united-prepared-to-win-race-for-ac-milan-titan-310019/",
+      "source": "The Peoples Person",
+      "publishedAt": "2026-05-13T12:20:00Z",
+      "league": "Serie A"
     },
     {
       "title": "Coppa Italia final: Lazio vs. Inter – Probable line-ups and where to watch on TV",
@@ -30,55 +102,7 @@
       "url": "https://football-italia.net/lazio-inter-coppa-final-probable-line-ups/",
       "source": "Football Italia",
       "publishedAt": "2026-05-13T08:22:41Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "EPL: VAR is a ‘flip of a coin’,” says Guardiola",
-      "description": "Man City coach Pep Guardiola criticizes VAR, calling decisions a ‘flip of a coin’ and insisting teams cannot rely on consistent outcomes from it.\n\nRead More: https://punchng.com/epl-var-is-a-flip-of-a-coin-says-guardiola/",
-      "url": "https://punchng.com/epl-var-is-a-flip-of-a-coin-says-guardiola/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-13T08:21:04Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Kobbie Mainoo: Casemiro opens up on mentoring Man United ace",
-      "description": "Manchester United have uncovered a winning midfield combination in Casemiro and Kobbie Mainoo in recent months. Paired in the middle of the park by caretaker manager Michael Carrick, the Red Devils ha...",
-      "url": "https://thepeoplesperson.com/2026/05/13/kobbie-mainoo-casemiro-opens-up-on-mentoring-man-united-ace-310006/",
-      "source": "The Peoples Person",
-      "publishedAt": "2026-05-13T08:05:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Sky Sports: Man Utd Target Two Midfielders in Huge Summer Shake-Up",
-      "description": "Man Utd Transfer News: Midfield Search IntensifiesManchester United’s summer rebuild already has a familiar theme: midfield control. Sky Sports report that United have stepped up interest in Atalant...",
-      "url": "https://eplindex.com/146348/sky-sports-man-utd-target-two-midfielders-in-huge-summer-shake-up.html",
-      "source": "English Premier League Index - Opta Stats",
-      "publishedAt": "2026-05-13T07:50:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Luis Enrique approves PSG’s plans to hijack Arsenal transfer",
-      "description": "Paris Saint-Germain are reportedly preparing to rival Arsenal for the signing of Julian Alvarez after receiving approval from manager Luis Enrique to pursue the attacker. Alvarez has established himself as one of the finest forwards in world football over rec…",
-      "url": "https://www.justarsenal.com/luis-enrique-approves-psgs-plans-to-hijack-arsenal-transfer/415109",
-      "source": "Just Arsenal News",
-      "publishedAt": "2026-05-13T08:00:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "La Liga take action after ugly chants aimed at Vinicius and Real Madrid during El Clasico",
-      "description": "The latest edition of El Clasico between Barcelona and Real Madrid has once again generated controversy away from the football pitch after La Liga denounced several offensive chants heard during the m...",
-      "url": "https://madriduniversal.com/la-liga-take-action-after-ugly-chants-aimed-at-vinicius-and-real-madrid-during-el-clasico/",
-      "source": "Madriduniversal.com",
-      "publishedAt": "2026-05-13T07:25:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "La Liga president accuses Florentino Perez of ‘lying’ in explosive rant: ‘It’s sad that a man like him…’",
-      "description": "The relationship between Javier Tebas and Florentino Perez has once again descended into open conflict after the La Liga chief launched a strong public attack on the Real Madrid president during an ev...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_71a86922-c6d4-4c3a-9a73-f58892fc26ce",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-13T06:45:00Z",
-      "league": "La Liga"
+      "league": "Serie A"
     },
     {
       "title": "Inside France's World Cup roster 2026: Mbappe, Dembele set to lead squad list for Deschamps' final bid for glory",
@@ -86,46 +110,6 @@
       "url": "https://www.sportingnews.com/us/soccer/news/france-world-cup-roster-2026-squad-players/636c531ff725c0cb921abfc4",
       "source": "Sporting News",
       "publishedAt": "2026-05-13T06:00:02Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Real Betis seal Champions League return after 20 years",
-      "description": "Real Betis manager Manuel Pellegrini celebrated the club's return to the Champions League after 20 years following a 2-1 win over Elche that secured a top-five finish in La Liga.",
-      "url": "https://www.rediff.com/sports/report/real-betis-seal-champions-league-return-after-20-years/20260513.htm",
-      "source": "Rediff.com",
-      "publishedAt": "2026-05-13T04:11:13Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "La Liga Round-Up: Real Betis return to Champions League after 21 years",
-      "description": "With just three games to go, La Liga kicked off Matchday 35 with some thrilling encounters on Tuesday night, with major wins for Levante and Real Betis.Celta Vigo 2-3 Levante: Luis Castro march contin...",
-      "url": "https://www.football-espana.net/2026/05/13/la-liga-round-up-real-betis-return-to-champions-league-after-21-years",
-      "source": "Football Espana",
-      "publishedAt": "2026-05-13T03:00:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Lookman seals UCL spot for Atletico",
-      "description": "Ademola Lookman scores a decisive penalty to secure a 2-1 win for Atletico Madrid over Osasuna, guaranteeing their spot in the Champions League.\n\nRead More: https://punchng.com/lookman-seals-ucl-spot-for-atletico/",
-      "url": "https://punchng.com/lookman-seals-ucl-spot-for-atletico/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-13T02:52:11Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Hansi Flick leaves Robert Lewandowski’s Barcelona future unclear: ‘Things are what they are’",
-      "description": "Hansi Flick wasn't very certain about Robert Lewandowski's future with Barcelona. The trophy already has a name on it, as Barcelona won La Liga after their El Clásico win over Real Madrid with three matches left. However, there are still things to play for. I…",
-      "url": "https://worldsoccertalk.com/news/hansi-flick-leaves-robert-lewandowskis-barcelona-future-unclear-things-are-what-they-are/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-05-13T02:47:11Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Barcelona target Alessandro Bastoni receives emotional message from Inter Milan great",
-      "description": "The future of Alessandro Bastoni continues to dominate headlines in Italy, and now another legendary figure from Inter Milan has stepped forward to share his thoughts on the defender’s situation ami...",
-      "url": "https://barcauniversal.com/barcelona-target-alessandro-bastoni-receives-emotional-message-from-inter-milan-great/",
-      "source": "Barcauniversal.com",
-      "publishedAt": "2026-05-13T08:20:00Z",
       "league": "Serie A"
     },
     {
@@ -137,29 +121,45 @@
       "league": "Serie A"
     },
     {
-      "title": "Chivu previews Lazio vs. Inter Coppa Italia final: ‘Winning doesn’t change a thing’",
-      "description": "Cristian Chivu says that he wants his Inter players to go out and have fun during Wednesday night’s Coppa Italia final against Lazio, but insists that winning",
-      "url": "https://football-italia.net/chivu-previews-lazio-inter-coppa-italia-final/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-12T18:08:55Z",
-      "league": "Serie A"
+      "title": "Report: Goalkeeper Neuer agrees on new contract with Bayern Munich",
+      "description": "Captain Manuel Neuer has agreed on a new contract with Bundesliga champions Bayern Munich, broadcaster Sky said on Tuesday. According to the report, both parties cleared all the details and the goalkeeper will sign a new deal until June 2027.",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260513-99-412928/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-05-13T09:09:25Z",
+      "league": "Bundesliga"
     },
     {
-      "title": "Furlani, Tare, Ibrahimovic and Moncada futures called into question amid Milan crisis",
-      "description": "Reports in Italy indicate that the futures of Milan executives Giorgio Furlani, Igli Tare, Zlatan Ibrahimovic and Geoffrey Moncada are all in doubt as the",
-      "url": "https://football-italia.net/milan-directors-futures-called-into-question/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-12T14:29:55Z",
-      "league": "Serie A"
+      "title": "Arsenal is inspiring PSG’s training method for the Champions League final",
+      "description": "Arsenal will face Paris Saint-Germain in the Champions League final, with both clubs aiming to complete a domestic and European double at the end of the season. The highly anticipated encounter is expected to be one of the biggest matches in recent European f…",
+      "url": "https://www.justarsenal.com/arsenal-is-inspiring-psgs-training-method-for-the-champions-league-final/415129",
+      "source": "Just Arsenal News",
+      "publishedAt": "2026-05-13T13:00:00Z",
+      "league": "Ligue 1"
     },
     {
-      "title": "Could Manuel Neuer play for Germany at the World Cup?",
-      "description": "Manuel Neuer retired from the German national team in August 2024, but there are increasing signs that Bayern Munich’s custodian could play at the 2026 FIFA World Cup.According to Kicker, despite Ne...",
-      "url": "https://www.getfootballnewsgermany.com/2026/could-manuel-neuer-play-for-germany-at-the-world-cup/",
-      "source": "Getfootballnewsgermany.com",
-      "publishedAt": "2026-05-13T08:20:00Z",
-      "league": "World Cup"
+      "title": "Report: Bernardo Silva calls Ronaldo to seek information about Juventus",
+      "description": "Wednesday’s reports claim that Manchester City’s Bernardo Silva has been on the phone with Cristiano Ronaldo and a handful of his former teammates in order to",
+      "url": "https://football-italia.net/bernardo-silva-calls-ronaldo-about-juventus/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-13T13:53:53Z",
+      "league": "Champions League"
+    },
+    {
+      "title": "Arsenal's White to avoid surgery but World Cup dream set to be over",
+      "description": "Arsenal defender Ben White will not require knee surgery – but remains set to miss England’s World Cup campaign. The Gunners confirmed on Tuesday that White had suffered a “significant medial knee ligament injury” during their 1-0 win at West Ham on Sunday.",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260513-99-415855/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-05-13T13:08:43Z",
+      "league": "Champions League"
+    },
+    {
+      "title": "Miles Robinson hoping to be named to first US national team for World Cup: 'Would mean so much'",
+      "description": "Miles Robinson shared his dream of making the 2026 FIFA World Cup roster for the U.S. men's national team, and reflected on his journey back from a devastating injury in 2022.",
+      "url": "https://www.foxnews.com/sports/miles-robinson-hoping-named-first-us-national-team-world-cup-would-mean-much",
+      "source": "Fox News",
+      "publishedAt": "2026-05-12T22:17:27Z",
+      "league": "MLS"
     }
   ],
-  "generatedAt": "2026-05-14T08:32:04.246Z"
+  "generatedAt": "2026-05-14T13:57:58.299Z"
 }
