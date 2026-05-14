@@ -1,6 +1,24 @@
 {
   "matches": [
     {
+      "league": "PD",
+      "homeTeam": "Girona",
+      "awayTeam": "Real Sociedad",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-14T18:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Real Oviedo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-14T19:30:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Man City",
       "awayTeam": "Crystal Palace",
@@ -46,6 +64,15 @@
       "utcDate": "2026-05-13T19:30:00Z"
     },
     {
+      "league": "PD",
+      "homeTeam": "Valencia",
+      "awayTeam": "Rayo Vallecano",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-05-14T17:00:00Z"
+    },
+    {
       "league": "FL1",
       "homeTeam": "Brest",
       "awayTeam": "Strasbourg",
@@ -62,34 +89,7 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-05-13T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Valencia",
-      "awayTeam": "Rayo Vallecano",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-14T17:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Girona",
-      "awayTeam": "Real Sociedad",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-14T18:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Real Oviedo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-14T19:30:00Z"
     }
   ],
-  "generatedAt": "2026-05-14T13:59:21.866Z"
+  "generatedAt": "2026-05-14T19:41:54.652Z"
 }
