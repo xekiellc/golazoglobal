@@ -4,9 +4,9 @@
       "league": "PL",
       "homeTeam": "Aston Villa",
       "awayTeam": "Liverpool",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-05-15T19:00:00Z"
     },
     {
@@ -37,5 +37,5 @@
       "utcDate": "2026-05-14T19:30:00Z"
     }
   ],
-  "generatedAt": "2026-05-15T19:25:51.409Z"
+  "generatedAt": "2026-05-15T23:53:23.786Z"
 }

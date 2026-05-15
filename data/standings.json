@@ -42,28 +42,28 @@
       },
       {
         "position": 4,
-        "team": "Liverpool",
+        "team": "Aston Villa",
         "played": 37,
-        "won": 17,
-        "drawn": 9,
+        "won": 18,
+        "drawn": 8,
         "lost": 11,
-        "goalsFor": 60,
+        "goalsFor": 54,
         "goalsAgainst": 48,
-        "goalDifference": 12,
-        "points": 60,
+        "goalDifference": 6,
+        "points": 62,
         "form": ""
       },
       {
         "position": 5,
-        "team": "Aston Villa",
+        "team": "Liverpool",
         "played": 37,
         "won": 17,
-        "drawn": 9,
-        "lost": 11,
-        "goalsFor": 50,
-        "goalsAgainst": 46,
-        "goalDifference": 4,
-        "points": 60,
+        "drawn": 8,
+        "lost": 12,
+        "goalsFor": 62,
+        "goalsAgainst": 52,
+        "goalDifference": 10,
+        "points": 59,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-15T19:26:54.744Z"
+  "generatedAt": "2026-05-15T23:54:27.785Z"
 }

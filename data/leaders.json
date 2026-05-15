@@ -38,6 +38,13 @@
           "penalties": 3
         },
         {
+          "name": "Ollie Watkins",
+          "team": "Aston Villa",
+          "goals": 14,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
           "name": "Dominic Calvert-Lewin",
           "team": "Leeds United",
           "goals": 13,
@@ -64,13 +71,6 @@
           "goals": 12,
           "assists": 0,
           "penalties": 2
-        },
-        {
-          "name": "Ollie Watkins",
-          "team": "Aston Villa",
-          "goals": 12,
-          "assists": 2,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -105,8 +105,8 @@
         {
           "name": "Ollie Watkins",
           "team": "Aston Villa",
-          "goals": 12,
-          "assists": 2,
+          "goals": 14,
+          "assists": 3,
           "penalties": 0
         }
       ]
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-15T19:28:16.526Z"
+  "generatedAt": "2026-05-15T23:55:54.915Z"
 }
