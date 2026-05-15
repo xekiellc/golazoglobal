@@ -1,6 +1,15 @@
 {
   "matches": [
     {
+      "league": "PL",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Liverpool",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-15T19:00:00Z"
+    },
+    {
       "league": "PD",
       "homeTeam": "Valencia",
       "awayTeam": "Rayo Vallecano",
@@ -26,16 +35,7 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-05-14T19:30:00Z"
-    },
-    {
-      "league": "PL",
-      "homeTeam": "Aston Villa",
-      "awayTeam": "Liverpool",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-15T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-15T13:56:33.993Z"
+  "generatedAt": "2026-05-15T19:25:51.409Z"
 }

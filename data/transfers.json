@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "PIF Named as Official Tournament Support",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/pif-named-as-official-tournament-supporter-of-fifa-world-cup-2026",
-      "publishedAt": "2026-05-14T13:13:21Z"
-    }
-  ],
-  "generatedAt": "2026-05-15T13:55:09.135Z",
+  "transfers": [],
+  "generatedAt": "2026-05-15T19:24:26.012Z",
   "note": "Transfers derived from news headlines at launch."
 }
