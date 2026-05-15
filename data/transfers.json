@@ -1,46 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Arne Slot responds to Alisson Becker tra",
+      "player": "PIF Named as Official Tournament Support",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cae2d043-8d70-4ff9-baa2-5f947cc9f773",
-      "publishedAt": "2026-05-14T08:25:00Z"
-    },
-    {
-      "player": "‘Financially impossible’",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Barca Blaugranes",
-      "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/120335/financially-impossible-porto-chief-rules-out-move-for-barcelona-striker-robert-lewandowski",
-      "publishedAt": "2026-05-14T07:55:51Z"
-    },
-    {
-      "player": "Report",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "English Premier League Index - Opta Stats",
-      "url": "https://eplindex.com/146380/report-manchester-united-ready-to-move-for-england-midfielder.html",
-      "publishedAt": "2026-05-14T07:50:00Z"
-    },
-    {
-      "player": "Florentino Perez hints at blockbuster Re",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Madriduniversal.com",
-      "url": "https://madriduniversal.com/florentino-perez-hints-at-blockbuster-real-madrid-signings-after-trophyless-season-is-haaland-impossible-to-sign/",
-      "publishedAt": "2026-05-14T07:20:00Z"
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/pif-named-as-official-tournament-supporter-of-fifa-world-cup-2026",
+      "publishedAt": "2026-05-14T13:13:21Z"
     }
   ],
-  "generatedAt": "2026-05-15T08:43:45.657Z",
+  "generatedAt": "2026-05-15T13:55:09.135Z",
   "note": "Transfers derived from news headlines at launch."
 }
