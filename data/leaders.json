@@ -338,7 +338,7 @@
         {
           "name": "Harry Kane",
           "team": "Bayern",
-          "goals": 33,
+          "goals": 36,
           "assists": 4,
           "penalties": 10
         },
@@ -346,13 +346,13 @@
           "name": "Deniz Undav",
           "team": "Stuttgart",
           "goals": 19,
-          "assists": 5,
+          "assists": 6,
           "penalties": 0
         },
         {
           "name": "Sehrou Guirassy",
           "team": "Dortmund",
-          "goals": 16,
+          "goals": 17,
           "assists": 0,
           "penalties": 1
         },
@@ -374,7 +374,7 @@
           "name": "Luis Díaz",
           "team": "Bayern",
           "goals": 15,
-          "assists": 11,
+          "assists": 12,
           "penalties": 0
         },
         {
@@ -394,16 +394,16 @@
         {
           "name": "Said El Mala",
           "team": "1. FC Köln",
-          "goals": 12,
+          "goals": 13,
           "assists": 4,
           "penalties": 1
         },
         {
-          "name": "Ermedin Demirovic",
-          "team": "Stuttgart",
-          "goals": 12,
-          "assists": 3,
-          "penalties": 1
+          "name": "Jonathan Burkardt",
+          "team": "Frankfurt",
+          "goals": 13,
+          "assists": 1,
+          "penalties": 4
         }
       ],
       "topAssists": [
@@ -418,7 +418,7 @@
           "name": "Luis Díaz",
           "team": "Bayern",
           "goals": 15,
-          "assists": 11,
+          "assists": 12,
           "penalties": 0
         },
         {
@@ -429,18 +429,18 @@
           "penalties": 0
         },
         {
+          "name": "Deniz Undav",
+          "team": "Stuttgart",
+          "goals": 19,
+          "assists": 6,
+          "penalties": 0
+        },
+        {
           "name": "Andrej Kramarić",
           "team": "Hoffenheim",
           "goals": 14,
           "assists": 6,
           "penalties": 5
-        },
-        {
-          "name": "Deniz Undav",
-          "team": "Stuttgart",
-          "goals": 19,
-          "assists": 5,
-          "penalties": 0
         }
       ]
     },
@@ -692,9 +692,9 @@
         {
           "name": "Chuchu",
           "team": "CD Nacional",
-          "goals": 16,
+          "goals": 18,
           "assists": 0,
-          "penalties": 4
+          "penalties": 5
         },
         {
           "name": "Rodrigo Zalazar",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-16T13:16:06.877Z"
+  "generatedAt": "2026-05-16T19:01:48.430Z"
 }
