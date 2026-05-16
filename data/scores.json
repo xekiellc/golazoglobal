@@ -1,40 +1,13 @@
 {
   "matches": [
     {
-      "league": "PPL",
-      "homeTeam": "CD Nacional",
-      "awayTeam": "Vitória SC",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-16T17:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Casa Pia",
-      "awayTeam": "Rio Ave",
+      "league": "BSA",
+      "homeTeam": "Fluminense",
+      "awayTeam": "São Paulo",
       "homeScore": 2,
       "awayScore": 1,
       "status": "IN_PLAY",
-      "utcDate": "2026-05-16T17:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Arouca",
-      "awayTeam": "Tondela",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-16T17:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Braga",
-      "awayTeam": "Amadora",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-16T17:00:00Z"
+      "utcDate": "2026-05-16T22:00:00Z"
     },
     {
       "league": "PL",
@@ -146,57 +119,84 @@
     },
     {
       "league": "PPL",
+      "homeTeam": "CD Nacional",
+      "awayTeam": "Vitória SC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-05-16T17:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Casa Pia",
+      "awayTeam": "Rio Ave",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-05-16T17:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Arouca",
+      "awayTeam": "Tondela",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-05-16T17:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Braga",
+      "awayTeam": "Amadora",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-05-16T17:00:00Z"
+    },
+    {
+      "league": "PPL",
       "homeTeam": "Famalicão",
       "awayTeam": "Alverca",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-05-16T19:30:00Z"
     },
     {
       "league": "PPL",
       "homeTeam": "Sporting CP",
       "awayTeam": "Gil Vicente",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-05-16T19:30:00Z"
     },
     {
       "league": "PPL",
       "homeTeam": "Estoril Praia",
       "awayTeam": "SL Benfica",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "FINISHED",
       "utcDate": "2026-05-16T19:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Mineiro",
       "awayTeam": "Mirassol",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-05-16T21:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Internacional",
       "awayTeam": "Vasco da Gama",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-05-16T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Fluminense",
-      "awayTeam": "São Paulo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-16T22:00:00Z"
     },
     {
       "league": "BSA",
@@ -208,5 +208,5 @@
       "utcDate": "2026-05-17T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-16T18:59:05.726Z"
+  "generatedAt": "2026-05-16T23:48:33.048Z"
 }

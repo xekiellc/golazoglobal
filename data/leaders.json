@@ -671,7 +671,7 @@
         {
           "name": "Luis Suárez",
           "team": "Sporting CP",
-          "goals": 27,
+          "goals": 28,
           "assists": 6,
           "penalties": 5
         },
@@ -721,7 +721,7 @@
           "name": "Pedro Gonçalves",
           "team": "Sporting CP",
           "goals": 13,
-          "assists": 6,
+          "assists": 7,
           "penalties": 2
         },
         {
@@ -741,18 +741,18 @@
       ],
       "topAssists": [
         {
-          "name": "Luis Suárez",
-          "team": "Sporting CP",
-          "goals": 27,
-          "assists": 6,
-          "penalties": 5
-        },
-        {
           "name": "Pedro Gonçalves",
           "team": "Sporting CP",
           "goals": 13,
-          "assists": 6,
+          "assists": 7,
           "penalties": 2
+        },
+        {
+          "name": "Luis Suárez",
+          "team": "Sporting CP",
+          "goals": 28,
+          "assists": 6,
+          "penalties": 5
         },
         {
           "name": "Rodrigo Zalazar",
@@ -891,6 +891,13 @@
     "BSA": {
       "scorers": [
         {
+          "name": "John Kennedy",
+          "team": "Fluminense",
+          "goals": 8,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Kevin Viveros",
           "team": "Paranaense",
           "goals": 8,
@@ -916,13 +923,6 @@
           "team": "Botafogo",
           "goals": 7,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "John Kennedy",
-          "team": "Fluminense",
-          "goals": 7,
-          "assists": 1,
           "penalties": 0
         },
         {
@@ -984,21 +984,21 @@
           "penalties": 0
         },
         {
+          "name": "John Kennedy",
+          "team": "Fluminense",
+          "goals": 8,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Kevin Viveros",
           "team": "Paranaense",
           "goals": 8,
           "assists": 1,
           "penalties": 2
-        },
-        {
-          "name": "John Kennedy",
-          "team": "Fluminense",
-          "goals": 7,
-          "assists": 1,
-          "penalties": 0
         }
       ]
     }
   },
-  "generatedAt": "2026-05-16T19:01:48.430Z"
+  "generatedAt": "2026-05-16T23:50:58.993Z"
 }
