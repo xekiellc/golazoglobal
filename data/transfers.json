@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-05-16T23:47:09.632Z",
+  "transfers": [
+    {
+      "player": "'We crumbled'",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c392rp8lwe1o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "publishedAt": "2026-05-15T22:57:17Z"
+    }
+  ],
+  "generatedAt": "2026-05-17T08:14:33.882Z",
   "note": "Transfers derived from news headlines at launch."
 }
