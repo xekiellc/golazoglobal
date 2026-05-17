@@ -38,6 +38,13 @@
           "penalties": 3
         },
         {
+          "name": "Dominic Calvert-Lewin",
+          "team": "Leeds United",
+          "goals": 14,
+          "assists": 1,
+          "penalties": 4
+        },
+        {
           "name": "Ollie Watkins",
           "team": "Aston Villa",
           "goals": 14,
@@ -50,13 +57,6 @@
           "goals": 14,
           "assists": 5,
           "penalties": 1
-        },
-        {
-          "name": "Dominic Calvert-Lewin",
-          "team": "Leeds United",
-          "goals": 13,
-          "assists": 1,
-          "penalties": 4
         },
         {
           "name": "Danny Welbeck",
@@ -151,7 +151,7 @@
         {
           "name": "Vinicius Junior",
           "team": "Real Madrid",
-          "goals": 15,
+          "goals": 16,
           "assists": 5,
           "penalties": 4
         },
@@ -166,8 +166,15 @@
           "name": "Mikel Oyarzabal",
           "team": "Real Sociedad",
           "goals": 15,
-          "assists": 3,
+          "assists": 4,
           "penalties": 7
+        },
+        {
+          "name": "Toni Martínez",
+          "team": "Alavés",
+          "goals": 13,
+          "assists": 3,
+          "penalties": 1
         },
         {
           "name": "Alexander Sørloth",
@@ -175,13 +182,6 @@
           "goals": 13,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Robert Lewandowski",
-          "team": "Barça",
-          "goals": 13,
-          "assists": 2,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -195,7 +195,7 @@
         {
           "name": "Vinicius Junior",
           "team": "Real Madrid",
-          "goals": 15,
+          "goals": 16,
           "assists": 5,
           "penalties": 4
         },
@@ -210,15 +210,15 @@
           "name": "Mikel Oyarzabal",
           "team": "Real Sociedad",
           "goals": 15,
-          "assists": 3,
+          "assists": 4,
           "penalties": 7
         },
         {
-          "name": "Ferrán Torres",
-          "team": "Barça",
-          "goals": 16,
-          "assists": 2,
-          "penalties": 0
+          "name": "Toni Martínez",
+          "team": "Alavés",
+          "goals": 13,
+          "assists": 3,
+          "penalties": 1
         }
       ]
     },
@@ -288,10 +288,10 @@
           "penalties": 2
         },
         {
-          "name": "Keinan Davis",
-          "team": "Udinese",
+          "name": "Riccardo Orsolini",
+          "team": "Bologna",
           "goals": 10,
-          "assists": 4,
+          "assists": 1,
           "penalties": 4
         }
       ],
@@ -325,11 +325,11 @@
           "penalties": 1
         },
         {
-          "name": "Keinan Davis",
-          "team": "Udinese",
+          "name": "Scott McTominay",
+          "team": "Napoli",
           "goals": 10,
-          "assists": 4,
-          "penalties": 4
+          "assists": 3,
+          "penalties": 0
         }
       ]
     },
@@ -581,9 +581,9 @@
         {
           "name": "Ricardo Pepi",
           "team": "PSV",
-          "goals": 15,
+          "goals": 16,
           "assists": 0,
-          "penalties": 1
+          "penalties": 2
         },
         {
           "name": "Ismael Saibari",
@@ -595,7 +595,7 @@
         {
           "name": "Guus Til",
           "team": "PSV",
-          "goals": 13,
+          "goals": 14,
           "assists": 5,
           "penalties": 0
         },
@@ -617,7 +617,7 @@
           "name": "Tobias Lauritsen",
           "team": "Sparta",
           "goals": 12,
-          "assists": 4,
+          "assists": 5,
           "penalties": 3
         },
         {
@@ -660,7 +660,7 @@
         {
           "name": "Guus Til",
           "team": "PSV",
-          "goals": 13,
+          "goals": 14,
           "assists": 5,
           "penalties": 0
         }
@@ -926,6 +926,13 @@
           "penalties": 0
         },
         {
+          "name": "Breno Lopes",
+          "team": "Coritiba",
+          "goals": 7,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Luciano Juba",
           "team": "Bahia",
           "goals": 7,
@@ -949,13 +956,6 @@
         {
           "name": "Luciano",
           "team": "São Paulo",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Breno Lopes",
-          "team": "Coritiba",
           "goals": 5,
           "assists": 1,
           "penalties": 0
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-17T13:12:47.653Z"
+  "generatedAt": "2026-05-17T19:05:30.627Z"
 }

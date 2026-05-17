@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Chelsea’s stance on hiring Xabi Alonso a",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "HITC - Football, Gaming, Movies, TV, Music",
-      "url": "https://www.hitc.com/chelseas-stance-on-hiring-xabi-alonso-as-next-manager-revealed/",
-      "publishedAt": "2026-05-16T13:00:00Z"
-    },
-    {
-      "player": "Report",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "English Premier League Index - Opta Stats",
-      "url": "https://eplindex.com/146472/report-newcastle-united-hold-firm-on-price-tag-as-anthony-gordon-pushes-for-exit.html",
-      "publishedAt": "2026-05-16T12:00:00Z"
-    }
-  ],
-  "generatedAt": "2026-05-17T13:08:54.758Z",
+  "transfers": [],
+  "generatedAt": "2026-05-17T19:01:41.165Z",
   "note": "Transfers derived from news headlines at launch."
 }
