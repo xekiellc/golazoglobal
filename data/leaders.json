@@ -45,6 +45,13 @@
           "penalties": 0
         },
         {
+          "name": "Morgan Gibbs-White",
+          "team": "Nottingham",
+          "goals": 14,
+          "assists": 5,
+          "penalties": 1
+        },
+        {
           "name": "Dominic Calvert-Lewin",
           "team": "Leeds United",
           "goals": 13,
@@ -56,13 +63,6 @@
           "team": "Brighton Hove",
           "goals": 13,
           "assists": 1,
-          "penalties": 1
-        },
-        {
-          "name": "Morgan Gibbs-White",
-          "team": "Nottingham",
-          "goals": 13,
-          "assists": 5,
           "penalties": 1
         },
         {
@@ -91,7 +91,7 @@
         {
           "name": "Morgan Gibbs-White",
           "team": "Nottingham",
-          "goals": 13,
+          "goals": 14,
           "assists": 5,
           "penalties": 1
         },
@@ -262,8 +262,8 @@
         {
           "name": "Rasmus Højlund",
           "team": "Napoli",
-          "goals": 11,
-          "assists": 4,
+          "goals": 12,
+          "assists": 5,
           "penalties": 1
         },
         {
@@ -271,6 +271,13 @@
           "team": "Torino",
           "goals": 11,
           "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Scott McTominay",
+          "team": "Napoli",
+          "goals": 10,
+          "assists": 3,
           "penalties": 0
         },
         {
@@ -286,13 +293,6 @@
           "goals": 10,
           "assists": 4,
           "penalties": 4
-        },
-        {
-          "name": "Kenan Yıldız",
-          "team": "Juventus",
-          "goals": 10,
-          "assists": 6,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -318,18 +318,18 @@
           "penalties": 0
         },
         {
-          "name": "Kenan Yıldız",
-          "team": "Juventus",
-          "goals": 10,
-          "assists": 6,
+          "name": "Rasmus Højlund",
+          "team": "Napoli",
+          "goals": 12,
+          "assists": 5,
           "penalties": 1
         },
         {
-          "name": "Rasmus Højlund",
-          "team": "Napoli",
-          "goals": 11,
+          "name": "Keinan Davis",
+          "team": "Udinese",
+          "goals": 10,
           "assists": 4,
-          "penalties": 1
+          "penalties": 4
         }
       ]
     },
@@ -575,7 +575,7 @@
           "name": "Troy Parrott",
           "team": "AZ",
           "goals": 16,
-          "assists": 4,
+          "assists": 5,
           "penalties": 2
         },
         {
@@ -651,16 +651,16 @@
           "penalties": 1
         },
         {
+          "name": "Troy Parrott",
+          "team": "AZ",
+          "goals": 16,
+          "assists": 5,
+          "penalties": 2
+        },
+        {
           "name": "Guus Til",
           "team": "PSV",
           "goals": 13,
-          "assists": 5,
-          "penalties": 0
-        },
-        {
-          "name": "Jacob Trenskow",
-          "team": "Heerenveen",
-          "goals": 12,
           "assists": 5,
           "penalties": 0
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-17T08:18:17.933Z"
+  "generatedAt": "2026-05-17T13:12:47.653Z"
 }
