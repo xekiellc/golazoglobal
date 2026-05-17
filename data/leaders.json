@@ -170,18 +170,18 @@
           "penalties": 7
         },
         {
+          "name": "Raphinha",
+          "team": "Barça",
+          "goals": 13,
+          "assists": 3,
+          "penalties": 3
+        },
+        {
           "name": "Toni Martínez",
           "team": "Alavés",
           "goals": 13,
           "assists": 3,
           "penalties": 1
-        },
-        {
-          "name": "Alexander Sørloth",
-          "team": "Atleti",
-          "goals": 13,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -214,11 +214,11 @@
           "penalties": 7
         },
         {
-          "name": "Toni Martínez",
-          "team": "Alavés",
+          "name": "Raphinha",
+          "team": "Barça",
           "goals": 13,
           "assists": 3,
-          "penalties": 1
+          "penalties": 3
         }
       ]
     },
@@ -449,7 +449,7 @@
         {
           "name": "Esteban Lepaul",
           "team": "Stade Rennais",
-          "goals": 20,
+          "goals": 21,
           "assists": 5,
           "penalties": 3
         },
@@ -464,8 +464,15 @@
           "name": "Mason Greenwood",
           "team": "Marseille",
           "goals": 16,
-          "assists": 7,
+          "assists": 8,
           "penalties": 6
+        },
+        {
+          "name": "Lassine Sinayoko",
+          "team": "Auxerre",
+          "goals": 13,
+          "assists": 4,
+          "penalties": 3
         },
         {
           "name": "Folarin Balogun",
@@ -475,18 +482,18 @@
           "penalties": 3
         },
         {
+          "name": "Wesley Saïd",
+          "team": "RC Lens",
+          "goals": 12,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
           "name": "Odsonne Edouard",
           "team": "RC Lens",
           "goals": 12,
           "assists": 3,
           "penalties": 1
-        },
-        {
-          "name": "Lassine Sinayoko",
-          "team": "Auxerre",
-          "goals": 11,
-          "assists": 4,
-          "penalties": 3
         },
         {
           "name": "Corentin Tolisso",
@@ -496,25 +503,18 @@
           "penalties": 2
         },
         {
-          "name": "Pablo Pagis",
-          "team": "Lorient",
-          "goals": 10,
-          "assists": 5,
-          "penalties": 2
-        },
-        {
-          "name": "Wesley Saïd",
-          "team": "RC Lens",
-          "goals": 10,
-          "assists": 2,
-          "penalties": 1
-        },
-        {
           "name": "Florian Thauvin",
           "team": "RC Lens",
-          "goals": 10,
-          "assists": 5,
+          "goals": 11,
+          "assists": 6,
           "penalties": 2
+        },
+        {
+          "name": "Bradley Barcola",
+          "team": "PSG",
+          "goals": 11,
+          "assists": 1,
+          "penalties": 0
         }
       ],
       "topAssists": [
@@ -522,36 +522,36 @@
           "name": "Mason Greenwood",
           "team": "Marseille",
           "goals": 16,
-          "assists": 7,
+          "assists": 8,
           "penalties": 6
-        },
-        {
-          "name": "Esteban Lepaul",
-          "team": "Stade Rennais",
-          "goals": 20,
-          "assists": 5,
-          "penalties": 3
-        },
-        {
-          "name": "Pablo Pagis",
-          "team": "Lorient",
-          "goals": 10,
-          "assists": 5,
-          "penalties": 2
         },
         {
           "name": "Florian Thauvin",
           "team": "RC Lens",
-          "goals": 10,
-          "assists": 5,
+          "goals": 11,
+          "assists": 6,
           "penalties": 2
+        },
+        {
+          "name": "Esteban Lepaul",
+          "team": "Stade Rennais",
+          "goals": 21,
+          "assists": 5,
+          "penalties": 3
         },
         {
           "name": "Lassine Sinayoko",
           "team": "Auxerre",
-          "goals": 11,
+          "goals": 13,
           "assists": 4,
           "penalties": 3
+        },
+        {
+          "name": "Corentin Tolisso",
+          "team": "Olympique Lyon",
+          "goals": 11,
+          "assists": 4,
+          "penalties": 2
         }
       ]
     },
@@ -926,6 +926,13 @@
           "penalties": 0
         },
         {
+          "name": "Arthur Cabral",
+          "team": "Botafogo",
+          "goals": 7,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Breno Lopes",
           "team": "Coritiba",
           "goals": 7,
@@ -951,13 +958,6 @@
           "team": "Palmeiras",
           "goals": 5,
           "assists": 3,
-          "penalties": 0
-        },
-        {
-          "name": "Luciano",
-          "team": "São Paulo",
-          "goals": 5,
-          "assists": 1,
           "penalties": 0
         }
       ],
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-17T19:05:30.627Z"
+  "generatedAt": "2026-05-17T23:57:43.153Z"
 }
