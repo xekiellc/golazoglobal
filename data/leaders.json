@@ -891,6 +891,13 @@
     "BSA": {
       "scorers": [
         {
+          "name": "Pedro",
+          "team": "Flamengo",
+          "goals": 9,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
           "name": "John Kennedy",
           "team": "Fluminense",
           "goals": 8,
@@ -903,13 +910,6 @@
           "goals": 8,
           "assists": 1,
           "penalties": 2
-        },
-        {
-          "name": "Pedro",
-          "team": "Flamengo",
-          "goals": 8,
-          "assists": 3,
-          "penalties": 0
         },
         {
           "name": "Carlos Vinícius",
@@ -965,7 +965,7 @@
         {
           "name": "Pedro",
           "team": "Flamengo",
-          "goals": 8,
+          "goals": 9,
           "assists": 3,
           "penalties": 0
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-17T23:57:43.153Z"
+  "generatedAt": "2026-05-18T09:56:16.049Z"
 }

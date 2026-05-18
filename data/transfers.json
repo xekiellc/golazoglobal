@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-05-17T23:53:57.311Z",
+  "transfers": [
+    {
+      "player": "Newcastle hold talks with €50m",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Get French Football News",
+      "url": "https://www.getfootballnewsfrance.com/2026/newcastle-hold-talks-with-e50m-rated-monaco-midfielder-lamine-camara/",
+      "publishedAt": "2026-05-17T08:55:00Z"
+    }
+  ],
+  "generatedAt": "2026-05-18T09:52:22.936Z",
   "note": "Transfers derived from news headlines at launch."
 }
