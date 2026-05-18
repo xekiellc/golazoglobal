@@ -4,14 +4,14 @@
       {
         "position": 1,
         "team": "Arsenal",
-        "played": 36,
+        "played": 37,
         "won": 24,
-        "drawn": 7,
+        "drawn": 8,
         "lost": 5,
         "goalsFor": 68,
         "goalsAgainst": 26,
         "goalDifference": 42,
-        "points": 79,
+        "points": 80,
         "form": ""
       },
       {
@@ -238,14 +238,14 @@
       {
         "position": 19,
         "team": "Burnley",
-        "played": 36,
+        "played": 37,
         "won": 4,
-        "drawn": 9,
+        "drawn": 10,
         "lost": 23,
         "goalsFor": 37,
         "goalsAgainst": 73,
         "goalDifference": -36,
-        "points": 21,
+        "points": 22,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-18T15:21:42.592Z"
+  "generatedAt": "2026-05-18T19:42:43.026Z"
 }
