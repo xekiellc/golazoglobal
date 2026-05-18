@@ -167,7 +167,7 @@
       "homeTeam": "Como 1907",
       "awayTeam": "Parma",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-05-17T10:00:00Z"
     },
@@ -469,5 +469,5 @@
       "utcDate": "2026-05-17T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-18T09:53:48.094Z"
+  "generatedAt": "2026-05-18T15:20:40.158Z"
 }
