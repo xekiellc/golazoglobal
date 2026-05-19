@@ -1,5 +1,36 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-05-19T00:01:50.747Z",
+  "transfers": [
+    {
+      "player": "“Manchester will forever be my home”",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Footballmuse.com",
+      "url": "https://www.footballmuse.com/news/manchester-will-forever-be-my-home-casemiros-emotional-goodbye-as-carrick-admits-replacing-him-is-a-challenge",
+      "publishedAt": "2026-05-18T09:00:00Z"
+    },
+    {
+      "player": "Jose Mourinho asks Real Madrid to sign M",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Football Espana",
+      "url": "https://www.football-espana.net/2026/05/18/jose-mourinho-real-madrid-sign-man-city-superstar",
+      "publishedAt": "2026-05-18T08:20:00Z"
+    },
+    {
+      "player": "Liverpool’s owners having “internal disc",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Anfieldindex.com",
+      "url": "https://anfieldindex.com/94274/liverpools-owners-having-internal-discussions-about-sacking-slot.html",
+      "publishedAt": "2026-05-18T08:15:00Z"
+    }
+  ],
+  "generatedAt": "2026-05-19T09:34:33.186Z",
   "note": "Transfers derived from news headlines at launch."
 }
