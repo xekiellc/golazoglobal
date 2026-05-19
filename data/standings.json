@@ -17,13 +17,13 @@
       {
         "position": 2,
         "team": "Man City",
-        "played": 36,
+        "played": 37,
         "won": 23,
         "drawn": 8,
-        "lost": 5,
+        "lost": 6,
         "goalsFor": 75,
-        "goalsAgainst": 32,
-        "goalDifference": 43,
+        "goalsAgainst": 33,
+        "goalDifference": 42,
         "points": 77,
         "form": ""
       },
@@ -69,14 +69,14 @@
       {
         "position": 6,
         "team": "Bournemouth",
-        "played": 36,
-        "won": 13,
+        "played": 37,
+        "won": 14,
         "drawn": 16,
         "lost": 7,
-        "goalsFor": 56,
+        "goalsFor": 57,
         "goalsAgainst": 52,
-        "goalDifference": 4,
-        "points": 55,
+        "goalDifference": 5,
+        "points": 58,
         "form": ""
       },
       {
@@ -121,14 +121,14 @@
       {
         "position": 10,
         "team": "Chelsea",
-        "played": 36,
+        "played": 37,
         "won": 13,
-        "drawn": 10,
+        "drawn": 11,
         "lost": 13,
         "goalsFor": 55,
         "goalsAgainst": 49,
         "goalDifference": 6,
-        "points": 49,
+        "points": 50,
         "form": ""
       },
       {
@@ -212,14 +212,14 @@
       {
         "position": 17,
         "team": "Tottenham",
-        "played": 36,
+        "played": 37,
         "won": 9,
-        "drawn": 11,
+        "drawn": 12,
         "lost": 16,
         "goalsFor": 46,
         "goalsAgainst": 55,
         "goalDifference": -9,
-        "points": 38,
+        "points": 39,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-19T14:52:38.109Z"
+  "generatedAt": "2026-05-19T19:49:29.559Z"
 }

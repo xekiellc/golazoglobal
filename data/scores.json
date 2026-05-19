@@ -2,31 +2,31 @@
   "matches": [
     {
       "league": "PL",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Burnley",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-05-18T19:00:00Z"
-    },
-    {
-      "league": "PL",
       "homeTeam": "Bournemouth",
       "awayTeam": "Man City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
       "utcDate": "2026-05-19T18:30:00Z"
     },
     {
       "league": "PL",
       "homeTeam": "Chelsea",
       "awayTeam": "Tottenham",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
       "utcDate": "2026-05-19T19:15:00Z"
+    },
+    {
+      "league": "PL",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Burnley",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-05-18T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-19T14:51:35.833Z"
+  "generatedAt": "2026-05-19T19:48:27.469Z"
 }

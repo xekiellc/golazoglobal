@@ -1,76 +1,132 @@
 {
   "articles": [
     {
-      "title": "José Mourinho returning to Real Madrid as head coach on reported two-year deal",
-      "description": "After 13 years away, José Mourinho is reportedly returning to Real Madrid as head coach on a two-year deal, marking a major reunion for the club.",
-      "url": "https://www.usatoday.com/story/sports/soccer/2026/05/18/jose-mourinho-real-madrid-return-manager/90140752007/",
-      "source": "USA Today",
-      "publishedAt": "2026-05-18T14:48:10Z",
+      "title": "REPORT: Pep Guardiola to leave Manchester City at end of 2025/26 season",
+      "description": "After 10 years in charge that have yielded Premier League dominance and 17 major honours overall, Pep Guardiola leave Manchester City, as per a report by the Daily Mail.",
+      "url": "https://www.sportingnews.com/us/soccer/manchester-city/news/pep-guardiola-leave-manchester-city-end-season/e1366be78b136985898c0c38",
+      "source": "Sporting News",
+      "publishedAt": "2026-05-18T19:46:28Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Report: Pep Guardiola to leave Man City with replacement already decided",
+      "description": "Pep Guardiola Exit Claim Puts Enzo Maresca in Manchester City FrameManchester City could be approaching the end of an era, with talkSPORT reporting that several well placed sources believe Pep Guardio...",
+      "url": "https://eplindex.com/146555/report-pep-guardiola-to-leave-man-city-with-replacement-already-decided.html",
+      "source": "English Premier League Index - Opta Stats",
+      "publishedAt": "2026-05-18T19:45:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "BREAKING: Pep Guardiola to leave Manchester City at season’s end",
+      "description": "Pep Guardiola is set to leave Manchester City at the end of the Premier League season, a year before his contract expires in 2027, after an illustrious decade of service at the club.The six-time title...",
+      "url": "https://wp.fromthespot.co.uk/28822/breaking-pep-guardiola-to-leave-manchester-city-at-seasons-end/",
+      "source": "Fromthespot.co.uk",
+      "publishedAt": "2026-05-18T19:40:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Pep Guardiola made his mind up on Manchester City future ‘some weeks ago’ insists source",
+      "description": "Sources at the City Football Academy have claimed Pep Guardiola finalised his decision to leave Manchester City “some weeks ago.”Insiders have denied rumours circulating from Etihad Stadium corpor...",
+      "url": "https://cityxtra.co.uk/46647/pep-guardiola-made-his-mind-up-on-manchester-city-future-some-weeks-ago-insists-source/",
+      "source": "Cityxtra.co.uk",
+      "publishedAt": "2026-05-18T19:35:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "BREAKING: Pep Guardiola to leave Manchester City at the end of 2025/26 season",
+      "description": "Pep Guardiola is officially set to step down as Manchester City manager after 10 historic years at the helm.The Catalan’s legendary tenure will conclude this Sunday following City’s final Premier ...",
+      "url": "https://cityxtra.co.uk/46662/breaking-pep-guardiola-to-leave-manchester-city-at-the-end-of-2025-26-season/",
+      "source": "Cityxtra.co.uk",
+      "publishedAt": "2026-05-18T19:30:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Pep Guardiola to leave Manchester City after trophy-laden decade in charge",
+      "description": "Managerial icon Pep Guardiola is expected to make public his long-rumored decision to leave Manchester City on Sunday, ending his remarkable decade in charge of the Blues",
+      "url": "https://www.alloutsoccer.com/news/pep-guardiola-manchester-city-exit-1843432",
+      "source": "Alloutsoccer.com",
+      "publishedAt": "2026-05-18T19:29:29Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Bombshell: Guardiola to leave City at end of season",
+      "description": "In news that is shaking the world of football, Pep Guardiola will step down as Manchester City manager at the end of the current season. According to information from the Daily Mai, the 55-year-old co...",
+      "url": "https://onefootball.com/en/news/bombshell-guardiola-to-leave-city-at-end-of-season-42888096",
+      "source": "Onefootball.com",
+      "publishedAt": "2026-05-18T19:23:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "José Mourinho Agrees To Return To Real Madrid, Expected To Sign Two-Year Deal",
+      "description": "Jose Mourinho is poised for a dramatic return to the Bernabeu after reportedly reaching a verbal agreement to become the next Real Madrid manager.",
+      "url": "https://www.foxsports.com/stories/soccer/jose-mourinho-to-real-madrid-is-on-benfica-boss-verbally-agrees-sensational-bernabeu-move-will-sign-two-year-contract-to-return-as-manager",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-18T19:24:50Z",
       "league": "La Liga"
     },
     {
-      "title": "The details as Hansi Flick signs new contract at Barcelona",
-      "description": "La Liga giants Barcelona have on Monday announced a contract renewal for beloved head coach Hansi Flick.This of course comes fresh off the German tactician leading the Blaugrana to a 2nd successive le...",
-      "url": "https://getfootballnewsspain.com/the-details-as-hansi-flick-signs-new-contract-at-barcelona/",
+      "title": "FC Barcelona Coach Flick Extends Contract Through 2028",
+      "description": "FC Barcelona pulled off a major coup on Monday when highly-successful head coach Hansi Flick signed a contract extension until mid-2030.",
+      "url": "https://www.forbes.com/sites/tomsanderson/2026/05/18/fc-barcelona-coach-flick-extends-contract-through-2028/",
+      "source": "Forbes",
+      "publishedAt": "2026-05-18T19:23:49Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Real Madrid, Dani Carvajal To Part Ways After La Liga Season",
+      "description": "Veteran defender Dani Carvajal will not return to Real Madrid next season.",
+      "url": "https://www.foxsports.com/stories/soccer/real-madrid-and-dani-carvajal-parting-ways-after-end-of-the-season",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-18T18:25:58Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Official: Real Madrid star called up for World Cup",
+      "description": "Another member of the first-team ranks at La Liga giants Real Madrid has on Monday received the call for the upcoming World Cup.The player in question? David Alaba.Stopper Alaba is for his part in the...",
+      "url": "https://getfootballnewsspain.com/official-real-madrid-star-called-up-for-world-cup/",
       "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-05-18T14:35:00Z",
+      "publishedAt": "2026-05-18T17:30:00Z",
       "league": "La Liga"
     },
     {
-      "title": "Coach Flick extends contract with Barcelona until 2028",
-      "description": "Coach Hansi Flick has extended his contract with Barcelona until June 2028, the Spanish club said in a statement on Monday. The new deal includes the option for an additional season.",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260518-99-464033/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-05-18T13:39:31Z",
+      "title": "Report: Mourinho wants Roma’s Wesley at Real Madrid",
+      "description": "José Mourinho is set to return to Real Madrid after 13 years away, and one of his first transfer targets is reported to be Roma's Brazilian full-back Wesley,",
+      "url": "https://football-italia.net/report-mourinho-wants-romas-wesley-real-madrid/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-18T16:20:14Z",
       "league": "La Liga"
     },
     {
-      "title": "Barcelona announce new contract for manager Hansi Flick",
-      "description": "Barcelona have announced that manager Hansi Flick has put pen to paper on a new contract at the club. The German manager has extended his deal by a year, after a successful second season at Camp Nou, ...",
-      "url": "https://www.football-espana.net/2026/05/18/barcelona-announce-new-contract-for-manager-hansi-flick",
-      "source": "Football Espana",
-      "publishedAt": "2026-05-18T13:25:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Real Madrid to split with captain Dani Carvajal after 13 seasons, 27 titles",
-      "description": "Captain Dani Carvajal's tenure with Real Madrid will end at the conclusion of the 2025-26 campaign, the La Liga soccer franchise announced Monday.",
-      "url": "https://www.upi.com/Sports_News/Soccer/2026/05/18/spain-Real-Madrid-split-Dani-Carvajal-13-seasons/1491779106525/",
+      "title": "Spain's Fermin Lopez to undergo foot surgery, World Cup in doubt",
+      "description": "Barcelona midfielder Fermin Lopez sustained a fracture in his right foot, which will require surgery, the La Liga franchise announced Monday.",
+      "url": "https://www.upi.com/Sports_News/Soccer/2026/05/18/spain-Fermin-Lopez-foot-surgery-World-Cup-doubt/5081779117741/",
       "source": "UPI.com",
-      "publishedAt": "2026-05-18T13:17:53Z",
+      "publishedAt": "2026-05-18T16:15:01Z",
       "league": "La Liga"
     },
     {
-      "title": "Spain's Lopez set to miss World Cup with foot fracture",
-      "description": "Spain midfielder Fermin Lopez is expected to miss this summer's World Cup because of a foot fracture he suffered while playing for Barcelona.",
-      "url": "https://www.bbc.com/sport/football/articles/cy925jejr2lo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-05-18T13:14:53Z",
+      "title": "Official: Real Madrid star to leave in the summer",
+      "description": "La Liga giants Real Madrid are set to bid farewell to defensive stalwart Dani Carvajal over the weeks ahead.This comes amid official confirmation that the club have decided against offering the vetera...",
+      "url": "https://getfootballnewsspain.com/official-real-madrid-star-to-leave-in-the-summer/",
+      "source": "Getfootballnewsspain.com",
+      "publishedAt": "2026-05-18T16:00:00Z",
       "league": "La Liga"
     },
     {
-      "title": "Reports: Mourinho agrees to return as Madrid boss after 13 years away",
-      "description": "Jose Mourinho has agreed a deal to return to Real Madrid as head coach 13 years after his departure, according to reports. The 63-year-old Portuguese is set to replace Alvaro Arbeloa, who took over from new Chelsea boss Xabi Alonso in January and has steered …",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260518-99-463748/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-05-18T13:08:25Z",
+      "title": "Dani Carvajal to leave Real Madrid after 24 years at the club",
+      "description": "After more than two decades at Real Madrid - with a brief spell away along the way - Dani Carvajal is set to bring his long association with the club to an end.The right-back, whose contract is due to...",
+      "url": "https://www.playmakerstats.com/news/dani-carvajal-to-leave-real-madrid-after-24-years-at-the-club/1129543",
+      "source": "Playmakerstats.com",
+      "publishedAt": "2026-05-18T15:40:00Z",
       "league": "La Liga"
     },
     {
-      "title": "Carvajal to leave Real Madrid after 23 years",
-      "description": "Real Madrid captain Dani Carvajal will leave the club at the end of this season after two spells at the Santiago Bernabeu covering 23 years.",
-      "url": "https://www.bbc.com/sport/football/articles/c5yej0dm452o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-05-18T13:05:23Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Dani Carvajal to leave Real Madrid in summer",
-      "description": "Real Madrid have confirmed long-serving captain Dani Carvajal will leave the club this summer. The 34-year-old has won six Champions League titles with his boyhood side, who he has represented in 23 of the last 24 seasons having spent the 2012-13 campaign wit…",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260518-99-463160/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-05-18T12:08:28Z",
-      "league": "La Liga"
+      "title": "Laimer among 14 Bundesliga stars in Austria's squad for 2026 World Cup",
+      "description": "Ralf Rangnick has announced his 26-man Austrian squad for their trip to the 2026 World Cup in the USA, Mexico and Canada.In total, Austria's squad is comprised of 14 current Bundesliga stars, equating...",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cd5ba54d-64de-4cee-a2ce-7338055c483f",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-18T14:55:00Z",
+      "league": "Bundesliga"
     },
     {
       "title": "Coach Rangnick names Austria squad for first World Cup since 1998",
@@ -81,93 +137,29 @@
       "league": "Bundesliga"
     },
     {
-      "title": "Five Bundesliga players selected in Croatia's World Cup squad",
-      "description": "Five Bundesliga players will be in North America this summer to represent Croatia at the World Cup. Zlatko Dalić's squad was released on Monday morning, with Josip Stanišić, Luka Vušković, Kristi...",
-      "url": "https://bulinews.com/five-bundesliga-players-selected-croatia-world-cup-squad",
-      "source": "Bulinews.com",
-      "publishedAt": "2026-05-18T13:19:00Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Kane nears European Golden Boot after stunning Bayern season",
-      "description": "Harry Kane ended another remarkable campaign in style after scoring a hat-trick in Bayern Munich’s 5-1 win over on the final day of the Bundesliga season.The England captain has been unstoppable thr...",
-      "url": "https://www.playmakerstats.com/news/kane-nears-european-golden-boot-after-stunning-bayern-season/1129413",
-      "source": "Playmakerstats.com",
-      "publishedAt": "2026-05-18T11:55:00Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Bayern Munich star Harry Kane had most dominant Bundesliga season in 54 years",
-      "description": "FC Bayern has gotten a massive season from its star striker.",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/204231/bayern-munich-star-harry-kane-had-most-dominant-bundesliga-season-in-54-years",
-      "source": "Bavarian Football Works",
-      "publishedAt": "2026-05-18T11:30:00Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "PSG handed major injury worry ahead of Champions League final with Arsenal",
-      "description": "Ousmane Dembele was forced off injured in PSG’s Ligue 1 clash with Paris FC on Sunday just two weeks before the Champions League final against Arsenal.The forward was taken off in the first half of ...",
-      "url": "https://hayters.com/psg-handed-major-injury-worry-ahead-of-champions-league-final-with-arsenal/",
-      "source": "Hayters.com",
-      "publishedAt": "2026-05-18T11:45:00Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "PSG Star Suffers Injury Scare Before Arsenal Showdown",
-      "description": "Arsenal’s Champions League final opponents PSG have been handed a major injury scare after Ousmane Dembele limped off during their Ligue 1 clash against Paris FC on Sunday evening.The French winger,...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_29d87ddc-678b-441c-bbd9-d97a4ed8b5a8",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-18T11:05:00Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Ousmane Dembele injury raises concerns at PSG ahead of Champions League final and World Cup with France",
-      "description": "Ousmane Dembele picked an injury on Sunday, raising the alarms in both PSG and France national team with the UEFA Champions League and the 2026 World Cup just around the corner. Ousmane Dembele has the opportunity to make 2026 one of the most memorable years …",
-      "url": "https://worldsoccertalk.com/news/ousmane-dembele-injury-raises-concerns-at-psg-ahead-of-champions-league-final-and-world-cup-with-france/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-05-18T05:46:12Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Ousmane Dembele Injury Sparks PSG Alarm Two Weeks Before Champions League Final",
-      "description": "Ousmane Dembele left PSG's match against Paris FC with a thigh issue. Initial reports suggest it's a precaution, but alarms sound just two weeks before the UCL final vs. Arsenal.",
-      "url": "https://psgworld.io/news/news/ousmane-dembele-injury-sparks-psg-alarm-two-weeks-before-champions-league-final",
-      "source": "Psgworld.io",
-      "publishedAt": "2026-05-18T01:52:55Z",
-      "league": "Ligue 1"
-    },
-    {
       "title": "Jose Mourinho agrees to return as Real Madrid boss 13 years after leaving – reports",
       "description": "Jose Mourinho has agreed a deal to return to Real Madrid as head coach 13 years after his departure, according to reports.",
       "url": "https://www.independent.ie/sport/soccer/jose-mourinho-agrees-to-return-as-real-madrid-boss-13-years-after-leaving-reports/a1130081024.html",
       "source": "Independent.ie",
       "publishedAt": "2026-05-18T14:40:16Z",
-      "league": "Champions League"
+      "league": "Primeira Liga"
     },
     {
-      "title": "PSG's Ousmane Dembélé set for calf treatment days before Champions League final",
-      "description": "PSG striker Ousmane Dembélé will undergo treatment over the next few days ahead of the Champions League final, his club said on Monday, citing discomfort in his right calf muscle. The France forward was forced off the field after 27 minutes during PSG's 2-1 l…",
-      "url": "https://sports.yahoo.com/articles/psgs-ousmane-demb-l-set-143007296.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-18T14:30:07Z",
-      "league": "Champions League"
+      "title": "Reports: Mourinho agrees to return as Madrid boss after 13 years away",
+      "description": "Jose Mourinho has agreed a deal to return to Real Madrid as head coach 13 years after his departure, according to reports. The 63-year-old Portuguese is set to replace Alvaro Arbeloa, who took over from new Chelsea boss Xabi Alonso in January and has steered …",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260518-99-463748/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-05-18T13:08:25Z",
+      "league": "Primeira Liga"
     },
     {
-      "title": "Flick’s first words after Barcelona renewal – ‘Goal is to win more titles, even the Champions League’",
-      "description": "Following yet another successful season, Hansi Flick has signed a new contract with FC Barcelona, extending his stay at the club until 2028.An agreement over an extension had been finalised for some t...",
-      "url": "https://barcauniversal.com/flicks-first-words-after-barcelona-renewal-goal-is-to-win-more-titles-even-the-champions-league/",
-      "source": "Barcauniversal.com",
-      "publishedAt": "2026-05-18T14:30:00Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "FIFA signs another World Cup sponsor deal with the gambling industry",
-      "description": "FIFA added another gambling industry sponsor to the 2026 World Cup on Monday, signing Greece-based betting brand Betano to a regional deal covering Europe and South America. Betano was the World Cup’s first-ever betting sponsor four years ago when parent comp…",
-      "url": "https://sports.yahoo.com/articles/fifa-signs-another-world-cup-130657478.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-18T13:06:57Z",
-      "league": "Championship"
+      "title": "World Cup roster prediction: Projecting USMNT World Cup roster ahead of Mauricio Pochettino's final decision",
+      "description": "Mauricio Pochettino faces tough decisions ahead of the May 26 roster reveal as injuries and form issues complicate the final 26-man World Cup squad",
+      "url": "https://www.cbssports.com/soccer/news/world-cup-roster-prediction-projecting-usmnt-world-cup-roster-mauricio-pochettino/",
+      "source": "CBS Sports",
+      "publishedAt": "2026-05-18T15:19:38Z",
+      "league": "MLS"
     }
   ],
-  "generatedAt": "2026-05-19T14:50:07.240Z"
+  "generatedAt": "2026-05-19T19:47:03.919Z"
 }
