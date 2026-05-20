@@ -1,12 +1,76 @@
 {
   "articles": [
     {
+      "title": "Neymar makes Brazil World Cup squad, Joao Pedro left out",
+      "description": "Neymar has been named in Carlo Ancelotti's Brazil squad for the World Cup.",
+      "url": "https://www.rte.ie/sport/soccer/2026/0519/1574101-neymar-makes-brazil-world-cup-squad-joao-pedro-left-out/",
+      "source": "RTE",
+      "publishedAt": "2026-05-19T08:57:24Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Man City set to replace Guardiola with Maresca",
+      "description": "Enzo Maresca is set to replace Pep Guardiola as Manchester City manager before next season.",
+      "url": "https://www.bbc.com/sport/football/articles/cd0pkk1xy23o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-19T08:44:18Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Man City set to replace Guardiola with Maresca",
+      "description": "Enzo Maresca is set to replace Pep Guardiola as Manchester City manager before next season.",
+      "url": "https://www.bbc.com/sport/football/articles/cd0pkk1xy23o",
+      "source": "BBC News",
+      "publishedAt": "2026-05-19T08:44:11Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Enzo Maresca to sign three-year deal as Manchester City manager, confirms Fabrizio Romano",
+      "description": "Pep Guardiola is leaving Man City this summer after an illustrious decade at the Etihad StadiumCatalan had a clause in his contract that would facilitate an exit a year before 2027 expiryEnzo Maresca,...",
+      "url": "https://cityxtra.co.uk/46695/enzo-maresca-to-sign-three-year-deal-as-manchester-city-manager-confirms-fabrizio-romano/",
+      "source": "Cityxtra.co.uk",
+      "publishedAt": "2026-05-19T08:35:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Maresca snubs Serie A return to replace Guardiola at Man City – report",
+      "description": "Multiple sources claim that Italian tactician Enzo Maresca has reached a principle of agreement with Manchester City to replace Pep Guardiola.",
+      "url": "https://football-italia.net/maresca-snubs-serie-a-replace-guardiola-city/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-19T08:11:28Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Official: Barcelona captain called up for Brazil World Cup squad",
+      "description": "Carlo Ancelotti has officially confirmed Brazil’s squad for the 2026 FIFA World Cup, and as expected, Raphinha has secured his place in the final list after another strong season with Barcelona.The ...",
+      "url": "https://barcauniversal.com/official-barcelona-captain-called-up-for-brazil-world-cup-squad/",
+      "source": "Barcauniversal.com",
+      "publishedAt": "2026-05-19T06:45:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Official: Real Madrid veteran receives shock World Cup call-up despite nightmare season",
+      "description": "Ralf Rangnick has officially revealed Austria’s squad for the upcoming FIFA World Cup, and one name in particular has sparked major discussion across Europe.Despite barely featuring for Real Madrid ...",
+      "url": "https://madriduniversal.com/official-real-madrid-veteran-receives-shock-world-cup-call-up-despite-nightmare-season/",
+      "source": "Madriduniversal.com",
+      "publishedAt": "2026-05-19T06:40:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "2026 World Cup Golden Boot Odds: Mbappé Favored Over Kane, Messi",
+      "description": "With less than 25 days remaining until kickoff, here are the odds for the Golden Boot award at the 2026 FIFA World Cup.",
+      "url": "https://www.foxsports.com/stories/soccer/soccer-2026-world-cup-odds-golden-boot",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-19T02:32:58Z",
+      "league": "La Liga"
+    },
+    {
       "title": "Pep Guardiola to leave Man City at end of the season: reports",
       "description": "Pep Guardiola is set to bring his trophy-laden decade in charge of Manchester City to an end this weekend, according to multiple reports on Monday. Guardiola, 55, has won six Premier League titles and City's first Champions League among 20 trophies since arri…",
       "url": "https://japantoday.com/category/sports/pep-guardiola-to-leave-man-city-at-end-of-the-season-reports",
       "source": "Japan Today",
       "publishedAt": "2026-05-18T23:35:49Z",
-      "league": "Premier League"
+      "league": "La Liga"
     },
     {
       "title": "Hansi Flick Signs Contract Extension With Barcelona Until 2028",
@@ -14,14 +78,6 @@
       "url": "https://www.foxsports.com/stories/soccer/official-hansi-flick-signs-contract-extension-at-barcelona-until-2028",
       "source": "Fox Sports",
       "publishedAt": "2026-05-18T22:18:33Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Spain suffers double World Cup injury blow with Lamine Yamal sidelined and Barca teammate 'out'",
-      "description": "With the FIFA World Cup less than a month away, the Spanish national team has suffered two major injury setbacks, with Lamine Yamal still sidelined and a Barcelona teammate seemingly now out for the tournament",
-      "url": "https://www.alloutsoccer.com/news/spain-world-cup-yamal-injury-1843560",
-      "source": "Alloutsoccer.com",
-      "publishedAt": "2026-05-18T22:15:48Z",
       "league": "La Liga"
     },
     {
@@ -33,51 +89,11 @@
       "league": "La Liga"
     },
     {
-      "title": "Who could be the 2026 World Cup's breakout star?",
-      "description": "World Cups are where rising stars of football quickly transform into global icons. AFP Sport looks at five of the contenders to become the game's next superstar at this year's finals in the United States, Mexico and Canada: Nico Paz (Argentina) The son of for…",
-      "url": "https://japantoday.com/category/2026-fifa-world-cup/who-could-be-the-2026-world-cup%27s-breakout-star",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-18T21:28:02Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Spain dealt fresh Lamine Yamal blow ahead of World Cup",
-      "description": "A concerning update on the wellbeing of Barcelona and Spain star Lamine Yamal has come to the fore on Monday evening.This comes amid the understanding that the 18-year-old could be forced to sit out b...",
-      "url": "https://getfootballnewsspain.com/spain-dealt-fresh-lamine-yamal-blow-ahead-of-world-cup/",
-      "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-05-18T21:20:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Mourinho wants Rashford at Real Madrid - Tuesday gossip",
-      "description": "Jose Mourinho wants Marcus Rashford at Real Madrid, Everton and Aston Villa interested in William Osula, Levi Colwill not currently in talks over an improved Chelsea contract, plus more.",
-      "url": "https://www.bbc.com/sport/football/articles/c93xwq92513o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-05-18T20:11:36Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "José Mourinho Agrees To Return To Real Madrid, Expected To Sign Two-Year Deal",
-      "description": "Jose Mourinho is poised for a dramatic return to the Bernabeu after reportedly reaching a verbal agreement to become the next Real Madrid manager.",
-      "url": "https://www.foxsports.com/stories/soccer/jose-mourinho-to-real-madrid-is-on-benfica-boss-verbally-agrees-sensational-bernabeu-move-will-sign-two-year-contract-to-return-as-manager",
-      "source": "Fox Sports",
-      "publishedAt": "2026-05-18T19:24:50Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "FC Barcelona Coach Flick Extends Contract Through 2028",
-      "description": "FC Barcelona pulled off a major coup on Monday when highly-successful head coach Hansi Flick signed a contract extension until mid-2030.",
-      "url": "https://www.forbes.com/sites/tomsanderson/2026/05/18/fc-barcelona-coach-flick-extends-contract-through-2028/",
-      "source": "Forbes",
-      "publishedAt": "2026-05-18T19:23:49Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Revealed: What Allegri wants to stay at Milan",
-      "description": "Massimiliano Allegri is prepared to continue at AC Milan beyond this season, but has set out clear conditions for his stay, demanding significant investment",
-      "url": "https://football-italia.net/revealed-what-allegri-wants-to-stay-at-milan/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-18T18:41:00Z",
+      "title": "It's D-Day for Steve Clarke as he reveals Scotland's World Cup squad... so who will be on the plane to North America and who will be on the outside looking in?",
+      "description": "For the first time in almost three decades, a Scotland manager will today announce his squad for the World Cup Finals.",
+      "url": "https://www.dailymail.com/sport/football/article-15827987/Its-D-Day-Steve-Clarke-reveals-Scotlands-World-Cup-squad-plane-North-America-outside-looking-in.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-19T06:00:52Z",
       "league": "Serie A"
     },
     {
@@ -89,68 +105,20 @@
       "league": "Serie A"
     },
     {
-      "title": "Report: Mourinho wants Roma’s Wesley at Real Madrid",
-      "description": "José Mourinho is set to return to Real Madrid after 13 years away, and one of his first transfer targets is reported to be Roma's Brazilian full-back Wesley,",
-      "url": "https://football-italia.net/report-mourinho-wants-romas-wesley-real-madrid/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-18T16:20:14Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Lamine Yamal 'to MISS the start of the World Cup': Barcelona star dealt blow as he faces race against time to recover from hamstring injury for Spain",
-      "description": "Yamal, 18, is currently battling to be fit for the tournament as he recovers from a hamstring problem in his left leg.",
-      "url": "https://www.dailymail.com/sport/football/article-15827977/Lamine-Yamal-MISS-start-World-Cup.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-18T14:50:40Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Jadon Sancho’s hopes of sealing dream Dortmund return suffer setback",
-      "description": "Manchester United forward Jadon Sancho has reportedly been dealt a massive blow in his bid to secure a dream reunion with Borussia Dortmund.Exit imminentSancho is set to leave United at the end of the...",
-      "url": "https://thepeoplesperson.com/2026/05/18/jadon-sanchos-hopes-of-sealing-dream-dortmund-return-suffer-setback-310290/",
-      "source": "The Peoples Person",
-      "publishedAt": "2026-05-18T22:40:00Z",
+      "title": "Villa's shot at European glory",
+      "description": "On Wednesday night, Aston Villa have the chance to end a 30-year major trophy drought by winning the Europa League final against Freiburg in Istanbul. This is the first ever meeting between Freiburg and Villa, but Unai Emery's side have reason for optimism ag…",
+      "url": "https://www.bbc.com/sport/football/articles/c2027xrgzewo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-19T08:09:45Z",
       "league": "Bundesliga"
     },
     {
-      "title": "Karim Adeyemi: Man United have trump card in race for Dortmund star",
-      "description": "Manchester United believe they hold a trump card over Chelsea in the red-hot race to sign Borussia Dortmund speedster Karim Adeyemi, according to the latest report.Summer Exit LoomsDespite being highl...",
-      "url": "https://thepeoplesperson.com/2026/05/18/karim-adeyemi-man-united-have-trump-card-in-race-for-dortmund-star-310275/",
-      "source": "The Peoples Person",
-      "publishedAt": "2026-05-18T16:20:00Z",
+      "title": "Report: Neuer to be Germany's number one at 2026 World Cup",
+      "description": "Bayern Munich goalkeeper Manuel Neuer will be Germany's number one during the World Cup in the United States, Canada and Mexico, the Bild newspaper said on Monday. According to the report, coach Julian Nagelsmann has already informed Hoffenheim keeper Oliver …",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260519-99-470416/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-05-19T07:39:19Z",
       "league": "Bundesliga"
-    },
-    {
-      "title": "'It's Over': Lyon Chief Confirms Endrick's Return To Real Madrid After Loan",
-      "description": "Endrick sensation's short but sweet adventure in Ligue 1 has reached its conclusion as Olympique Lyonnais officially bid farewell to the teenager.",
-      "url": "https://www.foxsports.com/stories/soccer/its-over-lyon-chief-confirms-endrick-is-returning-to-real-madrid-after-amazing-loan-spell",
-      "source": "Fox Sports",
-      "publishedAt": "2026-05-18T21:45:11Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Neymar returns to Brazil’s squad for the 2026 World Cup: When did he last play for the national team?",
-      "description": "Despite not being part of Carlo Ancelotti’s process with Brazil, Neymar Jr. has been included in the 26-man squad for the 2026 World Cup. With this call-up, the 34-year-old star ends a lengthy absence after playing his last match for the national team several…",
-      "url": "https://worldsoccertalk.com/world-cup/neymar-returns-to-brazils-squad-for-the-2026-world-cup-when-did-he-last-play-for-the-national-team/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-05-18T21:04:18Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Five stories that could impact World Cup: Lamine Yamal to miss start of the tournament?",
-      "description": "Injuries and suspensions will deeply impact the upcoming decisions of coaches ahead of the World Cup",
-      "url": "https://www.cbssports.com/soccer/news/world-cup-lamine-yamal-to-miss-start-of-the-tournament-usmnt-injuries-chris-richards-ousmane-dembele/",
-      "source": "CBS Sports",
-      "publishedAt": "2026-05-18T16:07:40Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Mourinho returning to Madrid: 5 things ‘The Special One’ must do to make his comeback a success",
-      "description": "Jose Mourinho is set to make a sensational return to Real Madrid for a second spell in charge, and he will have a busy to-do list.",
-      "url": "https://www.101greatgoals.com/football/la-liga/mourinho-returning-madrid-5-things/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-05-18T18:39:58Z",
-      "league": "Primeira Liga"
     },
     {
       "title": "Jose Mourinho agrees to return as Real Madrid boss 13 years after leaving – reports",
@@ -158,6 +126,22 @@
       "url": "https://www.independent.ie/sport/soccer/jose-mourinho-agrees-to-return-as-real-madrid-boss-13-years-after-leaving-reports/a1130081024.html",
       "source": "Independent.ie",
       "publishedAt": "2026-05-18T14:40:16Z",
+      "league": "Primeira Liga"
+    },
+    {
+      "title": "Reports: Mourinho agrees to return as Madrid boss after 13 years away",
+      "description": "Jose Mourinho has agreed a deal to return to Real Madrid as head coach 13 years after his departure, according to reports. The 63-year-old Portuguese is set to replace Alvaro Arbeloa, who took over from new Chelsea boss Xabi Alonso in January and has steered …",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260518-99-463748/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-05-18T13:08:25Z",
+      "league": "Primeira Liga"
+    },
+    {
+      "title": "Mourinho on brink of Real Madrid return",
+      "description": "Jose Mourinho has agreed a deal to return to Real Madrid as head coach 13 years after his departure, according to reports.",
+      "url": "https://www.rte.ie/sport/soccer/2026/0518/1573948-mourinho-on-brink-of-real-madrid-return/",
+      "source": "RTE",
+      "publishedAt": "2026-05-18T12:42:04Z",
       "league": "Primeira Liga"
     },
     {
@@ -169,45 +153,13 @@
       "league": "Championship"
     },
     {
-      "title": "Less than 30 days before kickoff 2026 World Cup ticket prices are suddenly falling fast",
-      "description": "2026 FIFA World Cup ticket prices have fallen 23 percent in the past month as FIFA faces growing concerns over empty seats at matches in the United States, Mexico and Canada.",
-      "url": "https://nypost.com/2026/05/18/sports/2026-fifa-world-cup-ticket-prices-drop-sharply-as-fears-grow-over-empty-stadiums/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-18T20:59:05Z",
-      "league": "MLS"
-    },
-    {
       "title": "Austin FC Fires Coach And Sporting Director In Shakeup Before World Cup",
       "description": "Slumping Austin FC fired head coach Nico Estévez and sporting director Rodolfo Borrell with the team near the bottom of the Major League Soccer standings one season after returning to the playoffs.",
       "url": "https://www.foxsports.com/stories/soccer/slumping-austin-fc-fires-coach-and-sporting-director-in-shakeup-before-world-cup-break",
       "source": "Fox Sports",
       "publishedAt": "2026-05-18T18:43:23Z",
       "league": "MLS"
-    },
-    {
-      "title": "World Cup roster prediction: Projecting USMNT World Cup roster ahead of Mauricio Pochettino's final decision",
-      "description": "Mauricio Pochettino faces tough decisions ahead of the May 26 roster reveal as injuries and form issues complicate the final 26-man World Cup squad",
-      "url": "https://www.cbssports.com/soccer/news/world-cup-roster-prediction-projecting-usmnt-world-cup-roster-mauricio-pochettino/",
-      "source": "CBS Sports",
-      "publishedAt": "2026-05-18T15:19:38Z",
-      "league": "MLS"
-    },
-    {
-      "title": "USMNT World Cup roster projection: Who are the sure bets and bubble players by position?",
-      "description": "Ahead of Mauricio Pochettino's World Cup squad reveal next week, here's a position-by-position look at the U.S. players who appear locked in, and the lingering questions that could still reshape the roster.",
-      "url": "https://sports.yahoo.com/soccer/article/usmnt-world-cup-roster-projection-who-are-the-sure-bets-and-bubble-players-by-position-035108650.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-18T03:51:08Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Antoine Griezmann Bags 100th Assist In Final Atlético Home Game Before MLS Move",
-      "description": "Antoine Griezmann bid a highly emotional farewell to Atletico Madrid fans on Sunday, marking his final home match before an upcoming transfer to MLS side Orlando City by recording his 100th assist for the club.",
-      "url": "https://www.foxsports.com/stories/soccer/should-have-won-a-ballon-dor-antoine-griezmann-bags-100th-atletico-madrid-assist-in-final-home-game-before-mls-transfer-as-jan-oblak-leads-tributes",
-      "source": "Fox Sports",
-      "publishedAt": "2026-05-18T01:46:57Z",
-      "league": "MLS"
     }
   ],
-  "generatedAt": "2026-05-19T23:59:19.260Z"
+  "generatedAt": "2026-05-20T08:59:05.945Z"
 }
