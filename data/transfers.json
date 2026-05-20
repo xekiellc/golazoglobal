@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Chelsea forward to communicate Barcelona",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Football Espana",
-      "url": "https://www.football-espana.net/2026/05/19/chelsea-forward-to-communicate-barcelona-transfer-desire-to-club",
-      "publishedAt": "2026-05-19T12:45:00Z"
-    }
-  ],
-  "generatedAt": "2026-05-20T14:52:40.148Z",
+  "transfers": [],
+  "generatedAt": "2026-05-20T20:07:33.419Z",
   "note": "Transfers derived from news headlines at launch."
 }
