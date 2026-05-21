@@ -1,23 +1,4 @@
 {
-  "matches": [
-    {
-      "league": "PL",
-      "homeTeam": "Bournemouth",
-      "awayTeam": "Man City",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-05-19T18:30:00Z"
-    },
-    {
-      "league": "PL",
-      "homeTeam": "Chelsea",
-      "awayTeam": "Tottenham",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-05-19T19:15:00Z"
-    }
-  ],
-  "generatedAt": "2026-05-20T20:08:56.775Z"
+  "matches": [],
+  "generatedAt": "2026-05-21T00:04:55.627Z"
 }
