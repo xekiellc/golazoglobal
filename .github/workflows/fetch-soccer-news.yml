@@ -35,3 +35,15 @@ jobs:
             git commit -m "pipeline: $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
+
+      - name: Post to Voxxee
+        run: |
+          curl -s -X POST https://xenchee.netlify.app/.netlify/functions/pipeline-post \
+            -H "Content-Type: application/json" \
+            -H "x-pipeline-secret: ${{ secrets.PIPELINE_SECRET }}" \
+            -d '{
+              "slug": "golazo-global",
+              "title": "⚽ Golazo Global — Latest Soccer News",
+              "summary": "Fresh soccer news, stats, and match updates from around the world.",
+              "url": "https://golazoglobal.com"
+            }'
