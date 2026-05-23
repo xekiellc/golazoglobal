@@ -1,131 +1,251 @@
 {
   "articles": [
     {
-      "title": "The Dispatch: Champions special",
-      "description": "Watch our latest episode of The Dispatch as we react to becoming Premier League champs!",
-      "url": "http://www.arsenal.com/news/dispatch-champions-special",
-      "source": "Arsenal.com",
-      "publishedAt": "2026-05-22T08:00:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "How Guardiola transformed the Premier League tactically",
-      "description": "Pep Guardiola has changed the tactical landscape in the Premier League, but he has also adapted to its challenges.",
-      "url": "https://www.bbc.com/sport/football/articles/c332v8g8vnyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "title": "Nuno on players ignoring Spurs score, fan message and Bowen",
+      "description": "West Ham boss Nuno Espirito Santo has been speaking to the media before Sunday's must-win Premier League game against Leeds United at London Stadium (kick-off 16:00 BST). Leeds did a very good season.",
+      "url": "https://www.bbc.com/sport/football/articles/cj4pzwkzyxjo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
       "source": "BBC News",
-      "publishedAt": "2026-05-22T07:45:10Z",
+      "publishedAt": "2026-05-22T13:11:44Z",
       "league": "Premier League"
     },
     {
-      "title": "Arsenal’s Ødegaard named Norway captain for World Cup",
-      "description": "Arsenal’s Martin Odegaard will captain Norway at the FIFA World Cup. Discover the full squad, including Haaland, and their group stage opponents.\n\nRead More: https://punchng.com/arsenals-odegaard-named-norway-captain-for-world-cup/",
-      "url": "https://punchng.com/arsenals-odegaard-named-norway-captain-for-world-cup/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-22T07:24:44Z",
+      "title": "'If Katie was English she'd be in Ballon d'Or mix' - Ward",
+      "description": "Republic of Ireland boss Carla Ward has shared her bewilderment at Arsenal's decision to let Katie McCabe go, and suggested if the Dubliner was English she would be in the conversation to win this year's Ballon d'Or Feminin.",
+      "url": "https://www.rte.ie/sport/soccer/2026/0522/1574760-if-katie-was-english-shed-be-in-ballon-dor-mix-ward/",
+      "source": "RTE",
+      "publishedAt": "2026-05-22T13:10:28Z",
       "league": "Premier League"
     },
     {
-      "title": "Japan’s World Cup 2026 team preview: Players to watch, group, squad",
-      "description": "Japan have beaten Germany, Brazil, England and Spain since 2022, but may struggle to sustain a genuine title push.",
-      "url": "https://www.aljazeera.com/sports/2026/5/22/japans-world-cup-2026-team-preview-players-to-watch-group-squad",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-22T07:19:39Z",
-      "league": "La Liga"
+      "title": "'Not all leaders are the same' - De Zerbi on captain Romero's absence",
+      "description": "Roberto De Zerbi says \"not all leaders are the same\" after being quizzed on captain Cristian Romero's decision to fly to Argentina instead of attending Tottenham's game against Everton with their Premier League survival at stake.",
+      "url": "https://www.skysports.com/football/news/11095/13547036/cristian-romero-roberto-de-zerbi-says-not-all-leaders-are-the-same-with-spurs-captain-set-to-miss-relegation-decider-vs-everton",
+      "source": "Sky Sports",
+      "publishedAt": "2026-05-22T13:08:00Z",
+      "league": "Premier League"
     },
     {
-      "title": "Cristiano Ronaldo: Man United legend ends trophy drought with Al Nassr",
-      "description": "Manchester United legend Cristiano Ronaldo has finally won his first piece of silverware with Al-Nassr.United exitRonaldo won the Champions League and three league titles during his spell at Old Traff...",
-      "url": "https://thepeoplesperson.com/2026/05/22/cristiano-ronaldo-man-united-legend-ends-trophy-drought-with-al-nassr-310456/",
-      "source": "The Peoples Person",
-      "publishedAt": "2026-05-22T06:40:00Z",
-      "league": "La Liga"
+      "title": "Hull v Middlesbrough: Preview, predicted line-ups & where to watch the Championship play-off final",
+      "description": "Hull take on Middlesbrough at Wembley for a place in the Premier League. Read our in-depth preview here...",
+      "url": "https://www.101greatgoals.com/match-previews/hull-v-middlesbrough-preview-predicted-line-ups-where-to-watch-championship-play-off-final/",
+      "source": "101 Great Goals",
+      "publishedAt": "2026-05-22T13:06:33Z",
+      "league": "Premier League"
     },
     {
-      "title": "Mbappe, Haaland, other stars ready to light up World Cup",
-      "description": "Discover how Kylian Mbappe, Erling Haaland, and other top World Cup stars are preparing for the first-ever 48-team tournament across North America.\n\nRead More: https://punchng.com/mbappe-haaland-other-stars-ready-to-light-up-world-cup/",
-      "url": "https://punchng.com/?p=2149109",
-      "source": "The Punch",
-      "publishedAt": "2026-05-22T05:21:16Z",
-      "league": "La Liga"
+      "title": "Trent Alexander-Arnold finds out the hard way what leaving Liverpool has done to his career",
+      "description": "It’s all fallen apart for Trent Alexander-Arnold. Last year the homegrown Liverpool right-back was celebrating a second Premier League title win.And if things were slightly different he might well b...",
+      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-fc-news-england-fifa-world-cup-squad-trent-alexander-arnold-real-madrid/",
+      "source": "Anfieldwatch.co.uk",
+      "publishedAt": "2026-05-22T13:06:00Z",
+      "league": "Premier League"
     },
     {
-      "title": "From Benidorm beaches to Barcelona - the rise of Lopez",
-      "description": "With the Women's Champions League final between Barcelona and Lyon on Saturday, BBC Sport takes a look at the extraordinary rise of football's next global superstar, Vicky Lopez.",
-      "url": "https://www.bbc.com/sport/football/articles/c17vvk4jg8ro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-05-22T05:21:08Z",
-      "league": "La Liga"
+      "title": "Tottenham Hotspur vs Everton: Match Preview and Predicted Lineup",
+      "description": "Everton travel to Tottenham Hotspur this weekend for the final fixture of the 2025-26 Premier League season.Last weekend’s deflating defeat to Sunderland at Hill Dickinson Stadium leaves the Toffees...",
+      "url": "http://www.toffeeweb.com/season/25-26/news/47582.html",
+      "source": "Toffeeweb",
+      "publishedAt": "2026-05-22T13:05:00Z",
+      "league": "Premier League"
     },
     {
-      "title": "Alexi Lalas says US players citing World Cup pressure are a 'bunch of whiners'",
-      "description": "Alexi Lalas has criticized U.S. soccer players for citing pressure ahead of the World Cup at home",
-      "url": "https://abcnews.com/Entertainment/wireStory/alexi-lalas-us-players-citing-world-cup-pressure-133204376",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-22T06:41:33Z",
-      "league": "Serie A"
+      "title": "Atletico Madrid to beat Arsenal to Premier League icon",
+      "description": "Bernardo Silva has become one of the most sought-after players on the transfer market after announcing that he will leave Manchester City at the end of the current campaign as a free agent. Despite his impending departure, the midfielder remains in outstandin…",
+      "url": "https://www.justarsenal.com/atletico-madrid-to-beat-arsenal-to-premier-league-icon/415599",
+      "source": "Just Arsenal News",
+      "publishedAt": "2026-05-22T13:00:55Z",
+      "league": "Premier League"
     },
     {
-      "title": "Alexi Lalas says US players citing World Cup pressure are a 'bunch of whiners'",
-      "description": "Alexi Lalas doesn't want to hear U.S. players citing pressure ahead of playing in a World Cup at home and says Christian Pulisic, the top American, is “never going to be the leader.” Lalas, 55, played for the U.S. when it hosted the 1994 World Cup and has bee…",
-      "url": "https://sports.yahoo.com/articles/alexi-lalas-says-us-players-223452951.html",
+      "title": "Arbeloa confirms that he is leaving Real Madrid amid talk of Mourinho's return",
+      "description": "Álvaro Arbeloa confirmed what many soccer fans in Spain had taken for granted for weeks — he won’t be Real Madrid’s coach beyond the final game of the season on Saturday. When asked in a press conference Friday if the game against Athletic Bilbao would be his…",
+      "url": "https://sports.yahoo.com/articles/arbeloa-confirms-leaving-real-madrid-124602296.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-21T22:34:52Z",
+      "publishedAt": "2026-05-22T12:46:02Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Real Madrid v Athletic Club: Line-ups, stats and preview as Arbeloa takes charge of final game",
+      "description": "Real Madrid face Athletic Club in La Liga on Saturday. Read our in-depth preview here.",
+      "url": "https://www.101greatgoals.com/match-previews/la-liga-matches/real-madrid-v-athletic-club-line-ups-stats-and-preview-as-arbeloa-takes-charge-of-final-game/",
+      "source": "101 Great Goals",
+      "publishedAt": "2026-05-22T12:35:24Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Guardiola to step down after glittering decade at Man City",
+      "description": "Pep Guardiola announced on Friday that he will leave Manchester City at the end of the season after a trophy-laden decade that transformed English football.Guardiola was not expected to stay in the Premier League for the long term but he put down roots and hi…",
+      "url": "https://sports.yahoo.com/articles/guardiola-step-down-glittering-decade-122459162.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-22T12:24:59Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Real Madrid head coach Arbeloa confirms departure",
+      "description": "Real Madrid head coach Alvaro Arbeloa confirms that he will leave the club at the end of the season.",
+      "url": "https://www.bbc.com/sport/football/articles/cvgz3wgy9vvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-22T12:16:24Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Pep Guardiola announces Man City exit",
+      "description": "Pep Guardiola announced on Friday that he will leave Manchester City at the end of the season after a trophy-laden decade that transformed English football. Guardiola guided City to 20 trophies, including six Premier League titles and the club’s only Champion…",
+      "url": "https://punchng.com/pep-guardiola-announces-man-city-exit/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-22T11:21:57Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Flick talks Ferran, Kounde, Fermin, Hamza Abdelkarim, Thiago, Guardiola ahead of Valencia vs Barcelona",
+      "description": "As Barcelona prepare to close the curtain on their title-winning 2025/26 campaign against Valencia, Hansi Flick faced the media for the final time. Despite already guiding Barcelona to an impressive ...",
+      "url": "https://barcauniversal.com/flick-talks-ferran-kounde-fermin-hamza-abdelkarim-thiago-guardiola-ahead-of-valencia-vs-barcelona/",
+      "source": "Barcauniversal.com",
+      "publishedAt": "2026-05-22T11:10:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Pep Guardiola to step down after glittering decade at Manchester City",
+      "description": "Pep Guardiola announced on Friday (May 22) that he will leave Manchester City at the end of the season after a trophy-laden decade that transformed English football.Guardiola guided City to 20 trophies, including six Premier League titles and the club's only …",
+      "url": "https://www.channelnewsasia.com/sport/pep-guardiola-step-down-after-glittering-decade-manchester-city-6136326",
+      "source": "CNA",
+      "publishedAt": "2026-05-22T11:03:09Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Rashford leaves out United in social media thanks for “believing” after World Cup selection",
+      "description": "Marcus Rashford made no mention of current club Manchester United as he took to social media to thank those who kept “believing in me when things got tough”, following his selection for the World ...",
+      "url": "https://wp.fromthespot.co.uk/28955/rashford-leaves-out-united-in-social-media-thanks-for-believing-after-world-cup-selection/",
+      "source": "Fromthespot.co.uk",
+      "publishedAt": "2026-05-22T10:40:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Report: Arsenal are one of the clubs in the race to sign £46.5m Man City star",
+      "description": "Arsenal Transfer News: Reijnders Interest Adds Intrigue to Summer PlansArsenal’s summer planning appears to have taken an intriguing turn, with TeamTalk reporting that Manchester City midfielder Tij...",
+      "url": "https://eplindex.com/146681/report-arsenal-are-one-of-the-clubs-in-the-race-to-sign-46-5m-man-city-star.html",
+      "source": "English Premier League Index - Opta Stats",
+      "publishedAt": "2026-05-22T12:50:00Z",
       "league": "Serie A"
     },
     {
-      "title": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
-      "description": "Portugal forward Cristiano Ronaldo leads Al-Nassr to Saudi Pro League title in last game before World Cup 2026.",
-      "url": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-21T21:02:16Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Norway squad for 2026 World Cup has 5 Serie A players",
-      "description": "There are five Serie A players in the final Norway squad going to the 2026 World Cup, from Sassuolo, Bologna, Torino, Genoa and Cremonese.",
-      "url": "https://football-italia.net/norway-squad-world-cup-has-5-serie-a-players/",
+      "title": "Cardinale flies to Milan to conduct Allegri talks, Goretzka deal and striker search",
+      "description": "Gerry Cardinale will be in Milan for the final Serie A match of the season against Cagliari on Sunday, and the Rossoneri owner is expected to conduct talks",
+      "url": "https://football-italia.net/cardinale-inmilan-for-allegri-goretzka-talks/",
       "source": "Football Italia",
-      "publishedAt": "2026-05-21T19:23:32Z",
+      "publishedAt": "2026-05-22T11:00:12Z",
       "league": "Serie A"
     },
     {
-      "title": "\"I would have preferred El Mala\" – Lothar Matthäus criticises decision to include Leroy Sané in German World Cup squad",
-      "description": "Germany’s World Cup squad was announced on Thursday, with Leroy Sané among the attacking options selected by head coach Julian Nagelsmann.However, for Germany legend Lothar Matthäus, the 30-year-o...",
-      "url": "https://bulinews.com/preferred-mala-lothar-matthaus-criticises-decision-include-leroy-sane-german-world-cup-squad",
-      "source": "Bulinews.com",
-      "publishedAt": "2026-05-22T07:51:00Z",
+      "title": "Ederson: Man United agree £46 million transfer with Atalanta",
+      "description": "Manchester United have agreed a deal to sign Atalanta midfielder Ederson, according to a new report from Italy.Midfield MonsterThe Red Devils are long-term admirers of Ederson, 26, having made advance...",
+      "url": "https://thepeoplesperson.com/2026/05/22/ederson-man-united-agree-46-million-transfer-with-atalanta-310468/",
+      "source": "The Peoples Person",
+      "publishedAt": "2026-05-22T10:20:00Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "From Third to Sixth in 90 Minutes: Juventus’s Champions League Dream Now Rests on the Final Day",
+      "description": "A 2-0 home defeat to Fiorentina has turned a controlled qualification run into a desperate scramble. Sunday at Torino is all that remains — and it may not even be enough.There was a moment, sometime...",
+      "url": "https://www.juvefc.com/from-third-to-sixth-in-90-minutes-juventuss-champions-league-dream-now-rests-on-the-final-day/",
+      "source": "JuveFC",
+      "publishedAt": "2026-05-22T08:00:00Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Bayern Munich vs. Stuttgart prediction, odds: DFB-Pokal final best bets from top expert for Saturday, May 23",
+      "description": "SportsLine soccer expert Martin Green is revealing his best bets for the German Cup final between Bayern Munich and Stuttgart on Saturday",
+      "url": "https://www.cbssports.com/betting/news/bayern-munich-vs-stuttgart-prediction-odds-dfb-pokal-final-best-bets-from-top-expert-for-saturday-may-23/",
+      "source": "CBS Sports",
+      "publishedAt": "2026-05-22T13:00:48Z",
       "league": "Bundesliga"
     },
     {
-      "title": "Bayern hope to avoid 'bitter' end as spoilers Stuttgart await in German Cup",
-      "description": "Bayern Munich face holders Stuttgart in the German Cup final on Saturday knowing defeat will sour what had been one of their most promising seasons in recent memory. A Bayern-Stuttgart clash opened the season in the newly renamed Franz Beckenbauer Supercup, w…",
-      "url": "https://sports.yahoo.com/articles/bayern-hope-avoid-bitter-end-033644251.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-22T03:36:44Z",
+      "title": "Pep Guardiola confirms he is leaving Manchester City this summer",
+      "description": "Manager Pep Guardiola will leave Manchester City at the end of the season, the club have announced. Sunday’s Premier League game against Aston Villa will be his final match after 10 years in charge.",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260522-99-506996/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-05-22T12:10:48Z",
       "league": "Bundesliga"
     },
     {
-      "title": "Uncapped Tangvik gets Norway's World Cup call after impressive HSV debut",
-      "description": "Former Köln coach Ståle Solbakken nominated Sander Tangvik (HSV), Julian Ryerson (Borussia Dortmund) and Antonio Nusa (RB Leipzig) for Norway's first World Cup since 1998. The latter two were expect...",
-      "url": "https://bulinews.com/uncapped-tangvik-gets-norway-world-cup-call-after-impressive-hsv-debut",
-      "source": "Bulinews.com",
-      "publishedAt": "2026-05-21T21:04:00Z",
+      "title": "Manchester City confirm Guardiola exit after Premier League final day",
+      "description": "Ollie Whitmore, Chief football news reporterManchester City have confirmed that Pep Guardiola will leave Manchester City after their final game of the Premier League season against Europa League winne...",
+      "url": "https://wp.fromthespot.co.uk/28968/manchester-city-confirm-guardiola-exit-after-premier-league-final-day/",
+      "source": "Fromthespot.co.uk",
+      "publishedAt": "2026-05-22T11:10:00Z",
       "league": "Bundesliga"
     },
     {
-      "title": "Ineos-owned Nice in disarray before French Cup final against Lens",
-      "description": "Nice can win a first trophy in almost three decades when they play Lens in Friday's French Cup final, but the Ineos-owned club are in disarray and more preoccupied with maintaining their top-flight status.They have had three top-five finishes since then, and …",
-      "url": "https://sports.yahoo.com/articles/ineos-owned-nice-disarray-french-161303033.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-21T16:13:03Z",
+      "title": "Pep Guardiola confirms he is leaving Manchester City this summer",
+      "description": "Manager Pep Guardiola will leave Manchester City at the end of the season, the club have announced. Sunday’s Premier League game against Aston Villa will be his final match after 10 years in charge.",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260522-99-506089/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-05-22T10:55:28Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Calf injury: Returning Germany keeper Neuer out of Bayern's Cup final",
+      "description": "Bayern Munich goalkeeper and captain Manuel Neuer will miss Saturday's German Cup final against VfB Stuttgart due to a calf muscle injury, the club said. Bayern said on Friday that Neuer will not be part of the match squad for the game in Berlin \"due to a pro…",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260522-99-506053/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-05-22T10:55:28Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "'I know it’s my time': Pep Guardiola confirms Manchester City exit after 10 years and six titles",
+      "description": "Since his appointment in 2016, the 55-year-old has overseen 20 trophy wins.",
+      "url": "https://www.the42.ie/pep-guardiola-man-city-13-7047776-May2026/",
+      "source": "The42",
+      "publishedAt": "2026-05-22T10:36:53Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "'I know it's my time' - Pep Guardiola City exit confirmed",
+      "description": "Pep Guardiola is to leave Manchester City at the end of the season, the club have announced.",
+      "url": "https://www.rte.ie/sport/soccer/2026/0522/1574724-i-know-its-my-time-pep-guardiola-city-exit-confirmed/",
+      "source": "RTE",
+      "publishedAt": "2026-05-22T10:30:32Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Robin Risser hoping to stay at Lens next season",
+      "description": "Author of a remarkable and standout season, Robin Risser (21) has undoubtedly been one of the key players in RC Lens’s second-place finish in Ligue 1. These performances earned him the Goalkeeper of...",
+      "url": "https://www.getfootballnewsfrance.com/2026/robin-risser-hoping-to-stay-at-lens-next-season/",
+      "source": "Get French Football News",
+      "publishedAt": "2026-05-22T12:05:00Z",
       "league": "Ligue 1"
     },
     {
-      "title": "Alan Shearer selects his all-time World Cup XI with both Lionel Messi and Diego Maradona... but does Cristiano Ronaldo make the cut?",
-      "description": "Former England captain Alan Shearer has revealed his ultimate World Cup XI, selecting a side packed with legendary names from football's greatest tournament.",
-      "url": "https://www.dailymail.com/sport/football/article-15827627/Alan-Shearer-selects-time-World-Cup-XI-Lionel-Messi-Diego-Maradona-does-Cristiano-Ronaldo-make-cut.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-22T07:50:49Z",
+      "title": "Lens predicted XI v OGC Nice: Samson Baidoo out, Allan Saint-Maximin on the bench",
+      "description": "RC Lens will be without centre-back Samson Baidoo as they prepare to face OGC Nice in the final of the Coupe de France on Friday night. With the centre-back out with injury, Pierre Sage will be force...",
+      "url": "https://www.getfootballnewsfrance.com/2026/lens-predicted-xi-v-ogc-nice-samson-baidoo-out-allan-saint-maximin-on-the-bench/",
+      "source": "Get French Football News",
+      "publishedAt": "2026-05-22T08:15:00Z",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "Nice predicted XI v Lens: Dante to start antepenultimate game of his career",
+      "description": "Relegation-threatened OGC Nice line up for the Coupe de France final tonight at Stade de France against RC Lens. Although much of the focus obviously turns to next week’s two-legged Ligue 1 relegati...",
+      "url": "https://www.getfootballnewsfrance.com/2026/nice-predicted-xi-v-lens-dante-to-start-antepenultimate-game-of-his-career/",
+      "source": "Get French Football News",
+      "publishedAt": "2026-05-22T08:00:00Z",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "Ousmane Dembélé confirms he will ‘100%’ stay at PSG this summer",
+      "description": "Ousmane Dembélé (29) has reaffirmed that his future lies at Paris Saint-Germain during an interview with RMC Sport show Rothen s’enflamme. There have been doubts regarding Dembélé’s contin...",
+      "url": "https://www.getfootballnewsfrance.com/2026/ousmane-dembele-confirms-he-will-100-stay-at-psg-this-summer/",
+      "source": "Get French Football News",
+      "publishedAt": "2026-05-21T20:50:00Z",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "Pep Guardiola reacts to Manchester City departure confirmation ahead of Aston Villa finale",
+      "description": "Manchester City manager Pep Guardiola will take charge of his final game for the Blues against Aston Villa at the Etihad Stadium on Sunday evening.Guardiola has confirmed he is bringing the curtain do...",
+      "url": "https://cityxtra.co.uk/46971/pep-guardiola-reacts-to-manchester-city-departure-confirmation-ahead-of-aston-villa-finale/",
+      "source": "Cityxtra.co.uk",
+      "publishedAt": "2026-05-22T12:50:00Z",
       "league": "Champions League"
     },
     {
@@ -137,11 +257,11 @@
       "league": "Eredivisie"
     },
     {
-      "title": "England World Cup Roster Update: Foden, Palmer, Macguire Out; Toney, Madueke In",
-      "description": "Thomas Tuchel sent shockwaves through English football after leaving Phil Foden, Cole Palmer, and a \"shocked and gutted\" Harry Maguire out of England’s final 26-man World Cup squad.",
-      "url": "https://www.foxsports.com/stories/soccer/harry-maguire-england-2026-fifa-world-cup-roster",
-      "source": "Fox Sports",
-      "publishedAt": "2026-05-21T19:21:38Z",
+      "title": "Middlesbrough face Hull in football's richest game after 'spygate' row",
+      "description": "Middlesbrough and Hull will meet in the richest game in world football at Wembley on Saturday, competing for a place in the Premier League in a match overshadowed by Southampton's \"spygate\" saga.Hull and Middlesbrough were both relegated from the Premier Leag…",
+      "url": "https://sports.yahoo.com/articles/middlesbrough-face-hull-footballs-richest-010706261.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-22T01:07:06Z",
       "league": "Championship"
     },
     {
@@ -153,13 +273,37 @@
       "league": "MLS"
     },
     {
-      "title": "World Cup could make football 'mainstream' in co-host Canada",
-      "description": "Three weeks before kickoff in the first ever World Cup match in Canada, football leaders in the country voiced hope the tournament will finally give the sport the cultural prominence it deserves. In two previous World Cup appearances -- the 1986 finals in Mex…",
-      "url": "https://sports.yahoo.com/articles/world-cup-could-football-mainstream-185308223.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-21T18:53:08Z",
+      "title": "Casemiro To Miss Man Utd Finale Amid Inter Miami Transfer Links",
+      "description": "Manchester United head coach Michael Carrick has confirmed that Brazilian midfielder Casemiro has played his final match for the club following a sentimental farewell at Old Trafford.",
+      "url": "https://www.foxsports.com/stories/soccer/michael-carrick-confirms-casemiro-wont-be-involved-in-man-utds-final-game-of-season-amid-inter-miami-transfer-links",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-21T23:01:33Z",
       "league": "MLS"
+    },
+    {
+      "title": "‘Give everything to represent my country’: Revs’ GK Matt Turner discusses chance to start for USMNT",
+      "description": "\"For me, it’s always about competing and the joy I have competing at that level and my teammates look at me with that relief in their face that I just bailed them out.\"",
+      "url": "https://sports.yahoo.com/articles/everything-represent-country-revs-gk-203923920.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-21T20:39:23Z",
+      "league": "MLS"
+    },
+    {
+      "title": "Why Tuchel wanted Toney back in England picture",
+      "description": "Ivan Toney has barely featured under England boss Thomas Tuchel - but this is why the German coach wants him in his World Cup squad.",
+      "url": "https://www.bbc.com/sport/football/articles/cy527w4e7yzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-22T11:45:15Z",
+      "league": "Transfers"
+    },
+    {
+      "title": "Should Christian Pulisic move from AC Milan after the World Cup?",
+      "description": "With silly season coming up - should CP10 be looking for a move?",
+      "url": "https://www.starsandstripesfc.com/hot-takes/43722/should-christian-pulisic-move-from-ac-milan-after-the-world-cup",
+      "source": "Starsandstripesfc.com",
+      "publishedAt": "2026-05-22T13:00:00Z",
+      "league": "World Cup"
     }
   ],
-  "generatedAt": "2026-05-23T08:11:14.300Z"
+  "generatedAt": "2026-05-23T13:14:30.924Z"
 }
