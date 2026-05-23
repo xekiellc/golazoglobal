@@ -116,14 +116,14 @@
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
-          "goals": 24,
+          "goals": 25,
           "assists": 4,
           "penalties": 8
         },
         {
           "name": "Vedat Muriqi",
           "team": "Mallorca",
-          "goals": 22,
+          "goals": 23,
           "assists": 1,
           "penalties": 5
         },
@@ -138,7 +138,7 @@
           "name": "Ferrán Torres",
           "team": "Barça",
           "goals": 16,
-          "assists": 2,
+          "assists": 3,
           "penalties": 0
         },
         {
@@ -170,17 +170,17 @@
           "penalties": 7
         },
         {
-          "name": "Raphinha",
-          "team": "Barça",
-          "goals": 13,
-          "assists": 3,
-          "penalties": 3
-        },
-        {
           "name": "Toni Martínez",
           "team": "Alavés",
-          "goals": 13,
+          "goals": 14,
           "assists": 3,
+          "penalties": 1
+        },
+        {
+          "name": "Robert Lewandowski",
+          "team": "Barça",
+          "goals": 14,
+          "assists": 2,
           "penalties": 1
         }
       ],
@@ -202,7 +202,7 @@
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
-          "goals": 24,
+          "goals": 25,
           "assists": 4,
           "penalties": 8
         },
@@ -214,11 +214,11 @@
           "penalties": 7
         },
         {
-          "name": "Raphinha",
+          "name": "Ferrán Torres",
           "team": "Barça",
-          "goals": 13,
+          "goals": 16,
           "assists": 3,
-          "penalties": 3
+          "penalties": 0
         }
       ]
     },
@@ -891,6 +891,13 @@
     "BSA": {
       "scorers": [
         {
+          "name": "Carlos Vinícius",
+          "team": "Grêmio",
+          "goals": 9,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Pedro",
           "team": "Flamengo",
           "goals": 9,
@@ -910,13 +917,6 @@
           "goals": 8,
           "assists": 1,
           "penalties": 2
-        },
-        {
-          "name": "Carlos Vinícius",
-          "team": "Grêmio",
-          "goals": 7,
-          "assists": 0,
-          "penalties": 1
         },
         {
           "name": "Danilo dos Santos de Oliveira",
@@ -947,18 +947,18 @@
           "penalties": 2
         },
         {
+          "name": "Luciano",
+          "team": "São Paulo",
+          "goals": 6,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Jonathan Calleri",
           "team": "São Paulo",
           "goals": 6,
           "assists": 1,
           "penalties": 1
-        },
-        {
-          "name": "José Manuel López",
-          "team": "Palmeiras",
-          "goals": 5,
-          "assists": 3,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -966,13 +966,6 @@
           "name": "Pedro",
           "team": "Flamengo",
           "goals": 9,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
-          "name": "José Manuel López",
-          "team": "Palmeiras",
-          "goals": 5,
           "assists": 3,
           "penalties": 0
         },
@@ -996,9 +989,16 @@
           "goals": 8,
           "assists": 1,
           "penalties": 2
+        },
+        {
+          "name": "Arthur Cabral",
+          "team": "Botafogo",
+          "goals": 7,
+          "assists": 1,
+          "penalties": 0
         }
       ]
     }
   },
-  "generatedAt": "2026-05-23T19:06:45.369Z"
+  "generatedAt": "2026-05-23T23:57:24.550Z"
 }
