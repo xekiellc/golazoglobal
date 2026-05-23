@@ -10,15 +10,6 @@
       "utcDate": "2026-05-22T18:45:00Z"
     },
     {
-      "league": "ELC",
-      "homeTeam": "Hull City",
-      "awayTeam": "Southampton",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "SCHEDULED",
-      "utcDate": "2026-05-23T01:00:00Z"
-    },
-    {
       "league": "PD",
       "homeTeam": "Alavés",
       "awayTeam": "Rayo Vallecano",
@@ -163,5 +154,5 @@
       "utcDate": "2026-05-24T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-23T00:03:23.929Z"
+  "generatedAt": "2026-05-23T08:12:40.787Z"
 }

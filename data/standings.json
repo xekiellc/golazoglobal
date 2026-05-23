@@ -606,14 +606,14 @@
       {
         "position": 7,
         "team": "Atalanta",
-        "played": 37,
+        "played": 38,
         "won": 15,
-        "drawn": 13,
+        "drawn": 14,
         "lost": 9,
-        "goalsFor": 50,
-        "goalsAgainst": 35,
+        "goalsFor": 51,
+        "goalsAgainst": 36,
         "goalDifference": 15,
-        "points": 58,
+        "points": 59,
         "form": ""
       },
       {
@@ -697,18 +697,18 @@
       {
         "position": 14,
         "team": "Fiorentina",
-        "played": 37,
+        "played": 38,
         "won": 9,
-        "drawn": 14,
+        "drawn": 15,
         "lost": 14,
-        "goalsFor": 40,
-        "goalsAgainst": 49,
+        "goalsFor": 41,
+        "goalsAgainst": 50,
         "goalDifference": -9,
-        "points": 41,
+        "points": 42,
         "form": ""
       },
       {
-        "position": 14,
+        "position": 15,
         "team": "Genoa",
         "played": 37,
         "won": 10,
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-23T00:04:27.048Z"
+  "generatedAt": "2026-05-23T08:13:43.867Z"
 }
