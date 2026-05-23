@@ -1,52 +1,100 @@
 {
   "articles": [
     {
-      "title": "England World Cup Roster Update: Foden, Palmer, Macguire Out; Toney, Madueke In",
-      "description": "Thomas Tuchel sent shockwaves through English football after leaving Phil Foden, Cole Palmer, and a \"shocked and gutted\" Harry Maguire out of England’s final 26-man World Cup squad.",
-      "url": "https://www.foxsports.com/stories/soccer/harry-maguire-england-2026-fifa-world-cup-roster",
+      "title": "World Cup 2026: United States gets more brutal injury news days ahead of roster reveal",
+      "description": "The United States men’s national team suffered another blow over the weekend.",
+      "url": "https://www.masslive.com/sports/2026/05/world-cup-2026-united-states-gets-more-brutal-injury-news-days-ahead-of-roster-reveal.html",
+      "source": "MassLive.com",
+      "publishedAt": "2026-05-22T00:01:16Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Cristian Romero Criticized For Missing Spurs Match To Watch Game In Argentina",
+      "description": "Tottenham captain Cristian Romero has been criticized after opting to fly back to Argentina rather than support his team-mates in their final-day Premier League relegation decider against Everton.",
+      "url": "https://www.foxsports.com/stories/soccer/cristian-romero-blasted-for-terrible-decision-to-skip-tottenham-relegation-decider-in-favour-of-watching-game-in-argentina",
       "source": "Fox Sports",
-      "publishedAt": "2026-05-21T19:21:38Z",
+      "publishedAt": "2026-05-21T23:52:05Z",
       "league": "Premier League"
     },
     {
-      "title": "World Cup could make football 'mainstream' in co-host Canada",
-      "description": "Three weeks before kickoff in the first ever World Cup match in Canada, football leaders in the country voiced hope the tournament will finally give the sport the cultural prominence it deserves. In two previous World Cup appearances -- the 1986 finals in Mex…",
-      "url": "https://sports.yahoo.com/articles/world-cup-could-football-mainstream-185308223.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-21T18:53:08Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Chris Richards' World Cup in question as USMNT defender suffers ankle injury",
-      "description": "Crystal Palace defender Chris Richards has suffered a major ankle injury, which could yet see him miss out on the rapidly approaching FIFA World Cup, with his status for the UEFA Conference League Final also in doubt",
-      "url": "https://www.alloutsoccer.com/news/richards-usmnt-world-cup-injury-1848906",
+      "title": "U.S. Soccer boss opens up on Mauricio Pochettino’s future as World Cup nears",
+      "description": "U.S. Soccer CEO and Secretary General, JT Batson, has opened up on U.S. Men's National Team head coach Mauricio Pochettino's future with the FIFA World Cup a matter of weeks away",
+      "url": "https://www.alloutsoccer.com/news/usmnt-pochettino-world-cup-future-1849165",
       "source": "Alloutsoccer.com",
-      "publishedAt": "2026-05-21T18:50:21Z",
+      "publishedAt": "2026-05-21T23:21:15Z",
       "league": "Premier League"
     },
     {
-      "title": "Maguire ‘shocked and gutted’ to miss out on World Cup with England",
-      "description": "Defender Harry Maguire says he is “shocked and gutted” to have been left out of Thomas Tuchel’s World Cup squad, as reports emerged that Phil Foden and Cole Palmer have also missed out. The German coach will name his 26-man squad for this summer’s shot at glo…",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260521-99-500007/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-05-21T18:40:26Z",
+      "title": "Thomas Tuchel has never been one to lack the courage of his convictions but Harry Maguire's England World Cup snub makes less sense the more you think about it - while Ivan Toney's call-up is a luxury pick, writes IAN LADYMAN",
+      "description": "Harry Maguire's mum had two words for it as news of Thomas Tuchel's World Cup England squad began to eke out on Thursday afternoon.",
+      "url": "https://www.dailymail.com/sport/football/article-15838019/Thomas-Tuchel-never-one-lack-courage-convictions-Harry-Maguires-England-World-Cup-snub-makes-sense-you-think-Ivan-Toneys-call-luxury-pick-writes-IAN-LADYMAN.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-21T23:15:28Z",
       "league": "Premier League"
     },
     {
-      "title": "Why were Hakimi, Brahim Diaz, and Bounou left out of Morocco’s latest call-up before the World Cup?",
-      "description": "Morocco announced a training camp roster ahead of the 2026 FIFA World Cup, and stars such as Achraf Hakimi, Brahim Diaz, and Yassine Bounou were not included. With the start of the 2026 FIFA World Cup just over 20 days away, many national teams have already a…",
-      "url": "https://worldsoccertalk.com/world-cup/why-were-hakimi-brahim-diaz-and-bounou-left-out-of-moroccos-latest-call-up-before-the-world-cup/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-05-21T15:51:16Z",
+      "title": "Casemiro To Miss Man Utd Finale Amid Inter Miami Transfer Links",
+      "description": "Manchester United head coach Michael Carrick has confirmed that Brazilian midfielder Casemiro has played his final match for the club following a sentimental farewell at Old Trafford.",
+      "url": "https://www.foxsports.com/stories/soccer/michael-carrick-confirms-casemiro-wont-be-involved-in-man-utds-final-game-of-season-amid-inter-miami-transfer-links",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-21T23:01:33Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "How Palmer and Foden lost ruthless Tuchel's battle for number 10 roles",
+      "description": "Two years ago Phil Foden and Cole Palmer were England's future. Now, they cannot even get into the squad amid fierce rivalry for the number 10 role.",
+      "url": "https://www.bbc.com/sport/football/articles/c1k2g782m1ro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-21T22:48:20Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Shocking! Maguire dropped from England's World Cup squad",
+      "description": "Harry Maguire was left shocked after being omitted from England's World Cup squad by Thomas Tuchel, while Phil Foden and Cole Palmer were also reportedly dropped ahead of Friday's announcement.",
+      "url": "https://www.rediff.com/sports/report/shock-omission-maguire-dropped-from-englands-world-cup-squad/20260522.htm",
+      "source": "Rediff.com",
+      "publishedAt": "2026-05-21T22:33:33Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Enrique Riquelme Officially Enters Race Against Florentino Pérez for Real Madrid Presidency",
+      "description": "The Spanish businessman is preparing the first serious electoral challenge to Florentino Pérez in nearly two decades",
+      "url": "https://www.managingmadrid.com/latest-news/108036/enrique-riquelme-officially-enters-race-against-florentino-perez-for-real-madrid-presidency",
+      "source": "Managing Madrid",
+      "publishedAt": "2026-05-21T22:17:11Z",
       "league": "La Liga"
     },
     {
-      "title": "Man Utd star with 33 starts this season to be dropped for final day vs Brighton to begin World Cup preparations",
-      "description": "Reports from Brazil are suggesting Casemiro will not feature in Manchester United’s last game of the season on Sunday.The clash away to Brighton and Hove Albion this weekend would mark the midfielde...",
-      "url": "https://strettynews.com/2026/05/21/casemiro-dropped-brighton-and-hove-albion-manchester-united-inter-miami-brazil/",
-      "source": "Strettynews.com",
-      "publishedAt": "2026-05-21T13:35:00Z",
+      "title": "Real Madrid slap €80m price-tag on midfield star",
+      "description": "La Liga giants Real Madrid have laid out their demands to part with midfield star Eduardo Camavinga this summer.This comes amid the understanding that the Frenchman will not be allowed to depart for a...",
+      "url": "https://getfootballnewsspain.com/real-madrid-slap-e80m-price-tag-on-midfield-star/",
+      "source": "Getfootballnewsspain.com",
+      "publishedAt": "2026-05-21T21:00:00Z",
       "league": "La Liga"
+    },
+    {
+      "title": "Former US players Lalas and Holden think USSF should contact Guardiola about becoming American coach",
+      "description": "Former players Alexi Lalas and Stu Holden along with fellow Fox broadcasters Rebecca Lowe and Rob Stone all think the U.S. Soccer Federation should contact Pep Guardiola about taking over as the American national team's coach after the World Cup. Guardiola is…",
+      "url": "https://sports.yahoo.com/articles/former-us-players-lalas-holden-201132426.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-21T20:11:32Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Alexi Lalas says US players citing World Cup pressure are a 'bunch of whiners'",
+      "description": "Alexi Lalas doesn't want to hear U.S. players citing pressure ahead of playing in a World Cup at home and says Christian Pulisic, the top American, is “never going to be the leader.” Lalas, 55, played for the U.S. when it hosted the 1994 World Cup and has bee…",
+      "url": "https://sports.yahoo.com/articles/alexi-lalas-says-us-players-223452951.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-21T22:34:52Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
+      "description": "Portugal forward Cristiano Ronaldo leads Al-Nassr to Saudi Pro League title in last game before World Cup 2026.",
+      "url": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-21T21:02:16Z",
+      "league": "Serie A"
     },
     {
       "title": "Norway squad for 2026 World Cup has 5 Serie A players",
@@ -57,76 +105,68 @@
       "league": "Serie A"
     },
     {
-      "title": "Calvo celebrates Aston Villa’s Europa League win: ‘I don’t watch Italian football’",
-      "description": "Former Juventus director Francesco Calvo was part of the Aston Villa delegation celebrating their victory in the Europa League final on Wednesday night, but",
-      "url": "https://football-italia.net/calvo-celebrates-aston-villa-europa-league-win/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-21T12:55:34Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "World Cup 2026: How Juventus Stars McKennie and David Are Shaping Up for Tournament on Home Soil",
-      "description": "The 2025/26 football season might be coming to a close in Europe, but excitement is building as the 2026 World Cup draws near. And two Juventus players, Jonathan David and Weston McKennie, will be sho...",
-      "url": "https://cultofcalcio.com/world-cup-2026-how-juventus-stars-mckennie-and-david-are-shaping-up-for-tournament-on-home-soil/",
-      "source": "Cultofcalcio.com",
-      "publishedAt": "2026-05-21T08:30:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Updating the World Cup outlook for FC Cincinnati stars",
-      "description": "FC Cincinnati has at least four players who could be in contention to play in the FIFA World Cup this summer",
-      "url": "https://www.cincinnati.com/story/sports/soccer/fc-cincinnati/2026/05/21/updating-the-world-cup-outlook-for-fc-cincinnati-stars/90197120007/",
-      "source": "The Cincinnati Enquirer",
-      "publishedAt": "2026-05-21T18:19:34Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Manuel Neuer’s stunning return headlines Germany’s 2026 World Cup squad, and Serge Gnabry misses out as Julian Nagelsmann balances experience and heartbreak",
-      "description": "The announcement immediately sparked debate across the country as Die Mannschaft prepares for another attempt to restore its place among soccer’s elite after difficult recent World Cup campaigns. Germany has officially unveiled its squad for the 2026 World Cu…",
-      "url": "https://worldsoccertalk.com/world-cup/manuel-neuers-stunning-return-headlines-germanys-2026-world-cup-squad-and-serge-gnabry-misses-out-as-julian-nagelsmann-balances-experience-and-heartbreak/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-05-21T15:46:00Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Germany Reveals World Cup Roster, Brings Goalie Manuel Neuer Out Of Retirement",
-      "description": "Germany coach Julian Nagelsmann has coaxed veteran goalkeeper Manuel Neuer out of retirement for the World Cup. Here's the full roster.",
-      "url": "https://www.foxsports.com/stories/soccer/germany-goalkeeper-manuel-neuer-retirement-2026-fifa-world-cup",
+      "title": "John Stones to Bayern? Man City Defender Could Join Vincent Kompany, Harry Kane",
+      "description": "Bayern Munich are reportedly plotting a sensational summer swoop for Manchester City defender John Stones.",
+      "url": "https://www.foxsports.com/stories/soccer/john-stones-to-reunite-with-vincent-kompany-harry-kane-bayern-munich-plot-bid-to-sign-man-city-defender-with-english-contingent-set-to-grow-this-summer",
       "source": "Fox Sports",
-      "publishedAt": "2026-05-21T13:52:08Z",
+      "publishedAt": "2026-05-21T21:49:48Z",
       "league": "Bundesliga"
     },
     {
-      "title": "Dembele gives injury update pre-Arsenal final",
-      "description": "Ousmane Dembele believes he’ll be fit for the Champions League final against Arsenal, despite his recent injury setback with Paris Saint-Germain.Photo by Alexander Hassenstein/Getty ImagesOusmane De...",
-      "url": "https://dailycannon.com/2026/05/dembele-arsenal-injury-update/",
-      "source": "Dailycannon.com",
-      "publishedAt": "2026-05-21T16:05:00Z",
-      "league": "Ligue 1"
+      "title": "Uncapped Tangvik gets Norway's World Cup call after impressive HSV debut",
+      "description": "Former Köln coach Ståle Solbakken nominated Sander Tangvik (HSV), Julian Ryerson (Borussia Dortmund) and Antonio Nusa (RB Leipzig) for Norway's first World Cup since 1998. The latter two were expect...",
+      "url": "https://bulinews.com/uncapped-tangvik-gets-norway-world-cup-call-after-impressive-hsv-debut",
+      "source": "Bulinews.com",
+      "publishedAt": "2026-05-21T21:04:00Z",
+      "league": "Bundesliga"
     },
     {
-      "title": "Ousmane Dembele provides positive injury update ahead of PSG’s Champions League final vs Arsenal",
-      "description": "PSG forward Ousmane Dembele provided a positive injury update ahead of the highly anticipated Champions League final against Arsenal. Ousmane Dembele’s injury against Paris FC raised serious alarms at PSG ahead of the Champions League final against Arsenal, w…",
-      "url": "https://worldsoccertalk.com/news/ousmane-dembele-provides-positive-injury-update-ahead-of-psgs-champions-league-final-vs-arsenal/",
+      "title": "Eriksen on verge of relegation with Wolfsburg after 0-0 playoff draw with second-division Paderborn",
+      "description": "Christian Eriksen is one game away from Bundesliga relegation with Wolfsburg after a scoreless draw with second-division Paderborn in the first leg of their playoff on Thursday. Eriksen, who signed a two-year deal when he joined Wolfsburg in September, likely…",
+      "url": "https://sports.yahoo.com/articles/eriksen-verge-relegation-wolfsburg-0-205532435.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-21T20:55:32Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Germany's Neuer out of retirement to join World Cup squad",
+      "description": "Germany coach Julian Nagelsmann had a surprise inclusion with 40-year-old goalkeeper Manuel Neuer making the 26-man German World Cup squad.",
+      "url": "https://www.rte.ie/sport/soccer/2026/0521/1574616-germanys-neuer-out-of-retirement-to-join-world-cup-squad/",
+      "source": "RTE",
+      "publishedAt": "2026-05-21T19:39:16Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Chris Richards' World Cup in question as USMNT defender suffers ankle injury",
+      "description": "Crystal Palace defender Chris Richards has suffered a major ankle injury, which could yet see him miss out on the rapidly approaching FIFA World Cup, with his status for the UEFA Conference League Final also in doubt",
+      "url": "https://www.alloutsoccer.com/news/richards-usmnt-world-cup-injury-1848906",
+      "source": "Alloutsoccer.com",
+      "publishedAt": "2026-05-21T18:50:21Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Why were Hakimi, Brahim Diaz, and Bounou left out of Morocco’s latest call-up before the World Cup?",
+      "description": "Morocco announced a training camp roster ahead of the 2026 FIFA World Cup, and stars such as Achraf Hakimi, Brahim Diaz, and Yassine Bounou were not included. With the start of the 2026 FIFA World Cup just over 20 days away, many national teams have already a…",
+      "url": "https://worldsoccertalk.com/world-cup/why-were-hakimi-brahim-diaz-and-bounou-left-out-of-moroccos-latest-call-up-before-the-world-cup/",
       "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-05-21T15:27:02Z",
+      "publishedAt": "2026-05-21T15:51:16Z",
       "league": "Ligue 1"
     },
     {
-      "title": "PSG: Ousmane Dembele provides injury update ahead of Champions League final after ‘slight scare’",
-      "description": "Ousmane Dembele is confident he will be 100 per cent fit for the Champions League final between PSG and Arsenal.",
-      "url": "https://www.101greatgoals.com/football/champions-league/psg-ousmane-dembele-injury-update/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-05-21T12:43:58Z",
-      "league": "Ligue 1"
+      "title": "How Cristiano Ronaldo heads into the 2026 World Cup after winning the Saudi Pro League with Al Nassr",
+      "description": "Cristiano Ronaldo is gearing up for the 2026 World Cup, entering the tournament on a high note after capturing the Saudi Pro League title with Al Nassr. Cristiano Ronaldo is putting the final touches on his preparation for the 2026 World Cup—a tournament that…",
+      "url": "https://worldsoccertalk.com/world-cup/how-cristiano-ronaldo-heads-into-the-2026-world-cup-after-winning-the-saudi-pro-league-with-al-nassr/",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-05-21T23:25:29Z",
+      "league": "Champions League"
     },
     {
-      "title": "Mass. native Frantzdy Pierrot named to Haiti's World Cup squad",
-      "description": "When Haiti plays its first World Cup match in over 50 years in Foxboro on June 13, a former Melrose High two-sport standout will be among its ranks.",
-      "url": "https://www.enterprisenews.com/story/sports/pro/2026/05/21/melroses-frantzdy-pierrot-going-to-world-cup-with-haiti/90164479007/",
-      "source": "Enterprise News",
-      "publishedAt": "2026-05-21T10:57:08Z",
-      "league": "Ligue 1"
+      "title": "Alexi Lalas doesn't want to hear about Team USA pressure during home World Cup: 'Cry me a river'",
+      "description": "Alexi Lalas and Stu Holden said the USMNT has the talent to do something special at the 2026 FIFA World Cup but must embrace the pressure at home.",
+      "url": "https://www.foxnews.com/sports/alexi-lalas-doesnt-want-hear-team-usa-pressure-home-world-cup-cry-river",
+      "source": "Fox News",
+      "publishedAt": "2026-05-21T23:08:29Z",
+      "league": "Champions League"
     },
     {
       "title": "AFCON Hero Sebastien Haller disappointed to miss out on Cote d’Ivoire World Cup squad",
@@ -137,29 +177,109 @@
       "league": "Eredivisie"
     },
     {
-      "title": "World Cup 2026 First Round: Must-Watch Matches, Teams and UK Kick-Off Times",
-      "description": "So here we are. Less than a month out. The biggest WC ever – 48 teams, three host countries, 104 matches – and it all will kick off in Mexico City on 11 June. Are UK fans ready for the early start...",
-      "url": "https://hayters.com/world-cup-teams-must-watch-matches-from-the-first-round-of-the-fifa-2026/",
-      "source": "Hayters.com",
-      "publishedAt": "2026-05-20T22:45:00Z",
-      "league": "Eredivisie"
+      "title": "FIFA’s big experiment may have made the World Cup too big for its own good",
+      "description": "A supersized World Cup with more teams, more games and even more host nations than ever before leaves a big question hanging over the biggest sporting show on earth: How much is too much? The latest edition of the World Cup — co-hosted by the United States, C…",
+      "url": "https://japantoday.com/category/2026-fifa-world-cup/fifa%E2%80%99s-big-experiment-may-have-made-the-world-cup-too-big-for-its-own-good",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-21T21:41:06Z",
+      "league": "Championship"
     },
     {
-      "title": "Inside Norway's World Cup roster 2026: Erling Haaland gets first crack at major FIFA finals",
-      "description": "Sporting one of the world's most electric goal-scorers, Norway enter their fourth FIFA World Cup not as a plucky underdog hoping to spring an upset, but instead as one of the more formidable sides in the competition.",
-      "url": "https://www.sportingnews.com/us/soccer/news/norway-world-cup-roster-2026-squad-players/3928bd383a559088b211d525",
-      "source": "Sporting News",
-      "publishedAt": "2026-05-20T10:43:35Z",
-      "league": "Primeira Liga"
+      "title": "England World Cup Roster Update: Foden, Palmer, Macguire Out; Toney, Madueke In",
+      "description": "Thomas Tuchel sent shockwaves through English football after leaving Phil Foden, Cole Palmer, and a \"shocked and gutted\" Harry Maguire out of England’s final 26-man World Cup squad.",
+      "url": "https://www.foxsports.com/stories/soccer/harry-maguire-england-2026-fifa-world-cup-roster",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-21T19:21:38Z",
+      "league": "Championship"
     },
     {
-      "title": "The 2026 World Cup Will Bring Serious Star Power to the States — Can American Soccer Capitalize?",
-      "description": "Americans love their superstars, and there will be no shortage of them at the 2026 World Cup. Will the nation jump on the opportunity to ignite a new era of soccer growth? We explore this questions wi...",
-      "url": "https://urbanpitch.com/the-2026-world-cup-will-bring-serious-star-power-to-the-states-can-american-soccer-capitalize/",
-      "source": "Urbanpitch.com",
-      "publishedAt": "2026-05-21T17:35:00Z",
+      "title": "Southampton boss ‘authorised’ spying on EFL clubs",
+      "description": "Southampton boss Tonda Eckert authorised spying on Championship clubs.",
+      "url": "https://www.101greatgoals.com/football/southampton-boss-authorised-spying-on-efl-clubs/",
+      "source": "101 Great Goals",
+      "publishedAt": "2026-05-21T18:37:23Z",
+      "league": "Championship"
+    },
+    {
+      "title": "Boro boss relieved 'right thing done' over Spygate",
+      "description": "Kim Hellberg reflects on a whirlwind of emotions on Middlesbrough's reinstatement for the Championship play-offs following Southampton's expulsion.",
+      "url": "https://www.bbc.com/sport/football/articles/cvgznxlejlpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-21T17:06:44Z",
+      "league": "Championship"
+    },
+    {
+      "title": "Spygate: Who is Tonda Eckert and can he keep his job?",
+      "description": "Tonda Eckert was a head coach who had the world at his feet. After Spygate, he may be fighting for his job and his future in the game.",
+      "url": "https://www.bbc.com/sport/football/articles/cvgz5x9xxxyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-21T16:57:56Z",
+      "league": "Championship"
+    },
+    {
+      "title": "Southampton claim spying on Middlesbrough did not change their tactics",
+      "description": "Millwall and Wrexham are considering their legal options",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/05/21/southampton-claim-spying-on-middlesbrough-did-not-change-their-tactics/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-21T16:07:28Z",
+      "league": "Championship"
+    },
+    {
+      "title": "World Cup fans left divided as Zohran Mamdani secures $50 tickets for New Yorkers amid FIFA's exorbitant pricing",
+      "description": "A thousand lucky New Yorkers will get to experience the World Cup at MLS prices, first-year Mayor Zohran Mamdani announced Thursday. Critics and supporters were left divided.",
+      "url": "https://www.dailymail.com/sport/football/article-15837689/Zohran-Mamdani-World-Cup-New-Yorkers-FIFA.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-21T21:13:29Z",
       "league": "MLS"
+    },
+    {
+      "title": "World Cup could make football 'mainstream' in co-host Canada",
+      "description": "Three weeks before kickoff in the first ever World Cup match in Canada, football leaders in the country voiced hope the tournament will finally give the sport the cultural prominence it deserves. In two previous World Cup appearances -- the 1986 finals in Mex…",
+      "url": "https://sports.yahoo.com/articles/world-cup-could-football-mainstream-185308223.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-21T18:53:08Z",
+      "league": "MLS"
+    },
+    {
+      "title": "Xabi Alonso Ready For 'Beautiful Project' As He Takes Over At Chelsea",
+      "description": "Xabi Alonso has backed Chelsea's long-term vision after speaking publicly about his move to Stamford Bridge.",
+      "url": "https://www.foxsports.com/stories/soccer/beautiful-project-xabi-alonso-excited-to-get-started-at-chelsea",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-21T22:26:56Z",
+      "league": "Transfers"
+    },
+    {
+      "title": "Chelsea to rival Arsenal for Kroupi - Friday's gossip",
+      "description": "Chelsea join Arsenal in the race for Eli Junior Kroupi, Fulham and Everton eye Harry Wilson, Manchester United want Sandro Tonali and Ederson, plus more.",
+      "url": "https://www.bbc.com/sport/football/articles/c1d2kl9ypvlo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-21T21:36:16Z",
+      "league": "Transfers"
+    },
+    {
+      "title": "Ultimate image for Saudi Arabia's football poster boy: Ronaldo wins title",
+      "description": "Cristiano Ronaldo wins his first league title with Al-Nassr after three years in Saudi Arabia.",
+      "url": "https://www.bbc.com/sport/football/articles/c232g9lpdpgo",
+      "source": "BBC News",
+      "publishedAt": "2026-05-21T21:25:04Z",
+      "league": "Transfers"
+    },
+    {
+      "title": "Alexi Lalas dreading thought England could win World Cup on America's 250th birthday: 'Cannot have that'",
+      "description": "Alexi Lalas says he hopes \"anybody but England\" wins the 2026 FIFA World Cup, while his Fox Sports colleague Rebecca Lowe is willing to bet her home country will bring it home.",
+      "url": "https://www.foxnews.com/sports/alexi-lalas-dreading-thought-england-could-win-world-cup-americas-250th-birthday-cannot",
+      "source": "Fox News",
+      "publishedAt": "2026-05-21T23:51:23Z",
+      "league": "World Cup"
+    },
+    {
+      "title": "Mexico launches a last-minute World Cup campaign to stop a homophobic chant",
+      "description": "Less than a month before the start of the 2026 World Cup, the Mexican Football Federation announced on Thursday a new advertising campaign that seeks to prevent its fans from using a chant considered homophobic during the tournament. The chant, that has been …",
+      "url": "https://sports.yahoo.com/articles/mexico-launches-last-minute-world-232405471.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-21T23:24:05Z",
+      "league": "World Cup"
     }
   ],
-  "generatedAt": "2026-05-22T19:28:07.716Z"
+  "generatedAt": "2026-05-23T00:01:58.842Z"
 }
