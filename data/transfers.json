@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Why Tuchel wanted Toney back in England ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cy527w4e7yzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "publishedAt": "2026-05-22T11:45:15Z"
-    }
-  ],
-  "generatedAt": "2026-05-23T13:14:30.925Z",
+  "transfers": [],
+  "generatedAt": "2026-05-23T19:02:55.683Z",
   "note": "Transfers derived from news headlines at launch."
 }

@@ -787,18 +787,18 @@
           "penalties": 5
         },
         {
+          "name": "Oliver McBurnie",
+          "team": "Hull City",
+          "goals": 18,
+          "assists": 8,
+          "penalties": 3
+        },
+        {
           "name": "Haji Wright",
           "team": "Coventry City",
           "goals": 17,
           "assists": 1,
           "penalties": 2
-        },
-        {
-          "name": "Oliver McBurnie",
-          "team": "Hull City",
-          "goals": 17,
-          "assists": 8,
-          "penalties": 3
         },
         {
           "name": "Jack Clarke",
@@ -854,7 +854,7 @@
         {
           "name": "Oliver McBurnie",
           "team": "Hull City",
-          "goals": 17,
+          "goals": 18,
           "assists": 8,
           "penalties": 3
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-23T13:18:23.459Z"
+  "generatedAt": "2026-05-23T19:06:45.369Z"
 }

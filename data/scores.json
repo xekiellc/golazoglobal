@@ -2,12 +2,30 @@
   "matches": [
     {
       "league": "SA",
+      "homeTeam": "Lazio",
+      "awayTeam": "AC Pisa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-23T18:45:00Z"
+    },
+    {
+      "league": "SA",
       "homeTeam": "Fiorentina",
       "awayTeam": "Atalanta",
       "homeScore": 1,
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-05-22T18:45:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Bologna",
+      "awayTeam": "Inter",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-05-23T16:00:00Z"
     },
     {
       "league": "ELC",
@@ -100,24 +118,6 @@
       "utcDate": "2026-05-23T19:00:00Z"
     },
     {
-      "league": "SA",
-      "homeTeam": "Bologna",
-      "awayTeam": "Inter",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-23T16:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Lazio",
-      "awayTeam": "AC Pisa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-23T18:45:00Z"
-    },
-    {
       "league": "BSA",
       "homeTeam": "São Paulo",
       "awayTeam": "Botafogo",
@@ -163,5 +163,5 @@
       "utcDate": "2026-05-24T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-23T13:15:58.502Z"
+  "generatedAt": "2026-05-23T19:04:20.115Z"
 }
