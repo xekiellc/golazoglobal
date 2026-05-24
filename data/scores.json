@@ -1,76 +1,13 @@
 {
   "matches": [
     {
-      "league": "PD",
-      "homeTeam": "Villarreal",
-      "awayTeam": "Atleti",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-24T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Milan",
-      "awayTeam": "Cagliari",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-24T18:45:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Torino",
-      "awayTeam": "Juventus",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-24T18:45:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Verona",
-      "awayTeam": "Roma",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-24T18:45:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Cremonese",
-      "awayTeam": "Como 1907",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-24T18:45:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Lecce",
-      "awayTeam": "Genoa",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-24T18:45:00Z"
-    },
-    {
       "league": "BSA",
-      "homeTeam": "Cruzeiro",
-      "awayTeam": "Chapecoense",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Bragantino",
       "homeScore": 0,
       "awayScore": 0,
       "status": "IN_PLAY",
-      "utcDate": "2026-05-24T19:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Clube do Remo",
-      "awayTeam": "Paranaense",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-24T19:00:00Z"
+      "utcDate": "2026-05-24T23:30:00Z"
     },
     {
       "league": "PL",
@@ -244,6 +181,15 @@
       "utcDate": "2026-05-23T19:00:00Z"
     },
     {
+      "league": "PD",
+      "homeTeam": "Villarreal",
+      "awayTeam": "Atleti",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-05-24T19:00:00Z"
+    },
+    {
       "league": "SA",
       "homeTeam": "Bologna",
       "awayTeam": "Inter",
@@ -278,6 +224,60 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-05-24T16:00:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Milan",
+      "awayTeam": "Cagliari",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-05-24T18:45:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Verona",
+      "awayTeam": "Roma",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-05-24T18:45:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Cremonese",
+      "awayTeam": "Como 1907",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "FINISHED",
+      "utcDate": "2026-05-24T18:45:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Lecce",
+      "awayTeam": "Genoa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-05-24T18:45:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Torino",
+      "awayTeam": "Juventus",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-05-24T19:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Hull City",
+      "awayTeam": "Middlesbrough",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-05-23T16:30:00Z"
     },
     {
       "league": "BSA",
@@ -326,22 +326,31 @@
     },
     {
       "league": "BSA",
-      "homeTeam": "Corinthians",
-      "awayTeam": "Mineiro",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-24T21:30:00Z"
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Chapecoense",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-05-24T19:00:00Z"
     },
     {
       "league": "BSA",
-      "homeTeam": "Vasco da Gama",
-      "awayTeam": "Bragantino",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-24T23:30:00Z"
+      "homeTeam": "Clube do Remo",
+      "awayTeam": "Paranaense",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-05-24T19:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Mineiro",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-05-24T21:30:00Z"
     }
   ],
-  "generatedAt": "2026-05-24T19:11:39.733Z"
+  "generatedAt": "2026-05-24T23:57:26.868Z"
 }

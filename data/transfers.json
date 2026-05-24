@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Three Make",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/usc/football/usc-trojans-christian-pierce-three-make-break-games-safety",
-      "publishedAt": "2026-05-23T19:00:03Z"
-    }
-  ],
-  "generatedAt": "2026-05-24T19:10:16.128Z",
+  "transfers": [],
+  "generatedAt": "2026-05-24T23:56:03.184Z",
   "note": "Transfers derived from news headlines at launch."
 }

@@ -234,9 +234,16 @@
         {
           "name": "Anastasios Douvikas",
           "team": "Como 1907",
-          "goals": 13,
+          "goals": 14,
           "assists": 1,
           "penalties": 1
+        },
+        {
+          "name": "Donyell Malen",
+          "team": "Roma",
+          "goals": 14,
+          "assists": 2,
+          "penalties": 3
         },
         {
           "name": "Marcus Thuram-Ulien",
@@ -251,13 +258,6 @@
           "goals": 13,
           "assists": 5,
           "penalties": 1
-        },
-        {
-          "name": "Donyell Malen",
-          "team": "Roma",
-          "goals": 13,
-          "assists": 2,
-          "penalties": 3
         },
         {
           "name": "Nico Paz",
@@ -281,18 +281,18 @@
           "penalties": 0
         },
         {
+          "name": "Federico Bonazzoli",
+          "team": "Cremonese",
+          "goals": 10,
+          "assists": 2,
+          "penalties": 3
+        },
+        {
           "name": "Gianluca Scamacca",
           "team": "Atalanta",
           "goals": 10,
           "assists": 1,
           "penalties": 2
-        },
-        {
-          "name": "Riccardo Orsolini",
-          "team": "Bologna",
-          "goals": 10,
-          "assists": 1,
-          "penalties": 4
         }
       ],
       "topAssists": [
@@ -891,6 +891,13 @@
     "BSA": {
       "scorers": [
         {
+          "name": "Kevin Viveros",
+          "team": "Paranaense",
+          "goals": 10,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "Carlos Vinícius",
           "team": "Grêmio",
           "goals": 9,
@@ -910,13 +917,6 @@
           "goals": 8,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Kevin Viveros",
-          "team": "Paranaense",
-          "goals": 8,
-          "assists": 1,
-          "penalties": 2
         },
         {
           "name": "Danilo dos Santos de Oliveira",
@@ -984,21 +984,21 @@
           "penalties": 0
         },
         {
+          "name": "Kevin Viveros",
+          "team": "Paranaense",
+          "goals": 10,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "John Kennedy",
           "team": "Fluminense",
           "goals": 8,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Kevin Viveros",
-          "team": "Paranaense",
-          "goals": 8,
-          "assists": 1,
-          "penalties": 2
         }
       ]
     }
   },
-  "generatedAt": "2026-05-24T19:14:01.078Z"
+  "generatedAt": "2026-05-24T23:59:50.203Z"
 }
