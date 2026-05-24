@@ -1,6 +1,15 @@
 {
   "matches": [
     {
+      "league": "SA",
+      "homeTeam": "Parma",
+      "awayTeam": "Sassuolo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-24T13:00:00Z"
+    },
+    {
       "league": "PD",
       "homeTeam": "Alavés",
       "awayTeam": "Rayo Vallecano",
@@ -254,15 +263,6 @@
     },
     {
       "league": "SA",
-      "homeTeam": "Parma",
-      "awayTeam": "Sassuolo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-24T13:00:00Z"
-    },
-    {
-      "league": "SA",
       "homeTeam": "Napoli",
       "awayTeam": "Udinese",
       "homeScore": null,
@@ -352,5 +352,5 @@
       "utcDate": "2026-05-24T23:30:00Z"
     }
   ],
-  "generatedAt": "2026-05-24T08:24:32.884Z"
+  "generatedAt": "2026-05-24T13:16:22.798Z"
 }

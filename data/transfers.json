@@ -1,36 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Why Salah and Robertson will leave Anfie",
+      "player": "The All",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/football/news/11669/13546959/why-mohamed-salah-and-andy-robertson-will-leave-anfield-as-all-time-liverpool-greats",
-      "publishedAt": "2026-05-23T07:00:00Z"
+      "source": "Atozsports.com",
+      "url": "https://atozsports.com/nashville/volunteers/ex-vols-transfer-portal-team-former-tennessee-players-still-playing-college-football-in-2026/",
+      "publishedAt": "2026-05-23T13:11:10Z"
     },
     {
-      "player": "“Initial talks”",
+      "player": "Jake Crain of On3 explains why Byrum Bro",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Chelsea.news",
-      "url": "https://chelsea.news/2026/05/enzo-fernandez-chelsea-man-city-interest/",
-      "publishedAt": "2026-05-23T06:35:00Z"
+      "source": "USA Today",
+      "url": "https://auburnwire.usatoday.com/story/sports/college/auburn/football/2026/05/23/auburn-football-byrum-brown-perfect-fit-jake-crain/90224201007/",
+      "publishedAt": "2026-05-23T13:01:54Z"
     },
     {
-      "player": "Barcelona identify three Argentine stars",
+      "player": "Three Make",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Barcauniversal.com",
-      "url": "https://barcauniversal.com/barcelona-identify-three-argentine-stars-as-dream-summer-signings-for-hansi-flick/",
-      "publishedAt": "2026-05-23T06:00:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/usc/football/usc-trojans-tanook-hines-three-make-break-games-nfl-draft-stock",
+      "publishedAt": "2026-05-23T13:00:05Z"
+    },
+    {
+      "player": "UCLA Football Has Everything It Needs to",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/ucla/bruins-football-everything-needs-make-bowl-game-2026",
+      "publishedAt": "2026-05-23T13:00:04Z"
     }
   ],
-  "generatedAt": "2026-05-24T08:23:09.609Z",
+  "generatedAt": "2026-05-24T13:14:59.558Z",
   "note": "Transfers derived from news headlines at launch."
 }

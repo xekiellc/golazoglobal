@@ -1,253 +1,165 @@
 {
   "articles": [
     {
-      "title": "Premier League final day scenarios: The games that really matter on May 24 as EPL season closes",
-      "description": "Sometimes, there is very little to play for on the final day of the Premier League season, but as 2025/26 comes to a close, the race for European places and battle against relegation leaves lots to savour on Sunday.",
-      "url": "https://www.sportingnews.com/us/soccer/news/premier-league-final-day-scenarios-games-matter/ceb046c037a0a7878799bc56",
-      "source": "Sporting News",
-      "publishedAt": "2026-05-23T08:00:01Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Former Liverpool player to retire today after emotional Instagram statement",
-      "description": "Former Liverpool goalkeeper Adrian has confirmed that he’ll retire from football after Real Betis’ final game of the season, bringing an end to a career that included a memorable spell at Anfield....",
-      "url": "https://www.empireofthekop.com/2026/05/23/former-liverpool-player-to-retire-today-after-emotional-instagram-statement-adrian/",
-      "source": "Empire of The Kop",
-      "publishedAt": "2026-05-23T08:00:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "“Enough to sanction a sale” – Ben Jacobs shares update on Chelsea’s interest in Morgan Rogers",
-      "description": "Chelsea are one of the main clubs interested in Aston Villa star Morgan Rogers according to journalist Ben Jacobs.DOWNLOAD THE OFFICIAL CHELSEA NEWS APP FOR ALL THE LATEST UPDATES – STRAIGHT TO YOUR...",
-      "url": "https://chelsea.news/2026/05/ben-jacobs-chelsea-man-united-morgan-rogers/",
-      "source": "Chelsea.news",
-      "publishedAt": "2026-05-23T07:45:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Curtis Jones sends emotional Salah and Robertson message before Liverpool farewell",
-      "description": "Curtis Jones has made his feelings clear before Liverpool say goodbye to Mo Salah and Andy Robertson at Anfield.DOWNLOAD THE OFFICIAL EMPIRE OF THE KOP APP FOR ALL THE LATEST & BREAKING UPDATES – ST...",
-      "url": "https://www.empireofthekop.com/2026/05/23/curtis-jones-sends-emotional-salah-and-robertson-message-before-liverpool-farewell/",
-      "source": "Empire of The Kop",
-      "publishedAt": "2026-05-23T07:30:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Lewandowski, Christensen start in a 4-2-3-1 – How Barcelona can line up against Valencia",
-      "description": "With the La Liga title already wrapped up, Barcelona head into their final game of the 2025/26 campaign with little pressure but plenty of storylines surrounding the squad. One of the biggest positiv...",
-      "url": "https://barcauniversal.com/lewandowski-christensen-start-in-a-4-2-3-1-how-barcelona-can-line-up-against-valencia/",
-      "source": "Barcauniversal.com",
-      "publishedAt": "2026-05-23T08:10:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Newcastle have now enquired about signing Osasuna’s Victor Munoz",
-      "description": "Newcastle United conducted checks on Osasuna’s Victor Munoz via his new representatives, Niagara Sports Company, ahead of the summer window, per The Mirror.Newcastle made those initial enquiries wh...",
-      "url": "https://sportsview.co.uk/2026/05/newcastle-have-now-enquired-about-signing-osasunas-victor-munoz?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=newcastle-have-now-enquired-about-signing-osasunas-victor-munoz",
-      "source": "Sportsview.co.uk",
-      "publishedAt": "2026-05-23T06:50:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Liverpool target €100m-rated wonderkid to replace Salah",
-      "description": "Liverpool are reportedly targeting a move for RB Leipzig starlet Yan Diomande as a possible replacement for the outgoing Mo Salah. The Egyptian winger will play his final game for the Reds this Sunda...",
-      "url": "https://thefootballfaithful.com/liverpool-target-100m-yan-diomande-transfer/",
-      "source": "The Football Faithful",
-      "publishedAt": "2026-05-23T06:45:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Real Madrid defensive mainstay to sign one-year contract with a pay cut",
-      "description": "Real Madrid are close to resolving one of the important contract situations inside the squad ahead of next season. Although the club is already planning several changes in defence, one experienced fi...",
-      "url": "https://madriduniversal.com/real-madrid-defensive-mainstay-to-sign-one-year-contract-with-a-pay-cut/",
-      "source": "Madriduniversal.com",
-      "publishedAt": "2026-05-23T06:00:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Marc Casadó set for crunch meeting to decide Barcelona future",
-      "description": "The midfielder is set to make a decision",
-      "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/121246/marc-casado-set-for-crunch-meeting-to-decide-barcelona-future",
-      "source": "Barca Blaugranes",
-      "publishedAt": "2026-05-23T01:00:18Z",
-      "league": "La Liga"
-    },
-    {
-      "title": " What’s still at stake in Europe’s top five leagues",
-      "description": "With 20 days to go until the start of the 2026 World Cup, all eyes in the \"football world\" are already on the tournament, which will be played in the United States, Mexico, and Canada starting on June...",
-      "url": "https://onefootball.com/en/news/whats-still-at-stake-in-europes-top-five-leagues-42908996",
-      "source": "Onefootball.com",
-      "publishedAt": "2026-05-22T21:23:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "The four biggest questions facing USMNT ahead of World Cup roster reveal",
-      "description": "Here are four big USMNT questions we’re considering going into the weekend.",
-      "url": "https://nypost.com/2026/05/22/sports/the-four-biggest-questions-facing-usmnt-ahead-of-world-cup-roster-reveal/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-23T02:41:41Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Goncalo Ramos: Man United rival AC Milan for PSG striker",
-      "description": "Manchester United face a fierce battle to sign Goncalo Ramos this summer, as AC Milan are leading the race for the Paris Saint-Germain striker, according to a new report.Lightening the load up frontTh...",
-      "url": "https://thepeoplesperson.com/2026/05/22/goncalo-ramos-man-united-rival-ac-milan-for-psg-striker-310491/",
-      "source": "The Peoples Person",
-      "publishedAt": "2026-05-22T21:30:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Fiorentina draws with Atalanta in dreary end to season for both",
-      "description": "Fiorentina drew with Atalanta 1-1 and the clubs rounded out disappointing Serie A campaigns on Friday. Roberto Piccoli put Fiorentina ahead just before halftime but an own goal from Pietro Comuzzo eight minutes from time gave Atalanta a share of the points an…",
-      "url": "https://sports.yahoo.com/articles/fiorentina-draws-atalanta-dreary-end-204954179.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-22T20:49:54Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Politano admits ‘hard to talk about’ Italy World Cup failure & fights for ‘change from the ground up’",
-      "description": "Matteo Politano has admitted that Italy's failure to qualify for the World Cup remains a painful subject, describing it as the last chance for a generation of",
-      "url": "https://football-italia.net/politano-admits-hard-to-talk-italy-world-cup/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-22T18:06:31Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Fabrizio Romano: Liverpool in ‘active talks’ over move for €100m star",
-      "description": "Fabrizio Romano Shares Major Liverpool Transfer UpdateLiverpool are already moving quickly to correct what has been a disastrous title defence by Arne Slot’s side. The Reds sit 5th in the Premier Le...",
-      "url": "https://anfieldindex.com/94411/fabrizio-romano-liverpool-in-active-talks-over-move-for-e100m-star.html",
-      "source": "Anfieldindex.com",
-      "publishedAt": "2026-05-23T06:55:00Z",
+      "title": "Bayern's Hoeness backs Eberl but also speaks of 'doubts'",
+      "description": "Max Eberl is doing a good job as Bayern Munich board member for sport but it remains to be seen whether his contract will be renewed beyond 2027, honorary president Uli Hoeness has said. Hoeness said at an event by Der Spiegel news magazine that there was a t…",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260523-99-515980/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-05-23T13:14:18Z",
       "league": "Bundesliga"
     },
     {
-      "title": "World Cup winner Lukas Podolski calls time on professional career aged 40",
-      "description": "One of Germany's 2014 World Cup winners Lukas Podolski is ending his professional football career, Sky Germany has confirmed.\"A chapter ends, a new era begins,\" wrote Podolski, who has been under cont...",
-      "url": "https://bulinews.com/world-cup-winner-lukas-podolski-calls-time-professional-career-aged-40",
-      "source": "Bulinews.com",
-      "publishedAt": "2026-05-23T06:36:00Z",
-      "league": "Bundesliga"
+      "title": "Hull City vs Middlesbrough LIVE updates, watch live, score, analysis, highlights",
+      "description": "The Championship playoff final is set as Hull City tangle with Middlesbrough for the final place in the 2026-27 Premier League.",
+      "url": "https://www.nbcsports.com/soccer/news/hull-city-vs-middlesbrough-live-updates-recap-analysis-video-highlights",
+      "source": "NBCSports.com",
+      "publishedAt": "2026-05-23T13:13:00Z",
+      "league": "Premier League"
     },
     {
-      "title": "Lens beat Nice 3-1, win French Cup for first time",
-      "description": "Lens makes history, winning their first-ever French Cup after a dominant 3-1 victory over Nice. Discover how Lens secured this historic triumph.\n\nRead More: https://punchng.com/lens-beat-nice-3-1-win-french-cup-for-first-time/",
-      "url": "https://punchng.com/lens-beat-nice-3-1-win-french-cup-for-first-time/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-22T21:37:14Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Lens lift the French Cup for the first time after beating Nice in the final",
-      "description": "Lens capped a spectacular season by winning the French Cup for the first time, with star striker Florian Thauvin scoring and making another in a 3-1 win over Nice in the final on Friday. Lens matched Paris Saint-Germain in Ligue 1 for large parts of the seaso…",
-      "url": "https://sports.yahoo.com/articles/lens-lift-french-cup-first-212713746.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-22T21:27:13Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "US says DRC team must isolate due to Ebola before arriving for World Cup",
-      "description": "DR Congo play their first World Cup 2026 game against Portugal on June 17 in Houston, but must isolate first.",
-      "url": "https://www.aljazeera.com/sports/2026/5/22/us-says-congo-team-must-isolate-due-to-ebola-before-arriving-for-world-cup",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-22T18:18:26Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Cristiano Ronaldo wins league titles in four different countries: How close is he to the all-time record?",
-      "description": "Cristiano Ronaldo’s success with Al Nassr in the Saudi Pro League moved him closer to yet another record. This week, Cristiano Ronaldo finally ended his drought of official titles with Al Nassr by winning the 2025-26 Saudi Pro League title. The achievement al…",
-      "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-wins-league-titles-in-four-different-countries-how-close-is-he-to-the-all-time-record/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-05-22T16:02:02Z",
-      "league": "Primeira Liga"
-    },
-    {
-      "title": "2026 World Cup Marks End of Era for Global Soccer Veterans",
-      "description": "The 2026 FIFA World Cup will serve as a farewell stage for some of football's most iconic figures, with Lionel Messi, Cristiano Ronaldo, and Neymar among the veterans expected to make their final appe...",
-      "url": "https://pitchside-us.com/2026-world-cup-veteran-players-final-tournament-messi-ronaldo/",
-      "source": "Pitchside-us.com",
-      "publishedAt": "2026-05-22T19:55:00Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Inter Miami star hints at Casemiro’s imminent arrival after early Manchester United exit",
-      "description": "Having already said farewell to the Manchester United faithful, Brazilian midfielder Casemiro is soon set to become a free agent, with Inter Miami heavily linked with the former Real Madrid star",
-      "url": "https://www.alloutsoccer.com/news/inter-miami-casemiro-manchester-united-1850762",
-      "source": "Alloutsoccer.com",
-      "publishedAt": "2026-05-22T19:27:09Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Cristiano Ronaldo reclaims Forbes throne with record $300 million payday after Saudi Pro League glory as Lionel Messi lands among top earners",
-      "description": "Yet while Ronaldo’s dominance once again captured global attention, many fans were left wondering one thing: Where did Lionel Messi finish on the list? Cristiano Ronaldo has climbed back to the summit of world sport in spectacular fashion after another extrao…",
-      "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-reclaims-forbes-throne-with-record-300-million-payday-after-saudi-pro-league-glory-as-lionel-messis-ranking-surprises-everyone/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-05-22T18:09:12Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Diego Luna speaks on USMNT World Cup roster uncertainty, growing up Mexican-American & dreams of Europe move",
-      "description": "U.S. manager Mauricio Pochettino has praised Diego Luna and made him a key part of the Gold Cup team, but the Real Salt Lake attacker knows his position on this summer's roster isn't a guarantee.",
-      "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/05/22/diego-luna-usmnt-world-cup-roster-real-salt-lake-europe-transfer/90213972007/",
-      "source": "USA Today",
-      "publishedAt": "2026-05-22T17:05:46Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Latest Intel On USA's 2026 World Cup Roster: What Surprises Are Looming?",
-      "description": "A consistent theme has emerged on the eve of Mauricio Pochettino selecting the USA's roster for next month’s World Cup: Nobody really knows.",
-      "url": "https://www.foxsports.com/stories/soccer/usmnt-world-cup-roster-gozo-richards-mckennie-pulisic",
-      "source": "Fox Sports",
-      "publishedAt": "2026-05-22T04:26:02Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Why Salah and Robertson will leave Anfield as all-time Liverpool greats",
-      "description": "Mohamed Salah and Andy Robertson, signed within weeks of each other in the summer of 2017, will bid farewell to Anfield against Brentford on Sunday - two era-defining figures whose journeys have helped reshape Liverpool’s modern history.",
-      "url": "https://www.skysports.com/football/news/11669/13546959/why-mohamed-salah-and-andy-robertson-will-leave-anfield-as-all-time-liverpool-greats",
+      "title": "Silva to decide Fulham future next week as 'important' summer looms",
+      "description": "As he reflects on what could have been and what could yet be, Marco Silva concludes this summer is a huge one for Fulham.",
+      "url": "https://www.skysports.com/football/news/11681/13547294/marco-silva-fulham-head-coach-to-decide-future-next-week-amid-benfica-links-as-important-summer-looms",
       "source": "Sky Sports",
-      "publishedAt": "2026-05-23T07:00:00Z",
-      "league": "Transfers"
+      "publishedAt": "2026-05-23T13:13:00Z",
+      "league": "Premier League"
     },
     {
-      "title": "“Initial talks” – Sky Sports reporter provides major update on the future of Enzo Fernandez",
-      "description": "Enzo Fernandez is one of Manchester City’s “desired” transfer targets this summer, and is wanted by Enzo Maresca according to Sky Germany reporter Florian Plettenberg.DOWNLOAD THE OFFICIAL CHELS...",
-      "url": "https://chelsea.news/2026/05/enzo-fernandez-chelsea-man-city-interest/",
-      "source": "Chelsea.news",
-      "publishedAt": "2026-05-23T06:35:00Z",
-      "league": "Transfers"
-    },
-    {
-      "title": "Barcelona identify three Argentine stars as dream summer signings for Hansi Flick",
-      "description": "With Robert Lewandowski preparing to bring an end to his journey at Barcelona, the club has already started planning for a new era under Hansi Flick. The Catalan giants are expected to be one of the ...",
-      "url": "https://barcauniversal.com/barcelona-identify-three-argentine-stars-as-dream-summer-signings-for-hansi-flick/",
-      "source": "Barcauniversal.com",
-      "publishedAt": "2026-05-23T06:00:00Z",
-      "league": "Transfers"
-    },
-    {
-      "title": "“Not very influential” – Thomas Tuchel delivers home truths as he explains Cole Palmer World Cup axe",
-      "description": "Cole Palmer missed out on England’s World Cup squad due to a lack of “individual” form at Chelsea according to Thomas Tuchel.DOWNLOAD THE OFFICIAL CHELSEA NEWS APP FOR ALL THE LATEST UPDATES –...",
-      "url": "https://chelsea.news/2026/05/thomas-tuchel-cole-palmer-england-world-cup/",
-      "source": "Chelsea.news",
-      "publishedAt": "2026-05-23T07:15:00Z",
-      "league": "World Cup"
-    },
-    {
-      "title": "Top 10 dark‑horse teams to watch at the 2026 FIFA World Cup",
-      "description": "Every World Cup has them. The teams nobody puts in their bracket. The teams that get drawn into a group and the favorites quietly exhale with relief. The teams that travel to the tournament with no pressure, no expectations, and…",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2ca28a44-9781-47d9-9c01-359f7e7f7d76",
+      "title": "Man Utd's Fernandes named Premier League Player of the Season",
+      "description": "Manchester United midfielder Bruno Fernandes was named Premier League Player of the Season on Saturday. Manchester City defender Nico O'Reilly won the Premier League Young Player of the Season award.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8be30d6a-157a-4376-9975-c269e36cfa70",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-23T07:07:42Z",
-      "league": "World Cup"
+      "publishedAt": "2026-05-23T13:11:34Z",
+      "league": "Premier League"
     },
     {
-      "title": "World Cup 2026: Which star players will miss the tournament?",
-      "description": "Al Jazeera takes a look at the high-profile players who will play no part in the tournament in North America.",
-      "url": "https://www.aljazeera.com/sports/2026/5/23/world-cup-2026-which-star-players-will-miss-the-tournament",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-23T06:54:42Z",
-      "league": "World Cup"
+      "title": "The All-Ex Vols transfer portal team, made up of former Tennessee players who are still playing college football in 2026",
+      "description": "The Tennessee Vols have had a lot of success in the portal in recent years, but they've also lost some talented players to the portal. We put together a list of the best ex-Vols players who are still playing college football.",
+      "url": "https://atozsports.com/nashville/volunteers/ex-vols-transfer-portal-team-former-tennessee-players-still-playing-college-football-in-2026/",
+      "source": "Atozsports.com",
+      "publishedAt": "2026-05-23T13:11:10Z",
+      "league": "Transfers"
+    },
+    {
+      "title": "Former Premier League psychologist reveals how West Ham can gazump Tottenham and secure top flight survival as relegation battle goes to final game shootout",
+      "description": "While a legion of supporters in North London have been basking in title glory this week, other fans in the capital are nervously looking over their shoulder.",
+      "url": "https://www.dailymail.com/sport/football/article-15836973/west-ham-tottenham-relegation-psychologist.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-23T13:09:21Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Manchester City tomorrow, this week, Spurs or West Ham and match facts from the BBC",
+      "description": "There requires a post about what's happened this week and it's coming, but we also have a match tomorrow. And what happened this week is only really starting to all come together for me and while I got home at a good time on Thursday, I slept until Thursday n…",
+      "url": "https://www.thevillablog.co.uk/aston-villa-blog/avfc-opinion/manchester-city-tomorrow-this-week-spurs-or-west-ham-and-match-facts-from-the-bbc",
+      "source": "Thevillablog.co.uk",
+      "publishedAt": "2026-05-23T13:05:41Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Bruno Fernandes wins 2025/26 Premier League Player of the Season award",
+      "description": "Bruno Fernandes has been crowned the 2025/26 Premier League Player of the Season after an outstanding campaign with Manchester United. Learn more here.\n\nRead More: https://punchng.com/bruno-fernandes-wins-2025-26-premier-league-player-of-the-season-award/",
+      "url": "https://punchng.com/bruno-fernandes-wins-2025-26-premier-league-player-of-the-season-award/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-23T13:05:04Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Maxi Araujo: Sporting plot to block Man United’s pursuit of 26-yo star",
+      "description": "Manchester United’s pursuit of Maxi Araujo has forced a panicked response from Sporting CP as speculation around a big-money switch to Old Trafford grows, according to reports from Portugal.Reinforc...",
+      "url": "https://thepeoplesperson.com/2026/05/23/maxi-araujo-sporting-plot-to-block-man-uniteds-pursuit-of-26-yo-star-310512/",
+      "source": "The Peoples Person",
+      "publishedAt": "2026-05-23T13:05:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "A Manchester City youngster enjoyed a breakout season and it has been rewarded",
+      "description": "Nico O’Reilly arrived as a Manchester City player during the latter stages of the 2024-25 season. O’Reilly’s strong performances at the back end of a difficult season for City showed that the En...",
+      "url": "https://esteemedkompany.com/2026/05/23/a-manchester-city-youngster-enjoyed-a-breakout-season-and-it-has-been-rewarded/",
+      "source": "Esteemedkompany.com",
+      "publishedAt": "2026-05-23T13:05:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Gasperini previews Roma’s last match of 25/26: “It wasn’t an easy season, but we remained united.”",
+      "description": "Gian Piero Gasperini, as usual, spoke at a press conference on the eve of the match awaiting his Roma. In the final round of Serie A, the Giallorossi will face a relegated Verona, ready to leave every...",
+      "url": "https://romapress.net/gasperini-previews-romas-last-match-of-25-26-it-wasnt-an-easy-season-but-we-remained-united/",
+      "source": "RomaPress",
+      "publishedAt": "2026-05-23T13:05:00Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Jake Crain of On3 explains why Byrum Brown is 'perfect' for Auburn",
+      "description": "Jake Crain of 'Crain and Cone' explains how Byrum Brown can boost his stock this season after recently ranking him No. 8 among SEC quarterbacks.",
+      "url": "https://auburnwire.usatoday.com/story/sports/college/auburn/football/2026/05/23/auburn-football-byrum-brown-perfect-fit-jake-crain/90224201007/",
+      "source": "USA Today",
+      "publishedAt": "2026-05-23T13:01:54Z",
+      "league": "Transfers"
+    },
+    {
+      "title": "Newcastle United fans verdict after asked if want Hull City or Middlesbrough to be promoted",
+      "description": "The question we were asking earlier today was – As a Newcastle United fan, would you rather see Hull City or Middlesbrough promoted? Yes, it is the Championship play-off final at 3. 30pm this Saturday afternoon at Wembley.",
+      "url": "https://www.themag.co.uk/2026/05/newcastle-united-fans-verdict-after-asked-if-want-hull-city-or-middlesbrough-to-be-promoted/",
+      "source": "The Mag",
+      "publishedAt": "2026-05-23T13:01:47Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Latest schedule prediction calling for major Patriots falloff in 2026",
+      "description": "The Patriots are predicted to win only eight games in the latest schedule prediction piece. Here is why that big of a falloff is unlikely.",
+      "url": "https://patriotswire.usatoday.com/story/sports/nfl/patriots/2026/05/23/latest-schedule-prediction-major-patriots-falloff-2026/90094543007/",
+      "source": "USA Today",
+      "publishedAt": "2026-05-23T13:00:48Z",
+      "league": "Champions League"
+    },
+    {
+      "title": "Manchester United's Fernandes is EPL player of the season",
+      "description": "Manchester United's Bruno Fernandes also emerged as the Premier League's best playmaker this season when he created a league-high 132 chances.",
+      "url": "https://www.rediff.com/sports/report/manchester-uniteds-fernandes-is-epl-player-of-the-season/20260523.htm",
+      "source": "Rediff.com",
+      "publishedAt": "2026-05-23T13:00:17Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Three Make-or-Break USC Games for Tanook Hines' NFL Draft Stock",
+      "description": "Tanook Hines rises as the next potential NFL wide receiver prospect for the USC Trojans if he can dominate in this trio of contests.",
+      "url": "https://www.si.com/college/usc/football/usc-trojans-tanook-hines-three-make-break-games-nfl-draft-stock",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-05-23T13:00:05Z",
+      "league": "Transfers"
+    },
+    {
+      "title": "UCLA Football Has Everything It Needs to Make a Bowl Game in 2026",
+      "description": "After not winning six or more games the past two seasons, Bob Chesney looks to avoid a year without a bowl game appearance.",
+      "url": "https://www.si.com/college/ucla/bruins-football-everything-needs-make-bowl-game-2026",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-05-23T13:00:04Z",
+      "league": "Transfers"
+    },
+    {
+      "title": "Gyokeres does not care if Arsenal wins the league title on or off the pitch",
+      "description": "Arsenal had initially hoped to celebrate their Premier League title triumph on the pitch during their final match of the season against Crystal Palace, but the title was officially secured earlier in the week after Manchester City failed to defeat Bournemouth…",
+      "url": "https://www.justarsenal.com/gyokeres-does-not-care-if-arsenal-wins-the-league-title-on-or-off-the-pitch/415649",
+      "source": "Just Arsenal News",
+      "publishedAt": "2026-05-23T13:00:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Luis Diaz reveals what Salah told him after Liverpool transfer",
+      "description": "Mo Salah will leave Liverpool as one of the greatest players in the club’s history, but the latest story from Luis Diaz shows his influence has never just been about goals.DOWNLOAD THE OFFICIAL EMPI...",
+      "url": "https://www.empireofthekop.com/2026/05/23/luis-diaz-reveals-what-salah-told-him-after-liverpool-transfer/",
+      "source": "Empire of The Kop",
+      "publishedAt": "2026-05-23T13:00:00Z",
+      "league": "Champions League"
+    },
+    {
+      "title": "Chiefs News 5/23: Josh Simmons studying NFL veterans this offseason",
+      "description": "The latest Chiefs news, brought fresh to you every morning!",
+      "url": "https://www.arrowheadpride.com/kansas-city-chiefs-news/202903/chiefs-news-5-23-josh-simmons-studying-nfl-veterans-offseason",
+      "source": "Arrowhead Pride",
+      "publishedAt": "2026-05-23T13:00:00Z",
+      "league": "MLS"
     }
   ],
-  "generatedAt": "2026-05-24T08:23:09.608Z"
+  "generatedAt": "2026-05-24T13:14:59.557Z"
 }
