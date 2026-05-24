@@ -1,5 +1,36 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-05-23T23:53:29.658Z",
+  "transfers": [
+    {
+      "player": "Why Salah and Robertson will leave Anfie",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/football/news/11669/13546959/why-mohamed-salah-and-andy-robertson-will-leave-anfield-as-all-time-liverpool-greats",
+      "publishedAt": "2026-05-23T07:00:00Z"
+    },
+    {
+      "player": "“Initial talks”",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Chelsea.news",
+      "url": "https://chelsea.news/2026/05/enzo-fernandez-chelsea-man-city-interest/",
+      "publishedAt": "2026-05-23T06:35:00Z"
+    },
+    {
+      "player": "Barcelona identify three Argentine stars",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Barcauniversal.com",
+      "url": "https://barcauniversal.com/barcelona-identify-three-argentine-stars-as-dream-summer-signings-for-hansi-flick/",
+      "publishedAt": "2026-05-23T06:00:00Z"
+    }
+  ],
+  "generatedAt": "2026-05-24T08:23:09.609Z",
   "note": "Transfers derived from news headlines at launch."
 }

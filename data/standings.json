@@ -2048,26 +2048,26 @@
       {
         "position": 1,
         "team": "Palmeiras",
-        "played": 16,
-        "won": 10,
+        "played": 17,
+        "won": 11,
         "drawn": 5,
         "lost": 1,
-        "goalsFor": 26,
+        "goalsFor": 29,
         "goalsAgainst": 13,
-        "goalDifference": 13,
-        "points": 35,
+        "goalDifference": 16,
+        "points": 38,
         "form": ""
       },
       {
         "position": 2,
         "team": "Flamengo",
-        "played": 15,
+        "played": 16,
         "won": 9,
         "drawn": 4,
-        "lost": 2,
+        "lost": 3,
         "goalsFor": 28,
-        "goalsAgainst": 13,
-        "goalDifference": 15,
+        "goalsAgainst": 16,
+        "goalDifference": 12,
         "points": 31,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-23T23:55:55.351Z"
+  "generatedAt": "2026-05-24T08:25:34.472Z"
 }

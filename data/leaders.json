@@ -947,18 +947,18 @@
           "penalties": 2
         },
         {
+          "name": "José Manuel López",
+          "team": "Palmeiras",
+          "goals": 6,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
           "name": "Luciano",
           "team": "São Paulo",
           "goals": 6,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Jonathan Calleri",
-          "team": "São Paulo",
-          "goals": 6,
-          "assists": 1,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -966,6 +966,13 @@
           "name": "Pedro",
           "team": "Flamengo",
           "goals": 9,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
+          "name": "José Manuel López",
+          "team": "Palmeiras",
+          "goals": 6,
           "assists": 3,
           "penalties": 0
         },
@@ -989,16 +996,9 @@
           "goals": 8,
           "assists": 1,
           "penalties": 2
-        },
-        {
-          "name": "Arthur Cabral",
-          "team": "Botafogo",
-          "goals": 7,
-          "assists": 1,
-          "penalties": 0
         }
       ]
     }
   },
-  "generatedAt": "2026-05-23T23:57:24.550Z"
+  "generatedAt": "2026-05-24T08:26:54.536Z"
 }
