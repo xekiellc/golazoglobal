@@ -1,46 +1,16 @@
 {
   "transfers": [
     {
-      "player": "The All",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Atozsports.com",
-      "url": "https://atozsports.com/nashville/volunteers/ex-vols-transfer-portal-team-former-tennessee-players-still-playing-college-football-in-2026/",
-      "publishedAt": "2026-05-23T13:11:10Z"
-    },
-    {
-      "player": "Jake Crain of On3 explains why Byrum Bro",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://auburnwire.usatoday.com/story/sports/college/auburn/football/2026/05/23/auburn-football-byrum-brown-perfect-fit-jake-crain/90224201007/",
-      "publishedAt": "2026-05-23T13:01:54Z"
-    },
-    {
       "player": "Three Make",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/usc/football/usc-trojans-tanook-hines-three-make-break-games-nfl-draft-stock",
-      "publishedAt": "2026-05-23T13:00:05Z"
-    },
-    {
-      "player": "UCLA Football Has Everything It Needs to",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/ucla/bruins-football-everything-needs-make-bowl-game-2026",
-      "publishedAt": "2026-05-23T13:00:04Z"
+      "url": "https://www.si.com/college/usc/football/usc-trojans-christian-pierce-three-make-break-games-safety",
+      "publishedAt": "2026-05-23T19:00:03Z"
     }
   ],
-  "generatedAt": "2026-05-24T13:14:59.558Z",
+  "generatedAt": "2026-05-24T19:10:16.128Z",
   "note": "Transfers derived from news headlines at launch."
 }

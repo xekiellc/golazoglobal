@@ -19,9 +19,16 @@
         {
           "name": "Antoine Semenyo",
           "team": "Man City",
-          "goals": 16,
+          "goals": 17,
           "assists": 4,
           "penalties": 1
+        },
+        {
+          "name": "Ollie Watkins",
+          "team": "Aston Villa",
+          "goals": 16,
+          "assists": 3,
+          "penalties": 0
         },
         {
           "name": "João Pedro",
@@ -29,6 +36,13 @@
           "goals": 15,
           "assists": 5,
           "penalties": 0
+        },
+        {
+          "name": "Morgan Gibbs-White",
+          "team": "Nottingham",
+          "goals": 15,
+          "assists": 5,
+          "penalties": 1
         },
         {
           "name": "Viktor Gyökeres",
@@ -43,20 +57,6 @@
           "goals": 14,
           "assists": 1,
           "penalties": 4
-        },
-        {
-          "name": "Ollie Watkins",
-          "team": "Aston Villa",
-          "goals": 14,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
-          "name": "Morgan Gibbs-White",
-          "team": "Nottingham",
-          "goals": 14,
-          "assists": 5,
-          "penalties": 1
         },
         {
           "name": "Danny Welbeck",
@@ -91,21 +91,21 @@
         {
           "name": "Morgan Gibbs-White",
           "team": "Nottingham",
-          "goals": 14,
+          "goals": 15,
           "assists": 5,
           "penalties": 1
         },
         {
           "name": "Antoine Semenyo",
           "team": "Man City",
-          "goals": 16,
+          "goals": 17,
           "assists": 4,
           "penalties": 1
         },
         {
           "name": "Ollie Watkins",
           "team": "Aston Villa",
-          "goals": 14,
+          "goals": 16,
           "assists": 3,
           "penalties": 0
         }
@@ -246,6 +246,13 @@
           "penalties": 0
         },
         {
+          "name": "Rasmus Højlund",
+          "team": "Napoli",
+          "goals": 13,
+          "assists": 5,
+          "penalties": 1
+        },
+        {
           "name": "Donyell Malen",
           "team": "Roma",
           "goals": 13,
@@ -258,13 +265,6 @@
           "goals": 12,
           "assists": 6,
           "penalties": 0
-        },
-        {
-          "name": "Rasmus Højlund",
-          "team": "Napoli",
-          "goals": 12,
-          "assists": 5,
-          "penalties": 1
         },
         {
           "name": "Giovanni Simeone",
@@ -320,7 +320,7 @@
         {
           "name": "Rasmus Højlund",
           "team": "Napoli",
-          "goals": 12,
+          "goals": 13,
           "assists": 5,
           "penalties": 1
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-24T13:18:48.756Z"
+  "generatedAt": "2026-05-24T19:14:01.078Z"
 }
