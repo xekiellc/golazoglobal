@@ -203,7 +203,7 @@
       "homeTeam": "Vasco da Gama",
       "awayTeam": "Bragantino",
       "homeScore": 0,
-      "awayScore": 3,
+      "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-05-24T23:30:00Z"
     },
@@ -217,5 +217,5 @@
       "utcDate": "2026-05-25T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-25T09:58:07.814Z"
+  "generatedAt": "2026-05-25T14:46:14.185Z"
 }

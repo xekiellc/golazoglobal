@@ -593,14 +593,14 @@
       {
         "position": 6,
         "team": "Juventus",
-        "played": 37,
+        "played": 38,
         "won": 19,
-        "drawn": 11,
+        "drawn": 12,
         "lost": 7,
-        "goalsFor": 59,
-        "goalsAgainst": 32,
+        "goalsFor": 61,
+        "goalsAgainst": 34,
         "goalDifference": 27,
-        "points": 68,
+        "points": 69,
         "form": ""
       },
       {
@@ -670,6 +670,19 @@
       },
       {
         "position": 12,
+        "team": "Torino",
+        "played": 38,
+        "won": 12,
+        "drawn": 9,
+        "lost": 17,
+        "goalsFor": 44,
+        "goalsAgainst": 63,
+        "goalDifference": -19,
+        "points": 45,
+        "form": ""
+      },
+      {
+        "position": 13,
         "team": "Parma",
         "played": 38,
         "won": 11,
@@ -679,19 +692,6 @@
         "goalsAgainst": 46,
         "goalDifference": -18,
         "points": 45,
-        "form": ""
-      },
-      {
-        "position": 13,
-        "team": "Torino",
-        "played": 37,
-        "won": 12,
-        "drawn": 8,
-        "lost": 17,
-        "goalsFor": 42,
-        "goalsAgainst": 61,
-        "goalDifference": -19,
-        "points": 44,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-25T09:59:09.836Z"
+  "generatedAt": "2026-05-25T14:47:15.634Z"
 }
