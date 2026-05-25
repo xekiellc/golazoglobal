@@ -58,7 +58,7 @@
       "league": "PL",
       "homeTeam": "Man City",
       "awayTeam": "Aston Villa",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-05-24T15:00:00Z"
@@ -217,5 +217,5 @@
       "utcDate": "2026-05-25T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-25T14:46:14.185Z"
+  "generatedAt": "2026-05-25T19:23:53.826Z"
 }
