@@ -2112,6 +2112,19 @@
       },
       {
         "position": 6,
+        "team": "Bahia",
+        "played": 16,
+        "won": 7,
+        "drawn": 5,
+        "lost": 4,
+        "goalsFor": 22,
+        "goalsAgainst": 19,
+        "goalDifference": 3,
+        "points": 26,
+        "form": ""
+      },
+      {
+        "position": 7,
         "team": "São Paulo",
         "played": 17,
         "won": 7,
@@ -2124,28 +2137,15 @@
         "form": ""
       },
       {
-        "position": 7,
-        "team": "Bahia",
-        "played": 15,
-        "won": 6,
-        "drawn": 5,
-        "lost": 4,
-        "goalsFor": 21,
-        "goalsAgainst": 19,
-        "goalDifference": 2,
-        "points": 23,
-        "form": ""
-      },
-      {
-        "position": 7,
+        "position": 8,
         "team": "Coritiba",
-        "played": 16,
+        "played": 17,
         "won": 6,
         "drawn": 5,
-        "lost": 5,
+        "lost": 6,
         "goalsFor": 21,
-        "goalsAgainst": 19,
-        "goalDifference": 2,
+        "goalsAgainst": 20,
+        "goalDifference": 1,
         "points": 23,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-25T19:24:55.664Z"
+  "generatedAt": "2026-05-26T00:04:35.252Z"
 }
