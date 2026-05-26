@@ -2112,13 +2112,13 @@
       },
       {
         "position": 6,
-        "team": "Bahia",
-        "played": 16,
+        "team": "Coritiba",
+        "played": 17,
         "won": 7,
         "drawn": 5,
-        "lost": 4,
-        "goalsFor": 22,
-        "goalsAgainst": 19,
+        "lost": 5,
+        "goalsFor": 24,
+        "goalsAgainst": 21,
         "goalDifference": 3,
         "points": 26,
         "form": ""
@@ -2138,13 +2138,13 @@
       },
       {
         "position": 8,
-        "team": "Coritiba",
-        "played": 17,
+        "team": "Bahia",
+        "played": 16,
         "won": 6,
         "drawn": 5,
-        "lost": 6,
-        "goalsFor": 21,
-        "goalsAgainst": 20,
+        "lost": 5,
+        "goalsFor": 23,
+        "goalsAgainst": 22,
         "goalDifference": 1,
         "points": 23,
         "form": ""
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-26T00:04:35.252Z"
+  "generatedAt": "2026-05-26T09:45:36.785Z"
 }

@@ -4,11 +4,11 @@
       "league": "BSA",
       "homeTeam": "Coritiba",
       "awayTeam": "Bahia",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 1,
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "utcDate": "2026-05-25T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-26T00:03:33.833Z"
+  "generatedAt": "2026-05-26T09:44:34.970Z"
 }
