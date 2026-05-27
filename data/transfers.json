@@ -1,46 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "EPL",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Punch",
-      "url": "https://punchng.com/epl-man-city-confirm-maresca-as-head-coach/",
-      "publishedAt": "2026-05-26T08:53:17Z"
-    },
-    {
-      "player": "Fabrizio Romano confirms renewed Tottenh",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Cityxtra.co.uk",
-      "url": "https://cityxtra.co.uk/47175/fabrizio-romano-confirms-renewed-tottenham-interest-in-manchester-city-forward-surplus-to-requirements/",
-      "publishedAt": "2026-05-26T08:35:00Z"
-    },
-    {
-      "player": "Barcelona forward target prepared to for",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Barcauniversal.com",
-      "url": "https://barcauniversal.com/barcelona-forward-target-prepared-to-force-his-way-out-once-formal-offer-is-made/",
-      "publishedAt": "2026-05-26T08:20:00Z"
-    },
-    {
-      "player": "Amorim signing forces Man Utd to change ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Strettynews.com",
-      "url": "https://strettynews.com/2026/05/26/man-utd-left-back-patrick-dorgu-premier-league/",
-      "publishedAt": "2026-05-26T08:15:00Z"
-    }
-  ],
-  "generatedAt": "2026-05-27T09:37:09.332Z",
+  "transfers": [],
+  "generatedAt": "2026-05-27T15:25:41.012Z",
   "note": "Transfers derived from news headlines at launch."
 }
