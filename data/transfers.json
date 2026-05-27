@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-05-27T15:25:41.012Z",
+  "transfers": [
+    {
+      "player": "‘I’m going there to play as much as poss",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Get French Football News",
+      "url": "https://www.getfootballnewsfrance.com/2026/im-going-there-to-play-as-much-as-possible-jeremy-jacquet-previews-start-to-life-at-liverpool/",
+      "publishedAt": "2026-05-26T19:10:00Z"
+    }
+  ],
+  "generatedAt": "2026-05-27T20:08:16.790Z",
   "note": "Transfers derived from news headlines at launch."
 }
