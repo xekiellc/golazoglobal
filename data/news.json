@@ -1,52 +1,76 @@
 {
   "articles": [
     {
-      "title": "Coventry's Lampard named LMA manager of the year",
-      "description": "Frank Lampard is named the League Managers Association manager of the year after guiding Coventry back to the Premier League.",
-      "url": "https://www.bbc.com/sport/football/articles/cp3pp3xzw8ko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "title": "Christian Pulisic, Tyler Adams headline US World Cup squad",
+      "description": "The 2026 US squad is evenly split between 13 World Cup ⁠debutants and 13 players who featured at Qatar 2022.",
+      "url": "https://www.aljazeera.com/sports/2026/5/27/pulisic-and-adams-lead-us-26-man-world-cup-squad",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-27T09:52:51Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Enzo Fernandez to Manchester City shut down by club sources amid Elliot Anderson interest",
+      "description": "Despite a strong relationship under incoming manager Enzo Maresca, Manchester City have distanced themselves from a big-money move for Chelsea’s Enzo Fernández.Nottingham Forest’s 23-year-old sta...",
+      "url": "https://cityxtra.co.uk/47269/enzo-fernandez-to-manchester-city-shut-down-by-club-sources-amid-elliot-anderson-interest/",
+      "source": "Cityxtra.co.uk",
+      "publishedAt": "2026-05-27T09:50:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Nuno to stay on as West Ham boss after relegation",
+      "description": "Nuno Espirito Santo will remain as head coach of West Ham following the club's relegation from the Premier League, the London side announced on Wednesday.\"We held meetings with head coach Nuno Espirito Santo early this week and are pleased to confirm that he …",
+      "url": "https://sports.yahoo.com/articles/nuno-stay-west-ham-boss-094327724.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-27T09:43:27Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "West Ham stick with Espirito Santo despite relegation from Premier League",
+      "description": "LONDON, May 27 : West Ham United have decided to keep manager Nuno Espirito Santo in charge of the London side despite their relegation from the Premier League on the final day of the season, the club said on Wednesday.West Ham finished 18th in the standings …",
+      "url": "https://www.channelnewsasia.com/sport/west-ham-stick-espirito-santo-despite-relegation-premier-league-6144476",
+      "source": "CNA",
+      "publishedAt": "2026-05-27T09:16:03Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "German police clash with Crystal Palace and Vallecano fans at Europa final",
+      "description": "German police called to two incidents of clashes between hundreds of Crystal Palace and Rayo Vallecano fans in Leipzig.",
+      "url": "https://www.aljazeera.com/sports/2026/5/27/german-police-clash-with-english-and-spanish-fans-ahead-of-europa-final",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-27T09:12:31Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Barcelona’s €70m plus player offer for forward target rejected by La Liga club",
+      "description": "Barcelona made a serious effort to sign Julian Alvarez before ultimately accepting that the operation had become financially impossible.For several weeks, the Argentine striker was viewed as the dream...",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ad178ab6-fe10-438d-8d78-467ddc28a97b",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-27T08:00:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "'Beginning of era' for young Barcelona team - Deco",
+      "description": "After back-to-back La Liga titles, sporting director Deco says a new era is only just beginning at La Liga champions Barcelona.",
+      "url": "https://www.bbc.com/sport/football/articles/crmp18llmgko",
       "source": "BBC News",
-      "publishedAt": "2026-05-26T22:51:43Z",
-      "league": "Premier League"
+      "publishedAt": "2026-05-27T07:33:24Z",
+      "league": "La Liga"
     },
     {
-      "title": "Coventry's Lampard named LMA manager of the year",
-      "description": "Frank Lampard is named the League Managers Association manager of the year after guiding Coventry back to the Premier League.",
-      "url": "https://www.bbc.com/sport/football/articles/cp3pp3xzw8ko",
-      "source": "BBC News",
-      "publishedAt": "2026-05-26T22:51:38Z",
-      "league": "Premier League"
+      "title": "Rayo Vallecano XI vs Crystal Palace – Predicted lineup and team news",
+      "description": "Rayo Vallecano arrive in Germany, preparing for the biggest match in their 101-year history as they face Crystal Palace in the Europa Conference League final on Wednesday.Iñigo Pérez has transformed...",
+      "url": "https://thefootballfaithful.com/rayo-vallecano-xi-vs-crystal-palace-predicted-lineup-and-team-news/",
+      "source": "The Football Faithful",
+      "publishedAt": "2026-05-27T05:30:00Z",
+      "league": "La Liga"
     },
     {
-      "title": "Ederson to Manchester United deal could be finalised in next 48 hours",
-      "description": "Manchester United are inching closer to bringing in a new midfielder, just days after wrapping up the 2025/26 campaign.United played their final game of the season at Brighton, thrashing the Seagulls ...",
-      "url": "https://thepeoplesperson.com/2026/05/26/ederson-to-manchester-united-deal-could-be-finalised-in-next-48-hours-310659/",
-      "source": "The Peoples Person",
-      "publishedAt": "2026-05-26T22:05:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "World power England to visit Palm Beach Gardens for World Cup training",
-      "description": "England, ranked fourth in the world, will stop in Palm Beach Gardens to prepare for the FIFA World Cup.",
-      "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/05/26/fifa-world-cup-2026-england-portugal/88883960007/",
-      "source": "Palm Beach Post",
-      "publishedAt": "2026-05-26T21:59:15Z",
-      "league": "Premier League"
-    },
-    {
-      "title": " Mikel Arteta named LMA Manager of the Season",
-      "description": "Mikel Arteta has been named The League Managers Association Manager of the Season after ending Arsenal's 22-year wait for the Premier League title. The 44-year-old was voted for the award by his fel...",
-      "url": "https://onefootball.com/en/news/mikel-arteta-named-lma-manager-of-the-season-42926698",
-      "source": "Onefootball.com",
-      "publishedAt": "2026-05-26T21:48:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Spurs launch review after season of injury woe",
-      "description": "Tottenham will launch a review focusing on the \"unusual\" spate of anterior cruciate ligament injuries recently suffered by key players.",
-      "url": "https://www.bbc.com/sport/football/articles/cz0225ly855o",
-      "source": "BBC News",
-      "publishedAt": "2026-05-26T21:36:32Z",
-      "league": "Premier League"
+      "title": "Crystal Palace vs Rayo Vallecano – Match preview and team news",
+      "description": "Crystal Palace face Rayo Vallecano in the Europa Conference League final on Wednesday night.The historic clash in Leipzig represents the first major European showpiece for both clubs. Oliver Glasner h...",
+      "url": "https://thefootballfaithful.com/crystal-palace-vs-rayo-vallecano-match-preview-and-team-news/",
+      "source": "The Football Faithful",
+      "publishedAt": "2026-05-27T05:30:00Z",
+      "league": "La Liga"
     },
     {
       "title": "USMNT World Cup roster needed to have “the best balance, right players”",
@@ -54,31 +78,47 @@
       "url": "https://sbisoccer.com/2026/05/usmnt-world-cup-roster-needed-to-have-the-best-balance-right-players",
       "source": "Sbisoccer.com",
       "publishedAt": "2026-05-26T21:35:34Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Meet the 2026 World Cup U.S. Men's National Team",
-      "description": "The squad was announced during an event in New York City on Tuesday after U.S. Men's National Team manager Mauricio Pochettino spent months evaluating players to finalize the roster.",
-      "url": "https://www.cbsnews.com/news/world-cup-team-usa-players-2026/",
-      "source": "CBS News",
-      "publishedAt": "2026-05-26T19:48:11Z",
       "league": "La Liga"
     },
     {
-      "title": "USA's 2026 FIFA World Cup Roster: The 26 Players Ready To Make History",
-      "description": "These are the 26 players who'll represent the United States men's national team at the 2026 FIFA World Cup.",
-      "url": "https://www.foxsports.com/stories/soccer/usmnt-world-cup-roster-2026-pulisic-mckennie-weah-adams",
-      "source": "Fox Sports",
-      "publishedAt": "2026-05-26T19:38:33Z",
-      "league": "La Liga"
+      "title": "Milan midfielder Modric could announce retirement after World Cup",
+      "description": "Luka Modric is seriously considering retirement following the World Cup, with Milan's failure to secure Champions League football and the dismissal of",
+      "url": "https://football-italia.net/milan-midfielder-modric-could-retire/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-27T08:30:05Z",
+      "league": "Serie A"
     },
     {
-      "title": "Real Madrid star agrees last-minute contract renewal",
-      "description": "A leading member of the defensive ranks at La Liga giants Real Madrid has agreed on the terms of a contract renewal with the club.The player in question? Antonio Rüdiger.Stopper Rüdiger’s future i...",
-      "url": "https://getfootballnewsspain.com/real-madrid-star-agrees-last-minute-contract-renewal/",
-      "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-05-26T18:00:00Z",
-      "league": "La Liga"
+      "title": "Who is Enzo Maresca? Coaching record, titles won and why Man City are picking Pep Guardiola's former assistant",
+      "description": "Enzo Maresca has one of the hardest acts to follow in football history as Pep Guardiola's replacement. Why have Manchester City chosed the former Chelsea boss as their new manager?",
+      "url": "https://www.sportingnews.com/us/soccer/manchester-city/news/enzo-maresca-coaching-record-titles-won-man-city/095ff01b390f92206f0565c2",
+      "source": "Sporting News",
+      "publishedAt": "2026-05-27T08:22:15Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Milan schedule new meeting with Iraola; former Man Utd coach Rangnick tipped for sporting director role",
+      "description": "Milan are pushing to appoint Andoni Iraola as their next head coach, with a second face-to-face meeting between the Spaniard and club representatives",
+      "url": "https://football-italia.net/milan-schedule-meeting-with-iraola-rangnick/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-27T08:16:14Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Comolli: ‘Unexpected’ sale of Juventus player but Yildiz ‘not going anywhere’",
+      "description": "Juventus CEO Damien Comolli admits the Bianconeri must be ready for the 'unexpected' sale of a player after missing out on the Champions League, but Kenan",
+      "url": "https://football-italia.net/comolli-unexpected-sale-juventus-player-yildiz/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-27T08:13:57Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Chivu: ‘Expectations were high on Inter, Lautaro will continue to write history’",
+      "description": "Inter head coach Cristian Chivu says that he feels that there were high expectations on his Inter squad heading into the 2025-26 season, that the players did",
+      "url": "https://football-italia.net/chivu-expectations-were-high-on-inter-lautaro/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-26T19:59:34Z",
+      "league": "Serie A"
     },
     {
       "title": "Vincenzo Italiano likely to sign three-year deal with Napoli",
@@ -89,44 +129,44 @@
       "league": "Serie A"
     },
     {
-      "title": "Why Milan are now pushing for Andoni Iraola’s signature",
-      "description": "Serie A side Milan are keen on appointing Andoni Iraola, with Max Allegri sacked from the position of manager.A meeting between the two parties was expected to be held today and Daniele Longo details ...",
-      "url": "https://www.getfootballnewsitaly.com/2026/why-milan-are-now-pushing-for-andoni-iraolas-signature/",
-      "source": "Getfootballnewsitaly.com",
-      "publishedAt": "2026-05-26T19:15:00Z",
+      "title": "Meet the 2026 World Cup U.S. Men's National Team",
+      "description": "The squad was announced during an event in New York City on Tuesday after U.S. Men's National Team manager Mauricio Pochettino spent months evaluating players to finalize the roster.",
+      "url": "https://www.cbsnews.com/news/world-cup-team-usa-players-2026/",
+      "source": "CBS News",
+      "publishedAt": "2026-05-26T19:48:11Z",
       "league": "Serie A"
     },
     {
-      "title": "Vardy set to leave Cremonese after one year; Eyes return to England",
-      "description": "Jamie Vardy is set to leave Cremonese following the club's relegation to Serie B, with the veteran English striker expected to return to England after just",
-      "url": "https://football-italia.net/vardy-set-to-leave-cremonese/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-26T16:30:03Z",
+      "title": "USA's 2026 FIFA World Cup Roster: The 26 Players Ready To Make History",
+      "description": "These are the 26 players who'll represent the United States men's national team at the 2026 FIFA World Cup.",
+      "url": "https://www.foxsports.com/stories/soccer/usmnt-world-cup-roster-2026-pulisic-mckennie-weah-adams",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-26T19:38:33Z",
       "league": "Serie A"
     },
     {
-      "title": "How long do Real Madrid have to activate clause on Como’s Nico Paz?",
-      "description": "Real Madrid have just two weeks from last Sunday to activate their €9 million buy-back clause on Nico Paz, with the Argentine's return to the Santiago",
-      "url": "https://football-italia.net/how-long-do-real-madrid-como-nico-paz/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-26T14:28:06Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Question of injured Alphonso Davies's participation in World Cup a cloud over Canada's training camp",
-      "description": "“Alphonso’s status as captain doesn’t change and doesn’t need to change,” Canada coach Jesse Marsch said Tuesday. “He’ll come in and have a presence again.”",
-      "url": "https://www.cbc.ca/sports/soccer/canada-soccer-alphonso-davies-jesse-marsch-chris-jones-may-26-9.7213027",
-      "source": "CBC News",
-      "publishedAt": "2026-05-26T22:34:11Z",
+      "title": "Stuttgart confirm Nübel exit",
+      "description": "After three years on loan, Alexander Nübel is leaving VfB Stuttgart, the Bundesliga club confirmed on Wednesday.The 29-year-old will now return to his parent club, FC Bayern Munich, who have made cle...",
+      "url": "https://bulinews.com/stuttgart-confirm-nubel-exit",
+      "source": "Bulinews.com",
+      "publishedAt": "2026-05-27T08:44:00Z",
       "league": "Bundesliga"
     },
     {
-      "title": "Being included on USMNT roster means Gio Reyna can rewrite his personal history at 2026 FIFA World Cup",
-      "description": "Gio Reyna is one of the main reasons why the United States men's national team stands where it does entering the 2026 FIFA World Cup -- and that's not really a compliment.",
-      "url": "https://www.sportingnews.com/us/soccer/news/usmnt-roster-gio-reyna-can-rewrite-history-2026-fifa-world-cup/4347ff709f5748f8ab8a069f",
-      "source": "Sporting News",
-      "publishedAt": "2026-05-26T22:31:43Z",
+      "title": "Dortmund to host Bayern in Franz Beckenbauer Supercup at Signal Iduna Park",
+      "description": "Borussia Dortmund will welcome FC Bayern Munich to the Signal Iduna Park for the Franz Beckenbauer Supercup on August 22 at 20:30 CEST, the German Football League confirmed on Wednesday.Usually, the S...",
+      "url": "https://bulinews.com/dortmund-host-bayern-franz-beckenbauer-supercup-signal-iduna-park",
+      "source": "Bulinews.com",
+      "publishedAt": "2026-05-27T08:32:00Z",
       "league": "Bundesliga"
+    },
+    {
+      "title": "Mauricio Pochettino declines to address Tanner Tessmann’s stunning USMNT World Cup roster snub",
+      "description": "Tanner Tessmann’s snubbing from the U.S. men’s national team’s World Cup roster amounted to the biggest shock for the squad.",
+      "url": "https://nypost.com/2026/05/26/sports/usmnt-coach-wont-talk-about-tanner-tessmanns-roster-snub/",
+      "source": "New York Post",
+      "publishedAt": "2026-05-27T01:40:28Z",
+      "league": "Ligue 1"
     },
     {
       "title": "Behind the Numbers: The Squad Representing the Stars and Stripes at FIFA World Cup 2026",
@@ -134,7 +174,7 @@
       "url": "https://www.ussoccer.com/stories/featured/2026/05/usmnt/behind-the-numbers-the-squad-representing-stars-and-stripes-at-fifa-world-cup-2026",
       "source": "U.S. Soccer",
       "publishedAt": "2026-05-26T21:47:00Z",
-      "league": "Bundesliga"
+      "league": "Ligue 1"
     },
     {
       "title": "2026 FIFA World Cup: U.S. men’s national team roster officially revealed. See who made the cut",
@@ -142,24 +182,144 @@
       "url": "https://sports.yahoo.com/articles/2026-fifa-world-cup-u-195747728.html",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-05-26T20:30:48Z",
-      "league": "Bundesliga"
+      "league": "Ligue 1"
     },
     {
-      "title": "Reyna included in US World Cup squad, four years after Doha drama",
-      "description": "United States coach Mauricio Pochettino named Giovanni Reyna in his 26-strong for the World Cup on Tuesday, four years after the midfielder was almost sent home from the 2022 tournament in Qatar following a bust-up with former coach Gregg Berhalter.However th…",
-      "url": "https://sports.yahoo.com/articles/reyna-included-us-world-cup-195431450.html",
+      "title": "Crystal Palace vs. Rayo Vallecano prediction, odds, expert picks for UEFA Conference League final Wednesday",
+      "description": "SportsLine soccer expert Jon Eimer has his top plays for Wednesday's Conference League final between Crystal Palace and Rayo Vallecano",
+      "url": "https://www.cbssports.com/betting/news/crystal-palace-vs-rayo-vallecano-prediction-odds-expert-picks-for-uefa-conference-league-final-wednesday/",
+      "source": "CBS Sports",
+      "publishedAt": "2026-05-26T17:05:36Z",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "Stuttgart bid farewell to on-loan Nübel as Bayern look to sell",
+      "description": "VfB Stuttgart officially said goodbye to goalkeeper Alexander Nübel on Wednesday, leaving the Germany back-up in limbo given parent club Bayern Munich have made clear they do not want him to return. Stuttgart, who won the German Cup with the keeper in the 202…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a2886ab6-54a2-4c19-8f64-a9b58dc6c0a6",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-26T19:54:31Z",
-      "league": "Bundesliga"
+      "publishedAt": "2026-05-27T09:10:31Z",
+      "league": "Champions League"
     },
     {
-      "title": "FIFA faces lawsuit over plan to ban Iran's pre-revolution 'Lion and Sun' flag at 2026 World Cup stadiums",
-      "description": "FIFA reportedly plans to ban Iran's historic Lion and Sun flag at 2026 World Cup stadiums, sparking a legal challenge citing First Amendment rights.",
-      "url": "https://www.foxnews.com/outkick-sports/fifa-faces-lawsuit-plan-ban-irans-pre-revolution-lion-sun-flag-2026-world-cup-stadiums",
-      "source": "Fox News",
-      "publishedAt": "2026-05-26T23:44:12Z",
+      "title": "Roma close to agreement with Dybala over new contract",
+      "description": "La Gazzetta dello Sport reports that Paulo Dybala and Roma are close to agreeing to a new contract until June 2027.",
+      "url": "https://football-italia.net/roma-close-agreement-dybala-new-contract-2027/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-27T09:07:27Z",
+      "league": "Champions League"
+    },
+    {
+      "title": "Juventus could sell Cambiaso to fund transfer window amid Como, Inter and Barcelona links",
+      "description": "Andrea Cambiaso's future at Juventus is under consideration, with the versatile full-back emerging as a potential sale that could generate significant funds",
+      "url": "https://football-italia.net/juventus-could-sell-cambiaso-como-inter-barca/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-27T09:03:59Z",
+      "league": "Champions League"
+    },
+    {
+      "title": "Messi set for more tests ahead of World Cup but Argentina are optimistic",
+      "description": "Lionel Messi was injured in Inter Miami's MLS game on Sunday, but Argentina are confident he will be fit for World Cup.",
+      "url": "https://www.aljazeera.com/sports/2026/5/27/messi-set-for-more-tests-ahead-of-world-cup-but-argentina-not-disheartened",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-27T08:39:00Z",
+      "league": "MLS"
+    },
+    {
+      "title": "Argentina injury crisis ahead of World Cup: Scaloni reacts to Messi hamstring worry",
+      "description": "Argentina have a host of injury worries before the World Cup, led by Lionel Messi",
+      "url": "https://www.101greatgoals.com/football/world-cup-news/argentina-boss-admits-frustration-over-lionel-messi-injury-we-will-wait-to-see-how-it-evolves/",
+      "source": "101 Great Goals",
+      "publishedAt": "2026-05-27T08:30:04Z",
+      "league": "MLS"
+    },
+    {
+      "title": "Argentina coach Scaloni encouraged by news on Messi injury",
+      "description": "Argentina coach Lionel Scaloni said the initial news regarding superstar Lionel Messi's fitness \"is not that bad\" and hopes further examinations will confirm that diagnosis with the World Cup just a fortnight away.\"Now one has to wait and see how it evolves a…",
+      "url": "https://sports.yahoo.com/articles/argentina-coach-scaloni-encouraged-news-074604041.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-27T07:46:04Z",
+      "league": "MLS"
+    },
+    {
+      "title": "No league goals is no World Cup worry for South Korea skipper Son",
+      "description": "May 27 : South Korea captain Son Heung-min is unconcerned by his lack of goals in this Major League Soccer (MLS) season and believes he will find the net at the World Cup if he puts his team first. The 33-year-old forward, once one of the most prolific goalsc…",
+      "url": "https://www.channelnewsasia.com/sport/no-league-goals-no-world-cup-worry-south-korea-skipper-son-6144136",
+      "source": "CNA",
+      "publishedAt": "2026-05-27T05:38:03Z",
+      "league": "MLS"
+    },
+    {
+      "title": "'I Actually Started Crying': Joy And Relief In Making USA's World Cup Squad",
+      "description": "A mix of emotions during Tuesday's concert-like atmosphere that revealed the USA's World Cup roster.",
+      "url": "https://www.foxsports.com/stories/soccer/usas-gio-reyna-alejandro-zendejas-bask-world-cup-roster-joy-i-actually-started-crying",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-27T02:57:53Z",
+      "league": "MLS"
+    },
+    {
+      "title": "Was Sebastian Berhalter A Smart Pick For USA's World Cup Roster?",
+      "description": "Alexi Lalas and Stu Holden debate Sebastian Berhalter’s spot after the USA's 2026 World Cup roster reveal.",
+      "url": "https://www.foxsports.com/stories/soccer/sebastian-berhalter-gregg-berhalter-usmnt-world-cup-2026",
+      "source": "Fox Sports",
+      "publishedAt": "2026-05-27T02:05:49Z",
+      "league": "MLS"
+    },
+    {
+      "title": "Mauricio Pochettino bluntly responds when pressed on Tanner Tessmann’s World Cup absence",
+      "description": "U.S. Men’s National Team boss Mauricio Pochettino kept his cards close to his chest when it came to addressing Tanner Tessmann's absence from the final 26-man roster set to take on the FIFA World Cup",
+      "url": "https://www.alloutsoccer.com/news/pochettino-usmnt-tessmann-world-cup-1856367",
+      "source": "Alloutsoccer.com",
+      "publishedAt": "2026-05-26T23:01:25Z",
+      "league": "MLS"
+    },
+    {
+      "title": "39 World Cup teams will be based in the U.S. Here's which squad will be closest to you",
+      "description": "This week, FIFA finalized the list of where competitors will train during the tournament. Here's a breakdown of the U.S. cities that are included.",
+      "url": "https://www.npr.org/2026/05/26/nx-s1-5835227/world-cup-2026-cities-training-base",
+      "source": "NPR",
+      "publishedAt": "2026-05-26T21:09:06Z",
+      "league": "MLS"
+    },
+    {
+      "title": "USMNT unveils 2026 World Cup squad at star-spangled event in New York - The New York Times",
+      "description": "USMNT unveils 2026 World Cup squad at star-spangled event in New YorkThe New York Times USMNT's final World Cup roster has Pochettino taking risksESPN Mauricio Pochettino’s USMNT World Cup squad is officially revealedYahoo Sports USA roster for 2026 FIFA Worl…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183423556",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-26T20:53:02Z",
+      "league": "MLS"
+    },
+    {
+      "title": "Celtic goalkeeper Schmeichel retires: Have your say",
+      "description": "Celtic goalkeeper Kasper Schmeichel has announced his retirement from professional football due to a serious shoulder injury. The 39-year-old has been ruled out of action for over a year after injuring his shoulder and hasn't featured for Celtic since Februar…",
+      "url": "https://www.bbc.com/sport/articles/c78ky95y5v2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-27T08:58:34Z",
+      "league": "Transfers"
+    },
+    {
+      "title": "Elliot Anderson closing in on £80M Manchester City transfer after Nottingham Forest talks",
+      "description": "Man City want to sign Elliot Anderson from Nottingham Forest to bolster midfieldAnderson has interest from Old Trafford but has chosen Man City as preferred destinationForest want £105M – how much ...",
+      "url": "https://cityxtra.co.uk/47250/elliot-anderson-closing-in-on-80m-manchester-city-transfer-after-nottingham-forest-talks/",
+      "source": "Cityxtra.co.uk",
+      "publishedAt": "2026-05-27T08:30:00Z",
+      "league": "Transfers"
+    },
+    {
+      "title": "Hakimi leads nine returning Morocco players from Qatar 2022 at World Cup",
+      "description": "Morocco draw heavily on the country’s diaspora in Europe where majority of the 26 squad players selected were born.",
+      "url": "https://www.aljazeera.com/sports/2026/5/27/hakimi-leads-nine-returning-morocco-players-from-qatar-2022-at-world-cup",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-27T09:53:10Z",
+      "league": "World Cup"
+    },
+    {
+      "title": "Phil Foden Must Use His Summer Off To Turn Around His Career",
+      "description": "Phil Foden was left out of Thomas Tuchel's England squad for this summer's World Cup after a disappointing season.",
+      "url": "https://www.forbes.com/sites/grahamruthven/2026/05/27/phil-foden-must-use-his-summer-off-to-turn-around-his-career/",
+      "source": "Forbes",
+      "publishedAt": "2026-05-27T09:10:45Z",
       "league": "World Cup"
     }
   ],
-  "generatedAt": "2026-05-27T23:57:19.678Z"
+  "generatedAt": "2026-05-28T09:53:41.618Z"
 }
