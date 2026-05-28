@@ -1,26 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Celtic goalkeeper Schmeichel retires",
+      "player": "How will Hearts replace 'talisman' Shank",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "BBC News",
-      "url": "https://www.bbc.com/sport/articles/c78ky95y5v2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "publishedAt": "2026-05-27T08:58:34Z"
-    },
-    {
-      "player": "Elliot Anderson closing in on £80M Manch",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Cityxtra.co.uk",
-      "url": "https://cityxtra.co.uk/47250/elliot-anderson-closing-in-on-80m-manchester-city-transfer-after-nottingham-forest-talks/",
-      "publishedAt": "2026-05-27T08:30:00Z"
+      "url": "https://www.bbc.com/sport/articles/c5yxzr38xz7o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "publishedAt": "2026-05-27T15:02:08Z"
     }
   ],
-  "generatedAt": "2026-05-28T09:53:41.619Z",
+  "generatedAt": "2026-05-28T15:38:56.938Z",
   "note": "Transfers derived from news headlines at launch."
 }
