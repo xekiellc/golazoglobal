@@ -1129,6 +1129,19 @@
       },
       {
         "position": 9,
+        "team": "Toulouse",
+        "played": 34,
+        "won": 12,
+        "drawn": 9,
+        "lost": 13,
+        "goalsFor": 47,
+        "goalsAgainst": 46,
+        "goalDifference": 1,
+        "points": 45,
+        "form": ""
+      },
+      {
+        "position": 10,
         "team": "Lorient",
         "played": 34,
         "won": 11,
@@ -1138,19 +1151,6 @@
         "goalsAgainst": 51,
         "goalDifference": -3,
         "points": 45,
-        "form": ""
-      },
-      {
-        "position": 10,
-        "team": "Toulouse",
-        "played": 33,
-        "won": 12,
-        "drawn": 8,
-        "lost": 13,
-        "goalsFor": 47,
-        "goalsAgainst": 46,
-        "goalDifference": 1,
-        "points": 44,
         "form": ""
       },
       {
@@ -1234,14 +1234,14 @@
       {
         "position": 17,
         "team": "Nantes",
-        "played": 33,
+        "played": 34,
         "won": 5,
-        "drawn": 8,
+        "drawn": 9,
         "lost": 20,
         "goalsFor": 29,
         "goalsAgainst": 52,
         "goalDifference": -23,
-        "points": 23,
+        "points": 24,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-05-29T00:09:34.727Z"
+  "generatedAt": "2026-05-29T09:46:23.715Z"
 }
