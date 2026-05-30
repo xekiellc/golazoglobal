@@ -1,5 +1,36 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-05-30T00:04:56.235Z",
+  "transfers": [
+    {
+      "player": "The future of a key Manchester City defe",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Esteemedkompany.com",
+      "url": "https://esteemedkompany.com/2026/05/29/the-future-of-a-key-manchester-city-defender-seems-far-from-certain/",
+      "publishedAt": "2026-05-29T07:50:00Z"
+    },
+    {
+      "player": "€100m, Barça's first bid for Julián Álva",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Onefootball.com",
+      "url": "https://onefootball.com/en/news/100m-barcas-first-bid-for-julian-alvarez-says-lasexta-42937706",
+      "publishedAt": "2026-05-29T07:24:00Z"
+    },
+    {
+      "player": "Real Madrid offered golden chance to lan",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Madriduniversal.com",
+      "url": "https://madriduniversal.com/real-madrid-offered-golden-chance-to-land-premier-league-defender-for-free/",
+      "publishedAt": "2026-05-29T07:00:00Z"
+    }
+  ],
+  "generatedAt": "2026-05-30T08:22:24.716Z",
   "note": "Transfers derived from news headlines at launch."
 }
