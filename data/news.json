@@ -1,28 +1,140 @@
 {
   "articles": [
     {
+      "title": "Konate's Liverpool exit an unwanted complication ahead of crucial window",
+      "description": "Liverpool went to great lengths to keep Ibrahima Konate, but for a second summer running they face losing a first-team defender in their prime years with their contract running down.",
+      "url": "https://www.skysports.com/football/news/11669/13548995/ibrahima-konates-liverpool-exit-summer-transfer-window-becomes-more-complicated-for-arne-slot",
+      "source": "Sky Sports",
+      "publishedAt": "2026-05-29T13:15:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "PSG Attack vs Arsenal Defense Sets Stage for Tactical Masterclass in Champions League Final",
+      "description": "Paris Saint-Germain's prolific attack faces Arsenal's strong defense in the UEFA Champions League final, promising a tactical showdown at Budapest's Puskas Arena. Both teams showcase adaptability and depth.",
+      "url": "https://www.ibtimes.com.au/psg-arsenal-champions-league-final-1869701",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-05-29T13:12:36Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Champions League Finalists Arsenal, PSG Worth Combined $10B+",
+      "description": "Global soccer heavyweights Arsenal and Paris Saint-Germain face off Saturday in the Champions League final in Budapest, Hungary. They are both chasing history, with Arsenal looking for its first top-tier European crown, and PSG eyeing back-to-back titles, som…",
+      "url": "https://www.sportico.com/leagues/soccer/2026/champions-league-final-arsenal-psg-team-values-1234901777/",
+      "source": "Sportico.com",
+      "publishedAt": "2026-05-29T13:00:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Only Eight Clubs Have Done It: Can PSG Retain The Champions League?",
+      "description": "The Champions League final takes place this Saturday, and Paris Saint-Germain have the chance to create history.Winning the title for a second season in a row would see PSG become just the second club...",
+      "url": "https://worldfootballindex.com/2026/05/only-eight-clubs-have-done-it-can-psg-retain-the-champions-league/",
+      "source": "World Football Index",
+      "publishedAt": "2026-05-29T13:00:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "PSG-Arsenal Combined XI: Doué or Saka? Pacho or Saliba? Neves or Ødegaard?",
+      "description": "Paris Saint-Germain and Arsenal clash on Saturday evening in what might be the most closely contested UEFA Champions League final in recent years. Get French Football News has put together a combin...",
+      "url": "https://www.getfootballnewsfrance.com/2026/psg-arsenal-combined-xi-doue-or-saka-pacho-or-saliba-neves-or-odegaard/",
+      "source": "Get French Football News",
+      "publishedAt": "2026-05-29T12:50:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Trippier verbally agrees to Wolves move after Newcastle exit",
+      "description": "Ex-England international Kieran Trippier due to become Wolves' first summer signing.",
+      "url": "https://www.bbc.com/sport/football/articles/cewpr4yv0y5o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-29T12:49:07Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Champions League final burning questions: Can Paris Saint-Germain become the next great European dynasty?",
+      "description": "Arsenal, Mikel Arteta's defensive masters, seek glory and their first European crown against a lethal PSG side aiming to cement a modern dynasty",
+      "url": "https://www.cbssports.com/soccer/news/champions-league-final-psg-arsenal-european-dynasty/",
+      "source": "CBS Sports",
+      "publishedAt": "2026-05-29T12:47:08Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Alvarez chase leaves Marcus Rashford Barca future in doubt",
+      "description": "Marcus Rashford’s hopes of staying at Barcelona now hang on one thing: the club’s pursuit of Atlético Madrid striker Julián Álvarez.According to RAC1, if Barcelona succeed in signing the Argent...",
+      "url": "https://thefootballfaithful.com/marcus-rashford-barca-future-in-doubt-amid-alvarez-chase/",
+      "source": "The Football Faithful",
+      "publishedAt": "2026-05-29T13:00:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Atletico Madrid deny Barcelona offer for Julian Alvarez – ‘Another lie’",
+      "description": "Atletico Madrid have denied that Barcelona have opened negotiations for star striker Julian Alvarez. The Argentina forward is reportedly one of the Blaugrana’s priorities for the summer transfer win...",
+      "url": "https://www.football-espana.net/2026/05/29/atletico-madrid-deny-barcelona-offer-for-julian-alvarez-another-lie",
+      "source": "Football Espana",
+      "publishedAt": "2026-05-29T12:50:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Atletico Madrid consider move for £46.5m Man City star Tijjani Reijnders - as they wait on response from Bernardo Silva amid transfer battle with Barcelona",
+      "description": "Netherlands international Reijnders joined City a year ago in a £46.5m move from AC Milan and went on to make 47 appearances as he claimed two trophies in his first season.",
+      "url": "https://www.dailymail.com/sport/football/article-15858475/Atletico-Madrid-consider-46-5m-Man-City-star-Tijjani-Reijnders-wait-response-Bernardo-Silva-amid-transfer-battle-Barcelona.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-29T11:40:50Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Atletico Madrid reject Barcelona’s €100m offer for Alvarez; open to negotiating from €120m",
+      "description": "Just minutes ago, it was reported that Barcelona had made their first move for Julian Alvarez by tabling their opening offer for the Atletico Madrid striker.The Blaugrana had sent in an offer worth ��...",
+      "url": "https://barcauniversal.com/atletico-madrid-reject-barcelonas-e100m-offer-for-alvarez-open-to-negotiating-from-e120m/",
+      "source": "Barcauniversal.com",
+      "publishedAt": "2026-05-29T10:35:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Transfer rumour roundup: Liverpool race for Diomande as Konate contract talks collapse; Dias eyes Man City exit",
+      "description": "Today's transfer rumours include Ibrahima Konate's contract talks collapse at Liverpool, and Ruben Dias's desire for an exit from Manchester City.We'll start at Liverpool, where the Reds are racing to...",
+      "url": "https://www.footballmuse.com/features/transfer-rumour-roundup-liverpool-race-for-diomande-as-konate-contract-talks-collapse-dias-eyes-man-city-exit",
+      "source": "Footballmuse.com",
+      "publishedAt": "2026-05-29T09:30:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Mexico hope a month of isolation can rekindle the magic of the 1986 World Cup",
+      "description": "El Tri reached the quarter-finals the last time they hosted the tournament. They’re hoping old methods can revive the team after a disastrous outing in 2022",
+      "url": "https://sports.yahoo.com/articles/mexico-hope-month-isolation-rekindle-090046249.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-29T09:00:46Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Report: Vlahovic and Juventus contract talks stall over signing bonus demands",
+      "description": "It remains unclear where Dusan Vlahovic will be playing his football in 2026-27, and though his current club Juventus are hoping to tie him down to a new",
+      "url": "https://football-italia.net/vlahovic-juventus-contract-stall-signing-bonus/",
+      "source": "Football Italia",
+      "publishedAt": "2026-05-29T13:11:50Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Volpato Ditches Italy, Chooses Australia Ahead Of World Cup",
+      "description": "Former Italy under-20 international Cristian Volpato has decided to represent Australia and will join the Socceroos' training camp in Los Angeles ahead of the World Cup, Football Australia said on Friday.",
+      "url": "https://www.rediff.com/sports/report/volpato-makes-late-switch-from-italy-to-australia-ahead-of-fifa-world-cup/20260529.htm",
+      "source": "Rediff.com",
+      "publishedAt": "2026-05-29T12:04:58Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Volpato makes Italy to Australia switch before World Cup",
+      "description": "Former Italy under-21 international Cristian Volpato switches allegiance to Australia days before the Socceroos announce their squad for the 2026 Fifa World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cq8p9e0xgdpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-29T11:13:13Z",
+      "league": "Serie A"
+    },
+    {
       "title": "Netherlands’ World Cup 2026 team preview: Players to watch, group, squad",
       "description": "The Dutch were unbeaten across their qualifiers and have a outside chance of lifting the trophy for the first time.",
       "url": "https://www.aljazeera.com/sports/2026/5/29/netherlands-world-cup-2026-team-preview-players-to-watch-group-squad",
       "source": "Al Jazeera English",
       "publishedAt": "2026-05-29T07:48:59Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "France headline tough World Cup Group I as Mbappe faces Haaland",
-      "description": "Winners in 2018 and runners-up in 2022, France arrive at this World Cup as one of the leading contenders, but the planet's top-ranked team face stiff tests against Senegal and Norway in Group I, which also features outsiders Iraq.Deschamps is wary of a tough …",
-      "url": "https://sports.yahoo.com/articles/france-headline-tough-world-cup-061417190.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-29T06:14:17Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "4 Takeaways From Argentina's World Cup Roster Selection",
-      "description": "Lionel Messi is back and now Argentina can truly chase destiny at the World Cup.",
-      "url": "https://www.foxsports.com/stories/soccer/4-takeaways-argentina-world-cup-roster-selection-messi",
-      "source": "Fox Sports",
-      "publishedAt": "2026-05-29T00:10:45Z",
-      "league": "La Liga"
+      "league": "Serie A"
     },
     {
       "title": "Inside Argentina's World Cup roster 2026: Lionel Messi hopes to ride off into FIFA sunset a two-time winner",
@@ -30,63 +142,7 @@
       "url": "https://www.sportingnews.com/us/soccer/news/argentina-world-cup-roster-2026-squad-players-messi/0c82e82975230a2902872bd6",
       "source": "Sporting News",
       "publishedAt": "2026-05-28T22:53:07Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Chemistry Coming Together as Training Kicks Off for USMNT",
-      "description": "ATLANTA – Following the roster unveiling two days ago in New York City, midfielder Tyler Adams said that being selected for this summer's roster probably wouldn’t feel real to him until he was “...",
-      "url": "https://www.ussoccer.com/stories/on-the-pitch/2026/05/usmnt/world-cup-roster-team-chemistry-first-days-training",
-      "source": "U.S. Soccer",
-      "publishedAt": "2026-05-28T23:00:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Exequiel Palacios included in Argentina's World Cup squad",
-      "description": "Bayer Leverkusen'sExequiel Palacios will have a chance to defend his World Cup triumph as he makes Argentina's final squad for this summer's competition. The 27-year-old central midfielder only made h...",
-      "url": "https://bulinews.com/exequiel-palacios-included-argentina-world-cup-squad",
-      "source": "Bulinews.com",
-      "publishedAt": "2026-05-28T22:59:00Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Five USMNT Storylines to Watch heading into World Cup",
-      "description": "It’s gut check time for the U.S. men’s national team. Mauricio Pochettino’s men are busy gearing up for their final friendlies against Senegal and Germany before the World Cup’s bright lights turn on across North America. From Gio Reyna and Alex Zendejas’ inc…",
-      "url": "https://sbisoccer.com/2026/05/five-usmnt-storylines-to-watch-heading-into-world-cup",
-      "source": "Sbisoccer.com",
-      "publishedAt": "2026-05-28T21:54:33Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "‘I never said I wanted to play for Spain,’ says Belgium World Cup call-up Matías Fernández-Pardo",
-      "description": "Matías Fernández-Pardo dismissed rumors that he wanted to play for Spain before World Cup call-up by Belgium. Lille breakthrough Matías Fernández-Pardo sparked rumors after his roots in Spain made him a possible option for Luis de la Fuente, before Rudi Garci…",
-      "url": "https://worldsoccertalk.com/world-cup/i-never-said-i-wanted-to-play-for-spain-says-belgium-world-cup-call-up-matias-fernandez-pardo/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-05-29T00:21:02Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Egypt edge Russia in World Cup warm-up",
-      "description": "CAIRO, May 28 : Egypt began their World Cup preparations with a 1-0 home win over Russia on Thursday but talisman Mohamed Salah was rested for the friendly clash in Cairo.Mostafa Ziko’s 65th-minute header proved the difference for Egypt, who had Omar Marmoush…",
-      "url": "https://www.channelnewsasia.com/sport/egypt-edge-russia-in-world-cup-warm-up-6148401",
-      "source": "CNA",
-      "publishedAt": "2026-05-28T20:36:11Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Perisic relishing England test as Croatia target another 'special' World Cup",
-      "description": "Ivan Perisic has been representing Croatia for 21 years but his passion for his country burns as fiercely as ever.",
-      "url": "https://www.skysports.com/football/news/13950/13547056/world-cup-ivan-perisic-on-croatia-pride-secrets-to-their-success-and-relishing-another-match-up-with-england",
-      "source": "Sky Sports",
-      "publishedAt": "2026-05-28T12:40:00Z",
-      "league": "Eredivisie"
-    },
-    {
-      "title": "Southern California Natives Haji Wright and Cristian Roldan Make USMNT World Cup Roster",
-      "description": "SoCal natives Haji Wright and Cristian Roldan have officially made the 26-player USMNT World Cup roster ahead of their upcoming match at SoFi Stadium. The post Southern California Natives Haji Wright and Cristian Roldan Make USMNT World Cup Roster appeared fi…",
-      "url": "https://lasportsreport.com/la/254737/usmnt-roster-socal-natives/",
-      "source": "Lasportsreport.com",
-      "publishedAt": "2026-05-28T19:03:25Z",
-      "league": "Championship"
+      "league": "Primeira Liga"
     },
     {
       "title": "Messi to captain Argentina at World Cup as Scaloni plays down injury fears",
@@ -97,11 +153,11 @@
       "league": "MLS"
     },
     {
-      "title": "US trains for World Cup at new $250 million, 200-acre, 19-field complex south of Atlanta",
-      "description": "Jozy Altidore says the U.S. Soccer National Training Center is far different from where he trained with the national team a decade ago",
-      "url": "https://abcnews.com/US/wireStory/us-trains-world-cup-new-250-million-200-133402636",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-29T06:22:01Z",
+      "title": "Can Messi deliver again for Argentina at his final World Cup?",
+      "description": "Lionel Messi, at 39, is set to play in his sixth World Cup as he leads Argentina, the reigning champions, in North America. Messi continues to be a key player for his country, recently winning the Copa America and topping South American World Cup qualifiers. …",
+      "url": "https://economictimes.indiatimes.com/news/sports/can-messi-deliver-again-for-argentina-at-his-final-world-cup/articleshow/131380116.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-29T02:09:56Z",
       "league": "MLS"
     },
     {
@@ -113,221 +169,37 @@
       "league": "MLS"
     },
     {
-      "title": "Inside Alejandro Zendejas’ Unique Path To The USA's World Cup Roster",
-      "description": "Discover how Club América winger Alejandro Zendejas secured a spot on USA's 26-man World Cup roster.",
-      "url": "https://www.foxsports.com/stories/soccer/inside-alejandro-zendejas-unique-path-usas-world-cup-roster",
-      "source": "Fox Sports",
-      "publishedAt": "2026-05-28T22:50:28Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Official: Two Serie A stars included in Argentina’s 2026 World Cup squad",
-      "description": "Nico Paz and Lautaro Martinez are the Serie A stars included in the Argentina squad for the 2026 World Cup.",
-      "url": "https://football-italia.net/official-2-serie-a-stars-argentinas-world-cup/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-29T08:12:04Z",
-      "league": "World Cup"
-    },
-    {
-      "title": "Breaking: Socceroos boosted as young midfielder switches allegiance from Italy",
-      "description": "The Socceroos have been boosted ahead of the FIFA World Cup, with young midfielder Cristian Volpato switching allegiance from Italy to Australia",
-      "url": "https://www.abc.net.au/news/2026-05-29/fifa-world-cup-2026-socceroos-land-striker-in-shock-switch/106739466",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-29T07:42:11Z",
-      "league": "World Cup"
-    },
-    {
-      "title": "PSG vs Arsenal: UEFA Champions League final – 10 things to know",
-      "description": "Al Jazeera runs you through this season's UEFA Champions League final between Paris Saint-Germain and Arsenal.",
-      "url": "https://www.aljazeera.com/sports/2026/5/28/psg-vs-arsenal-champions-league-final-teams-start-time-lineups",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-28T22:45:46Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Big screenings, louder screams: Inside the PSG vs Arsenal Champions League final watch parties",
-      "description": "Hyderabad gears up for the UEFA Champions League final as Paris Saint-Germain faces Arsenal FC. Fans are organizing watch parties and flocking to screenings, with spirited debates about the outcome. The city anticipates a vibrant football celebration, fueled …",
-      "url": "https://timesofindia.indiatimes.com/entertainment/events/hyderabad/big-screenings-louder-screams-inside-the-psg-vs-arsenal-champions-league-final-watch-parties/articleshow/131384770.cms",
+      "title": "Portugal manager Roberto Martinez reveals secret behind Cristiano Ronaldo’s longevity ahead of FIFA World Cup 2026 and its not his diet",
+      "description": "Cristiano Ronaldo is preparing for yet another FIFA World Cup with Portugal. At 41 years old, the veteran forward is set to feature in his sixth World Cup next month. Portugal have been placed in Group K alongside DR Congo, Uzbekistan and Colombia. After rece…",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/beyond-the-game/portugal-manager-roberto-martinez-reveals-secret-behind-cristiano-ronaldos-longevity-ahead-of-fifa-world-cup-2026-and-its-not-his-diet/articleshow/131391658.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-05-29T08:17:38Z",
-      "league": "Champions League"
+      "publishedAt": "2026-05-29T13:13:48Z",
+      "league": "World Cup"
     },
     {
-      "title": "Paris gears up with big police presence for Champions League final",
-      "description": "Paris is gearing up with a massive police presence and extensive restrictions for Saturday's Champions League final between Paris Saint-Germain and Arsenal. In the greater Paris area, 8,000 police officers and 2,500 firefighters will be deployed to prevent an…",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260529-99-569172/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-05-29T07:41:19Z",
-      "league": "Champions League"
+      "title": "Portugal coach says Cristiano Ronaldo could play in 2030 World Cup at 45",
+      "description": "Soccer fans shouldn't rule out watching a 45-year-old Cristiano Ronaldo playing in the 2030 World Cup, Portugal manager Roberto Martinez said.",
+      "url": "https://www.upi.com/Sports_News/Soccer/2026/05/29/portugal-Cristiano-Ronaldo-World-Cup-2030/8921780049866/",
+      "source": "UPI.com",
+      "publishedAt": "2026-05-29T13:09:45Z",
+      "league": "World Cup"
     },
     {
-      "title": "From non-league to Champions League - Raya's fairytale rise",
-      "description": "Twelve years ago Arsenal keeper David Raya made his debut for non-league Southport; on Saturday he plays in the Champions League final - this is how he got there.",
-      "url": "https://www.bbc.com/sport/football/articles/ce8pm9zdmy9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-05-29T07:06:34Z",
-      "league": "Championship"
+      "title": "Dangerously High Temperatures Threaten The 2026 World Cup",
+      "description": "Next month, the United States – along with Canada and Mexico – will play host to the 2026 FIFA...",
+      "url": "https://climatecrisis247.com/news/dangerously-high-temperatures-threaten-the-2026-world-cup/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dangerously-high-temperatures-threaten-the-2026-world-cup",
+      "source": "Climatecrisis247.com",
+      "publishedAt": "2026-05-29T12:45:54Z",
+      "league": "World Cup"
     },
     {
-      "title": "USA boss Pochettino holds initial talks with AC Milan",
-      "description": "Mauricio Pochettino has held initial talks with AC Milan to become their next manager following the sacking of Massimiliano Allegri.",
-      "url": "https://www.bbc.com/sport/football/articles/c794gn7n955o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-05-28T19:42:02Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Serie A: AC Milan approach Pochettino after Allegri exit",
-      "description": "AC Milan are in talks with Mauricio Pochettino to become their new manager after Massimiliano Allegri’s dismissal. Learn more about the potential move.\n\nRead More: https://punchng.com/serie-a-ac-milan-approach-pochettino-after-allegri-exit/",
-      "url": "https://punchng.com/serie-a-ac-milan-approach-pochettino-after-allegri-exit/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-29T07:21:12Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Report: Barcelona eyeing move for £45m Arsenal star",
-      "description": "Barcelona Eye Piero Hincapie as Arsenal Face Defensive Transfer TestBarcelona’s interest in Piero Hincapie feels like one of those transfer stories that quickly reveals how a club truly values a pla...",
-      "url": "https://eplindex.com/146925/report-barcelona-eyeing-move-for-45m-arsenal-star.html",
-      "source": "English Premier League Index - Opta Stats",
-      "publishedAt": "2026-05-29T08:20:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Juventus transfer blow as Liverpool block Alisson’s exit",
-      "description": "Fabrizio Romano reports that Liverpool have decided against letting Alisson leave in the summer, which means Juventus will have to look for a different",
-      "url": "https://football-italia.net/juventus-transfer-blow-liverpool-block-alisson/",
-      "source": "Football Italia",
-      "publishedAt": "2026-05-29T08:00:56Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Sky Sports: Liverpool star set to leave this summer after contract U-turn",
-      "description": "Konate Exit Looms as Liverpool Face a Summer of UncertaintyLiverpool supporters have spent much of the past few weeks looking ahead, eager to see how the club responds after a frustrating 2025/26 camp...",
-      "url": "https://anfieldindex.com/94573/sky-sports-liverpool-star-set-to-leave-this-summer-after-contract-u-turn.html",
-      "source": "Anfieldindex.com",
-      "publishedAt": "2026-05-29T07:55:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "The full financial details of Anthony Gordon’s transfer to Barcelona",
-      "description": "Barcelona’s signing of Anthony Gordon is one of the biggest deals of the summer, and the financial structure has now been revealed by SPORT.The Catalan club have reached an agreement with Newcastle ...",
-      "url": "https://barcauniversal.com/the-full-financial-details-of-anthony-gordons-transfer-to-barcelona/",
-      "source": "Barcauniversal.com",
-      "publishedAt": "2026-05-29T07:50:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Andy Robertson closes in on Spurs move after Liverpool exit",
-      "description": "Tottenham Hotspur are closing in on a free transfer for Andy Robertson, who left Liverpool after nine years, as an agreement with Spurs is in principle, with only the finer details now remaining.Rober...",
-      "url": "https://thefootballfaithful.com/andy-robertson-closes-in-on-tottenham-move-after-liverpool-exit/",
-      "source": "The Football Faithful",
-      "publishedAt": "2026-05-29T07:45:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Marcus Rashford alarm bells sound as Barcelona work on 3rd summer signing",
-      "description": "The latest word stemming from the boardroom at La Liga giants Barcelona will no doubt mark a source of concern for Marcus Rashford.This comes amid confirmation that the Blaugrana are now actively work...",
-      "url": "https://getfootballnewsspain.com/marcus-rashford-alarm-bells-sound-as-barcelona-work-on-3rd-summer-signing/",
-      "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-05-28T21:30:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Barcelona plot surprise move for Arsenal star",
-      "description": "La Liga giants Barcelona are giving consideration to a summer offer for a member of the defensive ranks at Premier League champions Arsenal.This comes amid claims of the Blaugrana having set their sig...",
-      "url": "https://getfootballnewsspain.com/barcelona-plot-surprise-move-for-arsenal-star/",
-      "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-05-28T20:35:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Papers: Barcelona weighing up approach for Arsenal defender",
-      "description": "The top stories and transfer rumours from Friday's newspapers...",
-      "url": "https://www.skysports.com/football/transfer-paper-talk/12709/13548854/arsenal-transfer-news-barcelona-weigh-up-approach-for-defender-piero-hincapie-paper-talk",
-      "source": "Sky Sports",
-      "publishedAt": "2026-05-28T21:58:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Spurs closing in on Senesi move and hopeful of Robertson deal",
-      "description": "Marcos Senesi is edging close to a move to Tottenham after positive talks this week.",
-      "url": "https://www.skysports.com/football/news/11095/13547838/tottenham-transfers-news-spurs-edging-close-to-signing-marcos-senesi-and-hopeful-of-move-for-andy-robertson",
-      "source": "Sky Sports",
-      "publishedAt": "2026-05-28T20:00:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Gleison Bremer: Inter Milan no obstacle as United eye South American star",
-      "description": "Inter Milan are now the least of Manchester United’s worries in their hopes of signing Gleison Bremer to bolster their backline.A centre-back signing is one INEOS may look to make. United’s senior...",
-      "url": "https://thepeoplesperson.com/2026/05/28/gleison-bremer-inter-milan-no-obstacle-as-united-eye-south-american-star-310751/",
-      "source": "The Peoples Person",
-      "publishedAt": "2026-05-28T19:40:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Bayern Munich News: Dušan Vlahović back on FC Bayern’s radar?; João Palhinha willing to take pay cut?; and MORE!",
-      "description": "Is FC Bayern reigniting an old flame?",
-      "url": "https://www.bavarianfootballworks.com/transfer-rumors/208339/bayern-munich-vlahovic-juventus-tottenham-real-madrid-fc-barcelona-manchester-city-united-chelsea-arsenal-psg",
-      "source": "Bavarian Football Works",
-      "publishedAt": "2026-05-29T04:00:00Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Barca weigh up move for Hincapie - Friday's gossip",
-      "description": "Barcelona weigh up move for Piero Hincapie, Ruben Dias instructs agents to explore move away from Manchester City, Liverpool pushing for quick agreement with Yan Diomande, plus more.",
-      "url": "https://www.bbc.com/sport/football/articles/cglp3r7nk84o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-05-28T22:04:44Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Barca weigh up move for Hincapie - Friday's gossip",
-      "description": "Barcelona weigh up move for Piero Hincapie, Ruben Dias instructs agents to explore move away from Manchester City, Liverpool pushing for quick agreement with Yan Diomande, plus more.",
-      "url": "https://www.bbc.com/sport/football/articles/cglp3r7nk84o",
-      "source": "BBC News",
-      "publishedAt": "2026-05-28T20:28:37Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Werder Bremen set to sign USA youth international",
-      "description": "Multiple reports confirmed Werder Bremen agreed a deal to sign the USA youth international Ramiz Hamouda from Birmingham Legion FC. Fabrizio Romano reported the 18-year-old defender will sign a deal u...",
-      "url": "https://bulinews.com/werder-bremen-set-sign-usa-youth-international",
-      "source": "Bulinews.com",
-      "publishedAt": "2026-05-28T18:21:00Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Reason why Hansi Flick personally pushed Barcelona to sign Anthony Gordon – report",
-      "description": "Barcelona’s move for Anthony Gordon did not happen by chance. Rather, as reported by SPORT, Hansi Flick played a major role in convincing the club that the Newcastle United winger was the right pla...",
-      "url": "https://barcauniversal.com/reason-why-hansi-flick-personally-pushed-barcelona-to-sign-anthony-gordon-report/",
-      "source": "Barcauniversal.com",
-      "publishedAt": "2026-05-29T08:00:00Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "The future of a key Manchester City defender seems far from certain",
-      "description": "Although his 2025-26 season was heavily interrupted by injury, Josko Gvardiol looks to be a prominent player for the future for Manchester City. The Croatian international already is vital to his team...",
-      "url": "https://esteemedkompany.com/2026/05/29/the-future-of-a-key-manchester-city-defender-seems-far-from-certain/",
-      "source": "Esteemedkompany.com",
-      "publishedAt": "2026-05-29T07:50:00Z",
-      "league": "Transfers"
-    },
-    {
-      "title": " €100m, Barça's first bid for Julián Álvarez, says LaSexta",
-      "description": "The transfer market is exploding once again with a move that promises to bring the football world to a standstill. FC Barcelona has decided to go all in for one of the board’s biggest wishes and has...",
-      "url": "https://onefootball.com/en/news/100m-barcas-first-bid-for-julian-alvarez-says-lasexta-42937706",
-      "source": "Onefootball.com",
-      "publishedAt": "2026-05-29T07:24:00Z",
-      "league": "Transfers"
-    },
-    {
-      "title": "Real Madrid offered golden chance to land Premier League defender for free",
-      "description": "Real Madrid may have just been presented with one of the most attractive opportunities of the summer transfer window as Liverpool defender Ibrahima Konate has decided to leave, according to Sky Sport....",
-      "url": "https://madriduniversal.com/real-madrid-offered-golden-chance-to-land-premier-league-defender-for-free/",
-      "source": "Madriduniversal.com",
-      "publishedAt": "2026-05-29T07:00:00Z",
-      "league": "Transfers"
+      "title": "World Cup 2026: How France created football’s deepest talent pool",
+      "description": "France overcame decades of underachievement to create a football talent system unmatched anywhere in the world.",
+      "url": "https://www.aljazeera.com/sports/2026/5/29/world-cup-2026-how-france-created-footballs-deepest-talent-pool",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-29T12:04:21Z",
+      "league": "World Cup"
     }
   ],
-  "generatedAt": "2026-05-30T08:22:24.715Z"
+  "generatedAt": "2026-05-30T13:17:52.170Z"
 }
