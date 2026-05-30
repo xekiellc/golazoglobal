@@ -1,31 +1,31 @@
 {
   "matches": [
     {
-      "league": "CL",
-      "homeTeam": "PSG",
-      "awayTeam": "Arsenal",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-30T16:00:00Z"
-    },
-    {
       "league": "BSA",
       "homeTeam": "Paranaense",
       "awayTeam": "Mirassol",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
       "utcDate": "2026-05-30T19:00:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Flamengo",
       "awayTeam": "Coritiba",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
       "utcDate": "2026-05-30T19:00:00Z"
+    },
+    {
+      "league": "CL",
+      "homeTeam": "PSG",
+      "awayTeam": "Arsenal",
+      "homeScore": 5,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-05-30T16:00:00Z"
     },
     {
       "league": "BSA",
@@ -55,5 +55,5 @@
       "utcDate": "2026-05-30T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-30T13:19:15.355Z"
+  "generatedAt": "2026-05-30T19:07:07.625Z"
 }
