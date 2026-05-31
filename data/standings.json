@@ -2048,14 +2048,14 @@
       {
         "position": 1,
         "team": "Palmeiras",
-        "played": 17,
+        "played": 18,
         "won": 11,
-        "drawn": 5,
+        "drawn": 6,
         "lost": 1,
         "goalsFor": 29,
         "goalsAgainst": 13,
         "goalDifference": 16,
-        "points": 38,
+        "points": 39,
         "form": ""
       },
       {
@@ -2100,14 +2100,14 @@
       {
         "position": 5,
         "team": "Bragantino",
-        "played": 17,
-        "won": 8,
+        "played": 18,
+        "won": 9,
         "drawn": 2,
         "lost": 7,
-        "goalsFor": 22,
-        "goalsAgainst": 18,
-        "goalDifference": 4,
-        "points": 26,
+        "goalsFor": 25,
+        "goalsAgainst": 19,
+        "goalDifference": 6,
+        "points": 29,
         "form": ""
       },
       {
@@ -2190,6 +2190,19 @@
       },
       {
         "position": 12,
+        "team": "Mineiro",
+        "played": 18,
+        "won": 6,
+        "drawn": 4,
+        "lost": 8,
+        "goalsFor": 21,
+        "goalsAgainst": 23,
+        "goalDifference": -2,
+        "points": 22,
+        "form": ""
+      },
+      {
+        "position": 13,
         "team": "Vitória",
         "played": 17,
         "won": 6,
@@ -2202,28 +2215,15 @@
         "form": ""
       },
       {
-        "position": 13,
-        "team": "Mineiro",
-        "played": 17,
-        "won": 6,
-        "drawn": 3,
-        "lost": 8,
-        "goalsFor": 21,
-        "goalsAgainst": 23,
-        "goalDifference": -2,
-        "points": 21,
-        "form": ""
-      },
-      {
         "position": 14,
         "team": "Internacional",
-        "played": 17,
+        "played": 18,
         "won": 5,
         "drawn": 6,
-        "lost": 6,
-        "goalsFor": 20,
-        "goalsAgainst": 19,
-        "goalDifference": 1,
+        "lost": 7,
+        "goalsFor": 21,
+        "goalsAgainst": 22,
+        "goalDifference": -1,
         "points": 21,
         "form": ""
       },
@@ -2256,14 +2256,14 @@
       {
         "position": 17,
         "team": "Vasco da Gama",
-        "played": 17,
+        "played": 18,
         "won": 5,
-        "drawn": 5,
+        "drawn": 6,
         "lost": 7,
         "goalsFor": 22,
         "goalsAgainst": 28,
         "goalDifference": -6,
-        "points": 20,
+        "points": 21,
         "form": ""
       },
       {
@@ -2295,17 +2295,17 @@
       {
         "position": 20,
         "team": "Chapecoense",
-        "played": 16,
+        "played": 17,
         "won": 1,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 9,
         "goalsFor": 17,
         "goalsAgainst": 32,
         "goalDifference": -15,
-        "points": 9,
+        "points": 10,
         "form": ""
       }
     ]
   },
-  "generatedAt": "2026-05-31T13:28:47.526Z"
+  "generatedAt": "2026-05-31T19:11:03.411Z"
 }

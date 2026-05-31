@@ -10,6 +10,24 @@
       "utcDate": "2026-05-30T23:00:00Z"
     },
     {
+      "league": "BSA",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Chapecoense",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-31T19:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Mineiro",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-05-31T19:00:00Z"
+    },
+    {
       "league": "CL",
       "homeTeam": "PSG",
       "awayTeam": "Arsenal",
@@ -58,28 +76,10 @@
       "league": "BSA",
       "homeTeam": "Bragantino",
       "awayTeam": "Internacional",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-05-31T14:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Palmeiras",
-      "awayTeam": "Chapecoense",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-31T19:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Vasco da Gama",
-      "awayTeam": "Mineiro",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-31T19:00:00Z"
     },
     {
       "league": "BSA",
@@ -100,5 +100,5 @@
       "utcDate": "2026-05-31T23:30:00Z"
     }
   ],
-  "generatedAt": "2026-05-31T13:27:44.429Z"
+  "generatedAt": "2026-05-31T19:10:01.109Z"
 }
