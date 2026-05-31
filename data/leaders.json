@@ -893,9 +893,16 @@
         {
           "name": "Kevin Viveros",
           "team": "Paranaense",
-          "goals": 10,
+          "goals": 11,
           "assists": 1,
           "penalties": 2
+        },
+        {
+          "name": "Pedro",
+          "team": "Flamengo",
+          "goals": 10,
+          "assists": 4,
+          "penalties": 0
         },
         {
           "name": "Carlos Vinícius",
@@ -903,13 +910,6 @@
           "goals": 9,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Pedro",
-          "team": "Flamengo",
-          "goals": 9,
-          "assists": 3,
-          "penalties": 0
         },
         {
           "name": "John Kennedy",
@@ -965,8 +965,8 @@
         {
           "name": "Pedro",
           "team": "Flamengo",
-          "goals": 9,
-          "assists": 3,
+          "goals": 10,
+          "assists": 4,
           "penalties": 0
         },
         {
@@ -986,7 +986,7 @@
         {
           "name": "Kevin Viveros",
           "team": "Paranaense",
-          "goals": 10,
+          "goals": 11,
           "assists": 1,
           "penalties": 2
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-05-30T19:09:38.269Z"
+  "generatedAt": "2026-05-31T00:01:58.752Z"
 }
