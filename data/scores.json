@@ -4,9 +4,9 @@
       "league": "BSA",
       "homeTeam": "Santos",
       "awayTeam": "Vitória",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "PAUSED",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "IN_PLAY",
       "utcDate": "2026-05-30T23:00:00Z"
     },
     {
@@ -53,7 +53,52 @@
       "awayScore": 3,
       "status": "FINISHED",
       "utcDate": "2026-05-30T20:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Internacional",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-05-31T14:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Chapecoense",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-05-31T19:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Mineiro",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-05-31T19:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Fluminense",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-05-31T23:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Clube do Remo",
+      "awayTeam": "São Paulo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-05-31T23:30:00Z"
     }
   ],
-  "generatedAt": "2026-05-30T23:59:16.685Z"
+  "generatedAt": "2026-05-31T08:40:11.757Z"
 }

@@ -1,36 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Roma’s Interest in Greenwood Is Hard to ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Chiesa Di Totti",
-      "url": "https://www.chiesaditotti.com/as-roma-transfer-news-rumors/41163/romas-interest-in-greenwood-is-hard-to-justify-on-sporting-and-moral-grounds",
-      "publishedAt": "2026-05-29T23:10:18Z"
-    },
-    {
-      "player": "Top",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Onefootball.com",
-      "url": "https://onefootball.com/en/news/major-boost-river-confirm-otamendi-signing-42941476",
-      "publishedAt": "2026-05-29T22:40:00Z"
-    },
-    {
-      "player": "Anthony Gordon stuns reporters by speaki",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "101 Great Goals",
-      "url": "https://www.101greatgoals.com/football/la-liga/anthony-gordon-stuns-reporters-speaking-fluent-spanish-barcelona/",
-      "publishedAt": "2026-05-29T21:58:45Z"
-    }
-  ],
-  "generatedAt": "2026-05-30T23:57:52.722Z",
+  "transfers": [],
+  "generatedAt": "2026-05-31T08:38:47.403Z",
   "note": "Transfers derived from news headlines at launch."
 }
