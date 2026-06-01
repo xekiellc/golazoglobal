@@ -914,7 +914,7 @@
         {
           "name": "John Kennedy",
           "team": "Fluminense",
-          "goals": 8,
+          "goals": 9,
           "assists": 1,
           "penalties": 0
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-06-01T00:07:09.798Z"
+  "generatedAt": "2026-06-01T11:26:25.212Z"
 }

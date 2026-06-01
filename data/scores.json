@@ -2,24 +2,6 @@
   "matches": [
     {
       "league": "BSA",
-      "homeTeam": "Cruzeiro",
-      "awayTeam": "Fluminense",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-31T23:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Clube do Remo",
-      "awayTeam": "São Paulo",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-31T23:30:00Z"
-    },
-    {
-      "league": "BSA",
       "homeTeam": "Bragantino",
       "awayTeam": "Internacional",
       "homeScore": 3,
@@ -44,7 +26,25 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-05-31T19:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Fluminense",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-05-31T23:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Clube do Remo",
+      "awayTeam": "São Paulo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-05-31T23:30:00Z"
     }
   ],
-  "generatedAt": "2026-06-01T00:04:35.364Z"
+  "generatedAt": "2026-06-01T11:24:06.214Z"
 }
