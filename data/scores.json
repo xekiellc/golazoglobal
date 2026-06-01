@@ -2,75 +2,21 @@
   "matches": [
     {
       "league": "BSA",
-      "homeTeam": "Santos",
-      "awayTeam": "Vitória",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-05-30T23:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Palmeiras",
-      "awayTeam": "Chapecoense",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Fluminense",
       "homeScore": 0,
       "awayScore": 0,
       "status": "IN_PLAY",
-      "utcDate": "2026-05-31T19:00:00Z"
+      "utcDate": "2026-05-31T23:30:00Z"
     },
     {
       "league": "BSA",
-      "homeTeam": "Vasco da Gama",
-      "awayTeam": "Mineiro",
+      "homeTeam": "Clube do Remo",
+      "awayTeam": "São Paulo",
       "homeScore": 0,
       "awayScore": 0,
       "status": "IN_PLAY",
-      "utcDate": "2026-05-31T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "PSG",
-      "awayTeam": "Arsenal",
-      "homeScore": 5,
-      "awayScore": 4,
-      "status": "FINISHED",
-      "utcDate": "2026-05-30T16:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Paranaense",
-      "awayTeam": "Mirassol",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-05-30T19:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Flamengo",
-      "awayTeam": "Coritiba",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-05-30T19:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Bahia",
-      "awayTeam": "Botafogo",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-05-30T20:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Grêmio",
-      "awayTeam": "Corinthians",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-05-30T20:30:00Z"
+      "utcDate": "2026-05-31T23:30:00Z"
     },
     {
       "league": "BSA",
@@ -83,22 +29,22 @@
     },
     {
       "league": "BSA",
-      "homeTeam": "Cruzeiro",
-      "awayTeam": "Fluminense",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-31T23:30:00Z"
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Chapecoense",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-05-31T19:00:00Z"
     },
     {
       "league": "BSA",
-      "homeTeam": "Clube do Remo",
-      "awayTeam": "São Paulo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-05-31T23:30:00Z"
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Mineiro",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-05-31T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-05-31T19:10:01.109Z"
+  "generatedAt": "2026-06-01T00:04:35.364Z"
 }

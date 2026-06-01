@@ -2049,13 +2049,13 @@
         "position": 1,
         "team": "Palmeiras",
         "played": 18,
-        "won": 11,
-        "drawn": 6,
+        "won": 12,
+        "drawn": 5,
         "lost": 1,
-        "goalsFor": 29,
+        "goalsFor": 30,
         "goalsAgainst": 13,
-        "goalDifference": 16,
-        "points": 39,
+        "goalDifference": 17,
+        "points": 41,
         "form": ""
       },
       {
@@ -2073,6 +2073,19 @@
       },
       {
         "position": 3,
+        "team": "Fluminense",
+        "played": 18,
+        "won": 9,
+        "drawn": 4,
+        "lost": 5,
+        "goalsFor": 27,
+        "goalsAgainst": 22,
+        "goalDifference": 5,
+        "points": 31,
+        "form": ""
+      },
+      {
+        "position": 4,
         "team": "Paranaense",
         "played": 18,
         "won": 9,
@@ -2081,19 +2094,6 @@
         "goalsFor": 24,
         "goalsAgainst": 18,
         "goalDifference": 6,
-        "points": 30,
-        "form": ""
-      },
-      {
-        "position": 4,
-        "team": "Fluminense",
-        "played": 17,
-        "won": 9,
-        "drawn": 3,
-        "lost": 5,
-        "goalsFor": 27,
-        "goalsAgainst": 22,
-        "goalDifference": 5,
         "points": 30,
         "form": ""
       },
@@ -2112,6 +2112,19 @@
       },
       {
         "position": 6,
+        "team": "São Paulo",
+        "played": 18,
+        "won": 7,
+        "drawn": 5,
+        "lost": 6,
+        "goalsFor": 23,
+        "goalsAgainst": 19,
+        "goalDifference": 4,
+        "points": 26,
+        "form": ""
+      },
+      {
+        "position": 7,
         "team": "Bahia",
         "played": 17,
         "won": 7,
@@ -2124,7 +2137,7 @@
         "form": ""
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "Coritiba",
         "played": 18,
         "won": 7,
@@ -2137,20 +2150,20 @@
         "form": ""
       },
       {
-        "position": 8,
-        "team": "São Paulo",
-        "played": 17,
+        "position": 9,
+        "team": "Mineiro",
+        "played": 18,
         "won": 7,
-        "drawn": 4,
-        "lost": 6,
-        "goalsFor": 23,
-        "goalsAgainst": 19,
-        "goalDifference": 4,
-        "points": 25,
+        "drawn": 3,
+        "lost": 8,
+        "goalsFor": 22,
+        "goalsAgainst": 23,
+        "goalDifference": -1,
+        "points": 24,
         "form": ""
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "Corinthians",
         "played": 18,
         "won": 6,
@@ -2163,20 +2176,20 @@
         "form": ""
       },
       {
-        "position": 10,
+        "position": 11,
         "team": "Cruzeiro",
-        "played": 17,
+        "played": 18,
         "won": 6,
-        "drawn": 5,
+        "drawn": 6,
         "lost": 6,
         "goalsFor": 23,
         "goalsAgainst": 27,
         "goalDifference": -4,
-        "points": 23,
+        "points": 24,
         "form": ""
       },
       {
-        "position": 11,
+        "position": 12,
         "team": "Botafogo",
         "played": 17,
         "won": 6,
@@ -2185,19 +2198,6 @@
         "goalsFor": 31,
         "goalsAgainst": 31,
         "goalDifference": 0,
-        "points": 22,
-        "form": ""
-      },
-      {
-        "position": 12,
-        "team": "Mineiro",
-        "played": 18,
-        "won": 6,
-        "drawn": 4,
-        "lost": 8,
-        "goalsFor": 21,
-        "goalsAgainst": 23,
-        "goalDifference": -2,
         "points": 22,
         "form": ""
       },
@@ -2258,12 +2258,12 @@
         "team": "Vasco da Gama",
         "played": 18,
         "won": 5,
-        "drawn": 6,
-        "lost": 7,
+        "drawn": 5,
+        "lost": 8,
         "goalsFor": 22,
-        "goalsAgainst": 28,
-        "goalDifference": -6,
-        "points": 21,
+        "goalsAgainst": 29,
+        "goalDifference": -7,
+        "points": 20,
         "form": ""
       },
       {
@@ -2282,14 +2282,14 @@
       {
         "position": 19,
         "team": "Clube do Remo",
-        "played": 17,
+        "played": 18,
         "won": 3,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 8,
         "goalsFor": 20,
         "goalsAgainst": 29,
         "goalDifference": -9,
-        "points": 15,
+        "points": 16,
         "form": ""
       },
       {
@@ -2297,15 +2297,15 @@
         "team": "Chapecoense",
         "played": 17,
         "won": 1,
-        "drawn": 7,
-        "lost": 9,
+        "drawn": 6,
+        "lost": 10,
         "goalsFor": 17,
-        "goalsAgainst": 32,
-        "goalDifference": -15,
-        "points": 10,
+        "goalsAgainst": 33,
+        "goalDifference": -16,
+        "points": 9,
         "form": ""
       }
     ]
   },
-  "generatedAt": "2026-05-31T19:11:03.411Z"
+  "generatedAt": "2026-06-01T00:05:37.667Z"
 }
