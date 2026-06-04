@@ -1,60 +1,92 @@
 {
   "articles": [
     {
-      "title": "Liverpool reach verbal agreement with Andoni Iraola: Former Bournemouth boss set to replace Arne Slot at Anfield on two-year deal",
-      "description": "Confirmation is expected for the Spaniard to join on an initial two year deal to replace Arne Slot , who parted company with the Reds last week just 12 months on from winning the Premier League.",
-      "url": "https://www.dailymail.com/sport/football/article-15868783/Liverpool-agreement-Andoni-Iraola.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-02T20:33:23Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Liverpool reach agreement with Iraola",
-      "description": "Liverpool have reached a verbal agreement with Andoni Iraola to become their new head coach.",
-      "url": "https://www.skysports.com/football/news/11669/13550266/andoni-iraola-liverpool-reach-agreement-with-former-bournemouth-head-coach-to-succeed-arne-slot",
-      "source": "Sky Sports",
-      "publishedAt": "2026-06-02T20:27:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Newcastle defender vows ‘there is still much more to come’ after signing extension",
-      "description": "Newcastle United defender Fabian Schar vowed that there is still \"much more to come\" from him after he signed a one-year contract extension.",
-      "url": "https://www.101greatgoals.com/football/premier-league/newcastle-defender-extension/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-06-02T20:26:06Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Ibrahima Konate Nearing Real Madrid Move After Liverpool Exit",
-      "description": "France international defender Ibrahima Konate is reportedly closing in on a sensational move to Real Madrid, just days after his emotional departure from Liverpool was officially confirmed.",
-      "url": "https://www.foxsports.com/stories/soccer/ibrahima-konate-closes-in-on-real-madrid-move-just-days-after-confirmation-of-liverpool-exit",
-      "source": "Fox Sports",
-      "publishedAt": "2026-06-02T19:57:14Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Liverpool star now set to stay after dramatic news",
-      "description": "Ibrahima Konate will leave Liverpool at the end of the season. His contract expires and there won't be a new one after player and club failed to find new terms.That was reported at the back end of las...",
-      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-star-now-looks-set-to-stay-after-dramatic-news/",
-      "source": "Anfieldwatch.co.uk",
-      "publishedAt": "2026-06-02T19:40:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "How USMNT's Brenden Aaronson balanced intense World Cup roster call-up with his wedding day",
-      "description": "Aaronson missed Friday's training session to attend his wedding, one part of a whirlwind week for the USMNT attacker",
-      "url": "https://www.cbssports.com/soccer/news/how-usmnts-brenden-aaronson-balanced-intense-world-cup-roster-call-up-and-wedding/",
+      "title": "World Cup 2026 squads by the numbers: Clubs and leagues most represented, youngest players and more",
+      "description": "From 43-year-old veterans to teenage prodigies, a look at the historic age milestones and roster trends shaping the tournament",
+      "url": "https://www.cbssports.com/soccer/news/world-cup-2026-squads-by-the-numbers-leagues-oldest-youngest-players-countries/",
       "source": "CBS Sports",
-      "publishedAt": "2026-06-02T19:17:59Z",
+      "publishedAt": "2026-06-02T23:28:42Z",
       "league": "Premier League"
     },
     {
-      "title": "Who are the best young players to watch at FIFA World Cup 2026?",
-      "description": "Al Jazeera counts down the top young footballers who could emerge as global names at the tournament in North America.",
-      "url": "https://www.aljazeera.com/sports/2026/6/2/best-young-players-to-watch-at-fifa-world-cup-2026",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-02T19:13:11Z",
+      "title": "World Cup 2026 squads by the number: Clubs and leagues most represented, youngest players and more",
+      "description": "From 43-year-old veterans to teenage prodigies, a look at the historic age milestones and roster trends shaping the tournament",
+      "url": "https://www.cbssports.com/soccer/news/world-cup-2026-squads-by-the-number-leagues-oldest-youngest-players-countries/",
+      "source": "CBS Sports",
+      "publishedAt": "2026-06-02T23:02:41Z",
       "league": "Premier League"
+    },
+    {
+      "title": "Liverpool legend Sir Kenny Dalglish shares cancer diagnosis after accidental reveal",
+      "description": "Dalglish, 75, leaned into humor in his statement on Tuesday, joking about his accidental revelation of the situation on social media earlier in the day.",
+      "url": "https://nypost.com/2026/06/02/sports/liverpool-legend-sir-kenny-dalglish-shares-cancer-diagnosis/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-02T22:59:13Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Report: Manchester United set to complete major €45m deal",
+      "description": "Manchester United Agree Ederson Deal as Midfield Rebuild BeginsEderson Transfer Signals United IntentManchester United appear to have moved with unusual clarity, and perhaps unusual speed, in reaching...",
+      "url": "https://eplindex.com/147043/report-manchester-united-set-to-complete-major-e45m-deal.html",
+      "source": "English Premier League Index - Opta Stats",
+      "publishedAt": "2026-06-02T22:30:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Watkins believes he is arriving at the World Cup in his best-ever form",
+      "description": "Aston Villa and England striker Ollie Watkins believes he is ‘the best he has ever been’ as the forward prepares for the World Cup.The 30-year-old finished the club season in top form and was a cr...",
+      "url": "https://hayters.com/watkins-believes-he-is-arriving-at-the-world-cup-in-his-best-ever-form/",
+      "source": "Hayters.com",
+      "publishedAt": "2026-06-02T22:20:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Bellamy sees Koumas future at centre-forward",
+      "description": "Wales head coach Craig Bellamy believes Lewis Koumas' international future will be as a centre-forward.",
+      "url": "https://www.bbc.com/sport/football/articles/c1724lqy2jgo",
+      "source": "BBC News",
+      "publishedAt": "2026-06-02T22:06:38Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Why Man United believe Bruno Fernandes will stay this summer",
+      "description": "Manchester United skipper Bruno Fernandes may be gathering accolades after a record-breaking season, but fans will be worried about his uncertain future. The Portuguese magnifico will enter the final ...",
+      "url": "https://thepeoplesperson.com/2026/06/02/why-man-united-believe-bruno-fernandes-will-stay-this-summer-310946/",
+      "source": "The Peoples Person",
+      "publishedAt": "2026-06-02T22:05:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Manchester United reach agreement with Atalanta to sign Ederson",
+      "description": "Manchester United have reached an agreement with Atalanta to sign Brazilian midfielder Ederson as the club’s first senior arrival of the summer transfer window.Talks between the two clubs have been ...",
+      "url": "https://sportsview.co.uk/2026/06/manchester-united-reach-agreement-with-atalanta-to-sign-ederson?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=manchester-united-reach-agreement-with-atalanta-to-sign-ederson",
+      "source": "Sportsview.co.uk",
+      "publishedAt": "2026-06-02T21:50:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Liverpool great Dalglish reveals cancer diagnosis and says 'treatment is going well'",
+      "description": "Liverpool great Kenny Dalglish has been diagnosed with cancer and is undergoing treatment. The 75-year-old Dalglish revealed the news in a post on Instagram and said on Tuesday “the treatment is going well.” “As ever, thank you to the wonderful medical staff …",
+      "url": "https://japantoday.com/category/sports/liverpool-great-dalglish-reveals-cancer-diagnosis-and-says-%27treatment-is-going-well%27",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-02T21:42:03Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Cristiano Ronaldo’s Almeria one step closer to La Liga return as Spanish club discovers playoff dates, semifinal opponent, and potential final rival in promotion chase",
+      "description": "After a dramatic final day in the Segunda Division, the club secured a crucial league position that keeps promotion hopes intact and sets up a high-stakes postseason battle for a place in La Liga. Cristiano Ronaldo’s dream of seeing Almeria return to Spain’s …",
+      "url": "https://worldsoccertalk.com/news/cristiano-ronaldos-almeria-one-step-closer-to-la-liga-return-as-spanish-club-discovers-playoff-dates-semifinal-opponent-and-potential-final-rival-in-promotion-chase/",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-06-02T23:35:58Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Valencia star agrees new contract",
+      "description": "La Liga outfit Valencia have this week tied a key member of the club’s first-team ranks down to a new contract.This comes amid widespread reports that Stole Dimitrievski has committed to the terms o...",
+      "url": "https://getfootballnewsspain.com/valencia-star-agrees-new-contract/",
+      "source": "Getfootballnewsspain.com",
+      "publishedAt": "2026-06-02T20:55:00Z",
+      "league": "La Liga"
     },
     {
       "title": "Lamine Yamal picks his best and worst match: one for Barcelona and one for Spain",
@@ -70,6 +102,22 @@
       "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b87d3bad-47b9-4b25-8819-201fc5223f23",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-06-02T20:30:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Ibrahima Konate Nearing Real Madrid Move After Liverpool Exit",
+      "description": "France international defender Ibrahima Konate is reportedly closing in on a sensational move to Real Madrid, just days after his emotional departure from Liverpool was officially confirmed.",
+      "url": "https://www.foxsports.com/stories/soccer/ibrahima-konate-closes-in-on-real-madrid-move-just-days-after-confirmation-of-liverpool-exit",
+      "source": "Fox Sports",
+      "publishedAt": "2026-06-02T19:57:14Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Lamine Yamal's 2025-26 record for FC Barcelona ⚡️",
+      "description": "Lamine Yamal’s season has been full of emotions.Despite an early defeat in the Champions League (eliminated in the quarter-finals), the young Barcelona prodigy once again truly stood out this season...",
+      "url": "https://onefootball.com/en/news/lamine-yamals-2025-26-record-for-fc-barcelona-42957489",
+      "source": "Onefootball.com",
+      "publishedAt": "2026-06-02T19:38:00Z",
       "league": "La Liga"
     },
     {
@@ -105,61 +153,13 @@
       "league": "La Liga"
     },
     {
-      "title": "Real Madrid seal deal for first summer signing",
-      "description": "La Liga giants Real Madrid have early this week tied up an agreement for the club’s first signing of the summer transfer window.The player primed to take his talents to Spain’s capital for next se...",
-      "url": "https://getfootballnewsspain.com/real-madrid-seal-deal-for-first-summer-signing/",
-      "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-06-02T16:50:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Konate in advanced talks with Real Madrid",
-      "description": "France defender Ibrahima Konate is in advanced talks with Real Madrid about joining the La Liga club on a free transfer.",
-      "url": "https://www.bbc.com/sport/football/articles/cx218elj1v0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "title": "Man Utd agree £35m fee for Atalanta's Ederson",
+      "description": "Atalanta's Brazilian midfielder Ederson is set to become Michael Carrick's first signing after Manchester United agreed a £35m deal for the 26-year-old",
+      "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go",
       "source": "BBC News",
-      "publishedAt": "2026-06-02T16:15:14Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Liverpool defender Konate in advanced talks with Real Madrid",
-      "description": "France defender Ibrahima Konate is in advanced talks with Real Madrid about joining the La Liga club on a free transfer.",
-      "url": "https://www.bbc.com/sport/football/articles/cx218elj1v0o",
-      "source": "BBC News",
-      "publishedAt": "2026-06-02T16:15:09Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Argentina rival Austria suffers major World Cup blow as Christoph Baumgartner is ruled out with injury",
-      "description": "One of Argentina's opponents at the 2026 FIFA World Cup, Austria, will be without their biggest star, Christoph Baumgartner. Austria have joined the list of teams that have lost one of their key stars ahead of the 2026 FIFA World Cup. Christoph Baumgartner su…",
-      "url": "https://worldsoccertalk.com/world-cup/argentina-rival-austria-suffers-major-world-cup-blow-as-christoph-baumgartner-is-ruled-out-with-injury/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-06-02T18:45:11Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "USA's World Cup Captains: From Inaugural Edition To 2026's 48-Team Tournament",
-      "description": "These are the players to have worn the captain's armband for the U.S. men's national team at each of its World Cup appearances.",
-      "url": "https://www.foxsports.com/stories/soccer/usmnt-captains-world-cup-tim-ream-clint-dempsey-tony-meola-carlos-bocanegra",
-      "source": "Fox Sports",
-      "publishedAt": "2026-06-02T16:12:35Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Top 100 Players -- no Custom HTML for 100-51",
-      "description": "Our experts ranked the best players competing in the 2026 FIFA World Cup this summer.",
-      "url": "https://www.foxsports.com/stories/soccer/top-100-players-no-custom-html-100-51",
-      "source": "Fox Sports",
-      "publishedAt": "2026-06-02T16:10:09Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Which Clubs Do 2026 USMNT World Cup Players Play For?",
-      "description": "Here’s where each member of manager Mauricio Pochettino’s 26-man World Cup squad plays when they’re not suiting up for the Red, White and Blue. He",
-      "url": "https://www.forbes.com/sites/ianquillen/2026/06/02/which-clubs-do-2026-usmnt-world-cup-players-play-for/",
-      "source": "Forbes",
-      "publishedAt": "2026-06-02T15:00:27Z",
-      "league": "Bundesliga"
+      "publishedAt": "2026-06-02T22:24:08Z",
+      "league": "Serie A"
     }
   ],
-  "generatedAt": "2026-06-03T20:50:55.181Z"
+  "generatedAt": "2026-06-04T00:27:50.965Z"
 }
