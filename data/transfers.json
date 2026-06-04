@@ -1,16 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Rutgers Baseball Loses OF Chase Krewson ",
+      "player": "What does Notre Dame's roster cost?",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "On The Banks",
-      "url": "https://www.onthebanks.com/rutgers-non-rev-sports/53061/rutgers-baseball-loses-of-chase-krewson-to-the-transfer-portal",
-      "publishedAt": "2026-06-03T14:39:49Z"
+      "source": "USA Today",
+      "url": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2026/06/03/notre-dame-football-2026-roster-cost/90390219007/",
+      "publishedAt": "2026-06-03T19:47:47Z"
     }
   ],
-  "generatedAt": "2026-06-04T14:47:19.237Z",
+  "generatedAt": "2026-06-04T19:58:53.807Z",
   "note": "Transfers derived from news headlines at launch."
 }
