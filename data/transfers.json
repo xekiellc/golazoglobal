@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-04T09:49:20.688Z",
+  "transfers": [
+    {
+      "player": "Rutgers Baseball Loses OF Chase Krewson ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "On The Banks",
+      "url": "https://www.onthebanks.com/rutgers-non-rev-sports/53061/rutgers-baseball-loses-of-chase-krewson-to-the-transfer-portal",
+      "publishedAt": "2026-06-03T14:39:49Z"
+    }
+  ],
+  "generatedAt": "2026-06-04T14:47:19.237Z",
   "note": "Transfers derived from news headlines at launch."
 }
