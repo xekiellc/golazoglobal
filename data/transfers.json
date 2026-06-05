@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "What does Notre Dame's roster cost?",
+      "player": "Three Questions Surrounding USC Trojans ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2026/06/03/notre-dame-football-2026-roster-cost/90390219007/",
-      "publishedAt": "2026-06-03T19:47:47Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/usc/football/usc-trojans-quarterback-jayden-maiava-three-questions",
+      "publishedAt": "2026-06-03T23:00:03Z"
+    },
+    {
+      "player": "‘I made the wrong call'",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Atozsports.com",
+      "url": "https://atozsports.com/college-football/espn-analyst-greg-mcelroy-top-10-list-miami-hurricanes-defensive-line-2026/",
+      "publishedAt": "2026-06-03T22:56:35Z"
     }
   ],
-  "generatedAt": "2026-06-04T19:58:53.807Z",
+  "generatedAt": "2026-06-05T00:01:53.193Z",
   "note": "Transfers derived from news headlines at launch."
 }
