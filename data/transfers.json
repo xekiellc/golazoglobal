@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Steve Spagnuolo overloads Chiefs’ new de",
+      "player": "Parimatch probe takes ED to Zepto's door",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Arrowhead Pride",
-      "url": "https://www.arrowheadpride.com/kansas-city-chiefs-news/203386/steve-spagnuolo-overloads-chiefs-new-defenders-in-offseason-workouts",
-      "publishedAt": "2026-06-04T14:30:00Z"
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/services/retail/parimatch-probe-takes-ed-to-zeptos-doorstep/articleshow/131516129.cms",
+      "publishedAt": "2026-06-04T19:27:49Z"
     },
     {
-      "player": "These are areas of confidence and concer",
+      "player": "Parimatch probe takes ED to Zepto's door",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/06/04/florida-football-strength-and-weaknesses-receivers-quarterbacks/90400236007/",
-      "publishedAt": "2026-06-04T14:26:32Z"
-    },
-    {
-      "player": "Koi Perich among most important non",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2026/06/04/oregon-football-koi-perich-non-qb-importance-espn/90402115007/",
-      "publishedAt": "2026-06-04T14:20:42Z"
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/tech/technology/parimatch-probe-takes-ed-to-zeptos-doorstep/articleshow/131519301.cms",
+      "publishedAt": "2026-06-04T19:27:49Z"
     }
   ],
-  "generatedAt": "2026-06-05T14:37:54.528Z",
+  "generatedAt": "2026-06-05T19:47:39.161Z",
   "note": "Transfers derived from news headlines at launch."
 }
