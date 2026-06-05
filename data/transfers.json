@@ -1,5 +1,36 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-05T09:37:57.864Z",
+  "transfers": [
+    {
+      "player": "Steve Spagnuolo overloads Chiefs’ new de",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Arrowhead Pride",
+      "url": "https://www.arrowheadpride.com/kansas-city-chiefs-news/203386/steve-spagnuolo-overloads-chiefs-new-defenders-in-offseason-workouts",
+      "publishedAt": "2026-06-04T14:30:00Z"
+    },
+    {
+      "player": "These are areas of confidence and concer",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/06/04/florida-football-strength-and-weaknesses-receivers-quarterbacks/90400236007/",
+      "publishedAt": "2026-06-04T14:26:32Z"
+    },
+    {
+      "player": "Koi Perich among most important non",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2026/06/04/oregon-football-koi-perich-non-qb-importance-espn/90402115007/",
+      "publishedAt": "2026-06-04T14:20:42Z"
+    }
+  ],
+  "generatedAt": "2026-06-05T14:37:54.528Z",
   "note": "Transfers derived from news headlines at launch."
 }
