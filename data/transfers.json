@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Dream Rangers move the perfect World Cup",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/articles/ckgpgjd93pjo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "publishedAt": "2026-06-05T13:02:10Z"
-    }
-  ],
-  "generatedAt": "2026-06-06T13:21:21.062Z",
+  "transfers": [],
+  "generatedAt": "2026-06-06T19:13:47.748Z",
   "note": "Transfers derived from news headlines at launch."
 }
