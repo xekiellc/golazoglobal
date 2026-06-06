@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Parimatch probe takes ED to Zepto's door",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/services/retail/parimatch-probe-takes-ed-to-zeptos-doorstep/articleshow/131516129.cms",
-      "publishedAt": "2026-06-04T19:27:49Z"
-    },
-    {
-      "player": "Parimatch probe takes ED to Zepto's door",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/tech/technology/parimatch-probe-takes-ed-to-zeptos-doorstep/articleshow/131519301.cms",
-      "publishedAt": "2026-06-04T19:27:49Z"
-    }
-  ],
-  "generatedAt": "2026-06-05T19:47:39.161Z",
+  "transfers": [],
+  "generatedAt": "2026-06-06T00:02:27.852Z",
   "note": "Transfers derived from news headlines at launch."
 }
