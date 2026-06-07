@@ -1,100 +1,116 @@
 {
   "articles": [
     {
-      "title": "Chelsea bid accepted for star, as Arsenal’s Alvarez move halted – transfer round-up",
-      "description": "Chelsea have had a £21 million bid accepted by Swedish side AIK for the highly-rated, 18-year-old winger Zadok Yohanna.However, The Mail report that, as well as the Blues, Newcastle have also had a b...",
-      "url": "https://hayters.com/chelsea-bid-accepted-for-star-as-arsenals-alvarez-move-halted-transfer-round-up/",
-      "source": "Hayters.com",
-      "publishedAt": "2026-06-06T08:40:00Z",
+      "title": "5 days to the World Cup: Cristiano Ronaldo, Wayne Rooney and the infamous wink",
+      "description": "A rush of blood to the head got Wayne Rooney sent off in the 2006 quarterfinals.",
+      "url": "https://sports.yahoo.com/soccer/article/5-days-to-the-world-cup-cristiano-ronaldo-wayne-rooney-and-the-infamous-wink-155300001.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-06T13:11:16Z",
       "league": "Premier League"
     },
     {
-      "title": "Chiesa hints at Liverpool’s Jones exit: ‘He asked me how life is in Italy – Inter are right to think about him’",
-      "description": "Federico Chiesa has opened up on his difficult two years at Liverpool, revealing the club blocked his January exit and hinting that Curtis Jones is close to",
-      "url": "https://football-italia.net/chiesa-liverpool-exit-jones-inter-juventus/",
-      "source": "Football Italia",
-      "publishedAt": "2026-06-06T08:23:11Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Messi Injury Update: Scaloni Offers Messi Fitness Update as Argentina Prepares World Cup Title Defense",
-      "description": "Lionel Messi is recovering well from a muscle issue, potentially playing in Argentina's pre-World Cup friendlies, easing concerns about his readiness for the tournament.",
-      "url": "https://www.ibtimes.com.au/messi-recovery-argentina-world-cup-friendlies-1870232",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-06-06T08:14:28Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "World Cup 2026 rosters, ranked: The strongest squads among title favourites at 2026 finals",
-      "description": "With 48 teams convening in North America to contest this summer's World Cup, the field of nations is bursting with world-class talent and football icons. Yet one man doth not make a title contender.",
-      "url": "https://www.sportingnews.com/us/soccer/news/world-cup-2026-rosters-ranked-strongest-squads-favourites-2026/83318c81646b01d307c76467",
-      "source": "Sporting News",
-      "publishedAt": "2026-06-06T08:00:01Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Massive windfall: Cody Gakpo's true price as Tottenham start process to sign Liverpool star",
-      "description": "Tottenham Hotspur want to sign Cody Gakpo. But how much is the Dutchman worth to Liverpool?SoccerNews reports that Tottenham want to sign Cody Gakpo this summer, hoping to take advantage of the change...",
-      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/massive-windfall-cody-gakpos-true-price-as-tottenham-start-process-to-sign-liverpool-star/",
-      "source": "Anfieldwatch.co.uk",
-      "publishedAt": "2026-06-06T06:40:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Rafael Leao names his two preferred destinations in fresh statement on future",
-      "description": "AC Milan winger Rafael Leao has indicated where he would like to end up, even as he continues to be strongly linked with a move to Manchester United.Leao interestUnited have been credited with an inte...",
-      "url": "https://thepeoplesperson.com/2026/06/06/rafael-leao-names-his-two-preferred-destinations-in-fresh-statement-on-future-311132/",
+      "title": "Marcus Rashford: United star snubs Premier League move",
+      "description": "Marcus Rashford’s future at Manchester United is set to come to a head this summer, with the forward expected to leave the club on a permanent basis after a couple of loan spells away from Old Traff...",
+      "url": "https://thepeoplesperson.com/2026/06/06/marcus-rashford-united-star-snubs-premier-league-move-311148/",
       "source": "The Peoples Person",
-      "publishedAt": "2026-06-06T06:10:00Z",
+      "publishedAt": "2026-06-06T13:10:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Arsenal is struggling to convince La Liga star to join them",
+      "description": "Julian Alvarez is reportedly ready to leave Atletico Madrid this summer, and while that development could represent a significant opportunity for Arsenal, the situation remains far from straightforward for the Gunners. The attacker is regarded as one of the f…",
+      "url": "https://www.justarsenal.com/arsenal-is-struggling-to-convince-la-liga-star-to-join-them/416463",
+      "source": "Just Arsenal News",
+      "publishedAt": "2026-06-06T13:00:17Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Man United planning Man City midfield raid after exiting £100M Elliot Anderson battle",
+      "description": "Man United are planning a raid on Man City for their highly-rated academy star David EzeEze is on the verge of being promoted to the U18 squad despite being only 16 years of ageApproach comes after Un...",
+      "url": "https://cityxtra.co.uk/47765/man-united-planning-man-city-midfield-raid-after-exiting-100m-elliot-anderson-battle/",
+      "source": "Cityxtra.co.uk",
+      "publishedAt": "2026-06-06T13:00:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "West Ham co-chair David Sullivan resigns",
+      "description": "David Sullivan has resigned as West Ham co-chair after 16 years, citing false allegations about his private life. Learn more about his departure and West H\n\nRead More: https://punchng.com/west-ham-co-chair-david-sullivan-resigns/",
+      "url": "https://punchng.com/west-ham-co-chair-david-sullivan-resigns/",
+      "source": "The Punch",
+      "publishedAt": "2026-06-06T12:51:17Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "West Ham joint-chairman David Sullivan quits ahead of 'historic allegations' to be made against him",
+      "description": "West Ham joint-chairman David Sullivan stepped down on Saturday ahead of what the English soccer club called “historic allegations” to be made against him. In a statement, West Ham said Sullivan had left his leadership post after he was “made aware of the imp…",
+      "url": "https://sports.yahoo.com/articles/west-ham-joint-chairman-david-123033068.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-06T12:30:33Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Aboubacar Maiga: PSG’s plot to beat Man United to “Malian Messi” explained",
+      "description": "Manchester United have reportedly held talks to sign Aboubacar Maiga, but face a fierce race with Paris Saint-Germain to secure the 16-year-old wonderkid’s signature.Malian MessiDubbed the ‘Malian...",
+      "url": "https://thepeoplesperson.com/2026/06/06/aboubacar-maiga-psgs-plot-to-beat-man-united-to-malian-messi-explained-311150/",
+      "source": "The Peoples Person",
+      "publishedAt": "2026-06-06T12:30:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "David Ornstein confirms Liverpool are pushing to sign Bundesliga star",
+      "description": "Liverpool Transfer News: Yan Diomande Contact Signals Serious Summer IntentLiverpool’s summer has acquired the shape of something urgent. According to The Athletic, via David Ornstein’s reporting,...",
+      "url": "https://anfieldindex.com/94795/david-ornstein-confirms-liverpool-are-pushing-to-sign-bundesliga-star.html",
+      "source": "Anfieldindex.com",
+      "publishedAt": "2026-06-06T12:25:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Barcelona willing to entertain offers for Manchester United target Alejandro Balde",
+      "description": "Barcelona are prepared to listen to transfer offers for academy graduate Alejandro Balde this summer, with the left-back linked to a move to Manchester United. The 22-year-old, once seen as an untouch...",
+      "url": "https://sportsview.co.uk/2026/06/barcelona-willing-to-entertain-offers-for-manchester-united-target-alejandro-balde?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=barcelona-willing-to-entertain-offers-for-manchester-united-target-alejandro-balde",
+      "source": "Sportsview.co.uk",
+      "publishedAt": "2026-06-06T13:35:00Z",
       "league": "La Liga"
     },
     {
-      "title": "Can Brazil’s first foreign coach Carlo Ancelotti bring back glory days?",
-      "description": "Taking charge of chaotic Brazil as its first overseas manager since 1925, legendary coach Carlo Ancelotti has shown signs of revival, embracing the local culture and heads to the World Cup with fans firmly behind his back as Samba Boys",
-      "url": "https://indianexpress.com/article/sports/football/carlo-ancelotti-brazil-first-foreign-coach-glory-fifa-world-cup-10726299/",
-      "source": "The Indian Express",
-      "publishedAt": "2026-06-06T03:00:39Z",
+      "title": "‘I’m a big fan’: Guardiola talks Flick’s Barcelona, Bernardo Silva, Alvarez, Champions League",
+      "description": "Pep Guardiola has praised Bernardo Silva amid ongoing speculation linking the Portuguese midfielder with a move to FC Barcelona, describing his former Manchester City player as “too good” for any ...",
+      "url": "https://barcauniversal.com/im-a-big-fan-guardiola-talks-flicks-barcelona-bernardo-silva-alvarez-champions-league/",
+      "source": "Barcauniversal.com",
+      "publishedAt": "2026-06-06T12:25:00Z",
       "league": "La Liga"
     },
     {
-      "title": "Spain’s Lamine Yamal Emerges as Front-Runner to Break a 16-Year World Cup Record",
-      "description": "At just 18, Lamine Yamal is the lead contender to break Thomas Müller's 16-year Golden Boot record at the 2026 FIFA World Cup.",
-      "url": "https://www.newsweek.com/sports/spains-lamine-yamal-emerges-as-front-runner-to-break-a-16-year-world-cup-record-12039222",
-      "source": "Newsweek",
-      "publishedAt": "2026-06-06T01:59:00Z",
+      "title": "Spain’s World Cup 2026 team preview: Players to watch, group matches, squad",
+      "description": "Led by some outrageously young and talented players, are Spain set to repeat another Euro-World Cup double in 2026?",
+      "url": "https://www.aljazeera.com/sports/2026/6/6/spains-world-cup-2026-team-preview-players-to-watch-group-matches-squad",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-06T12:07:24Z",
       "league": "La Liga"
     },
     {
-      "title": "Who is Lamine Yamal? Meet Spain’s Superboy Who Could Conquer The World Cup",
-      "description": "Lamine Yamal led Spain to the European championship at 16. Now, 18, can the Barcelona superstar take the throne at the World Cup?",
-      "url": "https://www.newsweek.com/sports/who-is-lamine-yamal-meet-spains-superboy-who-could-conquer-the-world-cup-12039675",
-      "source": "Newsweek",
-      "publishedAt": "2026-06-06T01:26:50Z",
+      "title": "Manchester City determined to beat Arsenal to La Liga attacker",
+      "description": "Brahim Diaz is the subject of serious transfer interest from Manchester City, despite Arsenal identifying him as one of the players they would like to sign during this transfer window. The Gunners are expected to strengthen their squad after reaching the Cham…",
+      "url": "https://www.justarsenal.com/manchester-city-determined-to-beat-arsenal-to-la-liga-attacker/416414",
+      "source": "Just Arsenal News",
+      "publishedAt": "2026-06-06T12:00:00Z",
       "league": "La Liga"
     },
     {
-      "title": "Mbappe, Haaland and Lamine Yamal top World Cup player value ranking at $231m: Messi, Ronaldo far behind",
-      "description": "Lionel Messi and Cristiano Ronaldo rank well down the list of the most valuable players at the 2026 FIFA World Cup, with Kylian Mbappe, Erling Haaland and Lamine Yamal sitting at the top. Lionel Messi and Cristiano Ronaldo will play in their sixth FIFA World …",
-      "url": "https://worldsoccertalk.com/world-cup/mbappe-haaland-and-lamine-yamal-top-world-cup-player-value-ranking-at-231m-messi-ronaldo-far-behind/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-06-05T23:10:58Z",
-      "league": "La Liga"
+      "title": "Conte targeted by Fenerbahce after Italiano takes Besiktas job",
+      "description": "Vincenzo Italiano is officially the new coach of Besiktas, but there are reports Fenerbahce are trying to line up Antonio Conte.",
+      "url": "https://football-italia.net/conte-targeted-by-fenerbahce-italiano-besiktas/",
+      "source": "Football Italia",
+      "publishedAt": "2026-06-06T12:26:33Z",
+      "league": "Serie A"
     },
     {
-      "title": "Lamine Yamal wins La Liga Player of the Year award: How many times did Messi and Cristiano Ronaldo claim it?",
-      "description": "La Liga named Lamine Yamal its Player of the Year, an honor previously won by both Lionel Messi and Cristiano Ronaldo. Just as Lionel Messi and Cristiano Ronaldo dominated La Liga for years, this new era appears destined to belong to Lamine Yamal. The young B…",
-      "url": "https://worldsoccertalk.com/news/lamine-yamal-wins-la-liga-player-of-the-year-award-how-many-times-did-messi-and-cristiano-ronaldo-claim-it/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-06-05T21:44:10Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Real Madrid plan Olise bid - Saturday's gossip",
-      "description": "Real Madrid are lining up a £130m move for Bayern Munich winger Michael Olise, Arne Slot turns down Fulham after being sacked by Liverpool, Newcastle United are close to making their first summer signing, plus more.",
-      "url": "https://www.bbc.com/sport/football/articles/c87q758zgl5o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-06-05T20:48:43Z",
-      "league": "La Liga"
+      "title": "Paratici eyes former club Tottenham’s Dragusin in first Fiorentina transfer push",
+      "description": "Fabio Paratici is targeting a move for Radu Dragusin as one of his first acts as Fiorentina sporting director, with the Romanian centre-back a long-standing",
+      "url": "https://football-italia.net/paratici-eyes-tottenhams-dragusin-fiorentina/",
+      "source": "Football Italia",
+      "publishedAt": "2026-06-06T08:42:00Z",
+      "league": "Serie A"
     },
     {
       "title": "Marotta: ‘I didn’t agree when Juventus signed Ronaldo; if I win the UCL at Inter, I might retire",
@@ -105,6 +121,22 @@
       "league": "Serie A"
     },
     {
+      "title": "World Cup 2026 rosters, ranked: The strongest squads among title favourites at 2026 finals",
+      "description": "With 48 teams convening in North America to contest this summer's World Cup, the field of nations is bursting with world-class talent and football icons. Yet one man doth not make a title contender.",
+      "url": "https://www.sportingnews.com/us/soccer/news/world-cup-2026-rosters-ranked-strongest-squads-favourites-2026/83318c81646b01d307c76467",
+      "source": "Sporting News",
+      "publishedAt": "2026-06-06T08:00:01Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Tuchel Backs Harry Kane in Top Form as England Launch World Cup Warmup Campaign",
+      "description": "Thomas Tuchel praises Harry Kane's fitness and leadership as England prepares for the 2026 World Cup in North America, with friendly matches against New Zealand and Costa Rica planned.",
+      "url": "https://www.ibtimes.com.au/harry-kane-peak-form-england-world-cup-preparation-1870241",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-06-06T12:11:53Z",
+      "league": "Bundesliga"
+    },
+    {
       "title": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
       "description": "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage for him to prove he is now the best?",
       "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
@@ -113,28 +145,12 @@
       "league": "Bundesliga"
     },
     {
-      "title": "Connections Abound in USMNT's Final Match Before FIFA World Cup 2026",
-      "description": "CHICAGO – FIFA World Cup 2026 is nearly upon us.One week from today is a matchday for the U.S. Men’s National Team as the team will kick off its campaign at FIFA World Cup 2026 with its opening ma...",
-      "url": "https://www.ussoccer.com/stories/on-the-pitch/2026/06/usmnt/chicago-connections-friday-before-match-vs-germany",
-      "source": "U.S. Soccer",
-      "publishedAt": "2026-06-05T23:20:00Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Tyler Adams brings “incredible mentality” to USMNT squad says Nagelsmann",
-      "description": "There will be plenty of storylines in Saturday’s U.S. men’s national team showdown with Germany and there will also be one key reunion between player and manager.  USMNT midfielder Tyler Adams will face off with his former manager Julian Nagelsmann in the fir…",
-      "url": "https://sbisoccer.com/2026/06/tyler-adams-brings-incredible-mentality-to-usmnt-squad-says-nagelsmann",
-      "source": "Sbisoccer.com",
-      "publishedAt": "2026-06-05T22:58:17Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "USMNT’s Malik Tillman previews ‘emotional’ game against Germany as World Cup preparations wrap up",
-      "description": "U.S. Men’s National Team star Malik Tillman has opened up on his emotions ahead of their friendly against Germany, where the midfielder was born, raised, and currently plays domestically",
-      "url": "https://www.alloutsoccer.com/news/usmnt-tillman-germany-world-cup-1872493",
-      "source": "Alloutsoccer.com",
-      "publishedAt": "2026-06-05T22:12:44Z",
-      "league": "Bundesliga"
+      "title": "Jordan World Cup 2026 preview: Players to watch, group matches and squad",
+      "description": "Jordan make their first World Cup appearance after recently making the finals at the 2023 Asian Cup and 2025 Arab Cup.",
+      "url": "https://www.aljazeera.com/sports/2026/6/6/jordan-world-cup-2026-preview-players-to-watch-group-matches-and-squad",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-06T10:23:09Z",
+      "league": "Ligue 1"
     },
     {
       "title": "World Cup 2026 Group L: Preview, prediction, players to watch, fixtures and TV schedule",
@@ -143,23 +159,7 @@
       "source": "101 Great Goals",
       "publishedAt": "2026-06-05T22:04:49Z",
       "league": "Ligue 1"
-    },
-    {
-      "title": "World Cup 2026 Group J: Preview, prediction, players to watch, fixtures and TV details",
-      "description": "The lowdown as holders Argentina and Lionel Messi compete with Algeria, Austria and Jordan during the group stage.",
-      "url": "https://www.101greatgoals.com/football/world-cup-news/group-j-preview-prediction-fixtures-tv/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-06-05T18:02:51Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "FIFA to allow disposable water bottles at World Cup games after outcry",
-      "description": "FIFA clarifies its World Cup water bottle policy, now allowing fans to bring one soft, plastic disposable bottle after an initial ban sparked outcry.\n\nRead More: https://punchng.com/fifa-to-allow-disposable-water-bottles-at-world-cup-games-after-outcry/",
-      "url": "https://punchng.com/fifa-to-allow-disposable-water-bottles-at-world-cup-games-after-outcry/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-06T08:24:30Z",
-      "league": "World Cup"
     }
   ],
-  "generatedAt": "2026-06-07T08:49:10.538Z"
+  "generatedAt": "2026-06-07T13:41:43.194Z"
 }
