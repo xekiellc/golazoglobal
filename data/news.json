@@ -1,36 +1,60 @@
 {
   "articles": [
     {
-      "title": "Robin van Persie is SACKED as Feyenoord head coach after just 18 months at the helm - as Dutch giants point to their 'downward trend' under ex-Arsenal and Man United striker",
-      "description": "Former Manchester United and Arsenal forward Robin van Persie has been sacked as manager of Feyenoord after 18 months in charge.",
-      "url": "https://www.dailymail.com/sport/football/article-15881449/Robin-van-Persie-SACKED-Feyenoord-head-coach-just-18-months-helm-Dutch-giants-point-downward-trend-ex-Arsenal-Man-United-striker.html",
+      "title": "Liverpool’s Ibrahima Konaté signs Real Madrid deal",
+      "description": "Ibrahima Konat�� (27) is set to sign a four-year deal at Real Madrid, as per a report from RMC Sport. Konaté’s exit from Liverpool was confirmed by the Premier League side at the end of May. It c...",
+      "url": "https://www.getfootballnewsfrance.com/2026/liverpools-ibrahima-konate-signs-real-madrid-deal/",
+      "source": "Get French Football News",
+      "publishedAt": "2026-06-08T09:20:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Jose Mourinho takes over as Real Madrid boss after Florentino Perez's re-election is confirmed, with the returning manager weighing in on the acrimonious campaign",
+      "description": "Jose Mourinho is set to take the reigns at Real Madrid following Florentino Perez's re-election. Mourinho, 63, signed a three-year deal last month to rejoin his former side.",
+      "url": "https://www.dailymail.com/sport/football/article-15882119/jose-mourinho-appointed-real-madrid-manager.html",
       "source": "Dailymail.com",
-      "publishedAt": "2026-06-07T22:50:59Z",
-      "league": "Premier League"
+      "publishedAt": "2026-06-08T08:47:04Z",
+      "league": "La Liga"
     },
     {
-      "title": "Rice to be England's vice-captain at World Cup",
-      "description": "Arsenal midfielder Declan Rice will be England's vice-captain for the World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/cn4r74yjpxvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "title": "Perez re-elected at Real Madrid paving way for Mourinho’s return as manager",
+      "description": "Jose Mourinho expected to be announced as Real Madrid manager, returning to Real Madrid after 13 years.",
+      "url": "https://www.aljazeera.com/sports/2026/6/8/perez-re-elected-at-real-madrid-paving-way-for-mourinhos-return-as-manager",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-08T08:31:17Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Perez re-elected at Real Madrid paving way for Mourinho return",
+      "description": "Florentino Perez has been re-elected president of Real Madrid by an overwhelming majority, paving the way for Jose Mourinho to return as manager.Real Madrid is owned entirely by members who elect the president.",
+      "url": "https://sports.yahoo.com/articles/perez-elected-real-madrid-paving-075514573.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-08T07:55:14Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Mourinho set for Real after Perez re-elected",
+      "description": "Jose Mourinho is set to confirmed as Real Madrid's new head coach after Florentino Perez was re-elected as the club's president until 2030.",
+      "url": "https://www.bbc.com/sport/football/articles/cgk67jxy106o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
       "source": "BBC News",
-      "publishedAt": "2026-06-07T21:23:34Z",
+      "publishedAt": "2026-06-08T07:01:14Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "How will extreme heat impact the 2026 World Cup?",
+      "description": "The challenge of the 2026 World Cup will extend beyond tactics, pressure and talent - with extreme and dangerous levels of heat presenting itself as a formidable extra opponent.",
+      "url": "https://www.skysports.com/football/news/11095/13549718/world-cup-2026-how-will-extreme-heat-impact-this-summers-tournament-in-the-usa-canada-and-mexico",
+      "source": "Sky Sports",
+      "publishedAt": "2026-06-08T09:00:00Z",
       "league": "Premier League"
     },
     {
-      "title": "Van Persie sacked by Feyenoord after 16 months",
-      "description": "Feyenoord sack manager Robin van Persie after just one full season in charge of the Eredivisie club.",
-      "url": "https://www.bbc.com/sport/football/articles/cn8kl8ydzy0o",
-      "source": "BBC News",
-      "publishedAt": "2026-06-07T21:06:13Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Nightmare Deja Vu Unfolds At Denmark Friendly As Midfielder Christian Eriksen Collapses On The Pitch Ahead Of World Cup",
-      "description": "A nightmare deja vu unfolded during Denmark’s friendly match against Ukraine on Sunday as midfielder Christian Eriksen collapsed on the pitch. Eriksen infamously suffered cardiac arrest during the Euro 2020 tournament in June 2021 and had to be resuscitated o…",
-      "url": "https://brobible.com/sports/article/christian-eriksen-pass-out-unconscious-denmark-ukraine-friendly/",
-      "source": "BroBible",
-      "publishedAt": "2026-06-07T20:56:48Z",
-      "league": "Premier League"
+      "title": "Kevin Kilbane: England’s Tuchel has made one glaring error in his World Cup squad selection",
+      "description": "Some players are primed on how to slow the game down in sweltering conditions",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/06/08/kevin-kilbane-englands-tuchel-has-made-one-glaring-error-in-his-world-cup-squad-selection/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-08T05:00:00Z",
+      "league": "La Liga"
     },
     {
       "title": "From dazzling winger to veteran who barely runs - the evolution of Messi",
@@ -41,20 +65,20 @@
       "league": "La Liga"
     },
     {
-      "title": "Real Madrid respond to Bayern Munich’s Michael Olise message",
-      "description": "The brass at La Liga giants Real Madrid have not been deterred by the stance of their counterparts at Bayern Munich regarding the future of Michael Olise.This comes amid confirmation that Los Blancos�...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_626faf0c-4ce5-4028-b2f9-7287d5803adc",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-07T16:15:00Z",
-      "league": "La Liga"
+      "title": "Group of death? Scotland eye progression on World Cup return",
+      "description": "As Scotland’s World Cup opener draws ever closer, Steve Clarke will have a fair idea of who he will play and how he will set up.",
+      "url": "https://www.skysports.com/football/news/36621/13551871/scotland-at-world-cup-2026-steve-clarkes-side-look-to-progress-beyond-the-group-stage-for-first-time",
+      "source": "Sky Sports",
+      "publishedAt": "2026-06-08T08:00:00Z",
+      "league": "Serie A"
     },
     {
-      "title": "Barcelona and Atletico Madrid reportedly battling over two transfer targets",
-      "description": "Barcelona and Atletico Madrid are reportedly targeting the same two players this summer, with both clubs understood to be pursuing Manchester City midfielder Bernardo Silva and Chelsea left-back Marc ...",
-      "url": "https://www.football-espana.net/2026/06/07/barcelona-atletico-madrid-battle-two-transfer-targets",
-      "source": "Football Espana",
-      "publishedAt": "2026-06-07T16:00:00Z",
-      "league": "La Liga"
+      "title": "World Cup Group B guide: Canada sweating on fitness of Bayern Munich’s Alphonso Davies",
+      "description": "Bosnia and Herzegovina, Switzerland and Qatar also eye qualification from group",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/06/06/world-cup-group-b-guide-canada-sweating-on-fitness-of-bayern-munichs-alphonso-davies/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-08T05:01:00Z",
+      "league": "Serie A"
     },
     {
       "title": "German Football Team 2026 World Cup Preview: Can The 2014 Champions Make It Happen Again?",
@@ -89,77 +113,53 @@
       "league": "Serie A"
     },
     {
-      "title": "The best XI of players missing the 2026 World Cup",
-      "description": "Which of the planet's biggest stars are missing out on the 2026 World Cup?",
-      "url": "https://www.101greatgoals.com/football/world-cup-news/best-xi-missing-world-cup-kvaratskhelia-szoboszlai-osimhen/",
-      "source": "101 Great Goals",
-      "publishedAt": "2026-06-07T08:00:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Reggiani’s Italy debut lasts just 13 minutes after red card",
-      "description": "Luca Reggiani made his senior Italy debut against Greece on Sunday, but received a straight red card just 13 minutes after being introduced from the bench in",
-      "url": "https://football-italia.net/reggianis-italy-debut-just-13-minutes-red-card/",
-      "source": "Football Italia",
-      "publishedAt": "2026-06-07T20:46:12Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Pérez re-elected Real Madrid president to pave way for Mourinho's return",
-      "description": "Florentino Pérez has earned four more years as Real Madrid’s president after winning club elections on Sunday. Real Madrid's club television channel said Pérez beat challenger Enrique Riquelme. Pérez’s victory will pave the way for him to bring back José Mour…",
-      "url": "https://sports.yahoo.com/articles/p-rez-elected-real-madrid-231607141.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-07T23:16:07Z",
+      "title": "Bellingham has fight to start for England - Tuchel",
+      "description": "Jude Bellingham has a fight on his hands to feature in England's starting line-up at the World Cup, says manager Thomas Tuchel.",
+      "url": "https://www.bbc.com/sport/football/articles/clyel3mxryvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-06-08T09:06:44Z",
       "league": "Champions League"
     },
     {
-      "title": "France's Deschamps Dismisses Saliba Injury Fears, Dembélé Set To Return",
-      "description": "France have received a double boost ahead of their final World Cup warm-up fixture against Northern Ireland, with William Saliba's fitness clear and Ousmane Dembélé set for a return.",
-      "url": "https://www.foxsports.com/stories/soccer/william-saliba-hands-france-massive-injury-lift-as-didier-deschamps-issues-blunt-selection-warning-over-ousmane-dembele",
-      "source": "Fox Sports",
-      "publishedAt": "2026-06-07T22:18:05Z",
+      "title": "Bellingham has fight to start for England - Tuchel",
+      "description": "Jude Bellingham has a fight on his hands to feature in England's starting line-up at the World Cup, says manager Thomas Tuchel.",
+      "url": "https://www.bbc.com/sport/football/articles/clyel3mxryvo",
+      "source": "BBC News",
+      "publishedAt": "2026-06-08T09:03:46Z",
       "league": "Champions League"
+    },
+    {
+      "title": "Robin van Persie is SACKED as Feyenoord head coach after just 18 months at the helm - as Dutch giants point to their 'downward trend' under ex-Arsenal and Man United striker",
+      "description": "Former Manchester United and Arsenal forward Robin van Persie has been sacked as manager of Feyenoord after 18 months in charge.",
+      "url": "https://www.dailymail.com/sport/football/article-15881449/Robin-van-Persie-SACKED-Feyenoord-head-coach-just-18-months-helm-Dutch-giants-point-downward-trend-ex-Arsenal-Man-United-striker.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-07T22:50:59Z",
+      "league": "Eredivisie"
     },
     {
       "title": "Van Persie sacked by Feyenoord after 16 months",
       "description": "Feyenoord sack manager Robin van Persie after just one full season in charge of the Eredivisie club.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9b73cfa3-1710-4727-809c-71460c545dde",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-07T21:10:06Z",
+      "url": "https://www.bbc.com/sport/football/articles/cn8kl8ydzy0o",
+      "source": "BBC News",
+      "publishedAt": "2026-06-07T21:06:13Z",
       "league": "Eredivisie"
     },
     {
-      "title": "Ronaldo, other ageing stars push limits to make history at World Cup 2026",
-      "description": "Experts say sport science is just part of a complex system of factors needed to extend longevity in football.",
-      "url": "https://www.aljazeera.com/sports/2026/6/7/ageing-stars-push-boundaries-at-the-2026-world-cup-career-longevity",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-07T15:51:50Z",
+      "title": "World Cup by the numbers: 104 matches, 48 teams and 3 countries make this the largest ever",
+      "description": "The 2026 World Cup is set to be the largest tournament yet. It will feature 48 teams across the United States, Canada, and Mexico. A record 104 matches will be played over 39 days. This expansion marks a significant shift from previous editions. The tournamen…",
+      "url": "https://economictimes.indiatimes.com/news/sports/world-cup-by-the-numbers-104-matches-48-teams-and-3-countries-make-this-the-largest-ever/articleshow/131578194.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-08T04:28:26Z",
       "league": "MLS"
     },
     {
-      "title": "Mauricio Pochettino's USMNT fill the hope tank through friendlies vs Senegal and Germany",
-      "description": "There are many reasons for the USMNT and its supporters to dream of what's possible over the nrext month-plus of soccer. And those dreams don't need to look far into the past for their fuel.",
-      "url": "https://www.nbcsports.com/soccer/news/mauricio-pochettinos-usmnt-fill-the-hope-tank-through-friendlies-vs-senegal-and-germany",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-06-07T15:40:17Z",
-      "league": "MLS"
-    },
-    {
-      "title": " Worth R$9bn, France are the most valuable team at World Cup 2026",
-      "description": "The 2026 World Cup begins next Thursday (11), when Mexico hosts South Africa at 4 p.m. (Brasília time).At the legendary Azteca Stadium, Mexicans and South Africans will kick off the biggest national ...",
-      "url": "https://onefootball.com/en/news/worth-r9bn-france-are-the-most-valuable-team-at-world-cup-2026-42978941",
-      "source": "Onefootball.com",
-      "publishedAt": "2026-06-07T23:44:00Z",
-      "league": "World Cup"
-    },
-    {
-      "title": "USMNT face World Cup concern as Mauricio Pochettino’s European record comes under scrutiny",
-      "description": "Mauricio Pochettino is days away from leading the United States men’s national team at the 2026 World Cup. The USA played their final warm-up game against Germany this weekend, with their first group stage match coming up on Friday.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aa35230a-4253-49ef-b83f-0d9b3a1b7d34",
+      "title": "World Cup by the numbers: 104 matches, 48 teams and 3 countries make this the largest ever",
+      "description": "This year's edition of the World Cup will be the biggest ever with an expanded field of 48 teams, three host countries and 16 stadiums staging the record 104 matches over the 39-day tournament. The tournament being held in the United States, Canada and Mexico…",
+      "url": "https://sports.yahoo.com/articles/world-cup-numbers-104-matches-001905466.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-07T23:30:00Z",
-      "league": "World Cup"
+      "publishedAt": "2026-06-08T00:19:05Z",
+      "league": "MLS"
     }
   ],
-  "generatedAt": "2026-06-09T00:01:12.784Z"
+  "generatedAt": "2026-06-09T09:32:33.679Z"
 }
