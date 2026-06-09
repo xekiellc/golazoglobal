@@ -1,60 +1,36 @@
 {
   "articles": [
     {
-      "title": "Danish soccer star suffers medical scare during match years after on-field cardiac arrest",
-      "description": "Denmark's Christian Eriksen collapsed during a friendly match against Ukraine, but the Danish Football Union said he is conscious and feeling well given the circumstances.",
-      "url": "https://www.foxnews.com/sports/danish-soccer-star-suffers-medical-scare-match-years-field-cardiac-arrest",
-      "source": "Fox News",
-      "publishedAt": "2026-06-07T19:40:08Z",
+      "title": "Robin van Persie is SACKED as Feyenoord head coach after just 18 months at the helm - as Dutch giants point to their 'downward trend' under ex-Arsenal and Man United striker",
+      "description": "Former Manchester United and Arsenal forward Robin van Persie has been sacked as manager of Feyenoord after 18 months in charge.",
+      "url": "https://www.dailymail.com/sport/football/article-15881449/Robin-van-Persie-SACKED-Feyenoord-head-coach-just-18-months-helm-Dutch-giants-point-downward-trend-ex-Arsenal-Man-United-striker.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-07T22:50:59Z",
       "league": "Premier League"
     },
     {
-      "title": "Christian Eriksen collapses: Denmark vs. Ukraine abandoned, former Spurs, Man United star 'conscious'",
-      "description": "Denmark's friendly with Ukraine was abandoned after Christian Eriksen collapsed on the pitch Sunday.",
-      "url": "https://www.sportingnews.com/us/soccer/news/christian-eriksen-collapses-denmark-ukraine-abandoned/b6b2b8337f65235b4df1e005",
-      "source": "Sporting News",
-      "publishedAt": "2026-06-07T19:29:58Z",
+      "title": "Rice to be England's vice-captain at World Cup",
+      "description": "Arsenal midfielder Declan Rice will be England's vice-captain for the World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cn4r74yjpxvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-06-07T21:23:34Z",
       "league": "Premier League"
     },
     {
-      "title": "What happened last time Christian Eriksen collapsed on the pitch?",
-      "description": "Christian Eriksen has collapsed again during Denmark’s friendly against Ukraine, with the match abandoned after another deeply worrying scene involving the midfielder. The Danish FA have said Eriksen is conscious and doing well under the circumstances, but th…",
-      "url": "https://www.hitc.com/what-happened-last-time-christian-eriksen-collapsed/",
-      "source": "HITC - Football, Gaming, Movies, TV, Music",
-      "publishedAt": "2026-06-07T19:19:38Z",
+      "title": "Van Persie sacked by Feyenoord after 16 months",
+      "description": "Feyenoord sack manager Robin van Persie after just one full season in charge of the Eredivisie club.",
+      "url": "https://www.bbc.com/sport/football/articles/cn8kl8ydzy0o",
+      "source": "BBC News",
+      "publishedAt": "2026-06-07T21:06:13Z",
       "league": "Premier League"
     },
     {
-      "title": "Christian Eriksen collapses again, Denmark friendly vs. Ukraine called off",
-      "description": "Eriksen, who collapsed at Euro 2020, suffered another medical episode on Sunday",
-      "url": "https://www.cbssports.com/soccer/news/christian-eriksen-collapses-denmark-friendly-vs-ukraine-abandoned/",
-      "source": "CBS Sports",
-      "publishedAt": "2026-06-07T19:11:14Z",
+      "title": "Nightmare Deja Vu Unfolds At Denmark Friendly As Midfielder Christian Eriksen Collapses On The Pitch Ahead Of World Cup",
+      "description": "A nightmare deja vu unfolded during Denmark’s friendly match against Ukraine on Sunday as midfielder Christian Eriksen collapsed on the pitch. Eriksen infamously suffered cardiac arrest during the Euro 2020 tournament in June 2021 and had to be resuscitated o…",
+      "url": "https://brobible.com/sports/article/christian-eriksen-pass-out-unconscious-denmark-ukraine-friendly/",
+      "source": "BroBible",
+      "publishedAt": "2026-06-07T20:56:48Z",
       "league": "Premier League"
-    },
-    {
-      "title": "Christian Eriksen ‘conscious’ after collapsing during Denmark match",
-      "description": "Christian Eriksen is “conscious and doing well” after the Denmark midfielder appeared to collapse in Sunday’s friendly with Ukraine. TV images showed Eriksen holding his chest in the 65th minute of the fixture before the camera shot moved elsewhere, but the m…",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260607-99-659529/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-06-07T19:55:28Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Christian Eriksen ‘conscious’ after collapsing during Denmark match",
-      "description": "The incident took place during a friendly against Ukraine.",
-      "url": "https://www.the42.ie/christian-eriksen-7-7063440-Jun2026/",
-      "source": "The42",
-      "publishedAt": "2026-06-07T19:00:20Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Christian Eriksen health update: Ex-Manchester United star footballer collapses during Denmark vs Ukraine soccer match, Danish Federation shares major update",
-      "description": "Denmark vs Ukraine: Christian Eriksen suffered a cardiac arrest during Denmark's game against Finland at the Euros in 2021.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/christian-eriksen-health-update-ex-manchester-united-star-footballer-collapses-during-denmark-vs-ukraine-soccer-match-danish-federation-shares-major-update/articleshow/131573189.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-07T18:53:30Z",
-      "league": "Bundesliga"
     },
     {
       "title": "From dazzling winger to veteran who barely runs - the evolution of Messi",
@@ -65,36 +41,44 @@
       "league": "La Liga"
     },
     {
-      "title": "From dazzling winger to veteran who barely runs - the evolution of Messi",
-      "description": "Lionel Messi is set for his sixth World Cup with Argentina. Guillem Balague looks at how the Argentine has evolved.",
-      "url": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o",
-      "source": "BBC News",
-      "publishedAt": "2026-06-07T16:55:11Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "‘There are those that are touched by God’s wand,’ says Luis de la Fuente weighs in on Lionel Messi and Lamine Yamal comparison",
-      "description": "Due to his surprising breakthrough in soccer, Lamine Yamal is being constantly compared to Lionel Messi, as two geniuses of the sport. In response, Spain’s Luis de la Fuente has given his opinion on the comparison between both players, placing them in the sam…",
-      "url": "https://worldsoccertalk.com/news/there-are-those-that-are-touched-by-gods-wand-says-luis-de-la-fuente-weighs-in-on-lionel-messi-and-lamine-yamal-comparison/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-06-07T15:51:04Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Barcelona star a doubt to feature in World Cup opener",
-      "description": "A member of the defensive ranks at La Liga giants Barcelona has emerged as a doubt to feature in his country’s opener at the World Cup.The Blaugrana star in question? Ronald Araújo.Defender Araújo...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_da7cfdf7-0f19-46a9-be0b-a2a18340415a",
+      "title": "Real Madrid respond to Bayern Munich’s Michael Olise message",
+      "description": "The brass at La Liga giants Real Madrid have not been deterred by the stance of their counterparts at Bayern Munich regarding the future of Michael Olise.This comes amid confirmation that Los Blancos�...",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_626faf0c-4ce5-4028-b2f9-7287d5803adc",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-07T15:50:00Z",
+      "publishedAt": "2026-06-07T16:15:00Z",
       "league": "La Liga"
     },
     {
-      "title": "2026 World Cup Group H preview, predictions with heavyweights Spain, Uruguay",
-      "description": "Spain is the favorites to win the 2026 World Cup and begins their journey in Group H play with Cape Verde, Saudi Arabia and Uruguay.",
-      "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/07/world-cup-group-h-preview-predictions-schedule-spain-uruguay-saudi-cape-verde/90334900007/",
-      "source": "USA Today",
-      "publishedAt": "2026-06-07T14:07:26Z",
+      "title": "Barcelona and Atletico Madrid reportedly battling over two transfer targets",
+      "description": "Barcelona and Atletico Madrid are reportedly targeting the same two players this summer, with both clubs understood to be pursuing Manchester City midfielder Bernardo Silva and Chelsea left-back Marc ...",
+      "url": "https://www.football-espana.net/2026/06/07/barcelona-atletico-madrid-battle-two-transfer-targets",
+      "source": "Football Espana",
+      "publishedAt": "2026-06-07T16:00:00Z",
       "league": "La Liga"
+    },
+    {
+      "title": "German Football Team 2026 World Cup Preview: Can The 2014 Champions Make It Happen Again?",
+      "description": "Four-time world champions, the German football team enter FIFA World Cup 2026 as European football’s most storied underachievers of recent years, having suffered shocking group-stage exits at both t...",
+      "url": "https://the4thofficial.net/2026/06/german-football-team-2026-world-cup-preview-can-the-2014-champions-make-it-happen-again/",
+      "source": "The4thofficial.net",
+      "publishedAt": "2026-06-07T21:50:00Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Christian Eriksen ‘conscious’ after collapsing during Denmark match",
+      "description": "Christian Eriksen is “conscious and doing well” after the Denmark midfielder appeared to collapse in Sunday’s friendly with Ukraine. TV images showed Eriksen holding his chest in the 65th minute of the fixture before the camera shot moved elsewhere, but the m…",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260607-99-659529/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-06-07T19:55:28Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Christian Eriksen collapses: Denmark vs. Ukraine abandoned, former Spurs, Man United star 'conscious'",
+      "description": "Denmark's friendly with Ukraine was abandoned after Christian Eriksen collapsed on the pitch Sunday.",
+      "url": "https://www.sportingnews.com/us/soccer/news/christian-eriksen-collapses-denmark-ukraine-abandoned/b6b2b8337f65235b4df1e005",
+      "source": "Sporting News",
+      "publishedAt": "2026-06-07T19:29:58Z",
+      "league": "Serie A"
     },
     {
       "title": "Official: Ederson replaces injured Roma defender Wesley in Brazil World Cup squad",
@@ -113,11 +97,35 @@
       "league": "Serie A"
     },
     {
-      "title": "World Cup 2026 rosters, ranked: The strongest squads among title favourites at 2026 finals",
-      "description": "With 48 teams convening in North America to contest this summer's World Cup, the field of nations is bursting with world-class talent and football icons. Yet one man doth not make a title contender.",
-      "url": "https://www.sportingnews.com/us/soccer/news/world-cup-2026-rosters-ranked-strongest-squads-favourites-2026/83318c81646b01d307c76467",
-      "source": "Sporting News",
-      "publishedAt": "2026-06-06T08:00:01Z",
+      "title": "Reggiani’s Italy debut lasts just 13 minutes after red card",
+      "description": "Luca Reggiani made his senior Italy debut against Greece on Sunday, but received a straight red card just 13 minutes after being introduced from the bench in",
+      "url": "https://football-italia.net/reggianis-italy-debut-just-13-minutes-red-card/",
+      "source": "Football Italia",
+      "publishedAt": "2026-06-07T20:46:12Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Pérez re-elected Real Madrid president to pave way for Mourinho's return",
+      "description": "Florentino Pérez has earned four more years as Real Madrid’s president after winning club elections on Sunday. Real Madrid's club television channel said Pérez beat challenger Enrique Riquelme. Pérez’s victory will pave the way for him to bring back José Mour…",
+      "url": "https://sports.yahoo.com/articles/p-rez-elected-real-madrid-231607141.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-07T23:16:07Z",
+      "league": "Champions League"
+    },
+    {
+      "title": "France's Deschamps Dismisses Saliba Injury Fears, Dembélé Set To Return",
+      "description": "France have received a double boost ahead of their final World Cup warm-up fixture against Northern Ireland, with William Saliba's fitness clear and Ousmane Dembélé set for a return.",
+      "url": "https://www.foxsports.com/stories/soccer/william-saliba-hands-france-massive-injury-lift-as-didier-deschamps-issues-blunt-selection-warning-over-ousmane-dembele",
+      "source": "Fox Sports",
+      "publishedAt": "2026-06-07T22:18:05Z",
+      "league": "Champions League"
+    },
+    {
+      "title": "Van Persie sacked by Feyenoord after 16 months",
+      "description": "Feyenoord sack manager Robin van Persie after just one full season in charge of the Eredivisie club.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9b73cfa3-1710-4727-809c-71460c545dde",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-07T21:10:06Z",
       "league": "Eredivisie"
     },
     {
@@ -129,37 +137,29 @@
       "league": "MLS"
     },
     {
-      "title": "These stars set for their last World Cup ",
-      "description": "The 2026 World Cup is fast approaching, much to our delight.But this milestone also marks the end of an era for many players who have defined this generation.At the next edition, these stars will no l...",
-      "url": "https://onefootball.com/en/news/these-stars-set-for-their-last-world-cup-42978490",
+      "title": "Mauricio Pochettino's USMNT fill the hope tank through friendlies vs Senegal and Germany",
+      "description": "There are many reasons for the USMNT and its supporters to dream of what's possible over the nrext month-plus of soccer. And those dreams don't need to look far into the past for their fuel.",
+      "url": "https://www.nbcsports.com/soccer/news/mauricio-pochettinos-usmnt-fill-the-hope-tank-through-friendlies-vs-senegal-and-germany",
+      "source": "NBCSports.com",
+      "publishedAt": "2026-06-07T15:40:17Z",
+      "league": "MLS"
+    },
+    {
+      "title": " Worth R$9bn, France are the most valuable team at World Cup 2026",
+      "description": "The 2026 World Cup begins next Thursday (11), when Mexico hosts South Africa at 4 p.m. (Brasília time).At the legendary Azteca Stadium, Mexicans and South Africans will kick off the biggest national ...",
+      "url": "https://onefootball.com/en/news/worth-r9bn-france-are-the-most-valuable-team-at-world-cup-2026-42978941",
       "source": "Onefootball.com",
-      "publishedAt": "2026-06-07T20:03:00Z",
+      "publishedAt": "2026-06-07T23:44:00Z",
       "league": "World Cup"
     },
     {
-      "title": "Spain Boss Says Lamine Yamal Was 'Born for This,' Compares Him To Lionel Messi",
-      "description": "Spain head coach Luis de la Fuente has hailed Lamine Yamal as a player who was \"born for this,\" comparing the Barcelona sensation's natural talent to that of Lionel Messi.",
-      "url": "https://www.foxsports.com/stories/soccer/lamine-yamal-was-born-for-this-spain-boss-says-barcelona-teenager-has-been-touched-by-god-like-lionel-messi",
-      "source": "Fox Sports",
-      "publishedAt": "2026-06-07T19:52:23Z",
+      "title": "USMNT face World Cup concern as Mauricio Pochettino’s European record comes under scrutiny",
+      "description": "Mauricio Pochettino is days away from leading the United States men’s national team at the 2026 World Cup. The USA played their final warm-up game against Germany this weekend, with their first group stage match coming up on Friday.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aa35230a-4253-49ef-b83f-0d9b3a1b7d34",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-07T23:30:00Z",
       "league": "World Cup"
-    },
-    {
-      "title": "Argentina Chases World Cup Repeat As Messi Nears Final Act",
-      "description": "Winning one World Cup is the ultimate achievement. Winning two in a row is one of the sport’s rarest accomplishments.",
-      "url": "https://www.forbes.com/sites/clementelisi/2026/06/07/argentina-chases-world-cup-repeat-as-messi-nears-final-act/",
-      "source": "Forbes",
-      "publishedAt": "2026-06-07T19:51:58Z",
-      "league": "World Cup"
-    },
-    {
-      "title": "Van Persie fired by Feyenoord despite second place finish",
-      "description": "ROTTERDAM, June 7 : Robin van Persie has been fired as coach of Feyenoord after only one full season in charge and despite the club finishing second in the Eredivisie standings, the Dutch club confirmed on Sunday.The 42-year-old former Arsenal and Manchester …",
-      "url": "https://www.channelnewsasia.com/sport/van-persie-fired-feyenoord-despite-second-place-finish-6167586",
-      "source": "CNA",
-      "publishedAt": "2026-06-07T17:39:03Z",
-      "league": "Champions League"
     }
   ],
-  "generatedAt": "2026-06-08T20:07:44.419Z"
+  "generatedAt": "2026-06-09T00:01:12.784Z"
 }
