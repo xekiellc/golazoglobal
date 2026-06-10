@@ -1,131 +1,43 @@
 {
   "articles": [
     {
-      "title": "Ngumoha to leave England squad having made mark",
-      "description": "Rio Ngumoha will leave the US this week after impressing with England's World Cup squad but will return to the country for Liverpool's pre-season tour next month.",
-      "url": "https://www.bbc.com/sport/football/articles/cddl48g7d94o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-06-09T15:01:14Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "England third favourites? Their real World Cup chances assessed",
-      "description": "The World Cup is finally upon us. Could it be England's year?",
-      "url": "https://www.skysports.com/football/news/11095/13552254/englands-world-cup-chances-assessed-as-they-are-rated-third-favourites-behind-spain-and-france-between-the-lines",
-      "source": "Sky Sports",
-      "publishedAt": "2026-06-09T15:00:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Report: Rafael Leao turns down a massive Al Hilal bid despite AC Milan departure plans",
-      "description": "After finishing a difficult season, Rafael Leão has decided to publicly announce his desire to leave AC Milan. However, the Portuguese star has reportedly chosen to reject a massive offer from Karim Benzema���s Al Hilal ahead the 2026–27 season. Despite being a…",
-      "url": "https://worldsoccertalk.com/news/report-rafael-leao-turns-down-massive-al-hilal-bid-led-by-karim-benzema-despite-ac-milan-exit-plans/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-06-09T14:54:53Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "From Yamal to Doué: Football’s most exciting wingers at World Cup",
-      "description": "Discover the most exciting wingers set to light up the 2026 FIFA World Cup, from Lamine Yamal to Désiré Doué. Get ready for football’s next generation of s\n\nRead More: https://punchng.com/from-yamal-to-doue-footballs-most-exciting-wingers-at-world-cup/",
-      "url": "https://punchng.com/from-yamal-to-doue-footballs-most-exciting-wingers-at-world-cup/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-09T14:53:30Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "What now for West Ham after Sullivan allegations?",
-      "description": "West Ham is a club in turmoil after co-chair David Sullivan stood down ahead of allegations about his private life, which he denies.",
-      "url": "https://www.bbc.com/sport/football/articles/cdjke4r7dmeo",
-      "source": "BBC News",
-      "publishedAt": "2026-06-09T14:44:39Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Man United to face AC Milan in Poland friendly",
-      "description": "Manchester United will conclude their pre-season friendlies against AC Milan in Wroclaw, Poland. Get details on the Man United friendly and other fixtures.\n\nRead More: https://punchng.com/man-united-to-face-ac-milan-in-poland-friendly/",
-      "url": "https://punchng.com/man-united-to-face-ac-milan-in-poland-friendly/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-09T14:37:31Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Pierre Sage set to be named Crystal Palace manager; Lens set to receive up to €5m",
-      "description": "Pierre Sage looks all set to be named the new manager of Crystal Palace, as per reports from Fabrizio Romano, L’Équipe and RMC Sport.As per L’Équipe, an agreement between Sage and Crystal ...",
-      "url": "https://www.getfootballnewsfrance.com/2026/pierre-sage-set-to-be-named-crystal-palace-manger-lens-set-to-receive-up-to-e5m/",
-      "source": "Get French Football News",
-      "publishedAt": "2026-06-09T14:30:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Report: Liverpool cult hero eyeing Anfield return in potential shock move",
-      "description": "Darwin Nunez and Liverpool: Could an Unexpected Reunion Be Possible?Reports from Mundo Deportivo have reignited discussion around Darwin Nunez and a potential return to Liverpool, less than a year aft...",
-      "url": "https://anfieldindex.com/94858/report-liverpool-cult-hero-eyeing-anfield-return-in-potential-shock-move.html",
-      "source": "Anfieldindex.com",
-      "publishedAt": "2026-06-09T14:25:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Carlos Baleba speaking to Manchester United players about possible transfer",
-      "description": "Brighton & Hove Albion midfielder Carlos Baleba has been speaking to Manchester United players about a possible summer transfer to Old Trafford, according to the Sun. Man United have had the 22-year-o...",
-      "url": "https://sportsview.co.uk/2026/06/carlos-baleba-speaking-to-manchester-united-players-about-possible-transfer?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=carlos-baleba-speaking-to-manchester-united-players-about-possible-transfer",
-      "source": "Sportsview.co.uk",
-      "publishedAt": "2026-06-09T14:10:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Lewis Hall: Newcastle star’s position on Man United move explained",
-      "description": "Manchester United are ramping up their pursuit of Lewis Hall after receiving encouragement that a deal is possible for the Newcastle United star, according to a new report.Wing WizardThe Red Devils ar...",
-      "url": "https://thepeoplesperson.com/2026/06/09/lewis-hall-newcastle-stars-position-on-man-united-move-explained-311278/",
-      "source": "The Peoples Person",
-      "publishedAt": "2026-06-09T14:10:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Ranking the 10 top young players in the World Cup",
-      "description": "Lamine Yamal already has made himself a household name, but other young stars will try to help their countries to glory.",
-      "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/09/top-young-players-2026-fifa-world-cup-lamine-yamal-gilberto-mora/90436012007/",
-      "source": "USA Today",
-      "publishedAt": "2026-06-09T15:00:17Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Javier Aguirre’s final World Cup rescue: Mexico’s firefighter battles old tactical ghosts",
-      "description": "Javier Aguirre has spent a lifetime being Mexican football’s ultimate firefighter, hired mid-cycle to save the national team from one crisis after another. Aguirre, 67, managed El Tri at the 2002 and 2010 World Cups, and he returns for the home tournament co-…",
-      "url": "https://sports.yahoo.com/articles/javier-aguirre-final-world-cup-135726598.html",
+      "title": "The 2026 World Cup will define careers. These are the 26 players to watch",
+      "description": "Aging legends chasing one final trophy. Unknown names about to become household ones. Here's who matters this summer.",
+      "url": "https://sports.yahoo.com/soccer/article/the-2026-world-cup-will-define-careers-these-are-the-26-players-to-watch-194925272.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-09T13:57:26Z",
+      "publishedAt": "2026-06-09T19:49:25Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Julián Álvarez battle takes bizarre turn as Atlético Madrid rebuff Real Madrid’s $173 million offer",
+      "description": "Atlético Madrid has once again taken to social media to go after a La Liga rival interested in acquiring star striker Julián Álvarez's services this summer, mocking Los Blancos just as they recently did with Barcelona",
+      "url": "https://www.alloutsoccer.com/news/alvarez-atletico-real-transfer-offer-1878221",
+      "source": "Alloutsoccer.com",
+      "publishedAt": "2026-06-09T19:28:15Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Real Madrid's £130m Alvarez bid rejected",
+      "description": "Real Madrid make an offer of 150m euros (£130m) for striker Julian Alvarez, but city rivals Atletico Madrid turn it down.",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-06-09T18:50:33Z",
       "league": "La Liga"
     },
     {
-      "title": "Report: Spanish giants set to battle for Chelsea star",
-      "description": "Marc Cucurella’s Chelsea Exit Could Ignite La Liga Transfer BattleMarc Cucurella’s future appears increasingly tied to Spain, with Atlético Madrid and Barcelona emerging as the leading contenders...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5c3e7d42-7e19-42eb-a601-5dd29f1dbd91",
+      "title": "Real Madrid's £130m Alvarez bid rejected",
+      "description": "Real Madrid make an offer of 150m euros (£130m) for striker Julian Alvarez, but city rivals Atletico Madrid turn it down.",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o",
+      "source": "BBC News",
+      "publishedAt": "2026-06-09T18:23:07Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Real Madrid's 150 mn euros bid for Atletico's Alvarez rejected",
+      "description": "Real Madrid said on Tuesday that Atletico Madrid had rejected the club's offer of 150 million euros ($173 million) for Argentine forward Julian Alvarez.\"After reviewing and evaluating the offer, Club Atletico de Madrid has expressed its gratitude for the prop…",
+      "url": "https://sports.yahoo.com/articles/real-madrids-150-mn-euros-182247911.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-09T12:30:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Thierry Henry gives his verdict after Anthony Gordon move to Barcelona ‘Wow, well done mate’",
-      "description": "Thierry Henry has been talking about the move made by Anthony Gordon from Newcastle United to Barcelona. The England winger changing clubs in a £70m deal.",
-      "url": "https://www.themag.co.uk/2026/06/thierry-henry-gives-his-verdict-after-anthony-gordon-move-to-barcelona-wow-well-done-mate-newcastle-united/",
-      "source": "The Mag",
-      "publishedAt": "2026-06-09T11:39:58Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Ranking the best 25 players at the 2026 World Cup",
-      "description": "The World Cup is about stars, and this tournament will have no shortage of them.",
-      "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/09/best-25-players-2026-world-cup/90447557007/",
-      "source": "USA Today",
-      "publishedAt": "2026-06-09T10:45:36Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Are Ronaldo, Messi still the largest World Cup draws, or is Mbappe bigger?",
-      "description": "Has Kylian Mbappe surpassed Cristiano Ronaldo and Lionel Messi as the dominant superstar at the 2026 World Cup?",
-      "url": "https://www.aljazeera.com/sports/2026/6/9/ronaldo-messi-still-the-largest-world-cup-draws-or-is-mbappe-bigger",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-09T10:17:17Z",
+      "publishedAt": "2026-06-09T18:22:47Z",
       "league": "La Liga"
     },
     {
@@ -137,36 +49,36 @@
       "league": "Serie A"
     },
     {
-      "title": "Juventus make Emi Martinez priority target after Alisson snub",
-      "description": "Juventus have made Emiliano Martinez their priority goalkeeper target this summer. According to Fabrizio Romano, the Aston Villa stopper has moved to the top of their list after a deal for Alisson fel...",
-      "url": "https://thefootballfaithful.com/juventus-make-emi-martinez-priority-target-after-alisson-snub/",
-      "source": "The Football Faithful",
-      "publishedAt": "2026-06-09T14:00:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Dzeko: I did not think I would be playing at 40",
-      "description": "“I did not think I would be playing at 40,” admits Edin Dzeko. But here he is. Not just playing but getting ready to captain Bosnia and Herzegovina at the 2026 World Cup, coming into the tournament fresh off a title win with Schalke in Germany.",
-      "url": "https://www.skysports.com/football/news/11095/13541527/edin-dzeko-interview-bosnia-striker-on-playing-at-the-world-cup-aged-40-after-helping-schalke-back-to-the-bundesliga",
-      "source": "Sky Sports",
-      "publishedAt": "2026-06-09T08:30:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Hoffenheim confirm Rots signing",
-      "description": "TSG Hoffenheim have completed the signing of Mats Rots from Dutch side FC Twente.The 20-year-old left-back has signed a long-term contract with the Bundesliga outfit.“Mats Rots is a modern full-back...",
-      "url": "https://bulinews.com/hoffenheim-confirm-rots-signing",
-      "source": "Bulinews.com",
-      "publishedAt": "2026-06-09T13:08:00Z",
+      "title": "'It doesn't matter': US star Reyna looks past World Cup scandal",
+      "description": "US soccer star Gio Reyna on Tuesday said he has put the controversy of the 2022 World Cup behind him and is solely focussed on helping the co-hosts succeed this summer.\"I think last World Cup, maybe we're all just a little bit young.",
+      "url": "https://sports.yahoo.com/articles/doesnt-matter-us-star-reyna-193005634.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-09T19:30:05Z",
       "league": "Bundesliga"
     },
     {
-      "title": "'Real goal threat': Gladbach sign Sweden striker Lidberg",
-      "description": "Borussia Mönchengladbach have signed Sweden striker Isac Lidberg from second division Darmstadt, the Bundesliga club said on Tuesday. Gladbach said that Lidberg, 27, has signed a four-year contract until 2030.",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260609-99-677781/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-06-09T11:40:29Z",
+      "title": "Harry Kane tells Christian Eriksen he 'has some decisions to make' after his former Tottenham team-mate's 'scary' collapse during game as he reveals message to Denmark star",
+      "description": "The former Manchester United and Tottenham star clutched his chest and fell to the floor during a Denmark friendly against Ukraine on Sunday - four years after an on-field cardiac arrest.",
+      "url": "https://www.dailymail.com/sport/football/article-15886531/Harry-Kane-Christian-Eriksen-decisions-collapse.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-09T17:24:37Z",
       "league": "Bundesliga"
+    },
+    {
+      "title": "Ranking the 10 top young players in the World Cup",
+      "description": "Lamine Yamal already has made himself a household name, but other young stars will try to help their countries to glory.",
+      "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/09/top-young-players-2026-fifa-world-cup-lamine-yamal-gilberto-mora/90436012007/",
+      "source": "USA Today",
+      "publishedAt": "2026-06-09T15:00:17Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Why Khvicha Kvaratskhelia is not playing in the 2026 World Cup",
+      "description": "After establishing himself among Europe's elite, the Paris Saint-Germain winger appeared destined to shine on soccer's biggest stage. Instead, he will be forced to watch from afar as the world's leading national team competes for the most prestigious trophy i…",
+      "url": "https://worldsoccertalk.com/world-cup/why-khvicha-kvaratskhelia-is-not-playing-in-the-2026-world-cup/",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-06-09T16:45:20Z",
+      "league": "Ligue 1"
     },
     {
       "title": "Crystal Palace agree deal in principle for Lens boss Sage",
@@ -177,69 +89,77 @@
       "league": "Ligue 1"
     },
     {
-      "title": "Mason Greenwood agrees personal terms with Roma as Serie A side push for summer deal",
-      "description": "Roma have reportedly taken a major step towards signing Mason Greenwood after reaching an agreement on personal terms with the Marseille forward ahead of a potential summer transfer.The 24-year-old is...",
-      "url": "https://footballtoday.com/2026/06/09/mason-greenwood-agrees-personal-terms-with-roma-as-serie-a-side-push-for-summer-deal/",
-      "source": "Footballtoday.com",
-      "publishedAt": "2026-06-09T12:40:00Z",
-      "league": "Ligue 1"
+      "title": "Tuchel gives update on Saka’s fitness ahead of World Cup",
+      "description": "England boss Thomas Tuchel says Bukayo Saka’s fitness is being carefully managed with the start of the World Cup just around the corner.Saka, along with Arsenal team-mates Declan Rice, Noni Madueke ...",
+      "url": "https://hayters.com/tuchel-gives-update-on-sakas-fitness-ahead-of-world-cup/",
+      "source": "Hayters.com",
+      "publishedAt": "2026-06-09T19:50:00Z",
+      "league": "Champions League"
     },
     {
-      "title": "Official | Ian Cathro named Saint-Étienne manager",
-      "description": "Ian Cathro has been officially named the new manager of Ligue 2 club AS Saint-Étienne. The Scot’s deal with the French club runs until 2028.Saint-Étienne opted against extending Philippe Montanier...",
-      "url": "https://www.getfootballnewsfrance.com/2026/official-ian-cathro-named-saint-etienne-manager/",
-      "source": "Get French Football News",
-      "publishedAt": "2026-06-09T08:15:00Z",
-      "league": "Ligue 1"
+      "title": "Jose Mourinho: Real Madrid return edges closer after Arbeloa departure confirmed",
+      "description": "Mourinho is poised to return for a second spell as Real Madrid boss",
+      "url": "https://www.101greatgoals.com/football/la-liga/jose-mourinho-real-madrid-return-edges-closer-after-arbeloa-departure-confirmed/",
+      "source": "101 Great Goals",
+      "publishedAt": "2026-06-09T19:03:09Z",
+      "league": "Champions League"
     },
     {
-      "title": "Robin van Persie sacked by Feyenoord after two seasons in charge",
-      "description": "Robin van Persie's spell as Feyenoord manager has come to an end after the Dutch club confirmed his dismissal on Sunday.The 42-year-old, who was under contract until 2027, leaves just weeks after the ...",
-      "url": "https://www.playmakerstats.com/news/robin-van-persie-sacked-by-feyenoord-after-two-seasons-in-charge/1140860",
-      "source": "Playmakerstats.com",
-      "publishedAt": "2026-06-08T10:15:00Z",
+      "title": "Eredivisie players at the 2026 World Cup: Defenders",
+      "description": "The 2026 World Cup kicks off this week, and there are plenty of Eredivisie players heading over for the tournament. Yesterday we had a look at the two goalkeepers, so today we will look at the defende...",
+      "url": "https://getfootballnewsbene.com/eredivisie-players-at-the-2026-world-cup-defenders/",
+      "source": "Getfootballnewsbene.com",
+      "publishedAt": "2026-06-09T08:35:00Z",
       "league": "Eredivisie"
     },
     {
-      "title": "Eriksen 'doing well and at home' after collapse during Denmark friendly",
-      "description": "Christian Eriksen said he has returned home and is \"doing well\" after collapsing during Denmark's friendly with Ukraine.",
-      "url": "https://www.skysports.com/football/news/17248/13551798/christian-eriksen-doing-well-and-at-home-after-collapsing-during-denmark-friendly",
-      "source": "Sky Sports",
-      "publishedAt": "2026-06-08T16:00:00Z",
+      "title": "World Cup Group F guide: Strong Dutch side capable of going deep into competition",
+      "description": "Japan, Sweden and Tunisia arrive with tournament pedigree and hopes of qualification",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/06/06/world-cup-group-f-guide-strong-dutch-side-capable-of-going-deep-into-competition/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-09T05:01:00Z",
+      "league": "Eredivisie"
+    },
+    {
+      "title": "Eredivisie players at the 2026 World Cup: Goalkeepers",
+      "description": "The 2026 World Cup kicks off this week and there will be plenty of Eredivisie talent on show over the coming weeks. We are going to look at all the players from the Dutch top flight making their way o...",
+      "url": "https://getfootballnewsbene.com/eredivisie-players-at-the-2026-world-cup-goalkeepers/",
+      "source": "Getfootballnewsbene.com",
+      "publishedAt": "2026-06-08T13:40:00Z",
+      "league": "Eredivisie"
+    },
+    {
+      "title": "Nigeria’s lost stars set to light up 2026 World Cup",
+      "description": "Discover the talented players of Nigerian descent representing other nations at the 2026 FIFA World Cup. These Nigerian World Cup stars will light up the t\n\nRead More: https://punchng.com/nigerias-lost-stars-set-to-light-up-2026-world-cup/",
+      "url": "https://punchng.com/?p=2161376",
+      "source": "The Punch",
+      "publishedAt": "2026-06-09T01:25:27Z",
       "league": "Championship"
     },
     {
-      "title": "From risk of death to the oldest man at World Cup",
-      "description": "How Craig Gordon's career has been a series of comebacks and the 43-year-old's World Cup inclusion for Scotland seemed an impossible dream only a few months ago.",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-06-09T15:18:28Z",
-      "league": "World Cup"
+      "title": "Which European nation has the best chance to win World Cup 2026?",
+      "description": "Europe has the most World Cup winners in the event's history, but what are the continent's chances at the 2026 edition?",
+      "url": "https://www.aljazeera.com/sports/2026/6/8/which-european-nation-has-the-best-chance-to-win-world-cup-2026",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-08T11:48:58Z",
+      "league": "Championship"
     },
     {
-      "title": "'Shameful': Global Fury at Racist Trump After Somali Referee Bound for World Cup Refused Entry by US",
-      "description": "The Trump administration is facing international outrage after Somali referee Omar Artan, who was selected by FIFA to work at the 2026 World Cup, was barred from entering the US.As ESPN reported on Monday, FIFA confirmed that US Customs and Border Protection …",
-      "url": "https://www.commondreams.org/news/fifa-referee-artan-banned",
-      "source": "Common Dreams",
-      "publishedAt": "2026-06-09T15:15:38Z",
-      "league": "World Cup"
+      "title": "Messi, Iran, The USMNT & Mbappé Vs. Haaland: 7 World Cup Group Games That Will Have The World Tuning In",
+      "description": "The 2026 World Cup, jointly hosted by the U.S., Canada and Mexico, is the biggest yet. The 48-team tournament, comprising 104 games, kicks off Thursday and anticipation is growing. But, it has been a contentious build-up. Exorbitant ticket prices and transpor…",
+      "url": "https://deadline.com/gallery/world-cup-2026-best-group-games/",
+      "source": "Deadline",
+      "publishedAt": "2026-06-09T19:34:21Z",
+      "league": "MLS"
     },
     {
-      "title": "Omar Artan and World Cup 2026: Who is Somali referee barred from entering US?",
-      "description": "Omar Artan was set to become the first Somali to referee a game at the World Cup finals, but his place in history has been denied by US immigration authorities.",
-      "url": "https://www.bbc.co.uk/news/articles/c8j27zkp94zo",
-      "source": "BBC News",
-      "publishedAt": "2026-06-09T15:09:23Z",
-      "league": "World Cup"
-    },
-    {
-      "title": "Lionel Messi next World Cup match: Fixture schedule, start time, draw bracket as Argentina face Algeria",
-      "description": "Is Lionel Messi playing today? The Inter Miami star returns with Argentina for a record sixth World Cup appearance at the 2026 tournament in North America.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8c442358-ad0b-4e92-a329-313a77a97763",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-09T15:00:01Z",
-      "league": "World Cup"
+      "title": "Jayden Nelson replaces injured midfielder Marcelo Flores on Canada World Cup roster",
+      "description": "Jayden Nelson is replacing injured midfielder Marcelo Flores on Canada's roster at the FIFA World Cup.",
+      "url": "https://www.cbc.ca/sports/soccer/worldcup/jayden-nelson-injury-replacement-canada-world-cup-marcelo-flores-9.7228625",
+      "source": "CBC News",
+      "publishedAt": "2026-06-09T16:26:54Z",
+      "league": "MLS"
     }
   ],
-  "generatedAt": "2026-06-10T15:22:00.796Z"
+  "generatedAt": "2026-06-10T20:23:11.786Z"
 }
