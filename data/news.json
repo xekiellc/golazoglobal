@@ -1,36 +1,76 @@
 {
   "articles": [
     {
-      "title": "Netherlands defender Timber to miss World Cup with groin injury",
-      "description": "June 8 : Arsenal defender Jurrien Timber will miss the 2026 World Cup after failing to recover from a groin injury, the Dutch Football Association said on Monday.The Dutch FA said the 24-year-old has not made enough progress to compete in the tournament in a …",
-      "url": "https://www.channelnewsasia.com/sport/netherlands-defender-timber-miss-world-cup-groin-injury-6169806",
-      "source": "CNA",
-      "publishedAt": "2026-06-08T18:54:32Z",
+      "title": "USA's Previous World Cup Problem At A Key Position Should Be An Strength",
+      "description": "USA strikers Folarin Balogun, Ricardo Pepi and Haji Wright are all different, and they all enter the World Cup coming off prolific club seasons in Europe.",
+      "url": "https://www.foxsports.com/stories/soccer/usmnt-strikers-world-cup-balogun-pepi-wright",
+      "source": "Fox Sports",
+      "publishedAt": "2026-06-08T23:01:28Z",
       "league": "Premier League"
     },
     {
-      "title": "Netherlands' Timber out of World Cup with injury",
-      "description": "Arsenal defender Jurrien Timber is ruled out of the Netherlands' World Cup campaign with a groin injury and replaced by Lutsharel Geertruida.",
-      "url": "https://www.bbc.com/sport/football/articles/c4gyrpve234o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-06-08T19:04:26Z",
-      "league": "Champions League"
+      "title": "USMNT gets encouraging Chris Richards update ahead of World Cup opener",
+      "description": "As the U.S. Men’s National Team is finalizing its preparations ahead of Friday’s World Cup opener against Paraguay (6 p.m. PT), the biggest question facing head coach Mauricio Pochettino was the team’s defense. And by that, the real question was about the hea…",
+      "url": "https://nypost.com/2026/06/08/sports/usmnt-gets-chris-richards-update-ahead-of-2026-world-cup/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-08T22:36:52Z",
+      "league": "Premier League"
     },
     {
-      "title": "Netherlands' Timber out of World Cup with injury",
-      "description": "Arsenal defender Jurrien Timber is ruled out of the Netherlands' World Cup campaign with a groin injury and replaced by Lutsharel Geertruida.",
-      "url": "https://www.bbc.com/sport/football/articles/c4gyrpve234o",
-      "source": "BBC News",
-      "publishedAt": "2026-06-08T19:04:21Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "Netherlands' Jurrien Timber Out For World Cup; Lutsharel Geertruida Called Up",
-      "description": "The Netherlands team has ruled Jurrien Timber out of the World Cup due to a groin issue.",
-      "url": "https://www.foxsports.com/stories/other/netherlands-rules-out-jurrien-timber-for-the-world-cup-lutsharel-geertruida-called-up",
+      "title": "Julián Alvarez's Agent Responds To Real Madrid, Barcelona Transfer Rumors",
+      "description": "The race for Julián Alvarez has taken an explosive turn as reports link the Atlético Madrid star with a controversial move across the capital.",
+      "url": "https://www.foxsports.com/stories/soccer/julian-alvarezs-agent-breaks-silence-on-sensational-real-madrid-transfer-links-as-race-to-sign-atletico-madrid-forward-heats-up",
       "source": "Fox Sports",
-      "publishedAt": "2026-06-08T18:55:19Z",
-      "league": "Champions League"
+      "publishedAt": "2026-06-08T22:30:41Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Jurrien Timber ruled out of Netherlands’ World Cup squad due to injury despite featuring in UCL final",
+      "description": "Despite making his return in the Champions League final, Jurrien Timber has been ruled out of the Netherland's World Cup squad due to his persistent groin injury. The Netherlands has become the latest nation to suffer a massive roster blow ahead of the 2026 W…",
+      "url": "https://worldsoccertalk.com/world-cup/jurrien-timber-ruled-out-of-netherlands-world-cup-squad-due-to-injury-despite-featuring-in-ucl-final/",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-06-08T22:00:06Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Chris Richards back training for USMNT ahead of World Cup opener",
+      "description": "Chris Richards is trending closer to a U.S. men’s national team return. Richards was a full participant in training on Monday as the USMNT kicked off their FIFA World Cup training camp in Irvine, California. The veteran defender did not feature in either of t…",
+      "url": "https://sbisoccer.com/2026/06/chris-richards-back-training-for-usmnt-ahead-of-world-cup-opener",
+      "source": "Sbisoccer.com",
+      "publishedAt": "2026-06-08T21:52:54Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "From Barcelona To Inter Miami: Mapping Lionel Messi's Career Evolutions",
+      "description": "Lionel Messi is preparing for a record-breaking sixth World Cup appearance, but the player heading to the tournament is unrecognizable from the teenager who first burst onto the scene.",
+      "url": "https://www.foxsports.com/stories/soccer/lionel-messi-evolution-argentine-goat-has-reinvented-himself-at-least-five-times-from-barcelona-to-inter-miami-via-psg-historic-world-cup-win",
+      "source": "Fox Sports",
+      "publishedAt": "2026-06-08T23:56:43Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "2026 World Cup Young Player of the Tournament Odds: Lamine Yamal Favored",
+      "description": "Can anyone — or anything — stop Lamine Yamal from winning Young Player of the Tournament at the World Cup? See the odds.",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-young-player-tournament-odds-lamine-yamal-favored",
+      "source": "Fox Sports",
+      "publishedAt": "2026-06-08T18:27:38Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Julian Alvarez's agent addresses transfer rumors amidst Real Madrid and Arsenal links",
+      "description": "Julian Alvarez's agent has denied that any talks with other teams have taken place, with both Real Madrid and Arsenal supposedly interested in acquiring the Argentine",
+      "url": "https://www.alloutsoccer.com/news/alvarez-transfer-atletico-real-arsenal-1876237",
+      "source": "Alloutsoccer.com",
+      "publishedAt": "2026-06-08T17:16:20Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Barcelona send representative to Como to secure Fabregas as Flick’s long-term successor",
+      "description": "Cesc Fabregas has emerged as Barcelona's primary target to succeed Hansi Flick, with the Catalan club having already sent an emissary to Como in an attempt to",
+      "url": "https://football-italia.net/barcelona-send-representative-to-como-fabregas/",
+      "source": "Football Italia",
+      "publishedAt": "2026-06-08T19:31:00Z",
+      "league": "Serie A"
     },
     {
       "title": "‘My recovery has started’ - Christian Eriksen ‘feeling good’ in wake of collapse",
@@ -57,76 +97,44 @@
       "league": "Serie A"
     },
     {
-      "title": "Christian Eriksen close to being discharged after collapse, says team doctor",
-      "description": "Denmark’s medic reveals 34-year-old is in ‘good spirits’ after losing consciousness on pitch",
-      "url": "https://www.irishtimes.com/sport/soccer/2026/06/08/christian-eriksen-close-to-being-discharged-after-collapse-says-team-doctor/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-08T11:31:13Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Christian Eriksen speaks out on his shocking collapse as he is discharged from hospital - and says it was 'very different from 2021' - as Danish pundit tells him: Retire for your wife's sake",
-      "description": "Christian Eriksen has been discharged from hospital. In a statement released this afternoon he said: 'Receiving a shock from my ICD has had a major impact'.",
-      "url": "https://www.dailymail.com/sport/football/article-15883541/christian-eriksen-collapse-hospital-discharge.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-08T16:19:28Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Robin van Persie sacked by Feyenoord after two seasons in charge",
-      "description": "Robin van Persie's spell as Feyenoord manager has come to an end after the Dutch club confirmed his dismissal on Sunday.The 42-year-old, who was under contract until 2027, leaves just weeks after the ...",
-      "url": "https://www.playmakerstats.com/news/robin-van-persie-sacked-by-feyenoord-after-two-seasons-in-charge/1140860",
-      "source": "Playmakerstats.com",
-      "publishedAt": "2026-06-08T10:15:00Z",
-      "league": "Eredivisie"
-    },
-    {
-      "title": "Robin van Persie is SACKED as Feyenoord head coach after just 18 months at the helm - as Dutch giants point to their 'downward trend' under ex-Arsenal and Man United striker",
-      "description": "Former Manchester United and Arsenal forward Robin van Persie has been sacked as manager of Feyenoord after 18 months in charge.",
-      "url": "https://www.dailymail.com/sport/football/article-15881449/Robin-van-Persie-SACKED-Feyenoord-head-coach-just-18-months-helm-Dutch-giants-point-downward-trend-ex-Arsenal-Man-United-striker.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-07T22:50:59Z",
-      "league": "Eredivisie"
-    },
-    {
-      "title": "Van Persie sacked by Feyenoord after 16 months",
-      "description": "Feyenoord sack manager Robin van Persie after just one full season in charge of the Eredivisie club.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9b73cfa3-1710-4727-809c-71460c545dde",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-07T21:10:06Z",
-      "league": "Eredivisie"
-    },
-    {
-      "title": "Feyenoord part ways with Robin van Persie",
-      "description": "Feyenoord announces the departure of head coach Robin van Persie despite a second-place finish. Discover why the Dutch club made this decision.\n\nRead More: https://punchng.com/feyenoord-part-ways-with-robin-van-persie/",
-      "url": "https://punchng.com/feyenoord-part-ways-with-robin-van-persie/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-07T21:09:15Z",
-      "league": "Eredivisie"
-    },
-    {
-      "title": "Van Persie sacked by Feyenoord after 16 months",
-      "description": "Feyenoord sack manager Robin van Persie after just one full season in charge of the Eredivisie club.",
-      "url": "https://www.bbc.com/sport/football/articles/cn8kl8ydzy0o",
-      "source": "BBC News",
-      "publishedAt": "2026-06-07T21:06:13Z",
-      "league": "Eredivisie"
-    },
-    {
-      "title": "Van Persie fired by Feyenoord despite second place finish",
-      "description": "ROTTERDAM, June 7 : Robin van Persie has been fired as coach of Feyenoord after only one full season in charge and despite the club finishing second in the Eredivisie standings, the Dutch club confirmed on Sunday.The 42-year-old former Arsenal and Manchester …",
-      "url": "https://www.channelnewsasia.com/sport/van-persie-fired-feyenoord-despite-second-place-finish-6167586",
-      "source": "CNA",
-      "publishedAt": "2026-06-07T17:39:03Z",
-      "league": "Eredivisie"
-    },
-    {
       "title": "Official: Italy World Cup winner Grosso is the new Fiorentina coach",
       "description": "Fiorentina confirm the appointment of Fabio Grosso as their new head coach; the ex-Italy international has signed a contract until June 2028.",
       "url": "https://football-italia.net/italy-world-cup-winner-grosso-fiorentina-coach/",
       "source": "Football Italia",
       "publishedAt": "2026-06-08T14:17:50Z",
       "league": "Serie A"
+    },
+    {
+      "title": "Olise arrives on fire for the World Cup, hat-trick v Northern Ireland",
+      "description": "Bayern’s star delivered a memorable performance with three goals against Northern Ireland. Within the great constellation of stars lighting up France’s attack, Michael Olise stands out above them ...",
+      "url": "https://onefootball.com/en/news/olise-arrives-on-fire-for-the-world-cup-hat-trick-v-northern-ireland-42982902",
+      "source": "Onefootball.com",
+      "publishedAt": "2026-06-08T20:54:00Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Michael Olise To Real Madrid? Bayern Munich Responds To Reported €150 Million Offer",
+      "description": "Bayern Munich has issued a definitive hands-off warning to Real Madrid amid reports of a record-breaking move for Michael Olise.",
+      "url": "https://www.foxsports.com/stories/soccer/michael-olise-to-real-madrid-for-150m-bayern-munich-send-transfer-message-to-santiago-bernabeu-amid-unwelcome-rumours",
+      "source": "Fox Sports",
+      "publishedAt": "2026-06-08T17:14:36Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "World Cup is 'full circle' for London-raised US striker Balogun",
+      "description": "Raised in London by Nigerian parents, Folarin Balogun didn't quite know what to expect when he signed up to play for the United States at the World Cup.Being able to perform on the biggest stage and give back to the fans, that's something I'm looking forward …",
+      "url": "https://sports.yahoo.com/articles/world-cup-full-circle-london-215640334.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-08T21:56:40Z",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "Canada dealt major World Cup blow as key player withdraws through injury",
+      "description": "Canada have been dealt a major blow just days before their World Cup campaign starts against Bosnia and Herzegovina. Jesse Marsch’s side will fancy their chances of making it out of Group B alongside Bosnia, Qatar and Switzerland.",
+      "url": "https://www.hitc.com/canada-dealt-major-world-cup-blow-as-key-player-withdraws-through-injury/",
+      "source": "HITC - Football, Gaming, Movies, TV, Music",
+      "publishedAt": "2026-06-08T20:45:00Z",
+      "league": "Ligue 1"
     },
     {
       "title": "Giroud signs one-year deal for ‘last dance’ at Lille",
@@ -145,52 +153,12 @@
       "league": "Ligue 1"
     },
     {
-      "title": "Joshua Kimmich reveals how close he was to leaving Bayern Munich for PSG after ‘very incredible financial offer’",
-      "description": "Bayern's #6 so nearly left for the current UCL holders.",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-transfer-rumors-news/213447/joshua-kimmich-reveals-how-close-he-was-to-leaving-bayern-munich-for-psg-after-very-incredible-financial-offer-vincent-kompany-thomas-tuchel-world-cup",
-      "source": "Bavarian Football Works",
-      "publishedAt": "2026-06-08T19:30:00Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "48 teams, extreme heat and a final half-time show - your guide to World Cup 2026",
-      "description": "Fifa has promised this 23rd World Cup will be the biggest and best yet, but there has been plenty of controversy surrounding the tournament.",
-      "url": "https://www.thejournal.ie/world-cup-2026-guide-everything-you-need-to-know-7063861-Jun2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-06-08T19:00:59Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Back after decades: these countries celebrate World Cup returns",
-      "description": "Depending on the perspective from which you look at the tournament, the World Cup has a very different character for the various nations. And not just in terms of sporting ambitions. While the World C...",
-      "url": "https://onefootball.com/en/news/back-after-decades-these-countries-celebrate-world-cup-returns-42982636",
-      "source": "Onefootball.com",
-      "publishedAt": "2026-06-08T19:28:00Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Sibling rivals line up for different teams at World Cup",
-      "description": "June 8 : Four sets of brothers will compete at the World Cup, all for different countries in a reflection of how steady migration around the world has had an impact on football.Desire Doue and his older brother Guela are French-born, but while Paris St Germai…",
-      "url": "https://www.channelnewsasia.com/sport/sibling-rivals-line-up-different-teams-world-cup-6169201",
-      "source": "CNA",
-      "publishedAt": "2026-06-08T11:53:42Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Soccer-Sibling rivals line up for different teams at World Cup",
-      "description": "By Mark Gleeson June 8 (Reuters) - Four sets of brothers will compete at the World Cup, all for different countries in a reflection of how steady migration around the world has had an impact on",
-      "url": "https://sports.yahoo.com/articles/soccer-sibling-rivals-line-different-115342164.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-08T11:53:42Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Which European nation has the best chance to win World Cup 2026?",
-      "description": "Europe has the most World Cup winners in the event's history, but what are the continent's chances at the 2026 edition?",
-      "url": "https://www.aljazeera.com/sports/2026/6/8/which-european-nation-has-the-best-chance-to-win-world-cup-2026",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-08T11:48:58Z",
-      "league": "Bundesliga"
+      "title": "Robin van Persie sacked by Feyenoord after two seasons in charge",
+      "description": "Robin van Persie's spell as Feyenoord manager has come to an end after the Dutch club confirmed his dismissal on Sunday.The 42-year-old, who was under contract until 2027, leaves just weeks after the ...",
+      "url": "https://www.playmakerstats.com/news/robin-van-persie-sacked-by-feyenoord-after-two-seasons-in-charge/1140860",
+      "source": "Playmakerstats.com",
+      "publishedAt": "2026-06-08T10:15:00Z",
+      "league": "Eredivisie"
     },
     {
       "title": "How The Smallest World Cup Nation Recruited Its Team",
@@ -198,6 +166,14 @@
       "url": "https://www.foxsports.com/stories/soccer/curacao-world-cup-2026",
       "source": "Fox Sports",
       "publishedAt": "2026-06-08T17:47:34Z",
+      "league": "Championship"
+    },
+    {
+      "title": "Which European nation has the best chance to win World Cup 2026?",
+      "description": "Europe has the most World Cup winners in the event's history, but what are the continent's chances at the 2026 edition?",
+      "url": "https://www.aljazeera.com/sports/2026/6/8/which-european-nation-has-the-best-chance-to-win-world-cup-2026",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-08T11:48:58Z",
       "league": "Championship"
     },
     {
@@ -209,11 +185,27 @@
       "league": "Championship"
     },
     {
-      "title": "MLS aims to turn 2026 World Cup attention into lasting gains",
-      "description": "LOS ANGELES, June 8 : Major League Soccer Commissioner Don Garber says the league is treating the 2026 FIFA World Cup not as a six-week showcase but as the launchpad for a new era, aiming to convert global attention on North American soccer into lasting growt…",
-      "url": "https://www.channelnewsasia.com/sport/mls-aims-turn-2026-world-cup-attention-lasting-gains-6169291",
-      "source": "CNA",
-      "publishedAt": "2026-06-08T13:01:35Z",
+      "title": "World Cup Predictions, Sofía Vergara, Eloy Room's Messi Story & USMNT History with Leander Schaerlaeckens",
+      "description": "The Cooligans are making their final predictions ahead of the 2026 FIFA World Cup! Christian Polanco and Alexis Guerreros reveal their picks for World Cup winner, Golden Boot, biggest disappointment and more before welcoming an incredible lineup of guests. Co…",
+      "url": "https://sports.yahoo.com/soccer/article/world-cup-predictions-sofia-vergara-eloy-rooms-messi-story--usmnt-history-with-leander-schaerlaeckens-225746717.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-08T22:57:46Z",
+      "league": "MLS"
+    },
+    {
+      "title": "World Cup by the numbers: 104 matches, 48 teams and 3 countries make this the largest ever",
+      "description": "This year's edition of the World Cup will be the biggest ever with an expanded field of 48 teams, three host countries and 16 stadiums staging the record 104 matches over the 39-day tournament. The tournament being held in the United States, Canada and Mexico…",
+      "url": "https://japantoday.com/category/2026-fifa-world-cup/world-cup-by-the-numbers-104-matches-48-teams-and-3-countries-make-this-the-largest-ever",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-08T21:34:08Z",
+      "league": "MLS"
+    },
+    {
+      "title": "Jim Curtin named Austin FC head coach, will begin role at end of season",
+      "description": "Austin FC has its coaching decisions decided for the remainder of the 2026 MLS season and the start of the 2027 campaign. Davy Arnaud will serve as interim head coach for the remainder of 2026 before Jim Curtin takes over to begin 2027, the Western Conference…",
+      "url": "https://sbisoccer.com/2026/06/jim-curtin-named-austin-fc-head-coach-will-begin-role-at-end-of-season",
+      "source": "Sbisoccer.com",
+      "publishedAt": "2026-06-08T19:57:55Z",
       "league": "MLS"
     },
     {
@@ -225,101 +217,29 @@
       "league": "MLS"
     },
     {
-      "title": "Taylor Twellman on the USMNT’s biggest World Cup question, ESPN return, and Ian Darke",
-      "description": "For 13 years, Taylor Twellman’s summers had a shape to them. There was a tournament somewhere, a broadcast to prepare for, a booth he shared with Ian Darke where the two of them called the games that gradually built American soccer’s modern mythology. Clint D…",
-      "url": "https://awfulannouncing.com/soccer/taylor-twellman-world-cup-2026-ian-darke-usmnt-goalkeeper.html",
-      "source": "Awful Announcing",
-      "publishedAt": "2026-06-08T17:00:13Z",
-      "league": "MLS"
+      "title": "Lionel Messi to return for Argentina’s final pre-World Cup friendly against Iceland, confirms Lionel Scaloni",
+      "description": "Head coach Lionel Scaloni confirmed that Lionel Messi will be returning to the pitch in Argentina's last friendly against Iceland. Lionel Messi has been sidelined from the Argentina national team due to a recent muscle strain brought on by lingering fatigue d…",
+      "url": "https://worldsoccertalk.com/news/lionel-messi-to-return-for-argentinas-final-pre-world-cup-friendly-against-iceland-confirms-lionel-scaloni/",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-06-08T23:37:18Z",
+      "league": "World Cup"
     },
     {
-      "title": "Julian Alvarez's agent addresses transfer rumors amidst Real Madrid and Arsenal links",
-      "description": "Julian Alvarez's agent has denied that any talks with other teams have taken place, with both Real Madrid and Arsenal supposedly interested in acquiring the Argentine",
-      "url": "https://www.alloutsoccer.com/news/alvarez-transfer-atletico-real-arsenal-1876237",
-      "source": "Alloutsoccer.com",
-      "publishedAt": "2026-06-08T17:16:20Z",
-      "league": "La Liga"
+      "title": "Somali referee is dropped from World Cup after turned back at US border",
+      "description": "A Somali referee was on Monday dropped from the World Cup after he was denied entry to the United States, reigniting concerns about how Donald Trump's immigration crackdown could disrupt the tournament.The United States Customs and Border Protection (CBP) sai…",
+      "url": "https://sports.yahoo.com/articles/somali-referee-dropped-world-cup-232308572.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-08T23:23:08Z",
+      "league": "World Cup"
     },
     {
-      "title": "La Liga: France’s Konate to join Real Madrid until 2030",
-      "description": "France international Ibrahima Konate has agreed a four-year deal with Real Madrid until 2030 after leaving Liverpool. Get the full details on his transfer.\n\nRead More: https://punchng.com/la-liga-frances-konate-to-join-real-madrid-until-2030/",
-      "url": "https://punchng.com/la-liga-frances-konate-to-join-real-madrid-until-2030/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-08T16:23:58Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Manchester United think they can beat City to £100m-rated Elliot Anderson",
-      "description": "Nottingham Forest rejected City’s bid for midfielder, with United also monitoring Mateus Fernandes",
-      "url": "https://www.irishtimes.com/sport/soccer/2026/06/08/manchester-united-think-they-can-beat-city-to-100m-rated-elliot-anderson/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-08T18:43:52Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Barcelona send representative to Como to secure Fabregas as Flick’s long-term successor",
-      "description": "Cesc Fabregas has emerged as Barcelona's primary target to succeed Hansi Flick, with the Catalan club having already sent an emissary to Como in an attempt to",
-      "url": "https://football-italia.net/barcelona-send-representative-to-como-fabregas/",
-      "source": "Football Italia",
-      "publishedAt": "2026-06-08T19:31:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Barcelona asked to pause pursuit of priority target who wants to focus on the World Cup",
-      "description": "According to an exclusive report from The Touchline, Julian Alvarez’s representatives have asked Barcelona to temporarily ease their efforts to sign him because the player wants to avoid any distrac...",
-      "url": "https://barcauniversal.com/barcelona-asked-to-pause-pursuit-of-priority-target-who-wants-to-focus-on-the-world-cup/",
-      "source": "Barcauniversal.com",
-      "publishedAt": "2026-06-08T08:15:00Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Not Olise? New name touted as Real Madrid’s €150 million mystery transfer target",
-      "description": "La Liga giants Real Madrid have early this week been tipped to launch a move for a headline member of the attacking ranks at capital rivals Atlético Madrid.This comes amid claims of Julián Alvarez b...",
-      "url": "https://getfootballnewsspain.com/not-olise-new-name-touted-as-real-madrids-e150-million-mystery-transfer-target/",
-      "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-06-08T17:30:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Michael Olise To Real Madrid? Bayern Munich Responds To Reported €150 Million Offer",
-      "description": "Bayern Munich has issued a definitive hands-off warning to Real Madrid amid reports of a record-breaking move for Michael Olise.",
-      "url": "https://www.foxsports.com/stories/soccer/michael-olise-to-real-madrid-for-150m-bayern-munich-send-transfer-message-to-santiago-bernabeu-amid-unwelcome-rumours",
-      "source": "Fox Sports",
-      "publishedAt": "2026-06-08T17:14:36Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Bayern Munich pressure Barcelona over transfer inaction",
-      "description": "La Liga giants Barcelona are being increasingly pressured to make a definitive call regarding the future of Marcus Rashford with the club.This comes amid the understanding that another of European foo...",
-      "url": "https://getfootballnewsspain.com/bayern-munich-pressure-barcelona-over-transfer-inaction/",
-      "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-06-08T19:55:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Tottenham Hotspur Are Showing Interest In This Barcelona Defender: Should De Zerbi Go For Him?",
-      "description": "In a recent report, Fichajes mentioned that Tottenham Hotspur are showing interest in Barcelona defender Ronald Araujo this summer. It has been stated that Spurs are eyeing a €30m move to sign the U...",
-      "url": "https://the4thofficial.net/2026/06/tottenham-hotspur-are-showing-interest-in-this-barcelona-defender/",
-      "source": "The4thofficial.net",
-      "publishedAt": "2026-06-08T18:05:00Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Report: Spurs ace’s future clouded with doubt as Serie A ginats come calling",
-      "description": "Juventus Turn Attention to Guglielmo Vicario After Alisson SetbackJuventus appear to be narrowing their search for a new goalkeeper, and Tottenham Hotspur’s Guglielmo Vicario has reportedly emerged ...",
-      "url": "https://eplindex.com/147174/report-spurs-aces-future-clouded-with-doubt-as-serie-a-ginats-come-calling.html",
-      "source": "English Premier League Index - Opta Stats",
-      "publishedAt": "2026-06-08T16:50:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Liverpool want to raid Real Madrid for £100m midfielder",
-      "description": "Liverpool are planning to restock their attacking options this summer. Mohamed Salah will be leaving the club when his contract officially expires on June 30. The Egyptian King will be joined in the d...",
-      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-transfer-news-richard-hughes-arda-guler-raid-real-madrid-for-ps100m-midfielder/",
-      "source": "Anfieldwatch.co.uk",
-      "publishedAt": "2026-06-08T15:05:00Z",
-      "league": "Serie A"
+      "title": "Alisson and Ederson join Brazilian keepers picked for three World Cups",
+      "description": "Alisson and Ederson have joined the list of players called up for three World CupsCredits: Rafael Ribeiro/CBFAlisson and Ederson have joined the list of Brazilian goalkeepers called up to three World ...",
+      "url": "https://onefootball.com/en/news/alisson-and-ederson-join-brazilian-keepers-picked-for-three-world-cups-42983258",
+      "source": "Onefootball.com",
+      "publishedAt": "2026-06-08T23:18:00Z",
+      "league": "World Cup"
     }
   ],
-  "generatedAt": "2026-06-09T20:02:17.547Z"
+  "generatedAt": "2026-06-10T00:07:24.387Z"
 }
