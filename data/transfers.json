@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Man United confirm Jadon Sancho’s exit a",
+      "player": "Everton told to pay Burnley £35m over PS",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Peoples Person",
-      "url": "https://thepeoplesperson.com/2026/06/10/man-united-confirm-jadon-sanchos-exit-as-clubs-retained-list-is-released-311313/",
-      "publishedAt": "2026-06-10T10:10:00Z"
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cqx1wqr3yjno?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "publishedAt": "2026-06-10T14:52:25Z"
     },
     {
-      "player": "Manchester City hold belief on Josko Gva",
+      "player": "Sebastian Kehl will not join Tottenham H",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Cityxtra.co.uk",
-      "url": "https://cityxtra.co.uk/48087/manchester-city-hold-belief-on-josko-gvardiol-future-as-summer-transfer-saga-intensifies/",
-      "publishedAt": "2026-06-10T10:05:00Z"
-    },
-    {
-      "player": "Real Madrid",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Madriduniversal.com",
-      "url": "https://madriduniversal.com/real-madrid-bound-midfielder-prefers-another-season-at-current-club-romano/",
-      "publishedAt": "2026-06-10T07:40:00Z"
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/sebastian-kehl-tottenham-talks-collapse/",
+      "publishedAt": "2026-06-10T14:41:02Z"
     }
   ],
-  "generatedAt": "2026-06-11T10:15:09.680Z",
+  "generatedAt": "2026-06-11T15:47:57.490Z",
   "note": "Transfers derived from news headlines at launch."
 }
