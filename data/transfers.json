@@ -1,5 +1,36 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-11T00:11:49.084Z",
+  "transfers": [
+    {
+      "player": "Man United confirm Jadon Sancho’s exit a",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Peoples Person",
+      "url": "https://thepeoplesperson.com/2026/06/10/man-united-confirm-jadon-sanchos-exit-as-clubs-retained-list-is-released-311313/",
+      "publishedAt": "2026-06-10T10:10:00Z"
+    },
+    {
+      "player": "Manchester City hold belief on Josko Gva",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Cityxtra.co.uk",
+      "url": "https://cityxtra.co.uk/48087/manchester-city-hold-belief-on-josko-gvardiol-future-as-summer-transfer-saga-intensifies/",
+      "publishedAt": "2026-06-10T10:05:00Z"
+    },
+    {
+      "player": "Real Madrid",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Madriduniversal.com",
+      "url": "https://madriduniversal.com/real-madrid-bound-midfielder-prefers-another-season-at-current-club-romano/",
+      "publishedAt": "2026-06-10T07:40:00Z"
+    }
+  ],
+  "generatedAt": "2026-06-11T10:15:09.680Z",
   "note": "Transfers derived from news headlines at launch."
 }
