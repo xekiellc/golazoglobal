@@ -1,27 +1,75 @@
 {
   "articles": [
     {
-      "title": "Three red cards - are referees getting tough at this World Cup?",
-      "description": "Three players were sent off in the World Cup opener as Mexico beat South Africa 2-0. Are we about to see a World Cup littered with red cards?",
-      "url": "https://www.bbc.com/sport/football/articles/cjwglq2gzd6o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-06-11T23:13:25Z",
+      "title": "Julian Nagelsmann: The coach struggling to speak to Germany",
+      "description": "Considered German football's X factor during Euro 2024, Julian Nagelsmann enters the 2026 World Cup with more questions than optimism.",
+      "url": "https://www.dw.com/en/julian-nagelsmann-the-coach-struggling-to-speak-to-germany/a-77209578",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-12T08:31:00Z",
       "league": "Premier League"
     },
     {
-      "title": "Angry Kieran Trippier considers CANCELLING his Wolves contract with defender feeling 'betrayed' by Rob Edwards' sacking - while dismayed stars have contacted axed boss following his shocking exit",
-      "description": "The 35-year-old is angry and feels betrayed by Wolves. Edwards being in charge was key to his decision to join the club last week. Trippier cut short a holiday in Turkey to have a medical and sign.",
-      "url": "https://www.dailymail.com/sport/football/article-15893743/AKieran-Trippier-CANCELLING-Wolves-contract.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-11T23:11:01Z",
+      "title": "Eredivisie players at the 2026 World Cup: Strikers",
+      "description": "The 2026 World Cup has kicked off, with the Netherlands not starting their campaign until the weekend against Japan. However, plenty of Eredivisie players are set to be in action. We’ve looked at th...",
+      "url": "https://getfootballnewsbene.com/eredivisie-players-at-the-2026-world-cup-strikers/",
+      "source": "Getfootballnewsbene.com",
+      "publishedAt": "2026-06-12T08:05:00Z",
       "league": "Premier League"
     },
     {
-      "title": "Nico Paz sends surprise transfer message to Real Madrid",
-      "description": "Como star Nico Paz has this week left those behind the scenes at La Liga giants Real Madrid in a collective state of surprise.This comes after the Argentine informed his former employers of his plan t...",
-      "url": "https://getfootballnewsspain.com/nico-paz-sends-surprise-transfer-message-to-real-madrid/",
-      "source": "Getfootballnewsspain.com",
-      "publishedAt": "2026-06-11T21:35:00Z",
+      "title": "Sweden strike force faces tough Tunisia test in World Cup opener",
+      "description": "June 12 : Sweden boast a formidable strike partnership in Alexander Isak and Viktor Gyokeres, but the two will have their work cut out in their opening World Cup Group F game on Sunday when they take on a Tunisia side that didn't concede a goal in qualifying.…",
+      "url": "https://www.channelnewsasia.com/sport/sweden-strike-force-faces-tough-tunisia-test-in-world-cup-opener-6178891",
+      "source": "CNA",
+      "publishedAt": "2026-06-12T08:04:55Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Viktor Gyokeres: Sweden's star man",
+      "description": "Swedish journalist Johanna Frändén on the impact our number 14 has made at home",
+      "url": "http://www.arsenal.com/news/viktor-gyokeres-swedens-star-man",
+      "source": "Arsenal.com",
+      "publishedAt": "2026-06-12T08:00:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "6 Quebecers are on Canada’s World Cup team. Their families are freaking out — in a good way",
+      "description": "Six players on Canada’s roster for the FIFA World Cup have roots in Quebec. They followed different, winding paths to get to the same spot: on soccer's biggest stage wearing Canada’s colours. As they focus on the job ahead of them, friends and families who he…",
+      "url": "https://www.cbc.ca/news/canada/montreal/world-cup-fifa-quebec-players-canada-9.7232509",
+      "source": "CBC News",
+      "publishedAt": "2026-06-12T08:00:00Z",
+      "league": "Premier League"
+    },
+    {
+      "title": "Spain rising superstar Lamine Yamal takes hilarious Walmart trip ahead of World Cup",
+      "description": "Spain rising superstar Lamine Yamal is saving money and living better. Lamal revealed a series of photos on Instagram on Thursday documenting his journey in the United States. Spain is preparing to kick off the 2026 World Cup at Mercedes-Benz Stadium in Atlan…",
+      "url": "https://nypost.com/2026/06/11/sports/spain-rising-superstar-lamine-yamal-takes-hilarious-photo-at-walmart/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-12T00:03:29Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "WORLD CUP THREAD – 24hrs: 12 Jun. 2026",
+      "description": "Another Juninho Edition of the Daily Merengue",
+      "url": "https://www.managingmadrid.com/general/108842/world-cup-thread-24hrs-12-jun-2026",
+      "source": "Managing Madrid",
+      "publishedAt": "2026-06-11T23:00:00Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Two former Revolution play each other in Canada vs. Bosnia match",
+      "description": "“It’s cool seeing these moments for these guys who we shared a locker room with for a couple years.”",
+      "url": "https://sports.yahoo.com/articles/two-former-revolution-play-other-212035918.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-11T21:20:35Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "After Last Year's Scuffle, USA's Alex Freeman Wants To Keep It Cool Vs. Paraguay",
+      "description": "USA defender Alex Freeman knows that the team will need to stay calm against Paraguay.",
+      "url": "https://www.foxsports.com/stories/soccer/alex-freeman-usmnt-paraguay-world-cup",
+      "source": "Fox Sports",
+      "publishedAt": "2026-06-11T20:56:29Z",
       "league": "La Liga"
     },
     {
@@ -41,83 +89,59 @@
       "league": "La Liga"
     },
     {
-      "title": "Real Madrid announces José Mourinho's return after 13-years with start date confirmed",
-      "description": "Real Madrid has at long last confirmed that José Mourinho will return to the Spanish capital as head coach, replacing Álvaro Arbeloa, whose exit was announced on Tuesday",
-      "url": "https://www.alloutsoccer.com/news/real-madrid-jose-mourinho-announcement-1882031",
-      "source": "Alloutsoccer.com",
-      "publishedAt": "2026-06-11T19:13:08Z",
+      "title": "Lamine Yamal back in Spain training as careful 2026 World Cup comeback plan emerges",
+      "description": "Spain enters the tournament among the favorites to lift the trophy, but much of the spotlight has centered on the teenage sensation after weeks of uncertainty surrounding his recovery from injury. The 2026 World Cup is underway, and few stories have attracted…",
+      "url": "https://worldsoccertalk.com/world-cup/lamine-yamal-back-in-spain-training-as-careful-2026-world-cup-comeback-plan-emerges/",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-06-11T19:13:28Z",
       "league": "La Liga"
     },
     {
-      "title": "Real Madrid reappoint Jose Mourinho on three-year deal",
-      "description": "Real Madrid have confirmed the re-appointment of Jose Mourinho as head coach.",
-      "url": "https://www.bbc.com/sport/football/articles/cvg4ne1pv4jo",
+      "title": "Australia Socceroors Names 26-Man Squad for 2026 World Cup with Blend of Youth and Experience",
+      "description": "Australia reveals its 26-man squad for the 2026 FIFA World Cup, featuring a mix of seasoned veterans and promising young talents, as they prepare for challenging Group D matches.",
+      "url": "https://www.ibtimes.com.au/australia-2026-world-cup-squad-announcement-1870534",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-06-12T08:27:20Z",
+      "league": "Serie A"
+    },
+    {
+      "title": "Dzeko's last dance could be Bosnia's new beginning",
+      "description": "As Edin Dzeko enters the final stage of his career, BBC Sport tells the story of an underappreciated player who survived war to make history for Bosnia-Herzegovina.",
+      "url": "https://www.bbc.com/sport/football/articles/c9d3vexqg2do?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
       "source": "BBC News",
-      "publishedAt": "2026-06-11T19:11:19Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "From Italy: Enzo Maresca gives green light for right-back signing ahead of Man City appointment",
-      "description": "Man City ready to make an offer for Atalanta right-back Marco Palestra; Maresca keen on signingAtalanta holding out for €50M in a straight cash deal after rejecting Inter Milan’s opening bidNext w...",
-      "url": "https://cityxtra.co.uk/48169/from-italy-enzo-maresca-gives-green-light-for-right-back-signing-ahead-of-man-city-appointment/",
-      "source": "Cityxtra.co.uk",
-      "publishedAt": "2026-06-11T18:20:00Z",
+      "publishedAt": "2026-06-12T07:21:39Z",
       "league": "Serie A"
     },
     {
-      "title": "Juventus appoints Giovanni Carnevali as new CEO, replacing Damien Comolli",
-      "description": "Carnevali's appointment may influence Juventus' strategic direction, impacting investor confidence and the club's digital and crypto ventures.\nThe post Juventus appoints Giovanni Carnevali as new CEO, replacing Damien Comolli appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/juventus-carnevali-new-ceo-replaces-comolli/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-11T16:21:13Z",
+      "title": "A Letter to the Children of Bosnia",
+      "description": "Edin Džeko pens a letter to the children of Bosnia: “I grew up with war. Suddenly, I was living a fairy tale. Nothing is ever impossible.  Not even taking Bosnia to the World Cup.”",
+      "url": "https://www.theplayerstribune.com/edin-dzeko-bosnia-herzegovina-bundesliga-schalke-04-soccer",
+      "source": "The Players' Tribune",
+      "publishedAt": "2026-06-11T17:53:55Z",
       "league": "Serie A"
     },
     {
-      "title": "Report: Premier League interest in Thuram as Juventus prepared to entertain large offers",
-      "description": "Khephren Thuram has attracted exploratory interest from a pair of Premier League clubs, with Juventus prepared to consider selling the French midfielder for a",
-      "url": "https://football-italia.net/report-premier-league-interest-thuram-juventus/",
-      "source": "Football Italia",
-      "publishedAt": "2026-06-11T15:58:04Z",
+      "title": "All 48 World Cup managers ranked: From a boss who has NEVER won a trophy to five-time Champions League winner 'Don Carlo' - and the 78-year-old who led Curacao to the big stage, here's Daily Mail Sport's verdict",
+      "description": "Anticipation has reached fever pitch, with the 2026 World Cup less than two hours away from kicking off at the iconic Estadio Azteca in Mexico City.",
+      "url": "https://www.dailymail.com/sport/football/article-15891183/world-cup-managers-ranked.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-11T17:49:19Z",
       "league": "Serie A"
     },
     {
-      "title": "Juventus and Real Madrid in talks over Mastantuono loan as summer axis between clubs heats up",
-      "description": "Real Madrid have proposed Franco Mastantuono to Juventus on a straight loan deal as the two clubs continue to negotiate on multiple fronts this summer, with",
-      "url": "https://football-italia.net/juventus-and-real-madrid-mastantuono/",
-      "source": "Football Italia",
-      "publishedAt": "2026-06-11T14:49:06Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Freiburg signs Japan forward Keisuke Goto from Belgian club Anderlecht",
-      "description": "Europa League finalist Freiburg is adding to its Japanese contingent by signing Japan forward Keisuke Goto from Belgian club Anderlecht. The Bundesliga club said on Thursday that the 21-year-old Goto — who is in Japan’s World Cup squad — joined in a straight …",
-      "url": "https://japantoday.com/category/sports/freiburg-signs-japan-forward-keisuke-goto-from-belgian-club-anderlecht",
-      "source": "Japan Today",
-      "publishedAt": "2026-06-11T21:49:36Z",
+      "title": "World Cup: South Korea beat returnee Czechia as six Bundesliga players feature",
+      "description": "South Korea came from behind to beat Czechia 2-1 in the second game of the 2026 World Cup. After a slow start to the game, the last thirty minutes had end-to-end action between evenly-matched teams.Si...",
+      "url": "https://bulinews.com/world-cup-south-korea-beat-returnee-czechia-six-bundesliga-players-feature",
+      "source": "Bulinews.com",
+      "publishedAt": "2026-06-12T04:08:00Z",
       "league": "Bundesliga"
     },
     {
-      "title": "Wataru Endo confirms international retirement after injury rules him out of 2026 World Cup",
-      "description": "Endo's retirement leaves Japan's midfield vulnerable, potentially impacting their World Cup performance and future team dynamics.\nThe post Wataru Endo confirms international retirement after injury rules him out of 2026 World Cup appeared first on Crypto Brie…",
-      "url": "https://cryptobriefing.com/wataru-endo-retirement-world-cup-injury/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-11T19:34:31Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Atlético Madrid shows interest in Borussia Dortmund striker Serhou Guirassy",
-      "description": "Guirassy's potential move could reshape Atltico's attacking dynamics, intensifying competition among top clubs for elite strikers this summer.\nThe post Atlético Madrid shows interest in Borussia Dortmund striker Serhou Guirassy appeared first on Crypto Briefi…",
-      "url": "https://cryptobriefing.com/atletico-madrid-interest-serhou-guirassy/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-11T18:20:15Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Wataru Endo ruled out of 2026 World Cup due to ankle injury, Shuto Machino called up as replacement",
-      "description": "Japan's World Cup strategy faces challenges as they adapt to Endo's absence, potentially impacting team dynamics and performance.\nThe post Wataru Endo ruled out of 2026 World Cup due to ankle injury, Shuto Machino called up as replacement appeared first on Cr…",
-      "url": "https://cryptobriefing.com/wataru-endo-world-cup-injury-replacement/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-11T17:59:32Z",
+      "title": "South Korea 2-1 Czechia: Tigers of Asia come from behind in Guadalajara",
+      "description": "Goals from Hwang In-beom and Oh Hyeon-gyu saw South Korea come from behind to claim a 2-1 win against Czechia in their opening Group A match at the 2026 FIFA World Cup.South Korea were arguably the be...",
+      "url": "https://wp.fromthespot.co.uk/29659/south-korea-2-1-czechia-tigers-of-asia-come-from-behind-in-guadalajara/",
+      "source": "Fromthespot.co.uk",
+      "publishedAt": "2026-06-12T04:00:00Z",
       "league": "Bundesliga"
     },
     {
@@ -129,69 +153,13 @@
       "league": "Ligue 1"
     },
     {
-      "title": "Julien Duranville set to join Olympique Lyon from Borussia Dortmund for €9M",
-      "description": "The transfer highlights the volatility in young player valuations, impacting clubs' strategies in nurturing and investing in emerging talents.\nThe post Julien Duranville set to join Olympique Lyon from Borussia Dortmund for €9M appeared first on Crypto Briefi…",
-      "url": "https://cryptobriefing.com/duranville-lyon-transfer-dortmund/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-11T17:06:29Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Julien Duranville nearing Dortmund exit in favour of Lyon",
-      "description": "Sky Germany understands that Julien Duranville is set to transfer to Olympique Lyon from Borussia Dortmund.The Belgian has agreed to the move and is keen on joining Lyon after an agreement in principl...",
-      "url": "https://bulinews.com/julien-duranville-nearing-dortmund-exit-favour-lyon",
-      "source": "Bulinews.com",
-      "publishedAt": "2026-06-11T16:20:00Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "Bayern defender Davies to miss Canada's World Cup opener",
-      "description": "Bayern Munich defender Alphonso Davies won't be available to World Cup co-hosts Canada for their tournament opener against Bosnia and Herzegovina on Friday. Coach Jesse Marsch said in a news conference on Thursday that the player is not yet fully recovered fr…",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260612-99-708177/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-06-12T00:12:47Z",
-      "league": "Champions League"
-    },
-    {
       "title": "Mourinho back as Madrid boss after president Perez re-elected",
       "description": "Jose Mourinho has been confirmed as Real Madrid’s new manager after 13 years away following the re-election of president Florentino Perez. Perez confirmed the Portuguese’s expected return in his speech after seeing off the challenge of Enrique Riquelme at the…",
       "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260611-99-706060/",
       "source": "Dpa-international.com",
       "publishedAt": "2026-06-11T19:11:17Z",
       "league": "Primeira Liga"
-    },
-    {
-      "title": "Wolverhampton Wanderers sack Rob Edwards, appoint Cesar Peixoto as head coach",
-      "description": "Wolves' coaching change underscores their reliance on Portuguese connections to regain Premier League status, reflecting strategic continuity.\nThe post Wolverhampton Wanderers sack Rob Edwards, appoint Cesar Peixoto as head coach appeared first on Crypto Brie…",
-      "url": "https://cryptobriefing.com/wolves-sack-edwards-appoint-peixoto/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-11T06:39:02Z",
-      "league": "Primeira Liga"
-    },
-    {
-      "title": "Wolves agree deal in principle to appoint Cesar Peixoto as new head coach",
-      "description": "Wolverhampton Wanderers have reached an agreement in principle to appoint Cesar Peixoto as their new head coach, per Fabrizio Romano.Wolves and the 46-year-old reached a verbal agreement, with the Mol...",
-      "url": "https://sportsview.co.uk/2026/06/wolves-agree-deal-in-principle-to-appoint-cesar-peixoto-as-new-head-coach?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wolves-agree-deal-in-principle-to-appoint-cesar-peixoto-as-new-head-coach",
-      "source": "Sportsview.co.uk",
-      "publishedAt": "2026-06-11T06:25:00Z",
-      "league": "Primeira Liga"
-    },
-    {
-      "title": "The inside story of Rob Edwards sacking by Wolves: The club power shift that did for him, why chiefs let him play a part in summer transfers, the awful way he found out and why super agent Jorge Mendes was key",
-      "description": "Whenever Wolves change their manager or have a backroom reshuffle, the message is frequently the same: we will not be relying so heavily on Jorge Mendes.",
-      "url": "https://www.dailymail.com/sport/football/article-15891907/Rob-Edwards-Wolves-Jorge-Mendes.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-11T12:50:07Z",
-      "league": "Championship"
-    },
-    {
-      "title": "Wolves sack manager Edwards after relegation from Premier League",
-      "description": "June 11 : Wolverhampton Wanderers have sacked manager Rob Edwards following their relegation from the Premier League this season, the Midlands club said on Thursday.Wolves appointed the Welshman on a three-and-a-half-year contract in November, hiring him from…",
-      "url": "https://www.channelnewsasia.com/sport/wolves-sack-manager-edwards-after-relegation-premier-league-6176681",
-      "source": "CNA",
-      "publishedAt": "2026-06-11T10:36:42Z",
-      "league": "Championship"
     }
   ],
-  "generatedAt": "2026-06-13T00:16:57.285Z"
+  "generatedAt": "2026-06-13T08:51:39.757Z"
 }
