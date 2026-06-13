@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "WC",
+      "homeTeam": "Qatar",
+      "awayTeam": "Switzerland",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-06-13T19:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "Korea Republic",
       "awayTeam": "Czechia",
       "homeScore": 2,
@@ -29,15 +38,6 @@
     },
     {
       "league": "WC",
-      "homeTeam": "Qatar",
-      "awayTeam": "Switzerland",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-06-13T19:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Brazil",
       "awayTeam": "Morocco",
       "homeScore": null,
@@ -46,5 +46,5 @@
       "utcDate": "2026-06-13T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-13T13:50:40.480Z"
+  "generatedAt": "2026-06-13T19:19:01.597Z"
 }
