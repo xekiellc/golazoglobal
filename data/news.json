@@ -1,20 +1,28 @@
 {
   "articles": [
     {
-      "title": "Real Madrid reappoint Jose Mourinho on three-year deal",
-      "description": "Real Madrid have confirmed the re-appointment of Jose Mourinho as head coach.",
-      "url": "https://www.bbc.com/sport/football/articles/cvg4ne1pv4jo",
+      "title": "Three red cards - are referees getting tough at this World Cup?",
+      "description": "Three players were sent off in the World Cup opener as Mexico beat South Africa 2-0. Are we about to see a World Cup littered with red cards?",
+      "url": "https://www.bbc.com/sport/football/articles/cjwglq2gzd6o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
       "source": "BBC News",
-      "publishedAt": "2026-06-11T19:11:19Z",
+      "publishedAt": "2026-06-11T23:13:25Z",
       "league": "Premier League"
     },
     {
-      "title": "Mourinho back as Madrid boss after president Perez re-elected",
-      "description": "Jose Mourinho has been confirmed as Real Madrid’s new manager after 13 years away following the re-election of president Florentino Perez. Perez confirmed the Portuguese’s expected return in his speech after seeing off the challenge of Enrique Riquelme at the…",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260611-99-706060/",
-      "source": "Dpa-international.com",
-      "publishedAt": "2026-06-11T19:11:17Z",
+      "title": "Angry Kieran Trippier considers CANCELLING his Wolves contract with defender feeling 'betrayed' by Rob Edwards' sacking - while dismayed stars have contacted axed boss following his shocking exit",
+      "description": "The 35-year-old is angry and feels betrayed by Wolves. Edwards being in charge was key to his decision to join the club last week. Trippier cut short a holiday in Turkey to have a medical and sign.",
+      "url": "https://www.dailymail.com/sport/football/article-15893743/AKieran-Trippier-CANCELLING-Wolves-contract.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-11T23:11:01Z",
       "league": "Premier League"
+    },
+    {
+      "title": "Nico Paz sends surprise transfer message to Real Madrid",
+      "description": "Como star Nico Paz has this week left those behind the scenes at La Liga giants Real Madrid in a collective state of surprise.This comes after the Argentine informed his former employers of his plan t...",
+      "url": "https://getfootballnewsspain.com/nico-paz-sends-surprise-transfer-message-to-real-madrid/",
+      "source": "Getfootballnewsspain.com",
+      "publishedAt": "2026-06-11T21:35:00Z",
+      "league": "La Liga"
     },
     {
       "title": "Official: Real Madrid appoint Mourinho; deal for Inter’s Dumfries expected to follow",
@@ -22,6 +30,14 @@
       "url": "https://football-italia.net/official-real-madrid-appoint-mourinho-dumfries/",
       "source": "Football Italia",
       "publishedAt": "2026-06-11T19:35:33Z",
+      "league": "La Liga"
+    },
+    {
+      "title": "Martin O’Neill hungry for more success at Celtic after being confirmed as manager",
+      "description": "74-year-old signs one-year contract with one-year option and says he is aiming to win more trophies",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/06/11/martin-oneill-hungry-for-more-success-at-celtic-after-being-confirmed-as-manager/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-11T19:18:05Z",
       "league": "La Liga"
     },
     {
@@ -33,76 +49,52 @@
       "league": "La Liga"
     },
     {
-      "title": "Jose Mourinho named Real Madrid coach on three-year deal",
-      "description": "Mourinho returns to La Liga giants after 13 years following Florentino Perez's re-election as club president.",
-      "url": "https://www.aljazeera.com/sports/2026/6/11/jose-mourinho-named-real-madrid-coach-on-three-year-deal",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-11T19:09:37Z",
+      "title": "Real Madrid reappoint Jose Mourinho on three-year deal",
+      "description": "Real Madrid have confirmed the re-appointment of Jose Mourinho as head coach.",
+      "url": "https://www.bbc.com/sport/football/articles/cvg4ne1pv4jo",
+      "source": "BBC News",
+      "publishedAt": "2026-06-11T19:11:19Z",
       "league": "La Liga"
     },
     {
-      "title": "Official: Real Madrid name new manager",
-      "description": "La Liga giants Real Madrid have on Thursday announced the club’s new first-team head coach.The tactician set to take up the reins at the Santiago Bernabéu for the seasons to come? José Mourinho.Th...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ecfdef1e-8861-4d6b-a12d-f05d73f17065",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-11T19:05:00Z",
-      "league": "La Liga"
+      "title": "From Italy: Enzo Maresca gives green light for right-back signing ahead of Man City appointment",
+      "description": "Man City ready to make an offer for Atalanta right-back Marco Palestra; Maresca keen on signingAtalanta holding out for €50M in a straight cash deal after rejecting Inter Milan’s opening bidNext w...",
+      "url": "https://cityxtra.co.uk/48169/from-italy-enzo-maresca-gives-green-light-for-right-back-signing-ahead-of-man-city-appointment/",
+      "source": "Cityxtra.co.uk",
+      "publishedAt": "2026-06-11T18:20:00Z",
+      "league": "Serie A"
     },
     {
-      "title": "Mourinho returns to Real Madrid on three-year deal",
-      "description": "Ollie Whitmore, Chief football news reporterJosé Mourinho has been confirmed as Real Madrid’s new manager, returning 13 years on from his last spell in charge of Los Blancos.The 63-year-old has sig...",
-      "url": "https://wp.fromthespot.co.uk/29607/mourinho-returns-to-real-madrid-on-three-year-deal/",
-      "source": "Fromthespot.co.uk",
-      "publishedAt": "2026-06-11T19:05:00Z",
-      "league": "La Liga"
+      "title": "Juventus appoints Giovanni Carnevali as new CEO, replacing Damien Comolli",
+      "description": "Carnevali's appointment may influence Juventus' strategic direction, impacting investor confidence and the club's digital and crypto ventures.\nThe post Juventus appoints Giovanni Carnevali as new CEO, replacing Damien Comolli appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/juventus-carnevali-new-ceo-replaces-comolli/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-11T16:21:13Z",
+      "league": "Serie A"
     },
     {
-      "title": "Official: Real Madrid announce Jose Mourinho as new manager on a three-year contract",
-      "description": "Following Florentino Perez being proclaimed as the club president again after the elections, Real Madrid have now officially announced the return of Jose Mourinho as the new first-team manager.“The ...",
-      "url": "https://madriduniversal.com/official-real-madrid-announce-jose-mourinho-as-new-manager-on-a-three-year-contract/",
-      "source": "Madriduniversal.com",
-      "publishedAt": "2026-06-11T18:40:00Z",
-      "league": "La Liga"
+      "title": "Report: Premier League interest in Thuram as Juventus prepared to entertain large offers",
+      "description": "Khephren Thuram has attracted exploratory interest from a pair of Premier League clubs, with Juventus prepared to consider selling the French midfielder for a",
+      "url": "https://football-italia.net/report-premier-league-interest-thuram-juventus/",
+      "source": "Football Italia",
+      "publishedAt": "2026-06-11T15:58:04Z",
+      "league": "Serie A"
     },
     {
-      "title": "Mourinho's Real Madrid return confirmed",
-      "description": "Real Madrid have confirmed the appointment of Jose Mourinho on a three-year deal.",
-      "url": "https://www.rte.ie/sport/soccer/2026/0611/1578010-mourinhos-real-madrid-return-confirmed/",
-      "source": "RTE",
-      "publishedAt": "2026-06-11T18:35:50Z",
-      "league": "La Liga"
+      "title": "Juventus and Real Madrid in talks over Mastantuono loan as summer axis between clubs heats up",
+      "description": "Real Madrid have proposed Franco Mastantuono to Juventus on a straight loan deal as the two clubs continue to negotiate on multiple fronts this summer, with",
+      "url": "https://football-italia.net/juventus-and-real-madrid-mastantuono/",
+      "source": "Football Italia",
+      "publishedAt": "2026-06-11T14:49:06Z",
+      "league": "Serie A"
     },
     {
-      "title": "Real Madrid Officially Announces Mourinho As New Head Coach",
-      "description": "Real Madrid has officially announced Jose Mourinho as its new head coach through a communicado released on Thursday evening in Spain.",
-      "url": "https://www.forbes.com/sites/tomsanderson/2026/06/11/real-madrid-officially-announces-mourinho-as-new-head-coach/",
-      "source": "Forbes",
-      "publishedAt": "2026-06-11T18:35:22Z",
-      "league": "La Liga"
-    },
-    {
-      "title": "Mourinho returns! Real Madrid confirm Jose's re-appointment",
-      "description": "Real Madrid have confirmed the re-appointment of Jose Mourinho as first team coach.",
-      "url": "https://www.skysports.com/football/news/11835/13553162/jose-mourinho-to-real-madrid-former-chelsea-and-man-utd-boss-bernabeu-return-confirmed-by-spanish-giants",
-      "source": "Sky Sports",
-      "publishedAt": "2026-06-11T18:55:00Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "'I'm Ready.' U.S. Soccer's Male Player of the Year Refuses to Miss Another World Cup",
-      "description": "An injury kept Chris Richards from the 2022 tournament",
-      "url": "https://time.com/article/2026/06/11/chris-richards-usmnt-soccer-world-cup-injury/",
-      "source": "Time",
-      "publishedAt": "2026-06-11T19:09:06Z",
-      "league": "Premier League"
-    },
-    {
-      "title": "Lamine Yamal back in Spain training as careful 2026 World Cup comeback plan emerges",
-      "description": "Spain enters the tournament among the favorites to lift the trophy, but much of the spotlight has centered on the teenage sensation after weeks of uncertainty surrounding his recovery from injury. The 2026 World Cup is underway, and few stories have attracted…",
-      "url": "https://worldsoccertalk.com/world-cup/lamine-yamal-back-in-spain-training-as-careful-2026-world-cup-comeback-plan-emerges/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-06-11T19:13:28Z",
-      "league": "La Liga"
+      "title": "Freiburg signs Japan forward Keisuke Goto from Belgian club Anderlecht",
+      "description": "Europa League finalist Freiburg is adding to its Japanese contingent by signing Japan forward Keisuke Goto from Belgian club Anderlecht. The Bundesliga club said on Thursday that the 21-year-old Goto — who is in Japan’s World Cup squad — joined in a straight …",
+      "url": "https://japantoday.com/category/sports/freiburg-signs-japan-forward-keisuke-goto-from-belgian-club-anderlecht",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-11T21:49:36Z",
+      "league": "Bundesliga"
     },
     {
       "title": "Wataru Endo confirms international retirement after injury rules him out of 2026 World Cup",
@@ -110,6 +102,14 @@
       "url": "https://cryptobriefing.com/wataru-endo-retirement-world-cup-injury/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-06-11T19:34:31Z",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Atlético Madrid shows interest in Borussia Dortmund striker Serhou Guirassy",
+      "description": "Guirassy's potential move could reshape Atltico's attacking dynamics, intensifying competition among top clubs for elite strikers this summer.\nThe post Atlético Madrid shows interest in Borussia Dortmund striker Serhou Guirassy appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/atletico-madrid-interest-serhou-guirassy/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-11T18:20:15Z",
       "league": "Bundesliga"
     },
     {
@@ -121,28 +121,44 @@
       "league": "Bundesliga"
     },
     {
-      "title": "Harry Kane’s false nine masterclass fuels Bayern Munich’s domestic double",
-      "description": "Kane's success as a false nine at Bayern could redefine striker roles, influencing tactical strategies in European football and England's World Cup bid.\nThe post Harry Kane’s false nine masterclass fuels Bayern Munich’s domestic double appeared first on Crypt…",
-      "url": "https://cryptobriefing.com/harry-kane-false-nine-bayern-munich/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-11T17:09:36Z",
-      "league": "Bundesliga"
+      "title": "Mexico outclass South Africa in World Cup opener at Estadio Azteca",
+      "description": "After several weeks of off-field controversies, from visa denials to unconvincing press conferences, the 2026 World Cup kicked off on Thursday with a convincing win for co-hosts Mexico over South Afri...",
+      "url": "https://www.getfootballnewsfrance.com/2026/mexico-outclass-south-africa-in-world-cup-opener-at-estadio-azteca/",
+      "source": "Get French Football News",
+      "publishedAt": "2026-06-11T21:10:00Z",
+      "league": "Ligue 1"
     },
     {
-      "title": "Martin O’Neill hungry for more success at Celtic after being confirmed as manager",
-      "description": "74-year-old signs one-year contract with one-year option and says he is aiming to win more trophies",
-      "url": "https://www.irishtimes.com/sport/soccer/2026/06/11/martin-oneill-hungry-for-more-success-at-celtic-after-being-confirmed-as-manager/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-11T19:18:05Z",
-      "league": "Premier League"
+      "title": "Julien Duranville set to join Olympique Lyon from Borussia Dortmund for €9M",
+      "description": "The transfer highlights the volatility in young player valuations, impacting clubs' strategies in nurturing and investing in emerging talents.\nThe post Julien Duranville set to join Olympique Lyon from Borussia Dortmund for €9M appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/duranville-lyon-transfer-dortmund/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-11T17:06:29Z",
+      "league": "Ligue 1"
     },
     {
-      "title": "Juventus appoints Giovanni Carnevali as new CEO, replacing Damien Comolli",
-      "description": "Carnevali's appointment may influence Juventus' strategic direction, impacting investor confidence and the club's digital and crypto ventures.\nThe post Juventus appoints Giovanni Carnevali as new CEO, replacing Damien Comolli appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/juventus-carnevali-new-ceo-replaces-comolli/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-11T16:21:13Z",
-      "league": "Serie A"
+      "title": "Julien Duranville nearing Dortmund exit in favour of Lyon",
+      "description": "Sky Germany understands that Julien Duranville is set to transfer to Olympique Lyon from Borussia Dortmund.The Belgian has agreed to the move and is keen on joining Lyon after an agreement in principl...",
+      "url": "https://bulinews.com/julien-duranville-nearing-dortmund-exit-favour-lyon",
+      "source": "Bulinews.com",
+      "publishedAt": "2026-06-11T16:20:00Z",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "Bayern defender Davies to miss Canada's World Cup opener",
+      "description": "Bayern Munich defender Alphonso Davies won't be available to World Cup co-hosts Canada for their tournament opener against Bosnia and Herzegovina on Friday. Coach Jesse Marsch said in a news conference on Thursday that the player is not yet fully recovered fr…",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260612-99-708177/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-06-12T00:12:47Z",
+      "league": "Champions League"
+    },
+    {
+      "title": "Mourinho back as Madrid boss after president Perez re-elected",
+      "description": "Jose Mourinho has been confirmed as Real Madrid’s new manager after 13 years away following the re-election of president Florentino Perez. Perez confirmed the Portuguese’s expected return in his speech after seeing off the challenge of Enrique Riquelme at the…",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260611-99-706060/",
+      "source": "Dpa-international.com",
+      "publishedAt": "2026-06-11T19:11:17Z",
+      "league": "Primeira Liga"
     },
     {
       "title": "Wolverhampton Wanderers sack Rob Edwards, appoint Cesar Peixoto as head coach",
@@ -161,12 +177,12 @@
       "league": "Primeira Liga"
     },
     {
-      "title": "Wolverhampton Wanderers agree to appoint Cesar Peixoto as head coach",
-      "description": "Wolves' appointment of Peixoto highlights a strategic return to Portuguese influences, aiming to rejuvenate their Championship campaign.\nThe post Wolverhampton Wanderers agree to appoint Cesar Peixoto as head coach appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/wolves-appoint-cesar-peixoto-head-coach/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-10T22:39:51Z",
-      "league": "Primeira Liga"
+      "title": "The inside story of Rob Edwards sacking by Wolves: The club power shift that did for him, why chiefs let him play a part in summer transfers, the awful way he found out and why super agent Jorge Mendes was key",
+      "description": "Whenever Wolves change their manager or have a backroom reshuffle, the message is frequently the same: we will not be relying so heavily on Jorge Mendes.",
+      "url": "https://www.dailymail.com/sport/football/article-15891907/Rob-Edwards-Wolves-Jorge-Mendes.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-11T12:50:07Z",
+      "league": "Championship"
     },
     {
       "title": "Wolves sack manager Edwards after relegation from Premier League",
@@ -175,159 +191,7 @@
       "source": "CNA",
       "publishedAt": "2026-06-11T10:36:42Z",
       "league": "Championship"
-    },
-    {
-      "title": "World Cup: Hannover’s Okon starts for South Africa in opener against Mexico",
-      "description": "Hugo Broos named Hannover’s center-back Ime Okon in South Africa’s starting lineup for the World Cup opener against Mexico. Exactly 16 years after their last meeting in Johannesburg, the two teams...",
-      "url": "https://bulinews.com/world-cup-hannover-okon-starts-for-south-africa-opener-against-mexico",
-      "source": "Bulinews.com",
-      "publishedAt": "2026-06-11T18:09:00Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Mexico vs. South Africa odds, prediction, time: 2026 World Cup picks, best bets from expert on 18-8 roll",
-      "description": "SportsLine's Martin Green reveals his South Africa vs. Mexico best bets for the World Cup 2026 opener on Thursday",
-      "url": "https://www.cbssports.com/soccer/news/mexico-south-africa-odds-prediction-time-2026-world-cup-picks-line-soccer-best-bets/",
-      "source": "CBS Sports",
-      "publishedAt": "2026-06-11T17:33:27Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Canada vs. Bosnia and Herzegovina stream: How to watch FIFA World Cup, odds, prediction, pick, lineups",
-      "description": "Canada go for their first-ever win at the World Cup when they host the Europeans at BMO Field",
-      "url": "https://www.cbssports.com/soccer/news/canada-bosnia-world-cup-2026-preview-predictions-watch-odds/",
-      "source": "CBS Sports",
-      "publishedAt": "2026-06-11T16:41:01Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Mexico scores first goal of 2026 World Cup as crypto sponsors bet big on global audience",
-      "description": "Crypto firms' World Cup sponsorships could boost visibility but face challenges in converting exposure into lasting adoption and growth.\nThe post Mexico scores first goal of 2026 World Cup as crypto sponsors bet big on global audience appeared first on Crypto…",
-      "url": "https://cryptobriefing.com/mexico-world-cup-goal-crypto-sponsors/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-11T19:22:48Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "World Cup rosters 2026: All 48 official national team squads for FIFA men's tournament",
-      "description": "For the first time in World Cup history, 48 teams will convene to contest the tournament, with 26 players called in by each competitor to do battle in the FIFA championship.",
-      "url": "https://www.sportingnews.com/us/soccer/news/world-cup-rosters-2026-list-national-team-squads/9d7ae885a5d800ef6b6a3c52",
-      "source": "Sporting News",
-      "publishedAt": "2026-06-11T13:48:00Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "All 48 World Cup managers ranked: From a boss who has NEVER won a trophy to five-time Champions League winner 'Don Carlo' - and the 78-year-old who led Curacao to the big stage, here's Daily Mail Sport's verdict",
-      "description": "Anticipation has reached fever pitch, with the 2026 World Cup less than two hours away from kicking off at the iconic Estadio Azteca in Mexico City.",
-      "url": "https://www.dailymail.com/sport/football/article-15891183/world-cup-managers-ranked.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-11T17:49:19Z",
-      "league": "Serie A"
-    },
-    {
-      "title": "Who will win the World Cup? How far can Thomas Tuchel take England? And which star is going to bag the Golden Boot? Daily Mail Sport's experts make their predictions",
-      "description": "The wait is almost over so before the first ball of this gigantic World Cup is kicked - it's time for some predictions. Who will win it? And how far can Thomas Tuchel take England?",
-      "url": "https://www.dailymail.com/sport/football/article-15888753/Who-win-World-Cup-Thomas-Tuchel-England-Golden-Boot-predictions.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-11T16:08:02Z",
-      "league": "Bundesliga"
-    },
-    {
-      "title": "Best World Cup managers, ranked: These 2026 bosses have the glossiest resumes",
-      "description": "Some of the most successful managers in soccer will lead their teams in this World Cup.",
-      "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/11/world-cup-2026-managers-ranking/90448979007/",
-      "source": "USA Today",
-      "publishedAt": "2026-06-11T12:30:54Z",
-      "league": "Ligue 1"
-    },
-    {
-      "title": "4 Takeaways From FIFA's Final Pre-World Cup Men's Rankings",
-      "description": "The next FIFA men's rankings arrive the day after the World Cup final. Here are four key takeaways.",
-      "url": "https://www.foxsports.com/stories/soccer/4-takeaways-from-fifas-final-pre-world-cup-mens-rankings",
-      "source": "Fox Sports",
-      "publishedAt": "2026-06-11T18:53:56Z",
-      "league": "Champions League"
-    },
-    {
-      "title": "'One generation away': Why hasn't USMNT established itself yet as a World Cup power?",
-      "description": "The USMNT has made progress since last hosting the World Cup in 1994, but it is still not a serious contender.",
-      "url": "https://www.sportingnews.com/us/soccer/news/why-hasnt-usmnt-established-itself-yet-world-cup-power/fcd5f24db337b78f045e09c7",
-      "source": "Sporting News",
-      "publishedAt": "2026-06-11T13:01:09Z",
-      "league": "Eredivisie"
-    },
-    {
-      "title": "United States World Cup 2026 Odds, Predictions & Best Bets",
-      "description": "The World Cup 2026 is on home soil, the squad is named, and the nation is watching — but can the United States turn home advantage into a genuine deep run, and are the outright odds worth a punt?…...",
-      "url": "https://thecelticstar.com/united-states-world-cup-odds-predictions/",
-      "source": "The Celtic Star",
-      "publishedAt": "2026-06-11T08:50:00Z",
-      "league": "Eredivisie"
-    },
-    {
-      "title": "World Cup 2026 Group E preview: Prediction, odds, full team overviews",
-      "description": "The Post previews Group E ahead of World Cup 2026. Here's what you need to know about Germany, Ivory Coast, Ecuador and Curaçao.",
-      "url": "https://nypost.com/2026/06/10/sports/world-cup-2026-group-e-preview-prediction-odds-full-team-overviews/",
-      "source": "New York Post",
-      "publishedAt": "2026-06-10T14:00:00Z",
-      "league": "Eredivisie"
-    },
-    {
-      "title": "World Cup 2026 Ultimate Guide: Teams, Star Players And Fixtures",
-      "description": "The breakdown of the teams taking part, their path to the tournament and some key names to watch.",
-      "url": "https://www.huffpost.com/entry/2026-fifa-world-cup-fixtures_n_6a2a9de7e4b0a99062fbd1a9",
-      "source": "HuffPost",
-      "publishedAt": "2026-06-11T12:07:05Z",
-      "league": "Championship"
-    },
-    {
-      "title": "World cup games today: Who are playing on Day 1? Kick off time, team-wise match schedule",
-      "description": "World cup today matches: FIFA World Cup 2026 is kicking off on Thursday.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/world-cup-games-today-who-are-playing-on-day-1-kick-off-time-team-wise-match-schedule/articleshow/131657402.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-11T11:17:11Z",
-      "league": "Championship"
-    },
-    {
-      "title": "World Cup 2026: The battle of the stars, the new rules, the predictions & AI the…12th player",
-      "description": "The world’s biggest football celebration returns after 32 years to North America, where everything is…bigger\nThe post World Cup 2026: The battle of the stars, the new rules, the predictions & AI the…12th player appeared first on ProtoThema English.",
-      "url": "https://en.protothema.gr/2026/06/11/world-cup-2026-the-battle-of-the-stars-the-new-rules-the-predictions-ai-the12th-player/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-06-11T06:56:00Z",
-      "league": "Championship"
-    },
-    {
-      "title": "A record number of over 40s are at this World Cup. Here's Why",
-      "description": "A record number of players over 40 will feature at this year's World Cup. So what part does sports science play in keeping the likes of Cristiano Ronaldo on the pitch longer?",
-      "url": "https://www.abc.net.au/news/2026-06-12/world-cup-older-players-impact-ronaldo-messi-dzeko-modric/106765668",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-11T18:50:45Z",
-      "league": "MLS"
-    },
-    {
-      "title": "World Cup 2026 top players to watch from Lionel Messi to Christian Pulisic to Yan Diomande",
-      "description": "Here’s a look at the individuals — from the household names to the stars in waiting — who will own the spotlight at World Cup 2026:",
-      "url": "https://nypost.com/2026/06/11/sports/top-players-to-watch-at-world-cup-2026/",
-      "source": "New York Post",
-      "publishedAt": "2026-06-11T18:00:00Z",
-      "league": "MLS"
-    },
-    {
-      "title": "Everything to know about the US men's team at the 2026 World Cup",
-      "description": "How will the United States men's national soccer team (USMNT) perform at the World Cup?",
-      "url": "https://www.bbc.com/news/articles/cwydg55we5ro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-06-11T13:40:27Z",
-      "league": "MLS"
-    },
-    {
-      "title": "What to watch at FIFA World Cup 2026: Mexico are the real deal as 48-team tournament gets underway",
-      "description": "As the 23rd World Cup kicks off at the Azteca, Javier Aguirre's rejuvenated El Tri look to translate their strong pre-tournament form into a statement win against South Africa",
-      "url": "https://www.cbssports.com/soccer/news/fifa-world-cup-2026-mexico-what-to-watch/",
-      "source": "CBS Sports",
-      "publishedAt": "2026-06-11T13:10:32Z",
-      "league": "MLS"
     }
   ],
-  "generatedAt": "2026-06-12T20:03:13.593Z"
+  "generatedAt": "2026-06-13T00:16:57.285Z"
 }

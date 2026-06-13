@@ -2,31 +2,49 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "Canada",
-      "awayTeam": "Bosnia-H.",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "PAUSED",
-      "utcDate": "2026-06-12T19:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Mexico",
-      "awayTeam": "South Africa",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-06-11T19:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Korea Republic",
       "awayTeam": "Czechia",
       "homeScore": 2,
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-06-12T02:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Canada",
+      "awayTeam": "Bosnia-H.",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-06-12T19:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "USA",
+      "awayTeam": "Paraguay",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-13T01:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Qatar",
+      "awayTeam": "Switzerland",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-13T19:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Brazil",
+      "awayTeam": "Morocco",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-13T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-12T20:04:36.797Z"
+  "generatedAt": "2026-06-13T00:18:20.486Z"
 }
