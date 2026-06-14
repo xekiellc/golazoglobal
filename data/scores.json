@@ -49,9 +49,9 @@
       "league": "WC",
       "homeTeam": "Germany",
       "awayTeam": "Curaçao",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 7,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-06-14T17:00:00Z"
     },
     {
@@ -73,5 +73,5 @@
       "utcDate": "2026-06-14T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-14T13:52:40.763Z"
+  "generatedAt": "2026-06-14T19:19:44.974Z"
 }
