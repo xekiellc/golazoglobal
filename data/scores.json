@@ -2,12 +2,12 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "Spain",
-      "awayTeam": "Cape Verde",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "PAUSED",
-      "utcDate": "2026-06-15T16:00:00Z"
+      "homeTeam": "Belgium",
+      "awayTeam": "Egypt",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-06-15T19:00:00Z"
     },
     {
       "league": "WC",
@@ -65,12 +65,12 @@
     },
     {
       "league": "WC",
-      "homeTeam": "Belgium",
-      "awayTeam": "Egypt",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-06-15T19:00:00Z"
+      "homeTeam": "Spain",
+      "awayTeam": "Cape Verde",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-06-15T16:00:00Z"
     },
     {
       "league": "WC",
@@ -82,5 +82,5 @@
       "utcDate": "2026-06-15T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-15T17:09:03.269Z"
+  "generatedAt": "2026-06-15T20:51:52.039Z"
 }

@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-15T17:07:39.986Z",
+  "transfers": [
+    {
+      "player": "2027 college football wide receivers wor",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Turf Show Times",
+      "url": "https://www.turfshowtimes.com/los-angeles-rams-discussion/141762/2027-college-football-wide-receivers-worth-watching-this-fall",
+      "publishedAt": "2026-06-14T20:39:51Z"
+    }
+  ],
+  "generatedAt": "2026-06-15T20:50:26.896Z",
   "note": "Transfers derived from news headlines at launch."
 }
