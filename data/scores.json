@@ -2,33 +2,6 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "USA",
-      "awayTeam": "Paraguay",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-06-13T01:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Qatar",
-      "awayTeam": "Switzerland",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-06-13T19:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Brazil",
-      "awayTeam": "Morocco",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-06-13T22:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Haiti",
       "awayTeam": "Scotland",
       "homeScore": 0,
@@ -58,9 +31,9 @@
       "league": "WC",
       "homeTeam": "Netherlands",
       "awayTeam": "Japan",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-06-14T20:00:00Z"
     },
     {
@@ -71,7 +44,43 @@
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-06-14T23:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Sweden",
+      "awayTeam": "Tunisia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-15T02:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Spain",
+      "awayTeam": "Cape Verde",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-15T16:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Belgium",
+      "awayTeam": "Egypt",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-15T19:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Saudi Arabia",
+      "awayTeam": "Uruguay",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-15T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-14T19:19:44.974Z"
+  "generatedAt": "2026-06-15T00:05:56.896Z"
 }
