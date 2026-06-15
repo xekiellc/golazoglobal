@@ -338,115 +338,8 @@
       ]
     },
     "FL1": {
-      "scorers": [
-        {
-          "name": "Esteban Lepaul",
-          "team": "Stade Rennais",
-          "goals": 21,
-          "assists": 5,
-          "penalties": 3
-        },
-        {
-          "name": "Joaquín Panichelli",
-          "team": "Strasbourg",
-          "goals": 16,
-          "assists": 1,
-          "penalties": 5
-        },
-        {
-          "name": "Mason Greenwood",
-          "team": "Marseille",
-          "goals": 16,
-          "assists": 8,
-          "penalties": 6
-        },
-        {
-          "name": "Lassine Sinayoko",
-          "team": "Auxerre",
-          "goals": 13,
-          "assists": 4,
-          "penalties": 3
-        },
-        {
-          "name": "Folarin Balogun",
-          "team": "Monaco",
-          "goals": 13,
-          "assists": 3,
-          "penalties": 3
-        },
-        {
-          "name": "Wesley Saïd",
-          "team": "RC Lens",
-          "goals": 12,
-          "assists": 2,
-          "penalties": 1
-        },
-        {
-          "name": "Odsonne Edouard",
-          "team": "RC Lens",
-          "goals": 12,
-          "assists": 3,
-          "penalties": 1
-        },
-        {
-          "name": "Corentin Tolisso",
-          "team": "Olympique Lyon",
-          "goals": 11,
-          "assists": 4,
-          "penalties": 2
-        },
-        {
-          "name": "Florian Thauvin",
-          "team": "RC Lens",
-          "goals": 11,
-          "assists": 6,
-          "penalties": 2
-        },
-        {
-          "name": "Bradley Barcola",
-          "team": "PSG",
-          "goals": 11,
-          "assists": 1,
-          "penalties": 0
-        }
-      ],
-      "topAssists": [
-        {
-          "name": "Mason Greenwood",
-          "team": "Marseille",
-          "goals": 16,
-          "assists": 8,
-          "penalties": 6
-        },
-        {
-          "name": "Florian Thauvin",
-          "team": "RC Lens",
-          "goals": 11,
-          "assists": 6,
-          "penalties": 2
-        },
-        {
-          "name": "Esteban Lepaul",
-          "team": "Stade Rennais",
-          "goals": 21,
-          "assists": 5,
-          "penalties": 3
-        },
-        {
-          "name": "Lassine Sinayoko",
-          "team": "Auxerre",
-          "goals": 13,
-          "assists": 4,
-          "penalties": 3
-        },
-        {
-          "name": "Corentin Tolisso",
-          "team": "Olympique Lyon",
-          "goals": 11,
-          "assists": 4,
-          "penalties": 2
-        }
-      ]
+      "scorers": [],
+      "topAssists": []
     },
     "DED": {
       "scorers": [],
@@ -786,5 +679,5 @@
       ]
     }
   },
-  "generatedAt": "2026-06-15T11:57:53.855Z"
+  "generatedAt": "2026-06-15T17:11:29.443Z"
 }

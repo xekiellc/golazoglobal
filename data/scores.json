@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "WC",
+      "homeTeam": "Spain",
+      "awayTeam": "Cape Verde",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "PAUSED",
+      "utcDate": "2026-06-15T16:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "Haiti",
       "awayTeam": "Scotland",
       "homeScore": 0,
@@ -56,15 +65,6 @@
     },
     {
       "league": "WC",
-      "homeTeam": "Spain",
-      "awayTeam": "Cape Verde",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-06-15T16:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Belgium",
       "awayTeam": "Egypt",
       "homeScore": null,
@@ -82,5 +82,5 @@
       "utcDate": "2026-06-15T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-15T11:55:35.972Z"
+  "generatedAt": "2026-06-15T17:09:03.269Z"
 }
