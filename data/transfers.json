@@ -1,5 +1,36 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-16T00:29:31.142Z",
+  "transfers": [
+    {
+      "player": "Texas A&M enters the 2026 season as 7th ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/06/15/texas-aggies-football-enters-2026-season-as-7th-most-experienced-team-cbs-sports/90552259007/",
+      "publishedAt": "2026-06-15T11:02:36Z"
+    },
+    {
+      "player": "Joshua Jefferson is the type of connecti",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Mavs Moneyball",
+      "url": "https://www.mavsmoneyball.com/mavericks-draft-rumors-news/59558/nba-draft-player-profiles-iowa-state-joshua-jefferson-is-the-type-of-connecting-piece-the-mavericks-need-next-to-cooper-flagg",
+      "publishedAt": "2026-06-15T11:00:00Z"
+    },
+    {
+      "player": "Corn Flakes",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Corn Nation",
+      "url": "https://www.cornnation.com/morningcoffee/97943/corn-flakes-husker-track-field-shines-at-ncaa-championships",
+      "publishedAt": "2026-06-15T11:00:00Z"
+    }
+  ],
+  "generatedAt": "2026-06-16T11:02:49.510Z",
   "note": "Transfers derived from news headlines at launch."
 }

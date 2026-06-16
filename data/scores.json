@@ -40,9 +40,9 @@
       "league": "WC",
       "homeTeam": "Iran",
       "awayTeam": "New Zealand",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-06-16T01:00:00Z"
     },
     {
@@ -64,5 +64,5 @@
       "utcDate": "2026-06-16T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-16T00:30:55.100Z"
+  "generatedAt": "2026-06-16T11:04:13.620Z"
 }
