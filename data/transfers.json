@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Northwest girls basketball dismisses hal",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Daily Advertiser",
-      "url": "https://www.theadvertiser.com/story/sports/high-school/basketball/2026/06/15/northwest-girls-basketball-dismisses-hall-of-fame-coach-vanessa-taylor/90558186007/",
-      "publishedAt": "2026-06-15T16:37:21Z"
-    }
-  ],
-  "generatedAt": "2026-06-16T16:41:06.188Z",
+  "transfers": [],
+  "generatedAt": "2026-06-16T20:44:00.376Z",
   "note": "Transfers derived from news headlines at launch."
 }

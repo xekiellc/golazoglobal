@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "WC",
+      "homeTeam": "France",
+      "awayTeam": "Senegal",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-06-16T19:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "Sweden",
       "awayTeam": "Tunisia",
       "homeScore": 5,
@@ -47,15 +56,6 @@
     },
     {
       "league": "WC",
-      "homeTeam": "France",
-      "awayTeam": "Senegal",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-06-16T19:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Iraq",
       "awayTeam": "Norway",
       "homeScore": null,
@@ -64,5 +64,5 @@
       "utcDate": "2026-06-16T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-16T16:42:31.468Z"
+  "generatedAt": "2026-06-16T20:45:24.336Z"
 }
