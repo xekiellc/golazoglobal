@@ -31,18 +31,18 @@
       "league": "WC",
       "homeTeam": "Argentina",
       "awayTeam": "Algeria",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-06-17T01:00:00Z"
     },
     {
       "league": "WC",
       "homeTeam": "Austria",
       "awayTeam": "Jordan",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-06-17T04:00:00Z"
     },
     {
@@ -73,5 +73,5 @@
       "utcDate": "2026-06-17T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-17T00:14:18.709Z"
+  "generatedAt": "2026-06-17T10:47:29.310Z"
 }
