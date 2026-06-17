@@ -1,26 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Brendan Sorsby enters NFL supplemental d",
+      "player": "NFL supplemental draft",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://coloradobuffaloeswire.usatoday.com/story/sports/college/buffaloes/football/2026/06/16/brendan-sorsby-leaves-texas-tech-nfl-supplemental-draft/90567916007/",
-      "publishedAt": "2026-06-16T10:31:13Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/nfl/article/nfl-supplemental-draft-rules-date-history-notable-players-taken-and-brendan-sorsbys-eligibility-151215015.html",
+      "publishedAt": "2026-06-16T15:12:15Z"
     },
     {
-      "player": "Texas A&M star WR snubbed by On3's Top 1",
+      "player": "Ares Management nears deal to control fi",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/06/16/texas-aggies-football-star-wr-mario-craver-snubbed-by-on3s-top-10-cfb-receiver-rankings/90566175007/",
-      "publishedAt": "2026-06-16T10:30:42Z"
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/ares-management-olympique-lyonnais-takeover/",
+      "publishedAt": "2026-06-16T15:05:10Z"
     }
   ],
-  "generatedAt": "2026-06-17T10:46:06.027Z",
+  "generatedAt": "2026-06-17T15:14:33.828Z",
   "note": "Transfers derived from news headlines at launch."
 }
