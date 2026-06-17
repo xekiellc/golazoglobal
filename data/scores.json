@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "WC",
+      "homeTeam": "England",
+      "awayTeam": "Croatia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-06-17T20:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "Iran",
       "awayTeam": "New Zealand",
       "homeScore": 2,
@@ -49,19 +58,10 @@
       "league": "WC",
       "homeTeam": "Portugal",
       "awayTeam": "Congo DR",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-06-17T17:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "England",
-      "awayTeam": "Croatia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-06-17T20:00:00Z"
     },
     {
       "league": "WC",
@@ -73,5 +73,5 @@
       "utcDate": "2026-06-17T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-17T15:15:57.536Z"
+  "generatedAt": "2026-06-17T20:07:52.401Z"
 }
