@@ -2,15 +2,6 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "Ghana",
-      "awayTeam": "Panama",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-06-17T23:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Argentina",
       "awayTeam": "Algeria",
       "homeScore": 3,
@@ -47,11 +38,20 @@
     },
     {
       "league": "WC",
+      "homeTeam": "Ghana",
+      "awayTeam": "Panama",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-06-17T23:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "Uzbekistan",
       "awayTeam": "Colombia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "FINISHED",
       "utcDate": "2026-06-18T02:00:00Z"
     },
     {
@@ -82,5 +82,5 @@
       "utcDate": "2026-06-18T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-18T00:14:34.204Z"
+  "generatedAt": "2026-06-18T10:15:19.707Z"
 }
