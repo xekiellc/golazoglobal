@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "WC",
+      "homeTeam": "Switzerland",
+      "awayTeam": "Bosnia-H.",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "IN_PLAY",
+      "utcDate": "2026-06-18T19:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "Argentina",
       "awayTeam": "Algeria",
       "homeScore": 3,
@@ -58,19 +67,10 @@
       "league": "WC",
       "homeTeam": "Czechia",
       "awayTeam": "South Africa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-06-18T16:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Switzerland",
-      "awayTeam": "Bosnia-H.",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-06-18T19:00:00Z"
     },
     {
       "league": "WC",
@@ -82,5 +82,5 @@
       "utcDate": "2026-06-18T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-18T14:57:59.717Z"
+  "generatedAt": "2026-06-18T20:19:25.395Z"
 }
