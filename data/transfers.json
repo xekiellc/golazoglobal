@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "CBS Sports names Texas A&M WR one of the",
+      "player": "College football recruiting",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/06/17/texas-aggies-football-mario-craver-named-one-of-the-best-offensive-skill-players/90578145007/",
-      "publishedAt": "2026-06-17T10:04:42Z"
+      "source": "On3.com",
+      "url": "https://www.on3.com/news/college-football-recruiting-teams-with-highest-average-rating-per-commit/",
+      "publishedAt": "2026-06-17T14:54:25Z"
     },
     {
-      "player": "What to know about Wisconsin football in",
+      "player": "College football recruiting",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://nittanylionswire.usatoday.com/story/sports/college/2026/06/17/what-to-know-about-wisconsin-football-in-2026/90419135007/",
-      "publishedAt": "2026-06-17T10:00:46Z"
+      "source": "On3.com",
+      "url": "https://www.on3.com/rivals/news/college-football-recruiting-teams-with-highest-average-rating-per-commit/",
+      "publishedAt": "2026-06-17T14:50:55Z"
+    },
+    {
+      "player": "Cruzeiro line up sale of loaned",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Onefootball.com",
+      "url": "https://onefootball.com/en/news/cruzeiro-line-up-sale-of-loaned-out-player-santos-watch-closely-43021571",
+      "publishedAt": "2026-06-17T14:42:00Z"
     }
   ],
-  "generatedAt": "2026-06-18T10:13:56.499Z",
+  "generatedAt": "2026-06-18T14:56:35.540Z",
   "note": "Transfers derived from news headlines at launch."
 }
