@@ -1,26 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Latest Tonali update and a twist in Fulh",
+      "player": "College Football Leaders Meet in Denver ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Hayters.com",
-      "url": "https://hayters.com/latest-tonali-update-and-a-twist-in-fulhams-managerial-search-latest-transfer-news/",
-      "publishedAt": "2026-06-17T20:15:00Z"
-    },
-    {
-      "player": "Rutherford County Schools hires Greg Wya",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Daily News Journal",
-      "url": "https://www.dnj.com/story/sports/high-school/2026/06/17/rutherford-county-schools-greg-wyant-jena-jones-hired-athletic-director-complicance/90594808007/",
-      "publishedAt": "2026-06-17T20:08:34Z"
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/college-football-leaders-meet-denver-weigh-16-vs-24-team-playoff-formats",
+      "publishedAt": "2026-06-18T00:21:59Z"
     }
   ],
-  "generatedAt": "2026-06-18T20:18:00.734Z",
+  "generatedAt": "2026-06-19T00:22:16.031Z",
   "note": "Transfers derived from news headlines at launch."
 }
