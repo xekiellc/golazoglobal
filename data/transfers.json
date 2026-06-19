@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-19T14:53:12.916Z",
+  "transfers": [
+    {
+      "player": "Inside Reebok’s Summer Surge",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Blast",
+      "url": "https://theblast.com/807858/inside-reeboks-summer-surge-angel-reese-drop-talent-return-football/",
+      "publishedAt": "2026-06-18T19:30:00Z"
+    }
+  ],
+  "generatedAt": "2026-06-19T19:42:14.225Z",
   "note": "Transfers derived from news headlines at launch."
 }

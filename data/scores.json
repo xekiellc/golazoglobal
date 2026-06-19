@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "WC",
+      "homeTeam": "USA",
+      "awayTeam": "Australia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-06-19T19:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "Uzbekistan",
       "awayTeam": "Colombia",
       "homeScore": 1,
@@ -47,15 +56,6 @@
     },
     {
       "league": "WC",
-      "homeTeam": "USA",
-      "awayTeam": "Australia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-06-19T19:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Scotland",
       "awayTeam": "Morocco",
       "homeScore": null,
@@ -64,5 +64,5 @@
       "utcDate": "2026-06-19T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-19T14:54:36.195Z"
+  "generatedAt": "2026-06-19T19:43:42.352Z"
 }
