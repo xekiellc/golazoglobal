@@ -1,115 +1,8 @@
 {
   "leagues": {
     "PL": {
-      "scorers": [
-        {
-          "name": "Erling Haaland",
-          "team": "Man City",
-          "goals": 27,
-          "assists": 8,
-          "penalties": 3
-        },
-        {
-          "name": "Thiago",
-          "team": "Brentford",
-          "goals": 22,
-          "assists": 1,
-          "penalties": 8
-        },
-        {
-          "name": "Antoine Semenyo",
-          "team": "Man City",
-          "goals": 17,
-          "assists": 4,
-          "penalties": 1
-        },
-        {
-          "name": "Ollie Watkins",
-          "team": "Aston Villa",
-          "goals": 16,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
-          "name": "João Pedro",
-          "team": "Chelsea",
-          "goals": 15,
-          "assists": 5,
-          "penalties": 0
-        },
-        {
-          "name": "Morgan Gibbs-White",
-          "team": "Nottingham",
-          "goals": 15,
-          "assists": 5,
-          "penalties": 1
-        },
-        {
-          "name": "Viktor Gyökeres",
-          "team": "Arsenal",
-          "goals": 14,
-          "assists": 1,
-          "penalties": 3
-        },
-        {
-          "name": "Dominic Calvert-Lewin",
-          "team": "Leeds United",
-          "goals": 14,
-          "assists": 1,
-          "penalties": 4
-        },
-        {
-          "name": "Danny Welbeck",
-          "team": "Brighton Hove",
-          "goals": 13,
-          "assists": 1,
-          "penalties": 1
-        },
-        {
-          "name": "Eli Kroupi",
-          "team": "Bournemouth",
-          "goals": 13,
-          "assists": 0,
-          "penalties": 2
-        }
-      ],
-      "topAssists": [
-        {
-          "name": "Erling Haaland",
-          "team": "Man City",
-          "goals": 27,
-          "assists": 8,
-          "penalties": 3
-        },
-        {
-          "name": "João Pedro",
-          "team": "Chelsea",
-          "goals": 15,
-          "assists": 5,
-          "penalties": 0
-        },
-        {
-          "name": "Morgan Gibbs-White",
-          "team": "Nottingham",
-          "goals": 15,
-          "assists": 5,
-          "penalties": 1
-        },
-        {
-          "name": "Antoine Semenyo",
-          "team": "Man City",
-          "goals": 17,
-          "assists": 4,
-          "penalties": 1
-        },
-        {
-          "name": "Ollie Watkins",
-          "team": "Aston Villa",
-          "goals": 16,
-          "assists": 3,
-          "penalties": 0
-        }
-      ]
+      "scorers": [],
+      "topAssists": []
     },
     "PD": {
       "scorers": [
@@ -679,5 +572,5 @@
       ]
     }
   },
-  "generatedAt": "2026-06-19T10:22:39.602Z"
+  "generatedAt": "2026-06-19T14:56:57.282Z"
 }
