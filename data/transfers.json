@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Longhorns Daily News",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Burnt Orange Nation",
-      "url": "https://www.burntorangenation.com/general/102829/longhorns-daily-news-texas-2025-2026-athletics-season-was-a-major-success",
-      "publishedAt": "2026-06-19T00:02:48Z"
-    }
-  ],
-  "generatedAt": "2026-06-20T00:04:34.325Z",
+  "transfers": [],
+  "generatedAt": "2026-06-20T08:47:23.865Z",
   "note": "Transfers derived from news headlines at launch."
 }
