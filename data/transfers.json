@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Big 12 post",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/big-12-insider-intel-qb-a-5-stars-breakout-players/",
-      "publishedAt": "2026-06-19T13:47:25Z"
-    },
-    {
-      "player": "Tottenham confirms no plans for Micky va",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/tottenham-van-de-ven-summer-retention/",
-      "publishedAt": "2026-06-19T13:32:40Z"
-    }
-  ],
-  "generatedAt": "2026-06-20T13:50:23.894Z",
+  "transfers": [],
+  "generatedAt": "2026-06-20T19:17:35.700Z",
   "note": "Transfers derived from news headlines at launch."
 }
