@@ -40,18 +40,18 @@
       "league": "WC",
       "homeTeam": "Ecuador",
       "awayTeam": "Curaçao",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-06-21T00:00:00Z"
     },
     {
       "league": "WC",
       "homeTeam": "Tunisia",
       "awayTeam": "Japan",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "FINISHED",
       "utcDate": "2026-06-21T04:00:00Z"
     },
     {
@@ -82,5 +82,5 @@
       "utcDate": "2026-06-21T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-21T00:03:29.369Z"
+  "generatedAt": "2026-06-21T09:43:29.290Z"
 }

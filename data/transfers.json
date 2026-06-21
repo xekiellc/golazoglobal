@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "National Outlet Picks Every Badgers Game",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/wisconsin/football/national-outlet-picks-every-badgers-game-2026-where-they-re-spot-on-and-where-they-re-dead-wrong",
-      "publishedAt": "2026-06-19T23:57:57Z"
-    }
-  ],
-  "generatedAt": "2026-06-21T00:02:05.961Z",
+  "transfers": [],
+  "generatedAt": "2026-06-21T09:42:06.776Z",
   "note": "Transfers derived from news headlines at launch."
 }
