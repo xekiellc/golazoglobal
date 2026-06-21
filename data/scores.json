@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "WC",
+      "homeTeam": "Belgium",
+      "awayTeam": "Iran",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-06-21T19:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "Brazil",
       "awayTeam": "Haiti",
       "homeScore": 3,
@@ -58,19 +67,10 @@
       "league": "WC",
       "homeTeam": "Spain",
       "awayTeam": "Saudi Arabia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-06-21T16:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Belgium",
-      "awayTeam": "Iran",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-06-21T19:00:00Z"
     },
     {
       "league": "WC",
@@ -82,5 +82,5 @@
       "utcDate": "2026-06-21T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-21T13:59:51.999Z"
+  "generatedAt": "2026-06-21T19:24:47.156Z"
 }
