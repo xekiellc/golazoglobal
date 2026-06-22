@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Brendan Sorsby Calls GF Gretchen ‘Beauti",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Collegefootballnetwork.com",
-      "url": "https://collegefootballnetwork.com/brendan-sorsby-calls-gf-gretchen-beautiful-while-penning-wholesome-birthday-message/?utm_medium=rss&amp;utm_source=nordot",
-      "publishedAt": "2026-06-20T19:12:49Z"
-    },
-    {
-      "player": "\"They Really Damaged...\"",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Essentially Sports",
-      "url": "https://www.essentiallysports.com/ncaa-college-football-news-they-really-damaged-joey-maguires-texas-tech-warned-of-lasting-scar-from-brendan-sorsby-saga/",
-      "publishedAt": "2026-06-20T19:11:00Z"
-    }
-  ],
-  "generatedAt": "2026-06-21T19:23:22.646Z",
+  "transfers": [],
+  "generatedAt": "2026-06-22T00:06:30.434Z",
   "note": "Transfers derived from news headlines at launch."
 }
