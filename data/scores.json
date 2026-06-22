@@ -2,15 +2,6 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "Uruguay",
-      "awayTeam": "Cape Verde",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "IN_PLAY",
-      "utcDate": "2026-06-21T22:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Ecuador",
       "awayTeam": "Curaçao",
       "homeScore": 0,
@@ -47,11 +38,20 @@
     },
     {
       "league": "WC",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Cape Verde",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-06-21T22:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "New Zealand",
       "awayTeam": "Egypt",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "FINISHED",
       "utcDate": "2026-06-22T01:00:00Z"
     },
     {
@@ -82,5 +82,5 @@
       "utcDate": "2026-06-23T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-22T00:07:55.681Z"
+  "generatedAt": "2026-06-22T11:45:08.270Z"
 }

@@ -1,5 +1,26 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-22T00:06:30.434Z",
+  "transfers": [
+    {
+      "player": "2026 Vanderbilt Football Early Opponent ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/vanderbilt/football/2026-vanderbilt-football-early-opponent-preview-game-5-georgia",
+      "publishedAt": "2026-06-21T11:31:00Z"
+    },
+    {
+      "player": "23yo former Arsenal youngster signs for ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Dailycannon.com",
+      "url": "https://dailycannon.com/2026/06/miguel-azeez-carlisle-arsenal/",
+      "publishedAt": "2026-06-21T11:20:00Z"
+    }
+  ],
+  "generatedAt": "2026-06-22T11:43:45.381Z",
   "note": "Transfers derived from news headlines at launch."
 }
