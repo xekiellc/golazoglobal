@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-23T00:01:22.174Z",
+  "transfers": [
+    {
+      "player": "Decision time locked in for massive Illi",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Writing Illini",
+      "url": "https://writingillini.com/decision-time-locked-in-for-massive-illinois-football-recruiting-target",
+      "publishedAt": "2026-06-22T09:21:57Z"
+    }
+  ],
+  "generatedAt": "2026-06-23T09:29:54.850Z",
   "note": "Transfers derived from news headlines at launch."
 }
