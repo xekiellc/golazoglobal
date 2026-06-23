@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Morocco coach talks match",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Bavarian Football Works",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-transfer-rumors-news/218948/morocco-coach-talks-match-winner-ismael-saibari-signing-for-bayern-munich",
-      "publishedAt": "2026-06-21T20:30:00Z"
-    },
-    {
-      "player": "Kansas City Chiefs highlight CB Mansoor ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Atozsports.com",
-      "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-players-lounge-mansoor-delane-fathers-day-jafau-delane-haircuts-story/",
-      "publishedAt": "2026-06-21T20:25:21Z"
-    }
-  ],
-  "generatedAt": "2026-06-22T20:38:33.178Z",
+  "transfers": [],
+  "generatedAt": "2026-06-23T00:01:22.174Z",
   "note": "Transfers derived from news headlines at launch."
 }
