@@ -49,9 +49,9 @@
       "league": "WC",
       "homeTeam": "Portugal",
       "awayTeam": "Uzbekistan",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-06-23T17:00:00Z"
     },
     {
@@ -73,5 +73,5 @@
       "utcDate": "2026-06-23T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-23T14:39:29.091Z"
+  "generatedAt": "2026-06-23T19:55:22.305Z"
 }

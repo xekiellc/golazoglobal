@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-23T14:38:03.442Z",
+  "transfers": [
+    {
+      "player": "Vermont High School Football Team Allows",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "BroBible",
+      "url": "https://brobible.com/sports/article/high-school-football-vermont-poultney-cancel-season-lack-of-players-transfer-rival/",
+      "publishedAt": "2026-06-22T19:47:29Z"
+    }
+  ],
+  "generatedAt": "2026-06-23T19:53:59.233Z",
   "note": "Transfers derived from news headlines at launch."
 }
