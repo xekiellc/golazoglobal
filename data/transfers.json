@@ -1,46 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Notre Dame football defensive tackle med",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "South Bend Tribune",
-      "url": "https://www.southbendtribune.com/story/sports/college/football/2026/06/22/notre-dame-football-defensive-lineman-brenan-vernon-medically-retires-marcus-freeman-transfers/90620701007/",
-      "publishedAt": "2026-06-22T23:39:14Z"
-    },
-    {
-      "player": "Ohio State football has a potential X",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Atozsports.com",
-      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/summer-workout-update-ryan-day-offense-x-factor-transfer-portal-player/",
-      "publishedAt": "2026-06-22T23:38:49Z"
-    },
-    {
-      "player": "Indiana football lands commitment from 2",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Crimsonquarry.com",
-      "url": "https://www.crimsonquarry.com/indiana-football-recruiting-2/28448/indiana-football-lands-commitment-from-2027-cb-ramir-harris-dupree",
-      "publishedAt": "2026-06-22T23:32:44Z"
-    },
-    {
-      "player": "Indiana football flips UCLA committed 20",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Crimsonquarry.com",
-      "url": "https://www.crimsonquarry.com/indiana-football-recruiting-2/28450/indiana-football-flips-ucla-committed-2027-lb-cain-brackney",
-      "publishedAt": "2026-06-22T23:32:26Z"
-    }
-  ],
-  "generatedAt": "2026-06-23T23:52:04.733Z",
+  "transfers": [],
+  "generatedAt": "2026-06-24T08:58:41.428Z",
   "note": "Transfers derived from news headlines at launch."
 }
