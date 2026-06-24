@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-24T14:17:58.141Z",
+  "transfers": [
+    {
+      "player": "‘Barcelona are disrespecting us’",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Barca Blaugranes",
+      "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/124568/barcelona-are-disrespecting-us-atletico-ceo-hits-out-and-vows-to-file-complaint-after-julian-alvarezs-transfer-bombshell",
+      "publishedAt": "2026-06-23T19:30:42Z"
+    }
+  ],
+  "generatedAt": "2026-06-24T19:39:37.725Z",
   "note": "Transfers derived from news headlines at launch."
 }

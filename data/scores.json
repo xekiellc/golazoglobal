@@ -2,6 +2,24 @@
   "matches": [
     {
       "league": "WC",
+      "homeTeam": "Switzerland",
+      "awayTeam": "Canada",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-06-24T19:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Bosnia-H.",
+      "awayTeam": "Qatar",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-06-24T19:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "Norway",
       "awayTeam": "Senegal",
       "homeScore": 3,
@@ -56,24 +74,6 @@
     },
     {
       "league": "WC",
-      "homeTeam": "Switzerland",
-      "awayTeam": "Canada",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-06-24T19:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Bosnia-H.",
-      "awayTeam": "Qatar",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-06-24T19:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Morocco",
       "awayTeam": "Haiti",
       "homeScore": null,
@@ -91,5 +91,5 @@
       "utcDate": "2026-06-24T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-24T14:19:21.470Z"
+  "generatedAt": "2026-06-24T19:41:02.112Z"
 }
