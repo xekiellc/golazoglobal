@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "‘Barcelona are disrespecting us’",
+      "player": "NCAA's New Eligibility Rules Affect Tran",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Barca Blaugranes",
-      "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/124568/barcelona-are-disrespecting-us-atletico-ceo-hits-out-and-vows-to-file-complaint-after-julian-alvarezs-transfer-bombshell",
-      "publishedAt": "2026-06-23T19:30:42Z"
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/ncaas-new-eligibility-rules-affect-transfers-rosters-playing-time",
+      "publishedAt": "2026-06-24T00:04:50Z"
+    },
+    {
+      "player": "Clemson returns the most efficient defen",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://clemsonwire.usatoday.com/story/sports/college/clemson/football/2026/06/23/clemson-football-defense-top-returning-efficiency-tom-allen/90665293007/",
+      "publishedAt": "2026-06-23T23:40:31Z"
     }
   ],
-  "generatedAt": "2026-06-24T19:39:37.725Z",
+  "generatedAt": "2026-06-25T00:05:04.651Z",
   "note": "Transfers derived from news headlines at launch."
 }
