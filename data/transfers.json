@@ -1,26 +1,26 @@
 {
   "transfers": [
     {
-      "player": "SEC football's 2026 hot seat list starts",
+      "player": "Why UCLA's Transfer Portal Approach Coul",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/06/24/college-football-coaches-hot-seat-sec-shane-beamer-jeff-lebby-2026/90641552007/",
-      "publishedAt": "2026-06-24T08:47:08Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/ucla/bruins-why-transfer-portal-approach-pay-off-big",
+      "publishedAt": "2026-06-24T14:00:07Z"
     },
     {
-      "player": "College Football 27 ratings are fool’s g",
+      "player": "3 New Players That LSU is Counting On Ne",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/06/24/college-football-27-video-game-ratings-best-teams-ea-sports/90668022007/",
-      "publishedAt": "2026-06-24T08:31:27Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/lsu/football/3-new-players-that-lsu-is-counting-on-next-season",
+      "publishedAt": "2026-06-24T14:00:06Z"
     }
   ],
-  "generatedAt": "2026-06-25T08:52:49.303Z",
+  "generatedAt": "2026-06-25T14:15:21.491Z",
   "note": "Transfers derived from news headlines at launch."
 }
