@@ -1,5 +1,26 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-26T08:55:46.027Z",
+  "transfers": [
+    {
+      "player": "Will James Garner switch to Newcastle Un",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Toffeeweb",
+      "url": "http://www.toffeeweb.com/season/25-26/news/47691.html",
+      "publishedAt": "2026-06-25T14:10:00Z"
+    },
+    {
+      "player": "Proposed NCAA calendar changes may be co",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/06/25/ncaa-football-calendar-changes-proposed/90688302007/",
+      "publishedAt": "2026-06-25T14:01:21Z"
+    }
+  ],
+  "generatedAt": "2026-06-26T14:13:02.086Z",
   "note": "Transfers derived from news headlines at launch."
 }
