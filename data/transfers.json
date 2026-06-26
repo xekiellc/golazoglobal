@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Washington football projected among Big ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/football/2026/06/24/uw-football-jedd-fisch-demond-williams-jr-ryan-walters-washington-huskies-big-ten/90543937007/",
-      "publishedAt": "2026-06-25T00:00:19Z"
-    },
-    {
-      "player": "Most Important Oklahoma State Cowboy Not",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/oklahomastate/football/most-important-oklahoma-state-cowboy-not-named-drew-mestemaker-caleb-hawkins",
-      "publishedAt": "2026-06-25T00:00:03Z"
-    }
-  ],
-  "generatedAt": "2026-06-26T00:05:31.416Z",
+  "transfers": [],
+  "generatedAt": "2026-06-26T08:55:46.027Z",
   "note": "Transfers derived from news headlines at launch."
 }
