@@ -2,48 +2,21 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "Colombia",
-      "awayTeam": "Congo DR",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-06-24T02:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Switzerland",
-      "awayTeam": "Canada",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-06-24T19:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Bosnia-H.",
-      "awayTeam": "Qatar",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-06-24T19:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Morocco",
-      "awayTeam": "Haiti",
-      "homeScore": 4,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-06-24T22:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Scotland",
-      "awayTeam": "Brazil",
+      "homeTeam": "Tunisia",
+      "awayTeam": "Netherlands",
       "homeScore": 0,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-06-24T22:00:00Z"
+      "awayScore": 2,
+      "status": "PAUSED",
+      "utcDate": "2026-06-25T23:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Japan",
+      "awayTeam": "Sweden",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "PAUSED",
+      "utcDate": "2026-06-25T23:00:00Z"
     },
     {
       "league": "WC",
@@ -67,38 +40,74 @@
       "league": "WC",
       "homeTeam": "Ecuador",
       "awayTeam": "Germany",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-06-25T20:00:00Z"
     },
     {
       "league": "WC",
       "homeTeam": "Curaçao",
       "awayTeam": "Ivory Coast",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-06-25T20:00:00Z"
     },
     {
       "league": "WC",
-      "homeTeam": "Tunisia",
-      "awayTeam": "Netherlands",
+      "homeTeam": "Turkey",
+      "awayTeam": "USA",
       "homeScore": null,
       "awayScore": null,
       "status": "TIMED",
-      "utcDate": "2026-06-25T23:00:00Z"
+      "utcDate": "2026-06-26T02:00:00Z"
     },
     {
       "league": "WC",
-      "homeTeam": "Japan",
-      "awayTeam": "Sweden",
+      "homeTeam": "Paraguay",
+      "awayTeam": "Australia",
       "homeScore": null,
       "awayScore": null,
       "status": "TIMED",
-      "utcDate": "2026-06-25T23:00:00Z"
+      "utcDate": "2026-06-26T02:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Norway",
+      "awayTeam": "France",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-26T19:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Senegal",
+      "awayTeam": "Iraq",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-26T19:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Spain",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-27T00:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Cape Verde",
+      "awayTeam": "Saudi Arabia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-27T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-25T19:52:52.948Z"
+  "generatedAt": "2026-06-26T00:06:54.415Z"
 }
