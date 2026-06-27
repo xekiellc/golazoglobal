@@ -1,5 +1,26 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-27T08:30:33.890Z",
+  "transfers": [
+    {
+      "player": "Countdown to Kickoff",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/lsu/news/countdown-to-kickoff-lsu-tigers-four-star-freshman-ot-debuts-wearing-no-71",
+      "publishedAt": "2026-06-26T13:22:08Z"
+    },
+    {
+      "player": "Alabama's Kalen DeBoer Put on 'Panic' Al",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/alabama/news/alabamas-kalen-deboer-put-on-panic-alert-due-to-poor-recruiting-start",
+      "publishedAt": "2026-06-26T13:14:29Z"
+    }
+  ],
+  "generatedAt": "2026-06-27T13:22:20.613Z",
   "note": "Transfers derived from news headlines at launch."
 }
