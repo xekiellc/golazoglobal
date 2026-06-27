@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Countdown to Kickoff",
+      "player": "NCAA Cabinet tweaks college football cal",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/lsu/news/countdown-to-kickoff-lsu-tigers-four-star-freshman-ot-debuts-wearing-no-71",
-      "publishedAt": "2026-06-26T13:22:08Z"
+      "source": "NBCSports.com",
+      "url": "https://www.nbcsports.com/college-football/news/ncaa-cabinet-tweaks-college-football-calendar-with-14-week-season-and-bowl-rule-change",
+      "publishedAt": "2026-06-26T19:11:03Z"
     },
     {
-      "player": "Alabama's Kalen DeBoer Put on 'Panic' Al",
+      "player": "Syracuse football",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/alabama/news/alabamas-kalen-deboer-put-on-panic-alert-due-to-poor-recruiting-start",
-      "publishedAt": "2026-06-26T13:14:29Z"
+      "source": "Troy Nunes Is An Absolute Magician",
+      "url": "https://www.nunesmagician.com/syracuse-orange-football-fran/110395/syracuse-football-the-orange-ratings-in-ea-college-football-27",
+      "publishedAt": "2026-06-26T19:00:13Z"
+    },
+    {
+      "player": "What part of LSU football should fans be",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Andthevalleyshook.com",
+      "url": "https://www.andthevalleyshook.com/lsu-tigers-football/50025/what-part-of-lsu-football-should-fans-be-most-excited-for-in-2026",
+      "publishedAt": "2026-06-26T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-27T13:22:20.613Z",
+  "generatedAt": "2026-06-27T19:12:51.501Z",
   "note": "Transfers derived from news headlines at launch."
 }
