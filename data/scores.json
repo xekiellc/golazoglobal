@@ -40,36 +40,36 @@
       "league": "WC",
       "homeTeam": "Uruguay",
       "awayTeam": "Spain",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-06-27T00:00:00Z"
     },
     {
       "league": "WC",
       "homeTeam": "Cape Verde",
       "awayTeam": "Saudi Arabia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-06-27T00:00:00Z"
     },
     {
       "league": "WC",
       "homeTeam": "New Zealand",
       "awayTeam": "Belgium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "FINISHED",
       "utcDate": "2026-06-27T03:00:00Z"
     },
     {
       "league": "WC",
       "homeTeam": "Egypt",
       "awayTeam": "Iran",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-06-27T03:00:00Z"
     },
     {
@@ -109,5 +109,5 @@
       "utcDate": "2026-06-27T23:30:00Z"
     }
   ],
-  "generatedAt": "2026-06-27T00:02:22.068Z"
+  "generatedAt": "2026-06-27T08:31:57.255Z"
 }
