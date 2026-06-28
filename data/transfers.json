@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Euro club ready €120m for Osimhen",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Punch",
-      "url": "https://punchng.com/euro-club-ready-e120m-for-osimhen/",
-      "publishedAt": "2026-06-26T23:50:04Z"
-    },
-    {
-      "player": "Injured England defender James to miss P",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/injured-england-defender-james-miss-233148533.html",
-      "publishedAt": "2026-06-26T23:31:48Z"
-    }
-  ],
-  "generatedAt": "2026-06-27T23:56:59.215Z",
+  "transfers": [],
+  "generatedAt": "2026-06-28T08:45:05.633Z",
   "note": "Transfers derived from news headlines at launch."
 }
