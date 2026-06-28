@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "NCAA Cabinet tweaks college football cal",
+      "player": "Euro club ready €120m for Osimhen",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "NBCSports.com",
-      "url": "https://www.nbcsports.com/college-football/news/ncaa-cabinet-tweaks-college-football-calendar-with-14-week-season-and-bowl-rule-change",
-      "publishedAt": "2026-06-26T19:11:03Z"
+      "source": "The Punch",
+      "url": "https://punchng.com/euro-club-ready-e120m-for-osimhen/",
+      "publishedAt": "2026-06-26T23:50:04Z"
     },
     {
-      "player": "Syracuse football",
+      "player": "Injured England defender James to miss P",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Troy Nunes Is An Absolute Magician",
-      "url": "https://www.nunesmagician.com/syracuse-orange-football-fran/110395/syracuse-football-the-orange-ratings-in-ea-college-football-27",
-      "publishedAt": "2026-06-26T19:00:13Z"
-    },
-    {
-      "player": "What part of LSU football should fans be",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Andthevalleyshook.com",
-      "url": "https://www.andthevalleyshook.com/lsu-tigers-football/50025/what-part-of-lsu-football-should-fans-be-most-excited-for-in-2026",
-      "publishedAt": "2026-06-26T19:00:00Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/injured-england-defender-james-miss-233148533.html",
+      "publishedAt": "2026-06-26T23:31:48Z"
     }
   ],
-  "generatedAt": "2026-06-27T19:12:51.501Z",
+  "generatedAt": "2026-06-27T23:56:59.215Z",
   "note": "Transfers derived from news headlines at launch."
 }
