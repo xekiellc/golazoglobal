@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-28T08:45:05.633Z",
+  "transfers": [
+    {
+      "player": "The Perfect Gasperini Forward? Meet Keri",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Chiesa Di Totti",
+      "url": "https://www.chiesaditotti.com/as-roma-transfer-news-rumors/41498/the-perfect-gasperini-forward-meet-kerim-alajbegovic",
+      "publishedAt": "2026-06-27T13:11:54Z"
+    }
+  ],
+  "generatedAt": "2026-06-28T13:25:46.305Z",
   "note": "Transfers derived from news headlines at launch."
 }
