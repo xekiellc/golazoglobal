@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "SEC football analyst predicts Texas A&M'",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/06/28/sec-mike-predicts-texas-aggies-football-will-finished-10-2-in-2026/90726964007/",
-      "publishedAt": "2026-06-28T10:30:36Z"
-    }
-  ],
-  "generatedAt": "2026-06-29T10:47:02.663Z",
+  "transfers": [],
+  "generatedAt": "2026-06-29T15:37:33.594Z",
   "note": "Transfers derived from news headlines at launch."
 }
