@@ -31,9 +31,9 @@
       "league": "WC",
       "homeTeam": "Brazil",
       "awayTeam": "Japan",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-06-29T17:00:00Z"
     },
     {
@@ -46,5 +46,5 @@
       "utcDate": "2026-06-29T20:30:00Z"
     }
   ],
-  "generatedAt": "2026-06-29T15:38:57.198Z"
+  "generatedAt": "2026-06-29T19:51:16.211Z"
 }
