@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Colorado football adds kicker Cadel Ayal",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://coloradobuffaloeswire.usatoday.com/story/sports/college/buffaloes/recruiting/2026/06/27/colorado-football-cadel-ayala-commitment-special-teams/90723212007/",
-      "publishedAt": "2026-06-27T19:01:04Z"
-    }
-  ],
-  "generatedAt": "2026-06-28T19:11:15.503Z",
+  "transfers": [],
+  "generatedAt": "2026-06-29T00:03:29.529Z",
   "note": "Transfers derived from news headlines at launch."
 }
