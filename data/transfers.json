@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-30T14:07:52.300Z",
+  "transfers": [
+    {
+      "player": "USC Trojans Quarterback Jayden Maiava Fa",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/usc/football/usc-trojans-quarterback-jayden-maiava-major-opportunity",
+      "publishedAt": "2026-06-29T19:45:01Z"
+    }
+  ],
+  "generatedAt": "2026-06-30T19:47:30.239Z",
   "note": "Transfers derived from news headlines at launch."
 }

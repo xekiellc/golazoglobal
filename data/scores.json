@@ -31,9 +31,9 @@
       "league": "WC",
       "homeTeam": "Ivory Coast",
       "awayTeam": "Norway",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-06-30T17:00:00Z"
     },
     {
@@ -46,5 +46,5 @@
       "utcDate": "2026-06-30T21:00:00Z"
     }
   ],
-  "generatedAt": "2026-06-30T14:09:16.809Z"
+  "generatedAt": "2026-06-30T19:48:55.538Z"
 }
