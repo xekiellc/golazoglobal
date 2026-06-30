@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-06-29T19:49:48.982Z",
+  "transfers": [
+    {
+      "player": "Washington Football Secures Top Punter F",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/recruiting/2026/06/28/nolan-balke-uw-football-chris-petrilli-brett-arkelian-hunter-green/90717727007/",
+      "publishedAt": "2026-06-28T23:56:49Z"
+    }
+  ],
+  "generatedAt": "2026-06-29T23:58:42.183Z",
   "note": "Transfers derived from news headlines at launch."
 }
