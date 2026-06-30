@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Besiktas contact superagent for 22",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Barcauniversal.com",
-      "url": "https://barcauniversal.com/besiktas-contact-superagent-for-22-year-old-barcelona-midfielder-report/",
-      "publishedAt": "2026-06-29T09:10:00Z"
-    }
-  ],
-  "generatedAt": "2026-06-30T09:24:46.022Z",
+  "transfers": [],
+  "generatedAt": "2026-06-30T14:07:52.300Z",
   "note": "Transfers derived from news headlines at launch."
 }
