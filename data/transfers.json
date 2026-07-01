@@ -1,5 +1,26 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-01T00:02:55.641Z",
+  "transfers": [
+    {
+      "player": "USA TODAY lists Texas A&M among 5 CFB na",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/06/30/usa-today-lists-texas-aggies-football-among-five-cfb-national-title-sleepers/90747951007/",
+      "publishedAt": "2026-06-30T09:31:16Z"
+    },
+    {
+      "player": "BYU football coach Kalani Sitake is talk",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/big12/2026/06/30/byu-kalani-sitake-ccollege-football-playoff/90553243007/",
+      "publishedAt": "2026-06-30T09:30:54Z"
+    }
+  ],
+  "generatedAt": "2026-07-01T09:37:03.314Z",
   "note": "Transfers derived from news headlines at launch."
 }

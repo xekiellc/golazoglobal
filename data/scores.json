@@ -31,9 +31,9 @@
       "league": "WC",
       "homeTeam": "Mexico",
       "awayTeam": "Ecuador",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-07-01T01:00:00Z"
     },
     {
@@ -64,5 +64,5 @@
       "utcDate": "2026-07-02T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-01T00:04:21.170Z"
+  "generatedAt": "2026-07-01T09:38:28.175Z"
 }
