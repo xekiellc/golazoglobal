@@ -5,115 +5,8 @@
       "topAssists": []
     },
     "PD": {
-      "scorers": [
-        {
-          "name": "Kylian Mbappé",
-          "team": "Real Madrid",
-          "goals": 25,
-          "assists": 4,
-          "penalties": 8
-        },
-        {
-          "name": "Vedat Muriqi",
-          "team": "Mallorca",
-          "goals": 23,
-          "assists": 1,
-          "penalties": 5
-        },
-        {
-          "name": "Ante Budimir",
-          "team": "Osasuna",
-          "goals": 17,
-          "assists": 0,
-          "penalties": 6
-        },
-        {
-          "name": "Ferrán Torres",
-          "team": "Barça",
-          "goals": 16,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
-          "name": "Lamine Yamal",
-          "team": "Barça",
-          "goals": 16,
-          "assists": 11,
-          "penalties": 3
-        },
-        {
-          "name": "Vinicius Junior",
-          "team": "Real Madrid",
-          "goals": 16,
-          "assists": 5,
-          "penalties": 4
-        },
-        {
-          "name": "Borja Iglesias",
-          "team": "Celta",
-          "goals": 15,
-          "assists": 1,
-          "penalties": 4
-        },
-        {
-          "name": "Mikel Oyarzabal",
-          "team": "Real Sociedad",
-          "goals": 15,
-          "assists": 4,
-          "penalties": 7
-        },
-        {
-          "name": "Toni Martínez",
-          "team": "Alavés",
-          "goals": 14,
-          "assists": 3,
-          "penalties": 1
-        },
-        {
-          "name": "Robert Lewandowski",
-          "team": "Barça",
-          "goals": 14,
-          "assists": 2,
-          "penalties": 1
-        }
-      ],
-      "topAssists": [
-        {
-          "name": "Lamine Yamal",
-          "team": "Barça",
-          "goals": 16,
-          "assists": 11,
-          "penalties": 3
-        },
-        {
-          "name": "Vinicius Junior",
-          "team": "Real Madrid",
-          "goals": 16,
-          "assists": 5,
-          "penalties": 4
-        },
-        {
-          "name": "Kylian Mbappé",
-          "team": "Real Madrid",
-          "goals": 25,
-          "assists": 4,
-          "penalties": 8
-        },
-        {
-          "name": "Mikel Oyarzabal",
-          "team": "Real Sociedad",
-          "goals": 15,
-          "assists": 4,
-          "penalties": 7
-        },
-        {
-          "name": "Ferrán Torres",
-          "team": "Barça",
-          "goals": 16,
-          "assists": 3,
-          "penalties": 0
-        }
-      ]
+      "scorers": [],
+      "topAssists": []
     },
     "SA": {
       "scorers": [],
@@ -465,5 +358,5 @@
       ]
     }
   },
-  "generatedAt": "2026-07-01T09:40:44.029Z"
+  "generatedAt": "2026-07-01T14:27:31.927Z"
 }
