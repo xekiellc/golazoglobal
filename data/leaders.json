@@ -13,115 +13,8 @@
       "topAssists": []
     },
     "BL1": {
-      "scorers": [
-        {
-          "name": "Harry Kane",
-          "team": "Bayern",
-          "goals": 36,
-          "assists": 4,
-          "penalties": 10
-        },
-        {
-          "name": "Deniz Undav",
-          "team": "Stuttgart",
-          "goals": 19,
-          "assists": 6,
-          "penalties": 0
-        },
-        {
-          "name": "Sehrou Guirassy",
-          "team": "Dortmund",
-          "goals": 17,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
-          "name": "Patrik Schick",
-          "team": "Leverkusen",
-          "goals": 16,
-          "assists": 2,
-          "penalties": 4
-        },
-        {
-          "name": "Michael Olise",
-          "team": "Bayern",
-          "goals": 15,
-          "assists": 19,
-          "penalties": 0
-        },
-        {
-          "name": "Luis Díaz",
-          "team": "Bayern",
-          "goals": 15,
-          "assists": 12,
-          "penalties": 0
-        },
-        {
-          "name": "Andrej Kramarić",
-          "team": "Hoffenheim",
-          "goals": 14,
-          "assists": 6,
-          "penalties": 5
-        },
-        {
-          "name": "Christoph Baumgartner",
-          "team": "RB Leipzig",
-          "goals": 13,
-          "assists": 8,
-          "penalties": 0
-        },
-        {
-          "name": "Said El Mala",
-          "team": "1. FC Köln",
-          "goals": 13,
-          "assists": 4,
-          "penalties": 1
-        },
-        {
-          "name": "Jonathan Burkardt",
-          "team": "Frankfurt",
-          "goals": 13,
-          "assists": 1,
-          "penalties": 4
-        }
-      ],
-      "topAssists": [
-        {
-          "name": "Michael Olise",
-          "team": "Bayern",
-          "goals": 15,
-          "assists": 19,
-          "penalties": 0
-        },
-        {
-          "name": "Luis Díaz",
-          "team": "Bayern",
-          "goals": 15,
-          "assists": 12,
-          "penalties": 0
-        },
-        {
-          "name": "Christoph Baumgartner",
-          "team": "RB Leipzig",
-          "goals": 13,
-          "assists": 8,
-          "penalties": 0
-        },
-        {
-          "name": "Deniz Undav",
-          "team": "Stuttgart",
-          "goals": 19,
-          "assists": 6,
-          "penalties": 0
-        },
-        {
-          "name": "Andrej Kramarić",
-          "team": "Hoffenheim",
-          "goals": 14,
-          "assists": 6,
-          "penalties": 5
-        }
-      ]
+      "scorers": [],
+      "topAssists": []
     },
     "FL1": {
       "scorers": [],
@@ -358,5 +251,5 @@
       ]
     }
   },
-  "generatedAt": "2026-07-02T13:50:57.230Z"
+  "generatedAt": "2026-07-02T19:20:26.007Z"
 }
