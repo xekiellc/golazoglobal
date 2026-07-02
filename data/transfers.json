@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-01T19:46:13.335Z",
+  "transfers": [
+    {
+      "player": "Analysis",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Mitchellrepublic.com",
+      "url": "https://www.mitchellrepublic.com/sports/college/analysis-finding-new-defensive-leaders-key-for-coyote-football-in-2026",
+      "publishedAt": "2026-06-30T23:52:00Z"
+    }
+  ],
+  "generatedAt": "2026-07-02T00:02:43.260Z",
   "note": "Transfers derived from news headlines at launch."
 }
