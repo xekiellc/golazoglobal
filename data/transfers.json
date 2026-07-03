@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "The Top 5 Most Important Cougars Going i",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/houston/football/the-top-5-most-important-cougars-going-into-the-2026-season",
-      "publishedAt": "2026-07-01T19:14:10Z"
-    }
-  ],
-  "generatedAt": "2026-07-02T19:16:48.238Z",
+  "transfers": [],
+  "generatedAt": "2026-07-03T00:00:55.434Z",
   "note": "Transfers derived from news headlines at launch."
 }
