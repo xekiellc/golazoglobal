@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "WC",
+      "homeTeam": "Australia",
+      "awayTeam": "Egypt",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "LIVE",
+      "utcDate": "2026-07-03T18:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "USA",
       "awayTeam": "Bosnia-H.",
       "homeScore": 2,
@@ -38,15 +47,6 @@
     },
     {
       "league": "WC",
-      "homeTeam": "Australia",
-      "awayTeam": "Egypt",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-07-03T18:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Argentina",
       "awayTeam": "Cape Verde",
       "homeScore": null,
@@ -55,5 +55,5 @@
       "utcDate": "2026-07-03T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-03T13:53:07.826Z"
+  "generatedAt": "2026-07-03T19:12:49.885Z"
 }
