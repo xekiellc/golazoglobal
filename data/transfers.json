@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-03T00:00:55.434Z",
+  "transfers": [
+    {
+      "player": "'Infatuated' Maddy Cusack would still be",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/sport/football/article-15947065/maddy-cusack-sheffield-united-girlfriend-inquest.html",
+      "publishedAt": "2026-07-02T08:33:29Z"
+    }
+  ],
+  "generatedAt": "2026-07-03T08:54:51.646Z",
   "note": "Transfers derived from news headlines at launch."
 }

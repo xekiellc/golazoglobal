@@ -2,15 +2,6 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "Portugal",
-      "awayTeam": "Croatia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "PAUSED",
-      "utcDate": "2026-07-02T23:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "USA",
       "awayTeam": "Bosnia-H.",
       "homeScore": 2,
@@ -29,11 +20,20 @@
     },
     {
       "league": "WC",
+      "homeTeam": "Portugal",
+      "awayTeam": "Croatia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-07-02T23:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "Switzerland",
       "awayTeam": "Algeria",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-07-03T03:00:00Z"
     },
     {
@@ -55,5 +55,5 @@
       "utcDate": "2026-07-03T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-03T00:02:20.902Z"
+  "generatedAt": "2026-07-03T08:56:14.642Z"
 }
