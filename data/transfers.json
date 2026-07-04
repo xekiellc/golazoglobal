@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Bayern Munich confirm Nathaniel Brown si",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Cfbayerninsider.com",
-      "url": "https://cfbayerninsider.com/2026/07/bayern-munich-confirm-nathaniel-brown-signing/",
-      "publishedAt": "2026-07-03T13:05:00Z"
-    },
-    {
-      "player": "Most Challenging Month on USC Trojans Fo",
+      "player": "Clemson Tigers Snubbed Out Another Top 5",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/usc/football/most-challenging-month-usc-trojans-football-schedule",
-      "publishedAt": "2026-07-03T12:59:23Z"
-    },
-    {
-      "player": "Liverpool fans clash over Richard Hughes",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Anfieldindex.com",
-      "url": "https://anfieldindex.com/95488/liverpool-fans-clash-over-richard-hughes-exit-and-legacy.html",
-      "publishedAt": "2026-07-03T12:55:00Z"
+      "url": "https://www.si.com/college/clemson/football/clemson-tigers-snubbed-out-another-top-50-ranking",
+      "publishedAt": "2026-07-03T19:00:03Z"
     }
   ],
-  "generatedAt": "2026-07-04T13:12:45.718Z",
+  "generatedAt": "2026-07-04T19:02:22.601Z",
   "note": "Transfers derived from news headlines at launch."
 }

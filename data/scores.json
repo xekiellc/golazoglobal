@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "WC",
+      "homeTeam": "Canada",
+      "awayTeam": "Morocco",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-07-04T17:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "Switzerland",
       "awayTeam": "Algeria",
       "homeScore": 2,
@@ -38,15 +47,6 @@
     },
     {
       "league": "WC",
-      "homeTeam": "Canada",
-      "awayTeam": "Morocco",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-07-04T17:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Paraguay",
       "awayTeam": "France",
       "homeScore": null,
@@ -55,5 +55,5 @@
       "utcDate": "2026-07-04T21:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-04T13:14:08.250Z"
+  "generatedAt": "2026-07-04T19:03:45.320Z"
 }
