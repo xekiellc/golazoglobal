@@ -2,39 +2,12 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "Australia",
-      "awayTeam": "Egypt",
-      "homeScore": 0,
+      "homeTeam": "Argentina",
+      "awayTeam": "Cape Verde",
+      "homeScore": 1,
       "awayScore": 1,
-      "status": "LIVE",
-      "utcDate": "2026-07-03T18:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "USA",
-      "awayTeam": "Bosnia-H.",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-07-02T00:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Spain",
-      "awayTeam": "Austria",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-07-02T19:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Portugal",
-      "awayTeam": "Croatia",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-07-02T23:00:00Z"
+      "status": "IN_PLAY",
+      "utcDate": "2026-07-03T22:00:00Z"
     },
     {
       "league": "WC",
@@ -47,13 +20,40 @@
     },
     {
       "league": "WC",
-      "homeTeam": "Argentina",
-      "awayTeam": "Cape Verde",
+      "homeTeam": "Australia",
+      "awayTeam": "Egypt",
+      "homeScore": 3,
+      "awayScore": 5,
+      "status": "FINISHED",
+      "utcDate": "2026-07-03T18:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Colombia",
+      "awayTeam": "Ghana",
       "homeScore": null,
       "awayScore": null,
       "status": "TIMED",
-      "utcDate": "2026-07-03T22:00:00Z"
+      "utcDate": "2026-07-04T01:30:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Canada",
+      "awayTeam": "Morocco",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-04T17:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Paraguay",
+      "awayTeam": "France",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-04T21:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-03T19:12:49.885Z"
+  "generatedAt": "2026-07-04T00:01:43.560Z"
 }

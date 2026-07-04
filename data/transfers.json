@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "South Alabama Football Preview 2026",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "College Football News",
-      "url": "https://collegefootballnews.com/college-football/south-alabama-football-preview-2026",
-      "publishedAt": "2026-07-02T19:04:08Z"
-    },
-    {
-      "player": "Which Mountain West Teams Should, Could ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Mwcconnection.com",
-      "url": "https://www.mwcconnection.com/college-football-bowl-games/88495/mountain-west-bowl-games-recruiting-realignment",
-      "publishedAt": "2026-07-02T19:00:00Z"
-    }
-  ],
-  "generatedAt": "2026-07-03T19:11:24.815Z",
+  "transfers": [],
+  "generatedAt": "2026-07-04T00:00:16.618Z",
   "note": "Transfers derived from news headlines at launch."
 }
