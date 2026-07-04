@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Recent Watertown High School graduate to",
+      "player": "Bayern Munich confirm Nathaniel Brown si",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Watertown Public Opinion",
-      "url": "https://www.thepublicopinion.com/story/sports/2026/07/03/watertown-aberdeen-south-dakota-high-school-college-signings-landing-page/90769690007/",
-      "publishedAt": "2026-07-03T08:02:27Z"
+      "source": "Cfbayerninsider.com",
+      "url": "https://cfbayerninsider.com/2026/07/bayern-munich-confirm-nathaniel-brown-signing/",
+      "publishedAt": "2026-07-03T13:05:00Z"
+    },
+    {
+      "player": "Most Challenging Month on USC Trojans Fo",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/usc/football/most-challenging-month-usc-trojans-football-schedule",
+      "publishedAt": "2026-07-03T12:59:23Z"
+    },
+    {
+      "player": "Liverpool fans clash over Richard Hughes",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Anfieldindex.com",
+      "url": "https://anfieldindex.com/95488/liverpool-fans-clash-over-richard-hughes-exit-and-legacy.html",
+      "publishedAt": "2026-07-03T12:55:00Z"
     }
   ],
-  "generatedAt": "2026-07-04T08:29:46.446Z",
+  "generatedAt": "2026-07-04T13:12:45.718Z",
   "note": "Transfers derived from news headlines at launch."
 }
