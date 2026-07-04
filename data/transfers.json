@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-04T00:00:16.618Z",
+  "transfers": [
+    {
+      "player": "Recent Watertown High School graduate to",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Watertown Public Opinion",
+      "url": "https://www.thepublicopinion.com/story/sports/2026/07/03/watertown-aberdeen-south-dakota-high-school-college-signings-landing-page/90769690007/",
+      "publishedAt": "2026-07-03T08:02:27Z"
+    }
+  ],
+  "generatedAt": "2026-07-04T08:29:46.446Z",
   "note": "Transfers derived from news headlines at launch."
 }

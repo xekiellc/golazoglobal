@@ -2,15 +2,6 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "Argentina",
-      "awayTeam": "Cape Verde",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-07-03T22:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Switzerland",
       "awayTeam": "Algeria",
       "homeScore": 2,
@@ -29,11 +20,20 @@
     },
     {
       "league": "WC",
+      "homeTeam": "Argentina",
+      "awayTeam": "Cape Verde",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-07-03T22:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "Colombia",
       "awayTeam": "Ghana",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-07-04T01:30:00Z"
     },
     {
@@ -55,5 +55,5 @@
       "utcDate": "2026-07-04T21:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-04T00:01:43.560Z"
+  "generatedAt": "2026-07-04T08:31:09.309Z"
 }
