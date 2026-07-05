@@ -1,16 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Clemson Tigers Snubbed Out Another Top 5",
+      "player": "Breaking",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/clemson/football/clemson-tigers-snubbed-out-another-top-50-ranking",
-      "publishedAt": "2026-07-03T19:00:03Z"
+      "source": "Andthevalleyshook.com",
+      "url": "https://www.andthevalleyshook.com/lsu-tigers-football/50328/breaking-atvs-exclusive-interview-with-cb-julian-juju-mcdonald",
+      "publishedAt": "2026-07-03T23:51:16Z"
     }
   ],
-  "generatedAt": "2026-07-04T19:02:22.601Z",
+  "generatedAt": "2026-07-04T23:57:06.169Z",
   "note": "Transfers derived from news headlines at launch."
 }
