@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-05T08:46:10.036Z",
+  "transfers": [
+    {
+      "player": "The Texas A&M Player NFL Scouts Can't St",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/tamu/football/the-texas-am-player-nfl-scouts-cant-stop-watching",
+      "publishedAt": "2026-07-04T13:08:56Z"
+    }
+  ],
+  "generatedAt": "2026-07-05T13:20:28.829Z",
   "note": "Transfers derived from news headlines at launch."
 }
