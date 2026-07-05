@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Breaking",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Andthevalleyshook.com",
-      "url": "https://www.andthevalleyshook.com/lsu-tigers-football/50328/breaking-atvs-exclusive-interview-with-cb-julian-juju-mcdonald",
-      "publishedAt": "2026-07-03T23:51:16Z"
-    }
-  ],
-  "generatedAt": "2026-07-04T23:57:06.169Z",
+  "transfers": [],
+  "generatedAt": "2026-07-05T08:46:10.036Z",
   "note": "Transfers derived from news headlines at launch."
 }
