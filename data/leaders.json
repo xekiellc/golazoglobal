@@ -25,115 +25,8 @@
       "topAssists": []
     },
     "PPL": {
-      "scorers": [
-        {
-          "name": "Luis Suárez",
-          "team": "Sporting CP",
-          "goals": 28,
-          "assists": 6,
-          "penalties": 5
-        },
-        {
-          "name": "Vangelis Pavlidis",
-          "team": "SL Benfica",
-          "goals": 23,
-          "assists": 3,
-          "penalties": 10
-        },
-        {
-          "name": "Yanis Begraoui",
-          "team": "Estoril Praia",
-          "goals": 20,
-          "assists": 1,
-          "penalties": 5
-        },
-        {
-          "name": "Chuchu",
-          "team": "CD Nacional",
-          "goals": 18,
-          "assists": 0,
-          "penalties": 5
-        },
-        {
-          "name": "Rodrigo Zalazar",
-          "team": "Braga",
-          "goals": 16,
-          "assists": 5,
-          "penalties": 10
-        },
-        {
-          "name": "Ricardo Horta",
-          "team": "Braga",
-          "goals": 15,
-          "assists": 4,
-          "penalties": 3
-        },
-        {
-          "name": "Samu Omorodion",
-          "team": "Porto",
-          "goals": 13,
-          "assists": 1,
-          "penalties": 5
-        },
-        {
-          "name": "Pedro Gonçalves",
-          "team": "Sporting CP",
-          "goals": 13,
-          "assists": 7,
-          "penalties": 2
-        },
-        {
-          "name": "Murilo",
-          "team": "Gil Vicente",
-          "goals": 11,
-          "assists": 4,
-          "penalties": 6
-        },
-        {
-          "name": "Pablo Felipe",
-          "team": "Gil Vicente",
-          "goals": 10,
-          "assists": 0,
-          "penalties": 2
-        }
-      ],
-      "topAssists": [
-        {
-          "name": "Pedro Gonçalves",
-          "team": "Sporting CP",
-          "goals": 13,
-          "assists": 7,
-          "penalties": 2
-        },
-        {
-          "name": "Luis Suárez",
-          "team": "Sporting CP",
-          "goals": 28,
-          "assists": 6,
-          "penalties": 5
-        },
-        {
-          "name": "Rodrigo Zalazar",
-          "team": "Braga",
-          "goals": 16,
-          "assists": 5,
-          "penalties": 10
-        },
-        {
-          "name": "Ricardo Horta",
-          "team": "Braga",
-          "goals": 15,
-          "assists": 4,
-          "penalties": 3
-        },
-        {
-          "name": "Murilo",
-          "team": "Gil Vicente",
-          "goals": 11,
-          "assists": 4,
-          "penalties": 6
-        }
-      ]
+      "scorers": [],
+      "topAssists": []
     },
     "ELC": {
       "scorers": [],
@@ -251,5 +144,5 @@
       ]
     }
   },
-  "generatedAt": "2026-07-06T00:04:44.476Z"
+  "generatedAt": "2026-07-06T10:10:57.622Z"
 }

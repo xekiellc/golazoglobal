@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "This college football analyst ranks Utah",
+      "player": "Why Duke Football Returner Bryce Davis C",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Deseret News",
-      "url": "https://www.deseret.com/sports/2026/07/04/utah-quarterback-room-elite-nationally-devon-dampier-byrd-ficklin/",
-      "publishedAt": "2026-07-05T00:00:27Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/duke/blue-devils-football-returner-bryce-davis-shock-acc",
+      "publishedAt": "2026-07-05T10:00:04Z"
+    },
+    {
+      "player": "£20m release clause",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Empire of The Kop",
+      "url": "https://www.empireofthekop.com/2026/07/05/liverpool-namechecked-in-reports-citing-interest-in-mexican-starlet/",
+      "publishedAt": "2026-07-05T09:55:00Z"
     }
   ],
-  "generatedAt": "2026-07-06T00:01:12.779Z",
+  "generatedAt": "2026-07-06T10:07:24.798Z",
   "note": "Transfers derived from news headlines at launch."
 }

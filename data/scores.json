@@ -13,9 +13,9 @@
       "league": "WC",
       "homeTeam": "Mexico",
       "awayTeam": "England",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "2026-07-06 01:00:00Z",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "FINISHED",
       "utcDate": "2026-07-06T01:00:00Z"
     },
     {
@@ -37,5 +37,5 @@
       "utcDate": "2026-07-07T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-06T00:02:36.330Z"
+  "generatedAt": "2026-07-06T10:08:46.955Z"
 }
