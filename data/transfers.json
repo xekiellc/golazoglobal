@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Real Madrid new signing’s former club pa",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Madriduniversal.com",
-      "url": "https://madriduniversal.com/real-madrid-new-signings-former-club-pay-tribute-following-transfer/",
-      "publishedAt": "2026-07-05T15:05:00Z"
-    }
-  ],
-  "generatedAt": "2026-07-06T15:20:32.581Z",
+  "transfers": [],
+  "generatedAt": "2026-07-06T19:48:59.163Z",
   "note": "Transfers derived from news headlines at launch."
 }

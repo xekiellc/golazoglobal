@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "WC",
+      "homeTeam": "Portugal",
+      "awayTeam": "Spain",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "LIVE",
+      "utcDate": "2026-07-06T19:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "Brazil",
       "awayTeam": "Norway",
       "homeScore": 1,
@@ -20,15 +29,6 @@
     },
     {
       "league": "WC",
-      "homeTeam": "Portugal",
-      "awayTeam": "Spain",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-07-06T19:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "USA",
       "awayTeam": "Belgium",
       "homeScore": null,
@@ -37,5 +37,5 @@
       "utcDate": "2026-07-07T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-06T15:21:56.094Z"
+  "generatedAt": "2026-07-06T19:50:22.956Z"
 }
