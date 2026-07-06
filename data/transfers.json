@@ -1,26 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Why Duke Football Returner Bryce Davis C",
+      "player": "Real Madrid new signing’s former club pa",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/duke/blue-devils-football-returner-bryce-davis-shock-acc",
-      "publishedAt": "2026-07-05T10:00:04Z"
-    },
-    {
-      "player": "£20m release clause",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Empire of The Kop",
-      "url": "https://www.empireofthekop.com/2026/07/05/liverpool-namechecked-in-reports-citing-interest-in-mexican-starlet/",
-      "publishedAt": "2026-07-05T09:55:00Z"
+      "source": "Madriduniversal.com",
+      "url": "https://madriduniversal.com/real-madrid-new-signings-former-club-pay-tribute-following-transfer/",
+      "publishedAt": "2026-07-05T15:05:00Z"
     }
   ],
-  "generatedAt": "2026-07-06T10:07:24.798Z",
+  "generatedAt": "2026-07-06T15:20:32.581Z",
   "note": "Transfers derived from news headlines at launch."
 }
