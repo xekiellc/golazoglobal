@@ -1,5 +1,36 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-07T14:19:30.968Z",
+  "transfers": [
+    {
+      "player": "Texas Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Athlon Sports",
+      "url": "https://athlonsports.com/college-football/texas-football-ranking-5-toughest-games-longhorns-2026",
+      "publishedAt": "2026-07-06T19:45:00Z"
+    },
+    {
+      "player": "PSG signs young goalkeeper Alessandro Lo",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/psg-longoni-signing-crypto-strategy/",
+      "publishedAt": "2026-07-06T19:44:29Z"
+    },
+    {
+      "player": "Monday Musings",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Stateoftheu.com",
+      "url": "https://www.stateoftheu.com/football-news/86980/monday-musings-miami-hurricanes-darian-mensah-high-on-a-list-that-would-mean-a-tremendous-season-is-loading",
+      "publishedAt": "2026-07-06T19:37:39Z"
+    }
+  ],
+  "generatedAt": "2026-07-07T19:47:22.283Z",
   "note": "Transfers derived from news headlines at launch."
 }

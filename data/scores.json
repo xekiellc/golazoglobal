@@ -31,9 +31,9 @@
       "league": "WC",
       "homeTeam": "Argentina",
       "awayTeam": "Egypt",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-07-07T16:00:00Z"
     },
     {
@@ -46,5 +46,5 @@
       "utcDate": "2026-07-07T20:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-07T14:20:54.082Z"
+  "generatedAt": "2026-07-07T19:48:48.298Z"
 }
