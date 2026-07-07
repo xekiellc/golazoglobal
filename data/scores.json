@@ -22,9 +22,9 @@
       "league": "WC",
       "homeTeam": "USA",
       "awayTeam": "Belgium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "FINISHED",
       "utcDate": "2026-07-07T00:00:00Z"
     },
     {
@@ -46,5 +46,5 @@
       "utcDate": "2026-07-07T20:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-07T00:03:55.647Z"
+  "generatedAt": "2026-07-07T09:33:36.151Z"
 }
