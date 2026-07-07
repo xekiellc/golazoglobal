@@ -40,11 +40,11 @@
       "league": "WC",
       "homeTeam": "Switzerland",
       "awayTeam": "Colombia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 4,
+      "awayScore": 3,
+      "status": "FINISHED",
       "utcDate": "2026-07-07T20:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-07T19:48:48.298Z"
+  "generatedAt": "2026-07-07T23:55:38.540Z"
 }
