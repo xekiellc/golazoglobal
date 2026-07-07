@@ -2,24 +2,6 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "Portugal",
-      "awayTeam": "Spain",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "LIVE",
-      "utcDate": "2026-07-06T19:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Brazil",
-      "awayTeam": "Norway",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-07-05T20:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Mexico",
       "awayTeam": "England",
       "homeScore": 2,
@@ -29,13 +11,40 @@
     },
     {
       "league": "WC",
+      "homeTeam": "Portugal",
+      "awayTeam": "Spain",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-07-06T19:00:00Z"
+    },
+    {
+      "league": "WC",
       "homeTeam": "USA",
       "awayTeam": "Belgium",
       "homeScore": null,
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-07-07T00:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Argentina",
+      "awayTeam": "Egypt",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-07T16:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Switzerland",
+      "awayTeam": "Colombia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-07T20:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-06T19:50:22.956Z"
+  "generatedAt": "2026-07-07T00:03:55.647Z"
 }

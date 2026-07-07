@@ -1,5 +1,26 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-06T19:48:59.163Z",
+  "transfers": [
+    {
+      "player": "Iowa Football Season",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/iowa/football/iowa-football-season-opener-northern-illinois-transfer-portal",
+      "publishedAt": "2026-07-06T00:01:00Z"
+    },
+    {
+      "player": "Manchester United denies Ederson transfe",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/manchester-united-ederson-transfer-deal-intact/",
+      "publishedAt": "2026-07-05T23:49:52Z"
+    }
+  ],
+  "generatedAt": "2026-07-07T00:02:32.582Z",
   "note": "Transfers derived from news headlines at launch."
 }
