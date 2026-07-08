@@ -1,36 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Chelsea’s summer fire sale collides with",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/chelsea-transfer-fire-sale-crypto-sponsorship/",
-      "publishedAt": "2026-07-07T08:16:50Z"
-    },
-    {
-      "player": "Why SCR will allow Spurs to keep spendin",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c932489jzjlo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "publishedAt": "2026-07-07T08:14:51Z"
-    },
-    {
-      "player": "What to watch for at 2026 Big 12 Footbal",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Topeka Capital-Journal",
-      "url": "https://www.cjonline.com/story/sports/college/cat-zone/2026/07/07/big-12-football-media-days-preview-texas-tech-brendan-sorsby-schedule-watch/90302205007/",
-      "publishedAt": "2026-07-07T08:00:56Z"
-    }
-  ],
-  "generatedAt": "2026-07-08T08:17:53.826Z",
+  "transfers": [],
+  "generatedAt": "2026-07-08T13:50:53.327Z",
   "note": "Transfers derived from news headlines at launch."
 }
