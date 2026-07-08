@@ -1,5 +1,36 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-08T13:50:53.327Z",
+  "transfers": [
+    {
+      "player": "Clemson Football Depth Chart Outlook",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/clemson/football/clemson-football-depth-chart-outlook-running-back-2026",
+      "publishedAt": "2026-07-07T19:10:08Z"
+    },
+    {
+      "player": "Brett Yormark shoots down Brendan Sorsby",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Oklahoman.com",
+      "url": "https://www.oklahoman.com/story/sports/college/cowboys/2026/07/07/brett-yormark-brendan-sorsby-questions-big-12-football-media-days-texas-tech/90833559007/",
+      "publishedAt": "2026-07-07T19:10:03Z"
+    },
+    {
+      "player": "Notre Dame football's transfer portal st",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Atozsports.com",
+      "url": "https://atozsports.com/college-football/notre-dame-fighting-irish-news/notre-dame-football-transfer-portal-strategy-massive-shift-quincy-porter-mylan-graham-francis-brewu-marcus-freeman/",
+      "publishedAt": "2026-07-07T19:10:02Z"
+    }
+  ],
+  "generatedAt": "2026-07-08T19:16:43.795Z",
   "note": "Transfers derived from news headlines at launch."
 }
