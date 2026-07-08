@@ -2,24 +2,6 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "Mexico",
-      "awayTeam": "England",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-07-06T01:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Portugal",
-      "awayTeam": "Spain",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-07-06T19:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "USA",
       "awayTeam": "Belgium",
       "homeScore": 1,
@@ -46,5 +28,5 @@
       "utcDate": "2026-07-07T20:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-07T23:55:38.540Z"
+  "generatedAt": "2026-07-08T08:19:17.447Z"
 }
