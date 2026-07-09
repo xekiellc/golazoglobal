@@ -1,5 +1,46 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-09T14:45:37.998Z",
+  "transfers": [
+    {
+      "player": "Sevilla signs Ghanaian player Emmanuel A",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/sevilla-signs-ghanaian-abrokwa-2029/",
+      "publishedAt": "2026-07-08T19:35:02Z"
+    },
+    {
+      "player": "Scott Satterfield says Texas Tech tamper",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Cincinnati Enquirer",
+      "url": "https://www.cincinnati.com/story/sports/college/university-of-cincinnati/2026/07/08/scott-satterfield-texas-tech-tampered-brendan-sorsby/90852551007/",
+      "publishedAt": "2026-07-08T19:28:25Z"
+    },
+    {
+      "player": "Scott Satterfield",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/big12/2026/07/08/brendan-sorsby-texas-tech-tampering-scott-satterfield/90850797007/",
+      "publishedAt": "2026-07-08T19:18:15Z"
+    },
+    {
+      "player": "Cincinnati faces NCAA inquiry connected ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/ncaa-cincinnati-inquiry-brendan-sorsby-gambling-case/",
+      "publishedAt": "2026-07-08T19:17:16Z"
+    }
+  ],
+  "generatedAt": "2026-07-09T19:36:38.946Z",
   "note": "Transfers derived from news headlines at launch."
 }
