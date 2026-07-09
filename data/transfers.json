@@ -1,5 +1,26 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-09T00:05:06.360Z",
+  "transfers": [
+    {
+      "player": "Barcelona plan to promote 18",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Barcauniversal.com",
+      "url": "https://barcauniversal.com/barcelona-plan-to-promote-18-year-old-academy-forward-to-hansi-flicks-first-team/",
+      "publishedAt": "2026-07-08T09:25:00Z"
+    },
+    {
+      "player": "Colorado coach Deion Sanders owns up to ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/07/08/deion-sanders-mistake-big-12-media-days-colorado-football-quarterback-julian-lewis/90843299007/",
+      "publishedAt": "2026-07-08T09:09:19Z"
+    }
+  ],
+  "generatedAt": "2026-07-09T09:28:59.266Z",
   "note": "Transfers derived from news headlines at launch."
 }
