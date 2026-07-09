@@ -2,31 +2,13 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "USA",
-      "awayTeam": "Belgium",
-      "homeScore": 1,
-      "awayScore": 4,
-      "status": "FINISHED",
-      "utcDate": "2026-07-07T00:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Argentina",
-      "awayTeam": "Egypt",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-07-07T16:00:00Z"
-    },
-    {
-      "league": "WC",
-      "homeTeam": "Switzerland",
-      "awayTeam": "Colombia",
-      "homeScore": 4,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-07-07T20:00:00Z"
+      "homeTeam": "France",
+      "awayTeam": "Morocco",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-09T20:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-08T19:18:06.762Z"
+  "generatedAt": "2026-07-09T00:06:29.515Z"
 }
