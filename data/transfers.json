@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Michigan Football position groups that h",
+      "player": "Arab Israeli soccer star Anan Khalaili t",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Maize n Brew",
-      "url": "https://www.maizenbrew.com/football/118069/michigan-football-position-rankings-quarterback-bryce-underwood-savion-hiter-jordan-marshall-2026-season",
-      "publishedAt": "2026-07-09T14:00:00Z"
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/sports/article-902053",
+      "publishedAt": "2026-07-09T19:14:49Z"
     },
     {
-      "player": "Kirby Smart’s SEC recognition shows why ",
+      "player": "Bret Bielema among some impressive names",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/kirby-smart-sec-coach-rankings-georgia-built-to-last/",
-      "publishedAt": "2026-07-09T14:00:00Z"
+      "source": "Writing Illini",
+      "url": "https://writingillini.com/bret-bielema-among-some-impressive-names-on-dodd-trophy-preseason-watch-list",
+      "publishedAt": "2026-07-09T19:10:49Z"
+    },
+    {
+      "player": "Barcelona’s BAR fan token faces volatili",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/barcelona-bar-fan-token-gordon-world-cup/",
+      "publishedAt": "2026-07-09T19:10:02Z"
+    },
+    {
+      "player": "MLB Draft 2026",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/mlb/article/mlb-draft-2026-top-50-draft-prospects-starting-with-roch-cholowsky-grady-emerson-and-vahn-lackey-190532005.html",
+      "publishedAt": "2026-07-09T19:05:32Z"
     }
   ],
-  "generatedAt": "2026-07-10T14:09:58.866Z",
+  "generatedAt": "2026-07-10T19:20:24.505Z",
   "note": "Transfers derived from news headlines at launch."
 }
