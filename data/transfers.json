@@ -1,46 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Arab Israeli soccer star Anan Khalaili t",
+      "player": "Auburn 2010 National Champion Talks Alex",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/sports/article-902053",
-      "publishedAt": "2026-07-09T19:14:49Z"
-    },
-    {
-      "player": "Bret Bielema among some impressive names",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Writing Illini",
-      "url": "https://writingillini.com/bret-bielema-among-some-impressive-names-on-dodd-trophy-preseason-watch-list",
-      "publishedAt": "2026-07-09T19:10:49Z"
-    },
-    {
-      "player": "Barcelona’s BAR fan token faces volatili",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/barcelona-bar-fan-token-gordon-world-cup/",
-      "publishedAt": "2026-07-09T19:10:02Z"
-    },
-    {
-      "player": "MLB Draft 2026",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/mlb/article/mlb-draft-2026-top-50-draft-prospects-starting-with-roch-cholowsky-grady-emerson-and-vahn-lackey-190532005.html",
-      "publishedAt": "2026-07-09T19:05:32Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/auburn/football/auburn-2010-national-champion-kodi-burns-talks-alex-golesh",
+      "publishedAt": "2026-07-09T23:30:00Z"
     }
   ],
-  "generatedAt": "2026-07-10T19:20:24.505Z",
+  "generatedAt": "2026-07-10T23:54:18.825Z",
   "note": "Transfers derived from news headlines at launch."
 }
