@@ -4,11 +4,20 @@
       "league": "WC",
       "homeTeam": "France",
       "awayTeam": "Morocco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-07-09T20:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Spain",
+      "awayTeam": "Belgium",
       "homeScore": null,
       "awayScore": null,
       "status": "TIMED",
-      "utcDate": "2026-07-09T20:00:00Z"
+      "utcDate": "2026-07-10T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-09T19:38:02.152Z"
+  "generatedAt": "2026-07-10T00:01:45.382Z"
 }

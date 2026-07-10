@@ -1,46 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Sevilla signs Ghanaian player Emmanuel A",
+      "player": "Iowa State Football Coach Jimmy Rogers W",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/sevilla-signs-ghanaian-abrokwa-2029/",
-      "publishedAt": "2026-07-08T19:35:02Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/iowa-state/iowa-state-football-coach-jimmy-rogers-wisely-names-frontrunner-for-starting-qb-job",
+      "publishedAt": "2026-07-09T00:00:02Z"
     },
     {
-      "player": "Scott Satterfield says Texas Tech tamper",
+      "player": "Bombshell",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Cincinnati Enquirer",
-      "url": "https://www.cincinnati.com/story/sports/college/university-of-cincinnati/2026/07/08/scott-satterfield-texas-tech-tampered-brendan-sorsby/90852551007/",
-      "publishedAt": "2026-07-08T19:28:25Z"
-    },
-    {
-      "player": "Scott Satterfield",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/big12/2026/07/08/brendan-sorsby-texas-tech-tampering-scott-satterfield/90850797007/",
-      "publishedAt": "2026-07-08T19:18:15Z"
-    },
-    {
-      "player": "Cincinnati faces NCAA inquiry connected ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/ncaa-cincinnati-inquiry-brendan-sorsby-gambling-case/",
-      "publishedAt": "2026-07-08T19:17:16Z"
+      "source": "Onefootball.com",
+      "url": "https://onefootball.com/en/news/bombshell-franco-armani-leaves-river-return-to-nacional-nears-43115393",
+      "publishedAt": "2026-07-08T23:55:00Z"
     }
   ],
-  "generatedAt": "2026-07-09T19:36:38.946Z",
+  "generatedAt": "2026-07-10T00:00:20.202Z",
   "note": "Transfers derived from news headlines at launch."
 }
