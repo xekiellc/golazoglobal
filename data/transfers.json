@@ -1,26 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Iowa State Football Coach Jimmy Rogers W",
+      "player": "Kenny Dillingham had Michigan offer. How",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/iowa-state/iowa-state-football-coach-jimmy-rogers-wisely-names-frontrunner-for-starting-qb-job",
-      "publishedAt": "2026-07-09T00:00:02Z"
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/big12/2026/07/09/kenny-dillingham-dinner-michigan-offer-arizona-state/90850579007/",
+      "publishedAt": "2026-07-09T09:13:15Z"
     },
     {
-      "player": "Bombshell",
+      "player": "France national team uses ICE deportatio",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Onefootball.com",
-      "url": "https://onefootball.com/en/news/bombshell-franco-armani-leaves-river-return-to-nacional-nears-43115393",
-      "publishedAt": "2026-07-08T23:55:00Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/france-national-team-uses-ice-090001384.html",
+      "publishedAt": "2026-07-09T09:00:01Z"
     }
   ],
-  "generatedAt": "2026-07-10T00:00:20.202Z",
+  "generatedAt": "2026-07-10T09:25:25.914Z",
   "note": "Transfers derived from news headlines at launch."
 }
