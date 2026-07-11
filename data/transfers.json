@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Gila between joy of Milan ‘potential’ an",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Football Italia",
-      "url": "https://football-italia.net/gila-joy-milan-potential-pain-of-lazio-goodbye/",
-      "publishedAt": "2026-07-10T18:41:56Z"
-    },
-    {
-      "player": "Alabama football 2028 recruiting class a",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Tuscaloosa News",
-      "url": "https://www.tuscaloosanews.com/story/sports/college/football/2026/07/10/kingston-preyear-commits-alabama-football-2028-recruiting-class-analysis/90790335007/",
-      "publishedAt": "2026-07-10T18:41:08Z"
-    }
-  ],
-  "generatedAt": "2026-07-11T18:53:51.945Z",
+  "transfers": [],
+  "generatedAt": "2026-07-11T23:49:37.941Z",
   "note": "Transfers derived from news headlines at launch."
 }
