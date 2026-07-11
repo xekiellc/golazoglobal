@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "The Dub",
+      "player": "Friday Flakes",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c20y7v9v2nro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "publishedAt": "2026-07-10T07:40:57Z"
+      "source": "Corn Nation",
+      "url": "https://www.cornnation.com/football/98456/friday-flakes-nebraska-quarterback-anthony-colandrea-has-opportunity-to-surprise-this-season",
+      "publishedAt": "2026-07-10T13:01:00Z"
     },
     {
-      "player": "Colorado Football Preview 2026",
+      "player": "One unique thing each new member in Miss",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "College Football News",
-      "url": "https://collegefootballnews.com/college-football/colorado-football-preview-2026",
-      "publishedAt": "2026-07-10T07:36:38Z"
+      "source": "Rockmnation.com",
+      "url": "https://www.rockmnation.com/missouri-tigers-football/150082/one-unique-thing-each-new-member-in-missouris-secondary-brings-to-the-table",
+      "publishedAt": "2026-07-10T13:00:00Z"
+    },
+    {
+      "player": "FSU baseball in MLB draft 2026",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Tallahassee Democrat",
+      "url": "https://www.tallahassee.com/story/sports/college/fsu/baseball/2026/07/10/mlb-draft-2026-florida-state-baseball-players-selected/90835851007/",
+      "publishedAt": "2026-07-10T12:54:43Z"
     }
   ],
-  "generatedAt": "2026-07-11T07:47:05.520Z",
+  "generatedAt": "2026-07-11T13:06:36.414Z",
   "note": "Transfers derived from news headlines at launch."
 }
