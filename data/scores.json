@@ -2,22 +2,22 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "France",
-      "awayTeam": "Morocco",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-07-09T20:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "Spain",
       "awayTeam": "Belgium",
       "homeScore": 2,
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-07-10T19:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Norway",
+      "awayTeam": "England",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-11T21:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-10T23:55:41.823Z"
+  "generatedAt": "2026-07-11T07:48:31.303Z"
 }
