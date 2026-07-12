@@ -1,5 +1,26 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-12T08:08:00.456Z",
+  "transfers": [
+    {
+      "player": "College football wild card teams",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/college-football-wild-card-florida-michigan-2026/",
+      "publishedAt": "2026-07-11T13:02:54Z"
+    },
+    {
+      "player": "Eight Of The Most Impactful Transfer Por",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/lsu/football/eight-of-the-most-impactful-transfer-portal-additions-to-lsu-roster",
+      "publishedAt": "2026-07-11T13:00:08Z"
+    }
+  ],
+  "generatedAt": "2026-07-12T13:07:27.169Z",
   "note": "Transfers derived from news headlines at launch."
 }
