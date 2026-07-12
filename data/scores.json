@@ -6,18 +6,18 @@
       "awayTeam": "England",
       "homeScore": 1,
       "awayScore": 2,
-      "status": "PAUSED",
+      "status": "FINISHED",
       "utcDate": "2026-07-11T21:00:00Z"
     },
     {
       "league": "WC",
-      "homeTeam": "Spain",
-      "awayTeam": "Belgium",
-      "homeScore": 2,
+      "homeTeam": "Argentina",
+      "awayTeam": "Switzerland",
+      "homeScore": 3,
       "awayScore": 1,
       "status": "FINISHED",
-      "utcDate": "2026-07-10T19:00:00Z"
+      "utcDate": "2026-07-12T01:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-11T23:51:01.531Z"
+  "generatedAt": "2026-07-12T08:09:25.484Z"
 }
