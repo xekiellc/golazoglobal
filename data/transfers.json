@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Qatar's former ruler Sheikh Hamad bin Kh",
+      "player": "Gattuso Tells Lotito to ‘Talk Less’, Rev",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/qatars-former-ruler-sheikh-hamad-bin-khalifa-al-134688542",
-      "publishedAt": "2026-07-12T08:57:03Z"
+      "source": "Thelaziali.com",
+      "url": "https://thelaziali.com/2026/07/12/gattuso-lotito-talk-lazio-mario-gila/",
+      "publishedAt": "2026-07-12T14:20:00Z"
+    },
+    {
+      "player": "Atlético CEO gives update on move for Fr",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Onefootball.com",
+      "url": "https://onefootball.com/en/news/atletico-ceo-gives-update-on-move-for-fred-43129661",
+      "publishedAt": "2026-07-12T14:13:00Z"
     }
   ],
-  "generatedAt": "2026-07-13T08:58:18.507Z",
+  "generatedAt": "2026-07-13T14:21:37.752Z",
   "note": "Transfers derived from news headlines at launch."
 }
