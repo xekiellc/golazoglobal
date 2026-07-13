@@ -1,26 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Gattuso Tells Lotito to ‘Talk Less’, Rev",
+      "player": "Jedd Fisch explains why Demond Williams ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Thelaziali.com",
-      "url": "https://thelaziali.com/2026/07/12/gattuso-lotito-talk-lazio-mario-gila/",
-      "publishedAt": "2026-07-12T14:20:00Z"
-    },
-    {
-      "player": "Atlético CEO gives update on move for Fr",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Onefootball.com",
-      "url": "https://onefootball.com/en/news/atletico-ceo-gives-update-on-move-for-fred-43129661",
-      "publishedAt": "2026-07-12T14:13:00Z"
+      "source": "USA Today",
+      "url": "https://collegesportswire.usatoday.com/story/sports/college/college-football/2026/07/12/washington-football-jedd-fisch-demond-williams-transfer-portal-explained/90894740007/",
+      "publishedAt": "2026-07-12T19:02:28Z"
     }
   ],
-  "generatedAt": "2026-07-13T14:21:37.752Z",
+  "generatedAt": "2026-07-13T19:17:36.235Z",
   "note": "Transfers derived from news headlines at launch."
 }
