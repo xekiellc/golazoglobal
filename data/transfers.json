@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-12T23:47:40.990Z",
+  "transfers": [
+    {
+      "player": "Qatar's former ruler Sheikh Hamad bin Kh",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/qatars-former-ruler-sheikh-hamad-bin-khalifa-al-134688542",
+      "publishedAt": "2026-07-12T08:57:03Z"
+    }
+  ],
+  "generatedAt": "2026-07-13T08:58:18.507Z",
   "note": "Transfers derived from news headlines at launch."
 }
