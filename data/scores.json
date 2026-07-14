@@ -2,13 +2,13 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "Argentina",
-      "awayTeam": "Switzerland",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-07-12T01:00:00Z"
+      "homeTeam": "France",
+      "awayTeam": "Spain",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-14T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-13T23:50:49.927Z"
+  "generatedAt": "2026-07-14T07:55:06.501Z"
 }
