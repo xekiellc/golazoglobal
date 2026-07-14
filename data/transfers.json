@@ -1,16 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Man United confirm £50m signing of Andre",
+      "player": "What Huskies' 2027 Football Commits Look",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/football/article-15973793/Man-United-confirm-50m-signing-Andrey-Santos-Chelsea-PULL-39m-Ederson-deal-Youri-Tielemans-35m-revamp-midfield.html",
-      "publishedAt": "2026-07-13T13:16:19Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/washington/recruiting/what-huskies-2027-football-commits-look-like-as-team-01kx99swgc9d",
+      "publishedAt": "2026-07-13T19:03:20Z"
+    },
+    {
+      "player": "Which Oklahoma Players Will Be Stars in ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/oklahoma/football/which-oklahoma-players-will-be-stars-in-college-fantasy-football-01kxe6f22a4g",
+      "publishedAt": "2026-07-13T19:00:05Z"
+    },
+    {
+      "player": "Ranking Wisconsin Football's Defensive T",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/wisconsin/football/ranking-wisconsin-football-defensive-transfers-by-impact-for-2026",
+      "publishedAt": "2026-07-13T19:00:05Z"
+    },
+    {
+      "player": "Great news, Liverpool's perfect winger i",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Anfieldwatch.co.uk",
+      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/great-news-liverpools-perfect-winger-is-now-waiting-to-be-signed/",
+      "publishedAt": "2026-07-13T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-14T13:21:48.829Z",
+  "generatedAt": "2026-07-14T19:10:54.437Z",
   "note": "Transfers derived from news headlines at launch."
 }
