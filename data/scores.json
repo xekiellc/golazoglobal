@@ -5,10 +5,10 @@
       "homeTeam": "France",
       "awayTeam": "Spain",
       "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-07-14T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-14T19:12:17.543Z"
+  "generatedAt": "2026-07-14T23:49:31.888Z"
 }
