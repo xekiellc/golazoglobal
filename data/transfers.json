@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Beyond the World Cup... The 5️⃣ stories ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_78b307a7-27a4-41e1-bd57-c546b0cd02fb",
-      "publishedAt": "2026-07-14T07:26:00Z"
-    }
-  ],
-  "generatedAt": "2026-07-15T07:58:29.499Z",
+  "transfers": [],
+  "generatedAt": "2026-07-15T13:24:53.117Z",
   "note": "Transfers derived from news headlines at launch."
 }
