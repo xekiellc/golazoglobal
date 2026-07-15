@@ -8,7 +8,16 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-07-14T19:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "England",
+      "awayTeam": "Argentina",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-15T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-14T23:49:31.888Z"
+  "generatedAt": "2026-07-15T07:59:55.000Z"
 }
