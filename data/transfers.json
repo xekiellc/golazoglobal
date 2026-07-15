@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-15T13:24:53.117Z",
+  "transfers": [
+    {
+      "player": "Could Arsenal get in trouble for tapping",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Just Arsenal News",
+      "url": "https://www.justarsenal.com/could-arsenal-get-in-trouble-for-tapping-up-guimaraes/418579",
+      "publishedAt": "2026-07-14T19:00:00Z"
+    }
+  ],
+  "generatedAt": "2026-07-15T19:02:43.323Z",
   "note": "Transfers derived from news headlines at launch."
 }
