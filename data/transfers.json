@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "“Culmination of years of dedication”",
+      "player": "\"I Needed to Do Better\"",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Footballmuse.com",
-      "url": "https://www.footballmuse.com/news/youri-tielemans-interview-manchester-united-transfer-news",
-      "publishedAt": "2026-07-15T07:55:00Z"
+      "source": "Essentially Sports",
+      "url": "https://www.essentiallysports.com/ncaa-college-football-news-i-needed-to-do-better-fired-brian-kelly-owns-up-to-lsu-mistakes-in-honest-admission/",
+      "publishedAt": "2026-07-15T13:35:52Z"
+    },
+    {
+      "player": "UCF Knights' Scott Frost Expects Smoothe",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/ucf/news/ucf-knights-scott-frost-expects-smoother-transition-this-season",
+      "publishedAt": "2026-07-15T13:21:14Z"
+    },
+    {
+      "player": "Hurricanes likely won’t turn to portal f",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sun Sentinel",
+      "url": "https://www.sun-sentinel.com/2026/07/15/um-portal-qb/",
+      "publishedAt": "2026-07-15T13:18:00Z"
     }
   ],
-  "generatedAt": "2026-07-16T08:03:31.280Z",
+  "generatedAt": "2026-07-16T13:39:14.889Z",
   "note": "Transfers derived from news headlines at launch."
 }
