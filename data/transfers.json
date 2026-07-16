@@ -1,36 +1,56 @@
 {
   "transfers": [
     {
-      "player": "\"I Needed to Do Better\"",
+      "player": "Great Falls’ Reed Harris ranking high on",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Essentially Sports",
-      "url": "https://www.essentiallysports.com/ncaa-college-football-news-i-needed-to-do-better-fired-brian-kelly-owns-up-to-lsu-mistakes-in-honest-admission/",
-      "publishedAt": "2026-07-15T13:35:52Z"
+      "source": "Great Falls Tribune",
+      "url": "https://www.greatfallstribune.com/story/sports/college/2026/07/15/great-falls-reed-harris-ranking-high-on-ea-sports-college-football-27/90877297007/",
+      "publishedAt": "2026-07-15T19:00:43Z"
     },
     {
-      "player": "UCF Knights' Scott Frost Expects Smoothe",
+      "player": "Three Things You Can Guarantee About Vir",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/ucf/news/ucf-knights-scott-frost-expects-smoother-transition-this-season",
-      "publishedAt": "2026-07-15T13:21:14Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/virginiatech/football/three-things-you-can-guarantee-about-virginia-tech-football-in-2026-01kxj7q35qfg",
+      "publishedAt": "2026-07-15T19:00:05Z"
     },
     {
-      "player": "Hurricanes likely won’t turn to portal f",
+      "player": "Preseason rankings are largely meaningle",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sun Sentinel",
-      "url": "https://www.sun-sentinel.com/2026/07/15/um-portal-qb/",
-      "publishedAt": "2026-07-15T13:18:00Z"
+      "source": "Deseret News",
+      "url": "https://www.deseret.com/sports/2026/07/15/byu-cougars-preseason-rankings-meanless-but-do-matter/",
+      "publishedAt": "2026-07-15T19:00:00Z"
+    },
+    {
+      "player": "Mike Norvell on 2026 FSU football team",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Tomahawk Nation",
+      "url": "https://www.tomahawknation.com/florida-state-football-fsu-seminoles-college-cfb-acc-norvell-team-roster-schedule-game/134327/mike-norvell-acc-kickoff-tallahassee-charlotte-michael-alford-ashton-daniels",
+      "publishedAt": "2026-07-15T18:59:12Z"
+    },
+    {
+      "player": "Florida State's Mike Norvell sees shades",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/florida-state-mike-norvell-make-or-break-year/",
+      "publishedAt": "2026-07-15T18:49:16Z"
     }
   ],
-  "generatedAt": "2026-07-16T13:39:14.889Z",
+  "generatedAt": "2026-07-16T19:01:52.116Z",
   "note": "Transfers derived from news headlines at launch."
 }
