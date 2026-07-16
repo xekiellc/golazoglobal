@@ -1,56 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Great Falls’ Reed Harris ranking high on",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Great Falls Tribune",
-      "url": "https://www.greatfallstribune.com/story/sports/college/2026/07/15/great-falls-reed-harris-ranking-high-on-ea-sports-college-football-27/90877297007/",
-      "publishedAt": "2026-07-15T19:00:43Z"
-    },
-    {
-      "player": "Three Things You Can Guarantee About Vir",
+      "player": "The Ole Miss Offense Could Be Nearly Uns",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/virginiatech/football/three-things-you-can-guarantee-about-virginia-tech-football-in-2026-01kxj7q35qfg",
-      "publishedAt": "2026-07-15T19:00:05Z"
-    },
-    {
-      "player": "Preseason rankings are largely meaningle",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Deseret News",
-      "url": "https://www.deseret.com/sports/2026/07/15/byu-cougars-preseason-rankings-meanless-but-do-matter/",
-      "publishedAt": "2026-07-15T19:00:00Z"
-    },
-    {
-      "player": "Mike Norvell on 2026 FSU football team",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Tomahawk Nation",
-      "url": "https://www.tomahawknation.com/florida-state-football-fsu-seminoles-college-cfb-acc-norvell-team-roster-schedule-game/134327/mike-norvell-acc-kickoff-tallahassee-charlotte-michael-alford-ashton-daniels",
-      "publishedAt": "2026-07-15T18:59:12Z"
-    },
-    {
-      "player": "Florida State's Mike Norvell sees shades",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/florida-state-mike-norvell-make-or-break-year/",
-      "publishedAt": "2026-07-15T18:49:16Z"
+      "url": "https://www.si.com/college/olemiss/football/the-ole-miss-offense-could-be-nearly-unstoppable-inside-the-20",
+      "publishedAt": "2026-07-15T23:39:48Z"
     }
   ],
-  "generatedAt": "2026-07-16T19:01:52.116Z",
+  "generatedAt": "2026-07-16T23:53:53.545Z",
   "note": "Transfers derived from news headlines at launch."
 }

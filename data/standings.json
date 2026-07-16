@@ -2151,6 +2151,19 @@
       },
       {
         "position": 9,
+        "team": "Botafogo",
+        "played": 18,
+        "won": 7,
+        "drawn": 4,
+        "lost": 7,
+        "goalsFor": 32,
+        "goalsAgainst": 31,
+        "goalDifference": 1,
+        "points": 25,
+        "form": ""
+      },
+      {
+        "position": 10,
         "team": "Mineiro",
         "played": 18,
         "won": 7,
@@ -2163,7 +2176,7 @@
         "form": ""
       },
       {
-        "position": 10,
+        "position": 11,
         "team": "Corinthians",
         "played": 18,
         "won": 6,
@@ -2176,7 +2189,7 @@
         "form": ""
       },
       {
-        "position": 11,
+        "position": 12,
         "team": "Cruzeiro",
         "played": 18,
         "won": 6,
@@ -2189,29 +2202,16 @@
         "form": ""
       },
       {
-        "position": 12,
-        "team": "Botafogo",
-        "played": 17,
-        "won": 6,
-        "drawn": 4,
-        "lost": 7,
-        "goalsFor": 31,
-        "goalsAgainst": 31,
-        "goalDifference": 0,
-        "points": 22,
-        "form": ""
-      },
-      {
         "position": 13,
         "team": "Vitória",
-        "played": 17,
+        "played": 18,
         "won": 6,
-        "drawn": 4,
+        "drawn": 5,
         "lost": 7,
         "goalsFor": 21,
         "goalsAgainst": 25,
         "goalDifference": -4,
-        "points": 22,
+        "points": 23,
         "form": ""
       },
       {
@@ -2229,19 +2229,6 @@
       },
       {
         "position": 15,
-        "team": "Santos",
-        "played": 18,
-        "won": 5,
-        "drawn": 6,
-        "lost": 7,
-        "goalsFor": 26,
-        "goalsAgainst": 29,
-        "goalDifference": -3,
-        "points": 21,
-        "form": ""
-      },
-      {
-        "position": 16,
         "team": "Grêmio",
         "played": 18,
         "won": 5,
@@ -2254,16 +2241,29 @@
         "form": ""
       },
       {
+        "position": 16,
+        "team": "Santos",
+        "played": 19,
+        "won": 5,
+        "drawn": 6,
+        "lost": 8,
+        "goalsFor": 26,
+        "goalsAgainst": 30,
+        "goalDifference": -4,
+        "points": 21,
+        "form": ""
+      },
+      {
         "position": 17,
         "team": "Vasco da Gama",
-        "played": 18,
+        "played": 19,
         "won": 5,
-        "drawn": 5,
+        "drawn": 6,
         "lost": 8,
         "goalsFor": 22,
         "goalsAgainst": 29,
         "goalDifference": -7,
-        "points": 20,
+        "points": 21,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-07-16T19:04:16.527Z"
+  "generatedAt": "2026-07-16T23:56:18.887Z"
 }
