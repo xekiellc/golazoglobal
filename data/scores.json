@@ -2,22 +2,31 @@
   "matches": [
     {
       "league": "WC",
-      "homeTeam": "France",
-      "awayTeam": "Spain",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-07-14T19:00:00Z"
-    },
-    {
-      "league": "WC",
       "homeTeam": "England",
       "awayTeam": "Argentina",
       "homeScore": 1,
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-07-15T19:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Santos",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-16T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Vitória",
+      "awayTeam": "Vasco da Gama",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-16T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-07-15T23:56:16.823Z"
+  "generatedAt": "2026-07-16T08:04:54.070Z"
 }
