@@ -2,6 +2,33 @@
   "matches": [
     {
       "league": "BSA",
+      "homeTeam": "Bahia",
+      "awayTeam": "Chapecoense",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-07-17T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Bragantino",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "LIVE",
+      "utcDate": "2026-07-17T23:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Grêmio",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "LIVE",
+      "utcDate": "2026-07-17T23:00:00Z"
+    },
+    {
+      "league": "BSA",
       "homeTeam": "Botafogo",
       "awayTeam": "Santos",
       "homeScore": 2,
@@ -17,34 +44,7 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-07-16T22:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Bahia",
-      "awayTeam": "Chapecoense",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-07-17T22:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Fluminense",
-      "awayTeam": "Bragantino",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-07-17T23:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Mirassol",
-      "awayTeam": "Grêmio",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-07-17T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-17T19:00:55.400Z"
+  "generatedAt": "2026-07-17T23:48:23.591Z"
 }
