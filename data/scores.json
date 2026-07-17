@@ -4,29 +4,47 @@
       "league": "BSA",
       "homeTeam": "Botafogo",
       "awayTeam": "Santos",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-07-16T22:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Vitória",
       "awayTeam": "Vasco da Gama",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-07-16T22:30:00Z"
     },
     {
-      "league": "WC",
-      "homeTeam": "England",
-      "awayTeam": "Argentina",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-07-15T19:00:00Z"
+      "league": "BSA",
+      "homeTeam": "Bahia",
+      "awayTeam": "Chapecoense",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-17T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Bragantino",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-17T23:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Grêmio",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-17T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-16T23:55:17.060Z"
+  "generatedAt": "2026-07-17T08:01:44.412Z"
 }

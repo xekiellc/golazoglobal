@@ -2156,14 +2156,27 @@
         "won": 7,
         "drawn": 4,
         "lost": 7,
-        "goalsFor": 32,
-        "goalsAgainst": 31,
+        "goalsFor": 33,
+        "goalsAgainst": 32,
         "goalDifference": 1,
         "points": 25,
         "form": ""
       },
       {
         "position": 10,
+        "team": "Vitória",
+        "played": 18,
+        "won": 7,
+        "drawn": 4,
+        "lost": 7,
+        "goalsFor": 22,
+        "goalsAgainst": 25,
+        "goalDifference": -3,
+        "points": 25,
+        "form": ""
+      },
+      {
+        "position": 11,
         "team": "Mineiro",
         "played": 18,
         "won": 7,
@@ -2176,7 +2189,7 @@
         "form": ""
       },
       {
-        "position": 11,
+        "position": 12,
         "team": "Corinthians",
         "played": 18,
         "won": 6,
@@ -2189,7 +2202,7 @@
         "form": ""
       },
       {
-        "position": 12,
+        "position": 13,
         "team": "Cruzeiro",
         "played": 18,
         "won": 6,
@@ -2199,19 +2212,6 @@
         "goalsAgainst": 28,
         "goalDifference": -4,
         "points": 24,
-        "form": ""
-      },
-      {
-        "position": 13,
-        "team": "Vitória",
-        "played": 18,
-        "won": 6,
-        "drawn": 5,
-        "lost": 7,
-        "goalsFor": 21,
-        "goalsAgainst": 25,
-        "goalDifference": -4,
-        "points": 23,
         "form": ""
       },
       {
@@ -2247,8 +2247,8 @@
         "won": 5,
         "drawn": 6,
         "lost": 8,
-        "goalsFor": 26,
-        "goalsAgainst": 30,
+        "goalsFor": 27,
+        "goalsAgainst": 31,
         "goalDifference": -4,
         "points": 21,
         "form": ""
@@ -2258,12 +2258,12 @@
         "team": "Vasco da Gama",
         "played": 19,
         "won": 5,
-        "drawn": 6,
-        "lost": 8,
+        "drawn": 5,
+        "lost": 9,
         "goalsFor": 22,
-        "goalsAgainst": 29,
-        "goalDifference": -7,
-        "points": 21,
+        "goalsAgainst": 30,
+        "goalDifference": -8,
+        "points": 20,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-07-16T23:56:18.887Z"
+  "generatedAt": "2026-07-17T08:02:45.765Z"
 }
