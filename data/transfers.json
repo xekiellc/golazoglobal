@@ -1,16 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Youngest Team in America? Is Georgia Goo",
+      "player": "CFB analyst names Darian Mensah transfer",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Easysportz.com",
-      "url": "https://easysportz.com/2026/07/youngest-team-in-america-georgia-believes-its-good-enough-to-win-it-all/",
-      "publishedAt": "2026-07-17T18:48:08Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d0e80d1c-e0dd-4790-b90c-fb39661aede5",
+      "publishedAt": "2026-07-17T23:40:55Z"
+    },
+    {
+      "player": "Duke Head Coach Finally Opens Up About D",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/duke/news/duke-head-coach-finally-opens-up-about-darian-mensah",
+      "publishedAt": "2026-07-17T23:39:26Z"
+    },
+    {
+      "player": "Former Real Madrid star stumps for Micha",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Bavarian Football Works",
+      "url": "https://www.bavarianfootballworks.com/bayern-munich-transfer-news-rumors/231239/former-real-madrid-star-stumps-for-michael-olise-transfer",
+      "publishedAt": "2026-07-17T23:30:00Z"
+    },
+    {
+      "player": "Purdue Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Hammer and Rails",
+      "url": "https://www.hammerandrails.com/football/60356/purdue-football-position-group-preview-tight-end",
+      "publishedAt": "2026-07-17T23:29:10Z"
     }
   ],
-  "generatedAt": "2026-07-18T18:55:25.220Z",
+  "generatedAt": "2026-07-18T23:47:59.169Z",
   "note": "Transfers derived from news headlines at launch."
 }

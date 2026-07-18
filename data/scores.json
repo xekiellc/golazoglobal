@@ -31,11 +31,11 @@
       "league": "WC",
       "homeTeam": "France",
       "awayTeam": "England",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 4,
+      "awayScore": 6,
+      "status": "FINISHED",
       "utcDate": "2026-07-18T21:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-18T18:56:50.062Z"
+  "generatedAt": "2026-07-18T23:49:22.646Z"
 }
