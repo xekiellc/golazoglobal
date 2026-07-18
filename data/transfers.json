@@ -1,16 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Cleveland Browns Starting Quarterback Od",
+      "player": "College football's top offensive lines",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Covers.com",
-      "url": "https://www.covers.com/nfl/cleveland-browns-starting-quarterback-odds",
-      "publishedAt": "2026-07-17T07:28:00Z"
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/college-football-top-offensive-lines-2026-georgia-ohio-state/",
+      "publishedAt": "2026-07-17T13:00:28Z"
+    },
+    {
+      "player": "Michigan faces major doubts after Paul F",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/paul-finebaum-michigan-kyle-whittingham-playoff-contender-comments/",
+      "publishedAt": "2026-07-17T13:00:00Z"
+    },
+    {
+      "player": "Wake Forest Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Blogger So Dear",
+      "url": "https://www.bloggersodear.com/wake-forest-football/24357/wake-forest-football-roster-recap",
+      "publishedAt": "2026-07-17T13:00:00Z"
+    },
+    {
+      "player": "How Caleb Goodie’s Speed Impacts Mizzou’",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Rockmnation.com",
+      "url": "https://www.rockmnation.com/missouri-tigers-football/150493/how-caleb-goodies-speed-impacts-mizzous-offense",
+      "publishedAt": "2026-07-17T13:00:00Z"
+    },
+    {
+      "player": "Report",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Anfieldindex.com",
+      "url": "https://anfieldindex.com/95830/report-liverpool-plotting-mega-double-transfer-move.html",
+      "publishedAt": "2026-07-17T12:55:00Z"
     }
   ],
-  "generatedAt": "2026-07-18T07:40:29.280Z",
+  "generatedAt": "2026-07-18T13:02:34.262Z",
   "note": "Transfers derived from news headlines at launch."
 }
