@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-17T23:47:00.300Z",
+  "transfers": [
+    {
+      "player": "Cleveland Browns Starting Quarterback Od",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Covers.com",
+      "url": "https://www.covers.com/nfl/cleveland-browns-starting-quarterback-odds",
+      "publishedAt": "2026-07-17T07:28:00Z"
+    }
+  ],
+  "generatedAt": "2026-07-18T07:40:29.280Z",
   "note": "Transfers derived from news headlines at launch."
 }

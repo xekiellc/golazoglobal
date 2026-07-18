@@ -42,18 +42,18 @@
           "penalties": 2
         },
         {
+          "name": "Carlos Vinícius",
+          "team": "Grêmio",
+          "goals": 10,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Pedro",
           "team": "Flamengo",
           "goals": 10,
           "assists": 4,
           "penalties": 0
-        },
-        {
-          "name": "Carlos Vinícius",
-          "team": "Grêmio",
-          "goals": 9,
-          "assists": 0,
-          "penalties": 1
         },
         {
           "name": "John Kennedy",
@@ -144,5 +144,5 @@
       ]
     }
   },
-  "generatedAt": "2026-07-17T23:50:32.734Z"
+  "generatedAt": "2026-07-18T07:43:59.495Z"
 }
