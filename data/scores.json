@@ -13,11 +13,11 @@
       "league": "WC",
       "homeTeam": "Spain",
       "awayTeam": "Argentina",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-07-19T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-19T18:59:34.011Z"
+  "generatedAt": "2026-07-19T23:53:51.515Z"
 }
