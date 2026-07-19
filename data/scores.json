@@ -1,33 +1,6 @@
 {
   "matches": [
     {
-      "league": "BSA",
-      "homeTeam": "Bahia",
-      "awayTeam": "Chapecoense",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-07-17T22:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Fluminense",
-      "awayTeam": "Bragantino",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-07-17T23:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Mirassol",
-      "awayTeam": "Grêmio",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-07-17T23:00:00Z"
-    },
-    {
       "league": "WC",
       "homeTeam": "France",
       "awayTeam": "England",
@@ -35,7 +8,16 @@
       "awayScore": 6,
       "status": "FINISHED",
       "utcDate": "2026-07-18T21:00:00Z"
+    },
+    {
+      "league": "WC",
+      "homeTeam": "Spain",
+      "awayTeam": "Argentina",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-19T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-18T23:49:22.646Z"
+  "generatedAt": "2026-07-19T08:08:51.940Z"
 }
