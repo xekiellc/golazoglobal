@@ -1,36 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Barcelona youth team gem emerges as unex",
+      "player": "Can any teams stop West region in Super ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Barcauniversal.com",
-      "url": "https://barcauniversal.com/barcelona-youth-team-gem-emerges-as-unexpected-midfield-solution-after-frenkie-de-jong-injury/",
-      "publishedAt": "2026-07-18T08:05:00Z"
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/high-school/football/2026/07/18/high-school-football-rankings-national-championship-west-contender/90960079007/",
+      "publishedAt": "2026-07-18T13:01:14Z"
     },
     {
-      "player": "Atletico Madrid sends message that Arsen",
+      "player": "Belichick Discusses Learning Experiences",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Just Arsenal News",
-      "url": "https://www.justarsenal.com/atletico-madrid-sends-message-that-arsenal-needs-to-hear/418777",
-      "publishedAt": "2026-07-18T08:00:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/unc/tar-heels-belichick-discusses-learning-experiences",
+      "publishedAt": "2026-07-18T13:00:08Z"
     },
     {
-      "player": "Real Madrid consider the ‘main part’ of ",
+      "player": "Paul Finebaum reacts to Bill Belichick U",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Madriduniversal.com",
-      "url": "https://madriduniversal.com/real-madrid-consider-the-main-part-of-their-transfer-window-done/",
-      "publishedAt": "2026-07-18T08:00:00Z"
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/paul-finebaum-bill-belichick-unc-retirement-watch-college-football/",
+      "publishedAt": "2026-07-18T13:00:00Z"
+    },
+    {
+      "player": "Kansas State Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Bringonthecats.com",
+      "url": "https://www.bringonthecats.com/kansas-state-football/29746/kansas-state-football-interior-defensive-line",
+      "publishedAt": "2026-07-18T13:00:00Z"
+    },
+    {
+      "player": "Previewing the 2026 season for Penn Stat",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://nittanylionswire.usatoday.com/story/sports/college/nittany-lions/football/2026/07/18/2026-penn-state-football-bobby-mears-player-profile/90812210007/",
+      "publishedAt": "2026-07-18T12:52:26Z"
     }
   ],
-  "generatedAt": "2026-07-19T08:07:28.920Z",
+  "generatedAt": "2026-07-19T13:04:55.536Z",
   "note": "Transfers derived from news headlines at launch."
 }
