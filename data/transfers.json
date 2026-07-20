@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Max Eberl striving to get summer busines",
+      "player": "Just in",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Bavarian Football Works",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-transfer-news-rumors/230578/max-eberl-striving-to-get-summer-business-done-early-at-bayern-munich",
-      "publishedAt": "2026-07-18T23:30:00Z"
+      "source": "Madriduniversal.com",
+      "url": "https://madriduniversal.com/just-in-real-madrids-new-signing-will-keep-a-remarkable-28-year-world-cup-tradition-alive/",
+      "publishedAt": "2026-07-19T08:45:00Z"
+    },
+    {
+      "player": "‘Jokers to the left of me clowns to the ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Celticshorts.com",
+      "url": "https://celticshorts.com/2026/07/jokers-to-the-left-of-me-clowns-to-the-right/",
+      "publishedAt": "2026-07-19T08:45:00Z"
     }
   ],
-  "generatedAt": "2026-07-19T23:52:27.507Z",
+  "generatedAt": "2026-07-20T08:48:42.445Z",
   "note": "Transfers derived from news headlines at launch."
 }
