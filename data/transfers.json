@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-20T13:54:44.621Z",
+  "transfers": [
+    {
+      "player": "Alabama Football 2026",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roll Bama Roll",
+      "url": "https://www.rollbamaroll.com/alabama-crimson-tide-football/82822/alabama-football-2026-summer-enrollees-get-their-numbers",
+      "publishedAt": "2026-07-19T19:29:31Z"
+    }
+  ],
+  "generatedAt": "2026-07-20T19:37:34.957Z",
   "note": "Transfers derived from news headlines at launch."
 }
