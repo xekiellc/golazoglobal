@@ -1,26 +1,16 @@
 {
   "transfers": [
     {
-      "player": "A united front",
+      "player": "Three winners and three losers for Real ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/brent-venables-oklahoma-new-sec-hardest-questions/",
-      "publishedAt": "2026-07-20T13:23:09Z"
-    },
-    {
-      "player": "Warde Manuel to step down as Michigan at",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Detroit Free Press",
-      "url": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2026/07/20/warde-manuel-michigan-wolverines-athletic-director/87720697007/",
-      "publishedAt": "2026-07-20T13:20:39Z"
+      "source": "Madriduniversal.com",
+      "url": "https://madriduniversal.com/three-winners-and-three-losers-for-real-madrid-from-the-2026-fifa-world-cup/",
+      "publishedAt": "2026-07-20T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-21T13:26:44.234Z",
+  "generatedAt": "2026-07-21T19:11:42.494Z",
   "note": "Transfers derived from news headlines at launch."
 }
