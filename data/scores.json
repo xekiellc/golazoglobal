@@ -1,14 +1,14 @@
 {
   "matches": [
     {
-      "league": "WC",
-      "homeTeam": "Spain",
-      "awayTeam": "Argentina",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-07-19T19:00:00Z"
+      "league": "BSA",
+      "homeTeam": "Mineiro",
+      "awayTeam": "Bahia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-21T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-07-20T23:54:23.357Z"
+  "generatedAt": "2026-07-21T08:18:57.389Z"
 }
