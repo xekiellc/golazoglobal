@@ -1,5 +1,26 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-21T08:17:33.936Z",
+  "transfers": [
+    {
+      "player": "A united front",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/brent-venables-oklahoma-new-sec-hardest-questions/",
+      "publishedAt": "2026-07-20T13:23:09Z"
+    },
+    {
+      "player": "Warde Manuel to step down as Michigan at",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Detroit Free Press",
+      "url": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2026/07/20/warde-manuel-michigan-wolverines-athletic-director/87720697007/",
+      "publishedAt": "2026-07-20T13:20:39Z"
+    }
+  ],
+  "generatedAt": "2026-07-21T13:26:44.234Z",
   "note": "Transfers derived from news headlines at launch."
 }
