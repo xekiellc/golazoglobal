@@ -2115,29 +2115,16 @@
         "team": "Bahia",
         "played": 19,
         "won": 8,
-        "drawn": 5,
-        "lost": 6,
-        "goalsFor": 27,
+        "drawn": 6,
+        "lost": 5,
+        "goalsFor": 28,
         "goalsAgainst": 24,
-        "goalDifference": 3,
-        "points": 29,
+        "goalDifference": 4,
+        "points": 30,
         "form": ""
       },
       {
         "position": 7,
-        "team": "Mineiro",
-        "played": 19,
-        "won": 8,
-        "drawn": 3,
-        "lost": 8,
-        "goalsFor": 23,
-        "goalsAgainst": 23,
-        "goalDifference": 0,
-        "points": 27,
-        "form": ""
-      },
-      {
-        "position": 8,
         "team": "Coritiba",
         "played": 18,
         "won": 7,
@@ -2150,7 +2137,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 8,
         "team": "São Paulo",
         "played": 18,
         "won": 7,
@@ -2163,7 +2150,7 @@
         "form": ""
       },
       {
-        "position": 10,
+        "position": 9,
         "team": "Botafogo",
         "played": 18,
         "won": 7,
@@ -2172,6 +2159,19 @@
         "goalsFor": 33,
         "goalsAgainst": 32,
         "goalDifference": 1,
+        "points": 25,
+        "form": ""
+      },
+      {
+        "position": 10,
+        "team": "Mineiro",
+        "played": 19,
+        "won": 7,
+        "drawn": 4,
+        "lost": 8,
+        "goalsFor": 23,
+        "goalsAgainst": 24,
+        "goalDifference": -1,
         "points": 25,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-07-21T23:54:32.265Z"
+  "generatedAt": "2026-07-22T08:21:06.412Z"
 }

@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "SEC Commissioner Greg Sankey Confirms NC",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/sec-commissioner-greg-sankey-confirms-ncaa-breakaway-discussions-real",
-      "publishedAt": "2026-07-20T23:51:18Z"
-    }
-  ],
-  "generatedAt": "2026-07-21T23:52:08.293Z",
+  "transfers": [],
+  "generatedAt": "2026-07-22T08:18:38.040Z",
   "note": "Transfers derived from news headlines at launch."
 }
