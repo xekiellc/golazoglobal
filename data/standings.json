@@ -2125,6 +2125,19 @@
       },
       {
         "position": 7,
+        "team": "Corinthians",
+        "played": 19,
+        "won": 7,
+        "drawn": 6,
+        "lost": 6,
+        "goalsFor": 21,
+        "goalsAgainst": 19,
+        "goalDifference": 2,
+        "points": 27,
+        "form": ""
+      },
+      {
+        "position": 8,
         "team": "Cruzeiro",
         "played": 19,
         "won": 7,
@@ -2137,7 +2150,20 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
+        "team": "Botafogo",
+        "played": 19,
+        "won": 7,
+        "drawn": 5,
+        "lost": 7,
+        "goalsFor": 33,
+        "goalsAgainst": 32,
+        "goalDifference": 1,
+        "points": 26,
+        "form": ""
+      },
+      {
+        "position": 10,
         "team": "Coritiba",
         "played": 19,
         "won": 7,
@@ -2150,7 +2176,20 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 11,
+        "team": "Vitória",
+        "played": 19,
+        "won": 7,
+        "drawn": 5,
+        "lost": 7,
+        "goalsFor": 22,
+        "goalsAgainst": 25,
+        "goalDifference": -3,
+        "points": 26,
+        "form": ""
+      },
+      {
+        "position": 12,
         "team": "São Paulo",
         "played": 19,
         "won": 7,
@@ -2163,20 +2202,7 @@
         "form": ""
       },
       {
-        "position": 10,
-        "team": "Botafogo",
-        "played": 18,
-        "won": 7,
-        "drawn": 4,
-        "lost": 7,
-        "goalsFor": 33,
-        "goalsAgainst": 32,
-        "goalDifference": 1,
-        "points": 25,
-        "form": ""
-      },
-      {
-        "position": 11,
+        "position": 13,
         "team": "Mineiro",
         "played": 19,
         "won": 7,
@@ -2186,32 +2212,6 @@
         "goalsAgainst": 24,
         "goalDifference": -1,
         "points": 25,
-        "form": ""
-      },
-      {
-        "position": 12,
-        "team": "Vitória",
-        "played": 18,
-        "won": 7,
-        "drawn": 4,
-        "lost": 7,
-        "goalsFor": 22,
-        "goalsAgainst": 25,
-        "goalDifference": -3,
-        "points": 25,
-        "form": ""
-      },
-      {
-        "position": 13,
-        "team": "Corinthians",
-        "played": 18,
-        "won": 6,
-        "drawn": 6,
-        "lost": 6,
-        "goalsFor": 18,
-        "goalsAgainst": 19,
-        "goalDifference": -1,
-        "points": 24,
         "form": ""
       },
       {
@@ -2282,13 +2282,13 @@
       {
         "position": 19,
         "team": "Clube do Remo",
-        "played": 18,
+        "played": 19,
         "won": 4,
         "drawn": 6,
-        "lost": 8,
+        "lost": 9,
         "goalsFor": 21,
-        "goalsAgainst": 29,
-        "goalDifference": -8,
+        "goalsAgainst": 32,
+        "goalDifference": -11,
         "points": 18,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-07-23T19:08:48.531Z"
+  "generatedAt": "2026-07-23T23:57:48.788Z"
 }
