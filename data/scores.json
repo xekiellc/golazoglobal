@@ -2,22 +2,22 @@
   "matches": [
     {
       "league": "BSA",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Palmeiras",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-07-22T22:30:00Z"
+    },
+    {
+      "league": "BSA",
       "homeTeam": "Mineiro",
       "awayTeam": "Bahia",
       "homeScore": 1,
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-07-21T22:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Coritiba",
-      "awayTeam": "Palmeiras",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-07-22T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-07-22T19:07:08.069Z"
+  "generatedAt": "2026-07-22T23:59:19.366Z"
 }

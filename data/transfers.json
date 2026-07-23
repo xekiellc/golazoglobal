@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Georgia Bulldogs are college football's ",
+      "player": "Jadan Baugh Gets Honest on Staying With ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://ugawire.usatoday.com/story/sports/college/bulldogs/football/2026/07/21/georgia-bulldogs-football-ranked-youngest-team-nation/90973038007/",
-      "publishedAt": "2026-07-21T19:00:43Z"
-    },
-    {
-      "player": "Texas State’s Brad Jackson ranked as the",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/us/ncaa-football/news/texas-states-brad-jackson-ranked-top-g6-quarterback-athletic/e37818e2b0f99e416c78b087",
-      "publishedAt": "2026-07-21T18:53:48Z"
-    },
-    {
-      "player": "What does a realistically successful fir",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/outkick-sports/realistically-successful-year-look-head-coach-lane-kiffin-lsu",
-      "publishedAt": "2026-07-21T18:52:37Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/florida/news/jadan-baugh-gets-honest-on-staying-with-florida-gators",
+      "publishedAt": "2026-07-21T23:43:21Z"
     }
   ],
-  "generatedAt": "2026-07-22T19:05:42.961Z",
+  "generatedAt": "2026-07-22T23:57:55.450Z",
   "note": "Transfers derived from news headlines at launch."
 }
