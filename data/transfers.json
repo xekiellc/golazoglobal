@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Jadan Baugh Gets Honest on Staying With ",
+      "player": "Georgia Football Preview 2026",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/florida/news/jadan-baugh-gets-honest-on-staying-with-florida-gators",
-      "publishedAt": "2026-07-21T23:43:21Z"
+      "source": "College Football News",
+      "url": "https://collegefootballnews.com/college-football/georgia-football-preview-2026",
+      "publishedAt": "2026-07-22T08:06:38Z"
+    },
+    {
+      "player": "Which true freshmen could make instant i",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Columbiatribune.com",
+      "url": "https://www.columbiatribune.com/story/sports/college/tiger-extra/2026/07/22/which-missouri-football-freshmen-could-make-an-instant-impact/90996516007/",
+      "publishedAt": "2026-07-22T08:03:21Z"
     }
   ],
-  "generatedAt": "2026-07-22T23:57:55.450Z",
+  "generatedAt": "2026-07-23T08:21:42.504Z",
   "note": "Transfers derived from news headlines at launch."
 }
