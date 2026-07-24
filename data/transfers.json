@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "College Football Preview 2026",
+      "player": "\"There's Got to Be Consequences\"",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "College Football News",
-      "url": "https://collegefootballnews.com/college-football/college-football-preview-2026-cfn-138-team-previews",
-      "publishedAt": "2026-07-23T08:01:00Z"
+      "source": "Essentially Sports",
+      "url": "https://www.essentiallysports.com/ncaa-college-football-news-theres-got-to-be-consequences-steve-sarkisian-doesnt-hold-back-on-college-footballs-most-frustrating-problem/",
+      "publishedAt": "2026-07-23T13:21:08Z"
     },
     {
-      "player": "Manchester United could deny Arsenal mov",
+      "player": "Romagnoli’s Agent Explains Al",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Just Arsenal News",
-      "url": "https://www.justarsenal.com/manchester-united-could-deny-arsenal-move-for-rashford/419045",
-      "publishedAt": "2026-07-23T08:00:00Z"
+      "source": "Thelaziali.com",
+      "url": "https://thelaziali.com/2026/07/23/romagnoli-agent-explains-al-sadd-delay-rules-out-lazio-return/",
+      "publishedAt": "2026-07-23T13:20:00Z"
+    },
+    {
+      "player": "COMMENTARY | Just Junt",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Dnews.com",
+      "url": "https://www.dnews.com/sports/commentary-just-junt-3-things-to-watch-for-when-idaho-begins-fall-football-camp-next-week-984782e5",
+      "publishedAt": "2026-07-23T13:12:00Z"
+    },
+    {
+      "player": "College football's top 10 pass",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/college-footballs-top-10-pass-catching-oregon-miami/",
+      "publishedAt": "2026-07-23T13:08:34Z"
     }
   ],
-  "generatedAt": "2026-07-24T08:16:14.915Z",
+  "generatedAt": "2026-07-24T13:25:12.737Z",
   "note": "Transfers derived from news headlines at launch."
 }
