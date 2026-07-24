@@ -2,33 +2,6 @@
   "matches": [
     {
       "league": "BSA",
-      "homeTeam": "Botafogo",
-      "awayTeam": "Vitória",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-07-23T22:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Corinthians",
-      "awayTeam": "Clube do Remo",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-07-23T22:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Coritiba",
-      "awayTeam": "Palmeiras",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-07-22T22:30:00Z"
-    },
-    {
-      "league": "BSA",
       "homeTeam": "Chapecoense",
       "awayTeam": "Flamengo",
       "homeScore": 0,
@@ -53,7 +26,25 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-07-23T00:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Vitória",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-07-23T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Clube do Remo",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-07-23T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-07-23T23:56:46.575Z"
+  "generatedAt": "2026-07-24T08:17:39.046Z"
 }
