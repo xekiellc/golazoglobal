@@ -1,46 +1,46 @@
 {
   "transfers": [
     {
-      "player": "\"There's Got to Be Consequences\"",
+      "player": "Mizzou Football Position Preview",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Essentially Sports",
-      "url": "https://www.essentiallysports.com/ncaa-college-football-news-theres-got-to-be-consequences-steve-sarkisian-doesnt-hold-back-on-college-footballs-most-frustrating-problem/",
-      "publishedAt": "2026-07-23T13:21:08Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/missouri/football/mizzou-football-position-preview-running-backs",
+      "publishedAt": "2026-07-23T19:13:02Z"
     },
     {
-      "player": "Romagnoli’s Agent Explains Al",
+      "player": "Unlike Montlake, It's Hard Being Kalen D",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Thelaziali.com",
-      "url": "https://thelaziali.com/2026/07/23/romagnoli-agent-explains-al-sadd-delay-rules-out-lazio-return/",
-      "publishedAt": "2026-07-23T13:20:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/washington/football/unlike-montlake-it-s-hard-being-kalen-deboer-at-alabama-01ky68fy7yyk",
+      "publishedAt": "2026-07-23T19:12:11Z"
     },
     {
-      "player": "COMMENTARY | Just Junt",
+      "player": "Why TJ Dottery said LSU is 'step up' ove",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Dnews.com",
-      "url": "https://www.dnews.com/sports/commentary-just-junt-3-things-to-watch-for-when-idaho-begins-fall-football-camp-next-week-984782e5",
-      "publishedAt": "2026-07-23T13:12:00Z"
+      "source": "Clarion Ledger",
+      "url": "https://www.clarionledger.com/story/sports/college/ole-miss/2026/07/23/tj-dottery-lsu-ole-miss-football/90962082007/",
+      "publishedAt": "2026-07-23T19:04:05Z"
     },
     {
-      "player": "College football's top 10 pass",
+      "player": "How Oklahoma's New",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-footballs-top-10-pass-catching-oregon-miami/",
-      "publishedAt": "2026-07-23T13:08:34Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/oklahoma/football/how-oklahoma-s-new-look-tight-end-room-will-benefit-quarterback-john-mateer-01ky7w0jyj1s",
+      "publishedAt": "2026-07-23T19:00:05Z"
     }
   ],
-  "generatedAt": "2026-07-24T13:25:12.737Z",
+  "generatedAt": "2026-07-24T19:17:12.364Z",
   "note": "Transfers derived from news headlines at launch."
 }
