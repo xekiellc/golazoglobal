@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Michigan's top",
+      "player": "Jude Bellingham Joins Real Madrid Teamma",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Detroit Free Press",
-      "url": "https://www.freep.com/story/sports/high-school/2026/07/24/christian-cast-transfer-detroit-country-day/91029896007/",
-      "publishedAt": "2026-07-24T13:01:33Z"
+      "source": "Hip-Hop Wired",
+      "url": "https://hiphopwired.com/3060436/kylian-mbappe-jude-bellingham-real-madrid-ea-sports-fc-27-cover-details/",
+      "publishedAt": "2026-07-24T18:54:53Z"
     },
     {
-      "player": "UConn Football OC Gives Simple Answer to",
+      "player": "Everything Texas A&M Head Coach Mike Elk",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/uconn/news/uconn-football-oc-gives-simple-answer-to-important-quarterback-question",
-      "publishedAt": "2026-07-24T12:56:45Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/tamu/football/everything-texas-am-head-coach-mike-elko-said-at-sec-media-days",
+      "publishedAt": "2026-07-24T18:46:15Z"
+    },
+    {
+      "player": "Which Alabama Preseason All",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/alabama/all-things-bama/which-alabama-preseason-all-sec-snubs-could-make-postseason-team-just-a-minute",
+      "publishedAt": "2026-07-24T18:30:04Z"
+    },
+    {
+      "player": "Real Madrid reportedly pursuing Rodri tr",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/real-madrid-rodri-manchester-city-transfer/",
+      "publishedAt": "2026-07-24T18:26:31Z"
     }
   ],
-  "generatedAt": "2026-07-25T13:13:01.125Z",
+  "generatedAt": "2026-07-25T18:59:36.452Z",
   "note": "Transfers derived from news headlines at launch."
 }
