@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Vicario chased by Juventus after being l",
+      "player": "Michigan's top",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Dpa-international.com",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260724-99-147835/",
-      "publishedAt": "2026-07-24T07:33:34Z"
+      "source": "Detroit Free Press",
+      "url": "https://www.freep.com/story/sports/high-school/2026/07/24/christian-cast-transfer-detroit-country-day/91029896007/",
+      "publishedAt": "2026-07-24T13:01:33Z"
+    },
+    {
+      "player": "UConn Football OC Gives Simple Answer to",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/uconn/news/uconn-football-oc-gives-simple-answer-to-important-quarterback-question",
+      "publishedAt": "2026-07-24T12:56:45Z"
     }
   ],
-  "generatedAt": "2026-07-25T07:58:37.920Z",
+  "generatedAt": "2026-07-25T13:13:01.125Z",
   "note": "Transfers derived from news headlines at launch."
 }
