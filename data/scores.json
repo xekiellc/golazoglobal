@@ -2,31 +2,31 @@
   "matches": [
     {
       "league": "BSA",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Mirassol",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "LIVE",
+      "utcDate": "2026-07-25T23:30:00Z"
+    },
+    {
+      "league": "BSA",
       "homeTeam": "Paranaense",
       "awayTeam": "Internacional",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-07-25T21:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Santos",
       "awayTeam": "Chapecoense",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-07-25T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Vasco da Gama",
-      "awayTeam": "Mirassol",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-07-25T23:30:00Z"
     }
   ],
-  "generatedAt": "2026-07-25T19:01:02.588Z"
+  "generatedAt": "2026-07-25T23:57:25.491Z"
 }

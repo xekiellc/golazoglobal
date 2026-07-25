@@ -35,18 +35,18 @@
     "BSA": {
       "scorers": [
         {
+          "name": "Kevin Viveros",
+          "team": "Paranaense",
+          "goals": 12,
+          "assists": 2,
+          "penalties": 2
+        },
+        {
           "name": "Pedro",
           "team": "Flamengo",
           "goals": 12,
           "assists": 5,
           "penalties": 0
-        },
-        {
-          "name": "Kevin Viveros",
-          "team": "Paranaense",
-          "goals": 11,
-          "assists": 1,
-          "penalties": 2
         },
         {
           "name": "Carlos Vinícius",
@@ -121,6 +121,13 @@
           "penalties": 0
         },
         {
+          "name": "Kevin Viveros",
+          "team": "Paranaense",
+          "goals": 12,
+          "assists": 2,
+          "penalties": 2
+        },
+        {
           "name": "Danilo dos Santos de Oliveira",
           "team": "Botafogo",
           "goals": 7,
@@ -133,16 +140,9 @@
           "goals": 7,
           "assists": 2,
           "penalties": 1
-        },
-        {
-          "name": "Kevin Viveros",
-          "team": "Paranaense",
-          "goals": 11,
-          "assists": 1,
-          "penalties": 2
         }
       ]
     }
   },
-  "generatedAt": "2026-07-25T19:03:11.109Z"
+  "generatedAt": "2026-07-25T23:59:33.040Z"
 }
