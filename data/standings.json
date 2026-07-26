@@ -2099,6 +2099,19 @@
       },
       {
         "position": 5,
+        "team": "Bahia",
+        "played": 20,
+        "won": 8,
+        "drawn": 7,
+        "lost": 5,
+        "goalsFor": 28,
+        "goalsAgainst": 24,
+        "goalDifference": 4,
+        "points": 31,
+        "form": ""
+      },
+      {
+        "position": 6,
         "team": "Bragantino",
         "played": 19,
         "won": 9,
@@ -2111,55 +2124,42 @@
         "form": ""
       },
       {
-        "position": 6,
-        "team": "Bahia",
-        "played": 19,
-        "won": 8,
-        "drawn": 6,
-        "lost": 5,
-        "goalsFor": 28,
-        "goalsAgainst": 24,
-        "goalDifference": 4,
-        "points": 30,
-        "form": ""
-      },
-      {
         "position": 7,
         "team": "Corinthians",
-        "played": 19,
+        "played": 20,
         "won": 7,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 6,
         "goalsFor": 21,
         "goalsAgainst": 19,
         "goalDifference": 2,
-        "points": 27,
+        "points": 28,
         "form": ""
       },
       {
         "position": 8,
         "team": "Cruzeiro",
-        "played": 19,
+        "played": 20,
         "won": 7,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 6,
         "goalsFor": 26,
         "goalsAgainst": 29,
         "goalDifference": -3,
-        "points": 27,
+        "points": 28,
         "form": ""
       },
       {
         "position": 9,
         "team": "Botafogo",
-        "played": 19,
+        "played": 20,
         "won": 7,
-        "drawn": 5,
+        "drawn": 6,
         "lost": 7,
         "goalsFor": 33,
         "goalsAgainst": 32,
         "goalDifference": 1,
-        "points": 26,
+        "points": 27,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-07-26T13:10:33.465Z"
+  "generatedAt": "2026-07-26T19:05:06.479Z"
 }
