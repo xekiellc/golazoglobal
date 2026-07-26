@@ -2260,8 +2260,8 @@
         "won": 5,
         "drawn": 6,
         "lost": 9,
-        "goalsFor": 22,
-        "goalsAgainst": 30,
+        "goalsFor": 23,
+        "goalsAgainst": 31,
         "goalDifference": -8,
         "points": 21,
         "form": ""
@@ -2273,8 +2273,8 @@
         "won": 5,
         "drawn": 5,
         "lost": 9,
-        "goalsFor": 20,
-        "goalsAgainst": 25,
+        "goalsFor": 21,
+        "goalsAgainst": 26,
         "goalDifference": -5,
         "points": 20,
         "form": ""
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-07-25T23:58:27.852Z"
+  "generatedAt": "2026-07-26T08:20:16.831Z"
 }

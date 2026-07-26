@@ -1,46 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Texas A&M offensive line preview",
+      "player": "Agent",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/07/24/texas-aggies-football-offensive-line-preview-depth-chart-roster-overview/91043370007/",
-      "publishedAt": "2026-07-24T23:43:46Z"
+      "source": "Football Italia",
+      "url": "https://football-italia.net/agent-lukaku-not-napoli-back-up-stay-wanted/",
+      "publishedAt": "2026-07-25T07:58:47Z"
     },
     {
-      "player": "Max Eberl just wants to focus on what is",
+      "player": "Washington Huskies Have 10 Players on Ea",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Bavarian Football Works",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-finances-board/231195/max-eberl-just-wants-to-focus-on-what-is-best-for-bayern-munich",
-      "publishedAt": "2026-07-24T23:30:00Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/washington/news/washington-huskies-have-10-players-on-east-west-bowl-watchlist",
+      "publishedAt": "2026-07-25T07:55:54Z"
     },
     {
-      "player": "Why was John Meredith III eligible to re",
+      "player": "Keegan death unites Liverpool and Hambur",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/high-school/football/2026/07/24/why-john-meredith-eligible-to-reclassify-texas-football/91043992007/",
-      "publishedAt": "2026-07-24T23:08:43Z"
-    },
-    {
-      "player": "Cristiano Ronaldo wants more control at ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Worldsoccertalk.com",
-      "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-wants-more-control-at-al-nassr-as-ambitious-transfer-plan-to-lure-bruno-fernandes-takes-shape/",
-      "publishedAt": "2026-07-24T23:02:09Z"
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0kmg1pr3vzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "publishedAt": "2026-07-25T07:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-25T23:56:01.227Z",
+  "generatedAt": "2026-07-26T08:17:49.671Z",
   "note": "Transfers derived from news headlines at launch."
 }
