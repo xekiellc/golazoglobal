@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Two Texas A&M Football Position Battle I",
+      "player": "How Close is Virginia Tech To Competing ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/tamu/football/two-texas-am-football-position-battle-im-watching-closest-during-fall-camp",
-      "publishedAt": "2026-07-25T19:00:04Z"
+      "url": "https://www.si.com/college/virginiatech/football/how-close-is-virginia-tech-to-competing-for-an-acc-championship-01kycz8f1846",
+      "publishedAt": "2026-07-25T23:42:59Z"
     },
     {
-      "player": "HUGHES",
+      "player": "Ranking Big 12 football teams by average",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://coloradobuffaloeswire.usatoday.com/story/sports/college/buffaloes/football/2026/07/25/big-12-football-roster-age-ranking-2026/91050870007/",
+      "publishedAt": "2026-07-25T23:12:46Z"
+    },
+    {
+      "player": "B1G Media Day Primer",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/virginiatech/football/hughes-preseason-all-acc-football-ballot-how-many-hokies-01kycw5956z3",
-      "publishedAt": "2026-07-25T19:00:04Z"
+      "url": "https://www.si.com/college/wisconsin/football/b1g-media-day-primer-everything-you-need-know-before-wisconsin-appearance-chicago",
+      "publishedAt": "2026-07-25T22:34:14Z"
     }
   ],
-  "generatedAt": "2026-07-26T19:02:36.369Z",
+  "generatedAt": "2026-07-26T23:55:59.824Z",
   "note": "Transfers derived from news headlines at launch."
 }

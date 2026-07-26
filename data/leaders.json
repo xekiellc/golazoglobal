@@ -77,6 +77,13 @@
           "penalties": 0
         },
         {
+          "name": "Jonathan Calleri",
+          "team": "São Paulo",
+          "goals": 7,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Arthur Cabral",
           "team": "Botafogo",
           "goals": 7,
@@ -96,13 +103,6 @@
           "goals": 7,
           "assists": 2,
           "penalties": 1
-        },
-        {
-          "name": "José Manuel López",
-          "team": "Palmeiras",
-          "goals": 6,
-          "assists": 3,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -111,13 +111,6 @@
           "team": "Flamengo",
           "goals": 12,
           "assists": 5,
-          "penalties": 0
-        },
-        {
-          "name": "José Manuel López",
-          "team": "Palmeiras",
-          "goals": 6,
-          "assists": 3,
           "penalties": 0
         },
         {
@@ -140,9 +133,16 @@
           "goals": 7,
           "assists": 2,
           "penalties": 1
+        },
+        {
+          "name": "John Kennedy",
+          "team": "Fluminense",
+          "goals": 9,
+          "assists": 1,
+          "penalties": 0
         }
       ]
     }
   },
-  "generatedAt": "2026-07-26T19:06:12.412Z"
+  "generatedAt": "2026-07-26T23:59:33.215Z"
 }

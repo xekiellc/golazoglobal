@@ -2,6 +2,24 @@
   "matches": [
     {
       "league": "BSA",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Mineiro",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-07-26T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Clube do Remo",
+      "awayTeam": "Vitória",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-07-26T22:30:00Z"
+    },
+    {
+      "league": "BSA",
       "homeTeam": "Paranaense",
       "awayTeam": "Internacional",
       "homeScore": 2,
@@ -31,65 +49,47 @@
       "league": "BSA",
       "homeTeam": "Bahia",
       "awayTeam": "Corinthians",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-07-26T19:00:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Cruzeiro",
       "awayTeam": "Botafogo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-07-26T19:00:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Bragantino",
       "awayTeam": "Coritiba",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-07-26T21:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Flamengo",
       "awayTeam": "São Paulo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-07-26T21:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Grêmio",
       "awayTeam": "Fluminense",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-07-26T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Palmeiras",
-      "awayTeam": "Mineiro",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-07-26T22:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Clube do Remo",
-      "awayTeam": "Vitória",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-07-26T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-07-26T19:04:02.596Z"
+  "generatedAt": "2026-07-26T23:57:24.618Z"
 }
