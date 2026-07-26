@@ -1,36 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Agent",
+      "player": "LSU Offseason Recap",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Football Italia",
-      "url": "https://football-italia.net/agent-lukaku-not-napoli-back-up-stay-wanted/",
-      "publishedAt": "2026-07-25T07:58:47Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/lsu/football/lsu-offseason-recap-where-lsu-did-and-didnt-improve",
+      "publishedAt": "2026-07-25T13:00:08Z"
     },
     {
-      "player": "Washington Huskies Have 10 Players on Ea",
+      "player": "3 Ole Miss Rebels Football Players Under",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/washington/news/washington-huskies-have-10-players-on-east-west-bowl-watchlist",
-      "publishedAt": "2026-07-25T07:55:54Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/olemiss/football/3-ole-miss-rebels-football-players-under-the-most-pressure-entering-fall-camp",
+      "publishedAt": "2026-07-25T13:00:08Z"
     },
     {
-      "player": "Keegan death unites Liverpool and Hambur",
+      "player": "UCLA Training Camp Preview",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0kmg1pr3vzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "publishedAt": "2026-07-25T07:47:01Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/ucla/bruins-training-camp-preview-wide-receiver-position-battle-watch",
+      "publishedAt": "2026-07-25T13:00:07Z"
+    },
+    {
+      "player": "Rutgers Football 2026 Opponent Preview",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "On The Banks",
+      "url": "https://www.onthebanks.com/rutgers-football/54042/rutgers-football-2026-opponent-preview-northwestern",
+      "publishedAt": "2026-07-25T12:53:59Z"
+    },
+    {
+      "player": "Arsenal’s Vinicius Junior pursuit highli",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/arsenal-vinicius-junior-crypto-fan-tokens/",
+      "publishedAt": "2026-07-25T12:52:40Z"
     }
   ],
-  "generatedAt": "2026-07-26T08:17:49.671Z",
+  "generatedAt": "2026-07-26T13:08:06.432Z",
   "note": "Transfers derived from news headlines at launch."
 }
