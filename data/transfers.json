@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "How Close is Virginia Tech To Competing ",
+      "player": "Dispatch needs to do a better job coveri",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/virginiatech/football/how-close-is-virginia-tech-to-competing-for-an-acc-championship-01kycz8f1846",
-      "publishedAt": "2026-07-25T23:42:59Z"
+      "source": "Fci Academy",
+      "url": "https://www.dispatch.com/story/sports/columns/2026/07/26/reader-says-dispatch-needs-to-cover-more-ohio-state-sports-mailbox/91034876007/",
+      "publishedAt": "2026-07-26T09:15:32Z"
     },
     {
-      "player": "Ranking Big 12 football teams by average",
+      "player": "How will the new 5",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://coloradobuffaloeswire.usatoday.com/story/sports/college/buffaloes/football/2026/07/25/big-12-football-roster-age-ranking-2026/91050870007/",
-      "publishedAt": "2026-07-25T23:12:46Z"
-    },
-    {
-      "player": "B1G Media Day Primer",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/wisconsin/football/b1g-media-day-primer-everything-you-need-know-before-wisconsin-appearance-chicago",
-      "publishedAt": "2026-07-25T22:34:14Z"
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/07/26/how-the-new-5-for-5-eligibility-rule-could-affect-texas-aggies-football-2027/91049843007/",
+      "publishedAt": "2026-07-26T09:07:23Z"
     }
   ],
-  "generatedAt": "2026-07-26T23:55:59.824Z",
+  "generatedAt": "2026-07-27T09:40:04.324Z",
   "note": "Transfers derived from news headlines at launch."
 }
