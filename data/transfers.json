@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Dispatch needs to do a better job coveri",
+      "player": "Central Florida Media Day 2",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fci Academy",
-      "url": "https://www.dispatch.com/story/sports/columns/2026/07/26/reader-says-dispatch-needs-to-cover-more-ohio-state-sports-mailbox/91034876007/",
-      "publishedAt": "2026-07-26T09:15:32Z"
+      "source": "Orlando Sentinel",
+      "url": "https://www.orlandosentinel.com/2026/07/26/central-florida-media-day-2-coaches-especially-tim-shifflet-sound-off-about-transfers/",
+      "publishedAt": "2026-07-26T14:20:00Z"
     },
     {
-      "player": "How will the new 5",
+      "player": "David Pollack believes Jason Witten was ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/07/26/how-the-new-5-for-5-eligibility-rule-could-affect-texas-aggies-football-2027/91049843007/",
-      "publishedAt": "2026-07-26T09:07:23Z"
+      "url": "https://soonerswire.usatoday.com/story/sports/college/sooners/football/2026/07/26/oklahoma-football-jason-witten-david-pollack/91047178007/",
+      "publishedAt": "2026-07-26T14:00:48Z"
+    },
+    {
+      "player": "5 questions for Penn State at Big Ten fo",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://nittanylionswire.usatoday.com/story/sports/college/nittany-lions/football/2026/07/26/5-questions-penn-state-big-ten-football-media-day-2026/91054460007/",
+      "publishedAt": "2026-07-26T13:36:24Z"
     }
   ],
-  "generatedAt": "2026-07-27T09:40:04.324Z",
+  "generatedAt": "2026-07-27T14:20:33.151Z",
   "note": "Transfers derived from news headlines at launch."
 }
