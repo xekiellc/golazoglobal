@@ -1,5 +1,86 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-28T19:15:04.363Z",
+  "transfers": [
+    {
+      "player": "Did Mike Vrabel use an adorable puppy to",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/did-mike-vrabel-use-an-adorable-puppy-to-silence-the-dianna-russini-scandal-at-training-camp/articleshow/132666017.cms",
+      "publishedAt": "2026-07-27T23:45:33Z"
+    },
+    {
+      "player": "Oregon",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/college-football/oregon-ducks/oregon-top-questions-for-the-oregon-ducks-heading-into-the-2026-college-football-season/",
+      "publishedAt": "2026-07-27T23:35:44Z"
+    },
+    {
+      "player": "Three Storylines for BYU Football Headin",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Vanquish The Foe",
+      "url": "https://www.vanquishthefoe.com/byu-basketball/27476/three-storylines-for-byu-football-heading-into-fall-camp",
+      "publishedAt": "2026-07-27T23:15:57Z"
+    },
+    {
+      "player": "Purdue Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Hammer and Rails",
+      "url": "https://www.hammerandrails.com/football/60452/purdue-football-position-groups-template",
+      "publishedAt": "2026-07-27T23:05:28Z"
+    },
+    {
+      "player": "Six Iowa players named to The Athletic's",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://hawkeyeswire.usatoday.com/story/sports/college/hawkeyes/football/2026/07/27/iowa-football-the-athletic-preseason-all-big-ten-teams/91054733007/",
+      "publishedAt": "2026-07-27T23:05:27Z"
+    },
+    {
+      "player": "Previewing the 2026 season for Texas A&M",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/07/27/texas-aggies-footbball-2026-player-profile-linebacker-daymion-sanford/91065071007/",
+      "publishedAt": "2026-07-27T23:00:39Z"
+    },
+    {
+      "player": "Which Baylor Football Players Are Living",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/baylor/football/which-baylor-football-players-are-living-nil-expectations-2026",
+      "publishedAt": "2026-07-27T23:00:03Z"
+    },
+    {
+      "player": "Stanford football players take first ste",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "NBCSports.com",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stanford-football-players-take-first-step-toward-forming-a-union",
+      "publishedAt": "2026-07-27T22:59:14Z"
+    }
+  ],
+  "generatedAt": "2026-07-28T23:54:51.069Z",
   "note": "Transfers derived from news headlines at launch."
 }
