@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Huskies Weren't Always Sold On McLaughli",
+      "player": "Sports journalists Fabrizio, Plettenberg",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/washington/football/huskies-weren-t-always-sold-on-mclaughlin-and-here-s-why-01kydze03ffs",
-      "publishedAt": "2026-07-26T23:52:32Z"
+      "source": "The Punch",
+      "url": "https://punchng.com/sports-journalists-fabrizio-plettenberg-disagree-over-diomandes-proposed-real-madrid-move/",
+      "publishedAt": "2026-07-27T08:08:36Z"
     },
     {
-      "player": "Ole Miss Football Position Battle I'm Wa",
+      "player": "Three key storylines for Rutgers footbal",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/olemiss/football/ole-miss-football-position-battle-im-watching-closest-during-fall-camp",
-      "publishedAt": "2026-07-26T23:00:02Z"
-    },
-    {
-      "player": "Former Colorado RB among college footbal",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://coloradobuffaloeswire.usatoday.com/story/sports/college/buffaloes/football/2026/07/26/colorado-football-longest-tenured-players-alton-mccaskill-2026/91057684007/",
-      "publishedAt": "2026-07-26T22:25:06Z"
+      "source": "Asbury Park Press",
+      "url": "https://www.app.com/story/sports/college/rutgers/2026/07/27/rutgers-football-at-big-ten-media-days-3-key-storylines/91054628007/",
+      "publishedAt": "2026-07-27T08:05:04Z"
     }
   ],
-  "generatedAt": "2026-07-27T23:57:53.973Z",
+  "generatedAt": "2026-07-28T08:24:39.443Z",
   "note": "Transfers derived from news headlines at launch."
 }

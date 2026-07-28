@@ -2,67 +2,40 @@
   "matches": [
     {
       "league": "BSA",
-      "homeTeam": "Bahia",
-      "awayTeam": "Corinthians",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-07-26T19:00:00Z"
+      "homeTeam": "Mineiro",
+      "awayTeam": "Bragantino",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "POSTPONED",
+      "utcDate": "2026-07-29T00:00:00Z"
     },
     {
       "league": "BSA",
-      "homeTeam": "Cruzeiro",
-      "awayTeam": "Botafogo",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-07-26T19:00:00Z"
+      "homeTeam": "Botafogo",
+      "awayTeam": "Grêmio",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "POSTPONED",
+      "utcDate": "2026-07-29T00:00:00Z"
     },
     {
       "league": "BSA",
-      "homeTeam": "Bragantino",
-      "awayTeam": "Coritiba",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-07-26T21:30:00Z"
+      "homeTeam": "Chapecoense",
+      "awayTeam": "Vasco da Gama",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "POSTPONED",
+      "utcDate": "2026-07-29T00:00:00Z"
     },
     {
       "league": "BSA",
-      "homeTeam": "Flamengo",
-      "awayTeam": "São Paulo",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-07-26T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Grêmio",
-      "awayTeam": "Fluminense",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-07-26T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Palmeiras",
-      "awayTeam": "Mineiro",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-07-26T22:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Clube do Remo",
-      "awayTeam": "Vitória",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-07-26T22:30:00Z"
+      "homeTeam": "São Paulo",
+      "awayTeam": "Santos",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "POSTPONED",
+      "utcDate": "2026-07-29T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-07-27T23:59:16.626Z"
+  "generatedAt": "2026-07-28T08:26:04.693Z"
 }
