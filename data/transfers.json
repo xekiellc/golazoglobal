@@ -1,66 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Real Madrid’s €100M bid for Yan Diomande",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/real-madrid-diomande-100m-transfer/",
-      "publishedAt": "2026-07-26T19:05:27Z"
-    },
-    {
-      "player": "Andoni Iraola provides positive Liverpoo",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Anfieldindex.com",
-      "url": "https://anfieldindex.com/96660/andoni-iraola-provides-positive-liverpool-injury-update.html",
-      "publishedAt": "2026-07-26T18:55:00Z"
-    },
-    {
-      "player": "Liverpool urged to sign John Stones afte",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/liverpool-john-stones-gomez-defensive-depth/",
-      "publishedAt": "2026-07-26T18:49:50Z"
-    },
-    {
-      "player": "Barcelona re",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/barcelona-signs-defender-everton-transfer/",
-      "publishedAt": "2026-07-26T18:49:07Z"
-    },
-    {
-      "player": "LSU Football Position Battle I'm Watchin",
+      "player": "Huskies Weren't Always Sold On McLaughli",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/lsu/football/lsu-football-position-battle-i-m-watching-closest-during-fall-camp",
-      "publishedAt": "2026-07-26T18:40:16Z"
+      "url": "https://www.si.com/college/washington/football/huskies-weren-t-always-sold-on-mclaughlin-and-here-s-why-01kydze03ffs",
+      "publishedAt": "2026-07-26T23:52:32Z"
     },
     {
-      "player": "5 Bold Predictions for Ole Miss Football",
+      "player": "Ole Miss Football Position Battle I'm Wa",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/olemiss/football/5-bold-predictions-for-ole-miss-football-fall-camp",
-      "publishedAt": "2026-07-26T18:39:13Z"
+      "url": "https://www.si.com/college/olemiss/football/ole-miss-football-position-battle-im-watching-closest-during-fall-camp",
+      "publishedAt": "2026-07-26T23:00:02Z"
+    },
+    {
+      "player": "Former Colorado RB among college footbal",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://coloradobuffaloeswire.usatoday.com/story/sports/college/buffaloes/football/2026/07/26/colorado-football-longest-tenured-players-alton-mccaskill-2026/91057684007/",
+      "publishedAt": "2026-07-26T22:25:06Z"
     }
   ],
-  "generatedAt": "2026-07-27T19:19:12.526Z",
+  "generatedAt": "2026-07-27T23:57:53.973Z",
   "note": "Transfers derived from news headlines at launch."
 }
