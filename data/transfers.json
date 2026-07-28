@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Texas A&M's Schedule Creates Several Swi",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/tamu/football/texas-am-schedule-creates-several-swing-games-that-could-decide-the-sec-race",
-      "publishedAt": "2026-07-27T13:36:41Z"
-    },
-    {
-      "player": "‘Opportunity Before Check Size’",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Pro Football Network",
-      "url": "https://www.profootballnetwork.com/cfb/fernando-mendoza-reveals-why-nil-was-only-4th-or-5th-variable-in-indiana-recruitment/?utm_medium=rss&amp;utm_source=nordot",
-      "publishedAt": "2026-07-27T13:30:51Z"
-    }
-  ],
-  "generatedAt": "2026-07-28T13:52:11.991Z",
+  "transfers": [],
+  "generatedAt": "2026-07-28T19:15:04.363Z",
   "note": "Transfers derived from news headlines at launch."
 }
