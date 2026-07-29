@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Player profile",
+      "player": "SEC and Big Ten must decide on Protect C",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/college-football/article/sec-and-big-ten-must-decide-on-protect-college-sports-act-by-wednesday-congress-says-190516596.html",
+      "publishedAt": "2026-07-28T19:05:16Z"
+    },
+    {
+      "player": "Arkansas Football's Most Important Playe",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/arkansas/razorbacks-football-s-most-important-players-for-2026-no-2-quincy-rhodes",
+      "publishedAt": "2026-07-28T19:00:05Z"
+    },
+    {
+      "player": "On3 analyst's one word to describe Texas",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://auburnwire.usatoday.com/story/sports/college/auburn/football/2026/07/28/auburn-football-jourdin-crawford-2026-player-profile/91071439007/",
-      "publishedAt": "2026-07-28T13:46:57Z"
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/07/28/on3s-andy-staples-used-unpredictable-to-describe-qb-marcel-reed-texas-aggies-football/91078098007/",
+      "publishedAt": "2026-07-28T18:56:22Z"
     }
   ],
-  "generatedAt": "2026-07-29T13:57:00.745Z",
+  "generatedAt": "2026-07-29T19:05:29.547Z",
   "note": "Transfers derived from news headlines at launch."
 }
