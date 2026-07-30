@@ -1,5 +1,26 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-07-30T08:14:55.348Z",
+  "transfers": [
+    {
+      "player": "Ole Miss files lawsuits against two form",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Andthevalleyshook.com",
+      "url": "https://www.andthevalleyshook.com/lsu-latest-news/51086/ole-miss-files-lawsuits-against-two-former-players-in-mississippi",
+      "publishedAt": "2026-07-29T13:46:00Z"
+    },
+    {
+      "player": "Exclusive",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Knoxville News Sentinel",
+      "url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2026/07/29/arion-carter-suspended-ncaa-tennessee-football-violation-nfl-draft/90871565007/",
+      "publishedAt": "2026-07-29T13:40:34Z"
+    }
+  ],
+  "generatedAt": "2026-07-30T13:46:32.561Z",
   "note": "Transfers derived from news headlines at launch."
 }
