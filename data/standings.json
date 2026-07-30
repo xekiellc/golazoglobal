@@ -2048,14 +2048,14 @@
       {
         "position": 1,
         "team": "Palmeiras",
-        "played": 20,
-        "won": 13,
+        "played": 21,
+        "won": 14,
         "drawn": 5,
         "lost": 2,
-        "goalsFor": 34,
+        "goalsFor": 38,
         "goalsAgainst": 16,
-        "goalDifference": 18,
-        "points": 44,
+        "goalDifference": 22,
+        "points": 47,
         "form": ""
       },
       {
@@ -2063,12 +2063,12 @@
         "team": "Flamengo",
         "played": 20,
         "won": 11,
-        "drawn": 5,
-        "lost": 4,
-        "goalsFor": 36,
+        "drawn": 6,
+        "lost": 3,
+        "goalsFor": 37,
         "goalsAgainst": 18,
-        "goalDifference": 18,
-        "points": 38,
+        "goalDifference": 19,
+        "points": 39,
         "form": ""
       },
       {
@@ -2087,18 +2087,31 @@
       {
         "position": 4,
         "team": "Fluminense",
-        "played": 20,
+        "played": 21,
         "won": 9,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 5,
         "goalsFor": 30,
         "goalsAgainst": 25,
         "goalDifference": 5,
-        "points": 33,
+        "points": 34,
         "form": ""
       },
       {
         "position": 5,
+        "team": "Bahia",
+        "played": 21,
+        "won": 8,
+        "drawn": 8,
+        "lost": 5,
+        "goalsFor": 29,
+        "goalsAgainst": 25,
+        "goalDifference": 4,
+        "points": 32,
+        "form": ""
+      },
+      {
+        "position": 6,
         "team": "Bragantino",
         "played": 20,
         "won": 9,
@@ -2107,19 +2120,6 @@
         "goalsFor": 26,
         "goalsAgainst": 20,
         "goalDifference": 6,
-        "points": 31,
-        "form": ""
-      },
-      {
-        "position": 6,
-        "team": "Bahia",
-        "played": 20,
-        "won": 8,
-        "drawn": 7,
-        "lost": 5,
-        "goalsFor": 29,
-        "goalsAgainst": 25,
-        "goalDifference": 4,
         "points": 31,
         "form": ""
       },
@@ -2204,27 +2204,27 @@
       {
         "position": 13,
         "team": "Vitória",
-        "played": 20,
+        "played": 21,
         "won": 7,
         "drawn": 5,
-        "lost": 8,
+        "lost": 9,
         "goalsFor": 22,
-        "goalsAgainst": 27,
-        "goalDifference": -5,
+        "goalsAgainst": 31,
+        "goalDifference": -9,
         "points": 26,
         "form": ""
       },
       {
         "position": 14,
-        "team": "Internacional",
-        "played": 21,
+        "team": "Mirassol",
+        "played": 20,
         "won": 6,
-        "drawn": 6,
+        "drawn": 5,
         "lost": 9,
         "goalsFor": 23,
-        "goalsAgainst": 26,
-        "goalDifference": -3,
-        "points": 24,
+        "goalsAgainst": 27,
+        "goalDifference": -4,
+        "points": 23,
         "form": ""
       },
       {
@@ -2242,6 +2242,19 @@
       },
       {
         "position": 16,
+        "team": "Internacional",
+        "played": 21,
+        "won": 5,
+        "drawn": 7,
+        "lost": 9,
+        "goalsFor": 23,
+        "goalsAgainst": 27,
+        "goalDifference": -4,
+        "points": 22,
+        "form": ""
+      },
+      {
+        "position": 17,
         "team": "Grêmio",
         "played": 20,
         "won": 5,
@@ -2254,33 +2267,7 @@
         "form": ""
       },
       {
-        "position": 17,
-        "team": "Clube do Remo",
-        "played": 21,
-        "won": 5,
-        "drawn": 7,
-        "lost": 9,
-        "goalsFor": 24,
-        "goalsAgainst": 33,
-        "goalDifference": -9,
-        "points": 22,
-        "form": ""
-      },
-      {
         "position": 18,
-        "team": "Mirassol",
-        "played": 20,
-        "won": 5,
-        "drawn": 6,
-        "lost": 9,
-        "goalsFor": 22,
-        "goalsAgainst": 27,
-        "goalDifference": -5,
-        "points": 21,
-        "form": ""
-      },
-      {
-        "position": 19,
         "team": "Vasco da Gama",
         "played": 20,
         "won": 5,
@@ -2289,6 +2276,19 @@
         "goalsFor": 23,
         "goalsAgainst": 31,
         "goalDifference": -8,
+        "points": 21,
+        "form": ""
+      },
+      {
+        "position": 19,
+        "team": "Clube do Remo",
+        "played": 21,
+        "won": 5,
+        "drawn": 6,
+        "lost": 10,
+        "goalsFor": 24,
+        "goalsAgainst": 34,
+        "goalDifference": -10,
         "points": 21,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-07-29T23:59:05.356Z"
+  "generatedAt": "2026-07-30T08:17:19.518Z"
 }
