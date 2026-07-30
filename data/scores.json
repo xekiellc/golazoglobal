@@ -2,6 +2,24 @@
   "matches": [
     {
       "league": "BSA",
+      "homeTeam": "Internacional",
+      "awayTeam": "Flamengo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-07-29T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Clube do Remo",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-07-29T22:30:00Z"
+    },
+    {
+      "league": "BSA",
       "homeTeam": "Mineiro",
       "awayTeam": "Bragantino",
       "homeScore": null,
@@ -35,25 +53,7 @@
       "awayScore": null,
       "status": "POSTPONED",
       "utcDate": "2026-07-29T00:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Internacional",
-      "awayTeam": "Flamengo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-07-29T22:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Mirassol",
-      "awayTeam": "Clube do Remo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-07-29T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-07-29T19:06:54.016Z"
+  "generatedAt": "2026-07-29T23:58:03.846Z"
 }

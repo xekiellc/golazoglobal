@@ -2061,13 +2061,13 @@
       {
         "position": 2,
         "team": "Flamengo",
-        "played": 19,
+        "played": 20,
         "won": 11,
         "drawn": 5,
-        "lost": 3,
+        "lost": 4,
         "goalsFor": 36,
-        "goalsAgainst": 17,
-        "goalDifference": 19,
+        "goalsAgainst": 18,
+        "goalDifference": 18,
         "points": 38,
         "form": ""
       },
@@ -2216,6 +2216,19 @@
       },
       {
         "position": 14,
+        "team": "Internacional",
+        "played": 21,
+        "won": 6,
+        "drawn": 6,
+        "lost": 9,
+        "goalsFor": 23,
+        "goalsAgainst": 26,
+        "goalDifference": -3,
+        "points": 24,
+        "form": ""
+      },
+      {
+        "position": 15,
         "team": "Santos",
         "played": 20,
         "won": 5,
@@ -2228,7 +2241,7 @@
         "form": ""
       },
       {
-        "position": 15,
+        "position": 16,
         "team": "Grêmio",
         "played": 20,
         "won": 5,
@@ -2241,20 +2254,33 @@
         "form": ""
       },
       {
-        "position": 16,
-        "team": "Internacional",
+        "position": 17,
+        "team": "Clube do Remo",
+        "played": 21,
+        "won": 5,
+        "drawn": 7,
+        "lost": 9,
+        "goalsFor": 24,
+        "goalsAgainst": 33,
+        "goalDifference": -9,
+        "points": 22,
+        "form": ""
+      },
+      {
+        "position": 18,
+        "team": "Mirassol",
         "played": 20,
         "won": 5,
         "drawn": 6,
         "lost": 9,
         "goalsFor": 22,
-        "goalsAgainst": 26,
-        "goalDifference": -4,
+        "goalsAgainst": 27,
+        "goalDifference": -5,
         "points": 21,
         "form": ""
       },
       {
-        "position": 17,
+        "position": 19,
         "team": "Vasco da Gama",
         "played": 20,
         "won": 5,
@@ -2264,32 +2290,6 @@
         "goalsAgainst": 31,
         "goalDifference": -8,
         "points": 21,
-        "form": ""
-      },
-      {
-        "position": 18,
-        "team": "Clube do Remo",
-        "played": 20,
-        "won": 5,
-        "drawn": 6,
-        "lost": 9,
-        "goalsFor": 23,
-        "goalsAgainst": 32,
-        "goalDifference": -9,
-        "points": 21,
-        "form": ""
-      },
-      {
-        "position": 19,
-        "team": "Mirassol",
-        "played": 19,
-        "won": 5,
-        "drawn": 5,
-        "lost": 9,
-        "goalsFor": 21,
-        "goalsAgainst": 26,
-        "goalDifference": -5,
-        "points": 20,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-07-29T19:07:57.141Z"
+  "generatedAt": "2026-07-29T23:59:05.356Z"
 }
