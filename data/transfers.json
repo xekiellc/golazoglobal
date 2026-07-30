@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Ole Miss files lawsuits against two form",
+      "player": "2026 Big Ten Media Days takeaways",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Andthevalleyshook.com",
-      "url": "https://www.andthevalleyshook.com/lsu-latest-news/51086/ole-miss-files-lawsuits-against-two-former-players-in-mississippi",
-      "publishedAt": "2026-07-29T13:46:00Z"
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/2026-big-ten-media-days-ohio-state-oregon/",
+      "publishedAt": "2026-07-29T19:10:21Z"
     },
     {
-      "player": "Exclusive",
+      "player": "Nico Iamaleava wanted to stay at UCLA, C",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Knoxville News Sentinel",
-      "url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2026/07/29/arion-carter-suspended-ncaa-tennessee-football-violation-nfl-draft/90871565007/",
-      "publishedAt": "2026-07-29T13:40:34Z"
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/07/29/nico-iamaleava-stay-at-ucla-bob-chesney/91095897007/",
+      "publishedAt": "2026-07-29T19:07:45Z"
+    },
+    {
+      "player": "Richard Hughes knows it's now or never a",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Anfieldwatch.co.uk",
+      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/richard-hughes-knows-its-now-or-never-as-eur48m-agreement-reached/",
+      "publishedAt": "2026-07-29T19:05:00Z"
+    },
+    {
+      "player": "Ole Miss Sues Two Transfers Who Followed",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Athlon Sports",
+      "url": "https://athlonsports.com/college-football/ole-miss-sues-lsu-transfers-princewill-umanmielen-devin-harper",
+      "publishedAt": "2026-07-29T18:58:02Z"
     }
   ],
-  "generatedAt": "2026-07-30T13:46:32.561Z",
+  "generatedAt": "2026-07-30T19:17:18.570Z",
   "note": "Transfers derived from news headlines at launch."
 }
