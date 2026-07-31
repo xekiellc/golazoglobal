@@ -2125,6 +2125,19 @@
       },
       {
         "position": 7,
+        "team": "Cruzeiro",
+        "played": 21,
+        "won": 8,
+        "drawn": 6,
+        "lost": 7,
+        "goalsFor": 27,
+        "goalsAgainst": 30,
+        "goalDifference": -3,
+        "points": 30,
+        "form": ""
+      },
+      {
+        "position": 8,
         "team": "Botafogo",
         "played": 20,
         "won": 8,
@@ -2137,7 +2150,7 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "Corinthians",
         "played": 21,
         "won": 7,
@@ -2150,7 +2163,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "Mineiro",
         "played": 20,
         "won": 8,
@@ -2163,28 +2176,15 @@
         "form": ""
       },
       {
-        "position": 10,
-        "team": "Coritiba",
-        "played": 20,
-        "won": 7,
-        "drawn": 6,
-        "lost": 7,
-        "goalsFor": 25,
-        "goalsAgainst": 27,
-        "goalDifference": -2,
-        "points": 27,
-        "form": ""
-      },
-      {
         "position": 11,
-        "team": "Cruzeiro",
-        "played": 20,
+        "team": "Coritiba",
+        "played": 21,
         "won": 7,
         "drawn": 6,
-        "lost": 7,
-        "goalsFor": 26,
-        "goalsAgainst": 30,
-        "goalDifference": -4,
+        "lost": 8,
+        "goalsFor": 25,
+        "goalsAgainst": 28,
+        "goalDifference": -3,
         "points": 27,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-07-31T00:00:15.090Z"
+  "generatedAt": "2026-07-31T08:43:34.579Z"
 }

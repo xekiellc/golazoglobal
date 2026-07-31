@@ -2,33 +2,6 @@
   "matches": [
     {
       "league": "BSA",
-      "homeTeam": "Corinthians",
-      "awayTeam": "Paranaense",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-07-30T22:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Internacional",
-      "awayTeam": "Flamengo",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-07-29T22:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Mirassol",
-      "awayTeam": "Clube do Remo",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-07-29T22:30:00Z"
-    },
-    {
-      "league": "BSA",
       "homeTeam": "Fluminense",
       "awayTeam": "Bahia",
       "homeScore": 0,
@@ -47,40 +20,22 @@
     },
     {
       "league": "BSA",
-      "homeTeam": "Mineiro",
-      "awayTeam": "Bragantino",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "POSTPONED",
-      "utcDate": "2026-07-29T00:00:00Z"
+      "homeTeam": "Corinthians",
+      "awayTeam": "Paranaense",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-07-30T22:30:00Z"
     },
     {
       "league": "BSA",
-      "homeTeam": "Botafogo",
-      "awayTeam": "Grêmio",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "POSTPONED",
-      "utcDate": "2026-07-29T00:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Chapecoense",
-      "awayTeam": "Vasco da Gama",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "POSTPONED",
-      "utcDate": "2026-07-29T00:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "São Paulo",
-      "awayTeam": "Santos",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "POSTPONED",
-      "utcDate": "2026-07-29T00:00:00Z"
+      "homeTeam": "Coritiba",
+      "awayTeam": "Cruzeiro",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-07-31T00:30:00Z"
     }
   ],
-  "generatedAt": "2026-07-30T23:59:12.433Z"
+  "generatedAt": "2026-07-31T08:42:32.886Z"
 }
