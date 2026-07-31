@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "BSA",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Paranaense",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-07-30T22:30:00Z"
+    },
+    {
+      "league": "BSA",
       "homeTeam": "Internacional",
       "awayTeam": "Flamengo",
       "homeScore": 1,
@@ -71,16 +80,7 @@
       "awayScore": null,
       "status": "POSTPONED",
       "utcDate": "2026-07-29T00:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Corinthians",
-      "awayTeam": "Paranaense",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-07-30T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-07-30T19:18:43.423Z"
+  "generatedAt": "2026-07-30T23:59:12.433Z"
 }

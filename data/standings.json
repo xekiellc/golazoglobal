@@ -2074,14 +2074,14 @@
       {
         "position": 3,
         "team": "Paranaense",
-        "played": 20,
+        "played": 21,
         "won": 11,
-        "drawn": 3,
+        "drawn": 4,
         "lost": 6,
         "goalsFor": 28,
         "goalsAgainst": 19,
         "goalDifference": 9,
-        "points": 36,
+        "points": 37,
         "form": ""
       },
       {
@@ -2138,6 +2138,19 @@
       },
       {
         "position": 8,
+        "team": "Corinthians",
+        "played": 21,
+        "won": 7,
+        "drawn": 8,
+        "lost": 6,
+        "goalsFor": 22,
+        "goalsAgainst": 20,
+        "goalDifference": 2,
+        "points": 29,
+        "form": ""
+      },
+      {
+        "position": 9,
         "team": "Mineiro",
         "played": 20,
         "won": 8,
@@ -2146,19 +2159,6 @@
         "goalsFor": 25,
         "goalsAgainst": 25,
         "goalDifference": 0,
-        "points": 28,
-        "form": ""
-      },
-      {
-        "position": 9,
-        "team": "Corinthians",
-        "played": 20,
-        "won": 7,
-        "drawn": 7,
-        "lost": 6,
-        "goalsFor": 22,
-        "goalsAgainst": 20,
-        "goalDifference": 2,
         "points": 28,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-07-30T19:19:46.300Z"
+  "generatedAt": "2026-07-31T00:00:15.090Z"
 }

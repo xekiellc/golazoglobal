@@ -1,46 +1,56 @@
 {
   "transfers": [
     {
-      "player": "2026 Big Ten Media Days takeaways",
+      "player": "Transformed UNA roster kicks off fall ca",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/2026-big-ten-media-days-ohio-state-oregon/",
-      "publishedAt": "2026-07-29T19:10:21Z"
+      "source": "WHNT News 19",
+      "url": "https://whnt.com/sports/university-of-north-alabama/una-football-fall-camp-destin-wade-starting-quarterback/",
+      "publishedAt": "2026-07-29T23:44:05Z"
     },
     {
-      "player": "Nico Iamaleava wanted to stay at UCLA, C",
+      "player": "Kenny Dillingham expects QB battle at Ar",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/07/29/nico-iamaleava-stay-at-ucla-bob-chesney/91095897007/",
-      "publishedAt": "2026-07-29T19:07:45Z"
+      "source": "AZCentral",
+      "url": "https://www.azcentral.com/story/sports/college/asu/2026/07/29/arizona-state-football-four-players-competing-starter-qb/91097508007/",
+      "publishedAt": "2026-07-29T23:40:25Z"
     },
     {
-      "player": "Richard Hughes knows it's now or never a",
+      "player": "Lincoln Riley Provides Refreshing Perspe",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Anfieldwatch.co.uk",
-      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/richard-hughes-knows-its-now-or-never-as-eur48m-agreement-reached/",
-      "publishedAt": "2026-07-29T19:05:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/usc/football/usc-trojans-lincoln-riley-provides-refreshing-perspective-defensive-identity",
+      "publishedAt": "2026-07-29T23:30:06Z"
     },
     {
-      "player": "Ole Miss Sues Two Transfers Who Followed",
+      "player": "Without Big Ten and SEC support, Congres",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Athlon Sports",
-      "url": "https://athlonsports.com/college-football/ole-miss-sues-lsu-transfers-princewill-umanmielen-devin-harper",
-      "publishedAt": "2026-07-29T18:58:02Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/college-football/article/without-big-ten-and-sec-support-congress-protect-college-sports-act-is-in-peril-231547548.html",
+      "publishedAt": "2026-07-29T23:15:47Z"
+    },
+    {
+      "player": "Get To Know Your Orange",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Troy Nunes Is An Absolute Magician",
+      "url": "https://www.nunesmagician.com/syracuse-orange-football-fran/111318/get-to-know-your-orange-8-wr-tyshawn-russell",
+      "publishedAt": "2026-07-29T23:14:48Z"
     }
   ],
-  "generatedAt": "2026-07-30T19:17:18.570Z",
+  "generatedAt": "2026-07-30T23:57:48.804Z",
   "note": "Transfers derived from news headlines at launch."
 }
