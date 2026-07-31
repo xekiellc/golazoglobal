@@ -1,26 +1,66 @@
 {
   "transfers": [
     {
-      "player": "College Football Coaches Hot Seat 2026",
+      "player": "European nations have agreed to boycott ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Stadiumrant.com",
-      "url": "https://www.stadiumrant.com/college-football-coaches-hot-seat-2026-9-coaches-facing-pressure-this-season/",
-      "publishedAt": "2026-07-30T13:32:14Z"
+      "source": "Livejournal.com",
+      "url": "https://ohnotheydidnt.livejournal.com/132659603.html",
+      "publishedAt": "2026-07-30T19:12:50Z"
     },
     {
-      "player": "From Twitter to Temple",
+      "player": "Uefa to boycott FIFA competitions if Inf",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Underdogdynasty.com",
-      "url": "https://www.underdogdynasty.com/american-conference/44398/temple-owls-tight-end-peter-clarke-london-twitter-nfl-academy-feature",
-      "publishedAt": "2026-07-30T13:30:00Z"
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c5y67zrrdddo",
+      "publishedAt": "2026-07-30T19:05:50Z"
+    },
+    {
+      "player": "Louisiana football's highest",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Daily Advertiser",
+      "url": "https://www.theadvertiser.com/story/sports/college/ul/2026/07/30/louisiana-footballs-highest-rated-players-in-college-football-27/91110170007/",
+      "publishedAt": "2026-07-30T19:03:31Z"
+    },
+    {
+      "player": "Which of Oklahoma's Transfers Could Exce",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/oklahoma/football/which-of-oklahoma-s-transfers-could-exceed-expectations-in-2026-01kyt47n8jc4",
+      "publishedAt": "2026-07-30T19:00:06Z"
+    },
+    {
+      "player": "SEC Network Analyst Explains Auburn's Re",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/auburn/football/sec-network-analyst-explains-auburn-rebuild-better-team-continuity",
+      "publishedAt": "2026-07-30T19:00:06Z"
+    },
+    {
+      "player": "Injuries to Monitor For Ole Miss Enterin",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/olemiss/football/injuries-to-monitor-for-ole-miss-entering-fall-camp",
+      "publishedAt": "2026-07-30T19:00:06Z"
     }
   ],
-  "generatedAt": "2026-07-31T13:51:28.672Z",
+  "generatedAt": "2026-07-31T19:16:12.471Z",
   "note": "Transfers derived from news headlines at launch."
 }
