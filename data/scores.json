@@ -2,33 +2,6 @@
   "matches": [
     {
       "league": "BSA",
-      "homeTeam": "Fluminense",
-      "awayTeam": "Bahia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-07-30T00:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Vitória",
-      "awayTeam": "Palmeiras",
-      "homeScore": 0,
-      "awayScore": 4,
-      "status": "FINISHED",
-      "utcDate": "2026-07-30T00:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Corinthians",
-      "awayTeam": "Paranaense",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-07-30T22:30:00Z"
-    },
-    {
-      "league": "BSA",
       "homeTeam": "Coritiba",
       "awayTeam": "Cruzeiro",
       "homeScore": 0,
@@ -37,5 +10,5 @@
       "utcDate": "2026-07-31T00:30:00Z"
     }
   ],
-  "generatedAt": "2026-07-31T23:58:22.232Z"
+  "generatedAt": "2026-08-01T08:12:56.169Z"
 }

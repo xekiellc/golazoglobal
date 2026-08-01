@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Who Will Be UCF's QB2 Behind Alonza Barn",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/ucf/opinion/who-will-be-ucfs-qb2-behind-alonza-barnett-iii",
-      "publishedAt": "2026-07-30T23:56:10Z"
-    }
-  ],
-  "generatedAt": "2026-07-31T23:56:59.537Z",
+  "transfers": [],
+  "generatedAt": "2026-08-01T08:11:32.882Z",
   "note": "Transfers derived from news headlines at launch."
 }
