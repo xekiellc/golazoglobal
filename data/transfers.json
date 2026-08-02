@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Barry",
+      "player": "UCF Placed 15th in Big 12 2027 Team Recr",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c77g671zml3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "publishedAt": "2026-08-01T18:23:40Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/ucf/news/ucf-placed-15th-in-big-12-2027-team-recruiting-rankings",
+      "publishedAt": "2026-08-01T22:48:10Z"
+    },
+    {
+      "player": "Former Ohio State K Jayden Fielding is l",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Atozsports.com",
+      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/former-ohio-state-k-jayden-fielding-is-looking-to-make-a-return-to-college-football-with-potential-new-eligibility/",
+      "publishedAt": "2026-08-01T22:42:17Z"
+    },
+    {
+      "player": "This Week in Penn State Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/pennstate/football/this-week-in-penn-state-football-what-we-learned-at-big-ten-media-days",
+      "publishedAt": "2026-08-01T22:41:16Z"
     }
   ],
-  "generatedAt": "2026-08-02T19:01:49.254Z",
+  "generatedAt": "2026-08-02T23:53:47.378Z",
   "note": "Transfers derived from news headlines at launch."
 }
