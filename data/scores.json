@@ -1,14 +1,4 @@
 {
-  "matches": [
-    {
-      "league": "BSA",
-      "homeTeam": "Coritiba",
-      "awayTeam": "Cruzeiro",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-07-31T00:30:00Z"
-    }
-  ],
-  "generatedAt": "2026-08-01T23:53:39.749Z"
+  "matches": [],
+  "generatedAt": "2026-08-02T08:14:09.561Z"
 }

@@ -1,46 +1,26 @@
 {
   "transfers": [
     {
-      "player": "2027 5",
+      "player": "Five under",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/miami-football-news-2027-5-star-cb-amir-sears-picks-hurricanes",
-      "publishedAt": "2026-07-31T23:43:37Z"
+      "source": "Columbiatribune.com",
+      "url": "https://www.columbiatribune.com/story/sports/college/tiger-extra/2026/08/01/five-missouri-football-under-the-radar-transfers-for-2026/91124837007/",
+      "publishedAt": "2026-08-01T08:02:29Z"
     },
     {
-      "player": "Zion Ikeme transfers back to Christ Scho",
+      "player": "Southampton add Hughes and Moloney",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Citizen Times",
-      "url": "https://www.citizen-times.com/story/sports/high-school/football/2026/07/31/nc-high-school-football-zion-ikeme-transfers-christ-school-reclassifies/91129804007/",
-      "publishedAt": "2026-07-31T23:14:54Z"
-    },
-    {
-      "player": "FSU football freshman LB Izayia Williams",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Tallahassee Democrat",
-      "url": "https://www.tallahassee.com/story/sports/college/fsu/football/2026/07/31/florida-state-seminoles-football-izayia-williams-linebacker-freshman/91128035007/",
-      "publishedAt": "2026-07-31T22:58:53Z"
-    },
-    {
-      "player": "The Three Players Who Will Define Texas ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/tamu/football/the-three-players-who-will-define-texas-am-season",
-      "publishedAt": "2026-07-31T22:45:07Z"
+      "source": "Fawslfulltime.co.uk",
+      "url": "https://fawslfulltime.co.uk/2026/08/01/southampton-add-hughes-and-moloney/",
+      "publishedAt": "2026-08-01T07:50:00Z"
     }
   ],
-  "generatedAt": "2026-08-01T23:52:15.032Z",
+  "generatedAt": "2026-08-02T08:12:44.903Z",
   "note": "Transfers derived from news headlines at launch."
 }
