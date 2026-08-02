@@ -1,26 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Five under",
+      "player": "Alex VanSumeren Pulls Back the Curtain o",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Columbiatribune.com",
-      "url": "https://www.columbiatribune.com/story/sports/college/tiger-extra/2026/08/01/five-missouri-football-under-the-radar-transfers-for-2026/91124837007/",
-      "publishedAt": "2026-08-01T08:02:29Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/usc/football/usc-trojans-alex-vansumeren-pulls-back-curtain-transfer",
+      "publishedAt": "2026-08-01T13:00:10Z"
     },
     {
-      "player": "Southampton add Hughes and Moloney",
+      "player": "The Biggest Offseason Question Mike Elko",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fawslfulltime.co.uk",
-      "url": "https://fawslfulltime.co.uk/2026/08/01/southampton-add-hughes-and-moloney/",
-      "publishedAt": "2026-08-01T07:50:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/tamu/football/the-biggest-offseason-question-mike-elko-still-hasnt-answered",
+      "publishedAt": "2026-08-01T13:00:07Z"
+    },
+    {
+      "player": "Every UNC Football Starting Job Up for G",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/unc/tar-heels-every-football-starting-job-up-grabs-this-season",
+      "publishedAt": "2026-08-01T13:00:07Z"
+    },
+    {
+      "player": "LSU women’s basketball player leads new ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Andthevalleyshook.com",
+      "url": "https://www.andthevalleyshook.com/all-womens-sports/51180/lsu-womens-basketball-player-leads-new-unionization-effort",
+      "publishedAt": "2026-08-01T13:00:00Z"
+    },
+    {
+      "player": "USC Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Athlon Sports",
+      "url": "https://athlonsports.com/college-football/usc-football-5-bold-predictions-trojans-2026",
+      "publishedAt": "2026-08-01T13:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-02T08:12:44.903Z",
+  "generatedAt": "2026-08-02T13:08:39.073Z",
   "note": "Transfers derived from news headlines at launch."
 }
