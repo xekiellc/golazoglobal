@@ -1,56 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Alex VanSumeren Pulls Back the Curtain o",
+      "player": "Barry",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/usc/football/usc-trojans-alex-vansumeren-pulls-back-curtain-transfer",
-      "publishedAt": "2026-08-01T13:00:10Z"
-    },
-    {
-      "player": "The Biggest Offseason Question Mike Elko",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/tamu/football/the-biggest-offseason-question-mike-elko-still-hasnt-answered",
-      "publishedAt": "2026-08-01T13:00:07Z"
-    },
-    {
-      "player": "Every UNC Football Starting Job Up for G",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/unc/tar-heels-every-football-starting-job-up-grabs-this-season",
-      "publishedAt": "2026-08-01T13:00:07Z"
-    },
-    {
-      "player": "LSU women’s basketball player leads new ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Andthevalleyshook.com",
-      "url": "https://www.andthevalleyshook.com/all-womens-sports/51180/lsu-womens-basketball-player-leads-new-unionization-effort",
-      "publishedAt": "2026-08-01T13:00:00Z"
-    },
-    {
-      "player": "USC Football",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Athlon Sports",
-      "url": "https://athlonsports.com/college-football/usc-football-5-bold-predictions-trojans-2026",
-      "publishedAt": "2026-08-01T13:00:00Z"
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c77g671zml3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "publishedAt": "2026-08-01T18:23:40Z"
     }
   ],
-  "generatedAt": "2026-08-02T13:08:39.073Z",
+  "generatedAt": "2026-08-02T19:01:49.254Z",
   "note": "Transfers derived from news headlines at launch."
 }
