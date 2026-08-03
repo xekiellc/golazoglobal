@@ -1,16 +1,66 @@
 {
   "transfers": [
     {
-      "player": "How FAMU football's new culture has the ",
+      "player": "Inter Miami’s pursuit of Kevin De Bruyne",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Tallahassee Democrat",
-      "url": "https://www.tallahassee.com/story/sports/college/famu/2026/08/02/famu-rattlers-football-hopes-quinn-gray-new-culture-brings-success/91088808007/",
-      "publishedAt": "2026-08-02T09:05:46Z"
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/inter-miami-de-bruyne-mls-interest/",
+      "publishedAt": "2026-08-02T14:01:37Z"
+    },
+    {
+      "player": "National football experts agree that USC",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://trojanswire.usatoday.com/story/sports/college/trojans/football/2026/08/02/usc-football-receiver-room-urgent-focus-2026/91036788007/",
+      "publishedAt": "2026-08-02T14:01:27Z"
+    },
+    {
+      "player": "Former Washington OL expected to assume ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/football/2026/08/02/zach-henning-transfer-portal-uw-football-arizona-wildcats-jedd-fisch/91000453007/",
+      "publishedAt": "2026-08-02T14:00:28Z"
+    },
+    {
+      "player": "Alabama Was Called Cheap; Now Its Strate",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/alabama/opinion/alabama-was-called-cheap-now-its-strategy-looks-smart",
+      "publishedAt": "2026-08-02T14:00:18Z"
+    },
+    {
+      "player": "Ryan Silverfield's offensive creativity ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/arkansas/news/ryan-silverfields-offensive-creativity-will-be-tested-in-2026",
+      "publishedAt": "2026-08-02T14:00:18Z"
+    },
+    {
+      "player": "Five Alabama Position Battles to Watch E",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/alabama/football/five-alabama-position-battles-to-watch-entering-fall-camp",
+      "publishedAt": "2026-08-02T14:00:04Z"
     }
   ],
-  "generatedAt": "2026-08-03T09:33:03.284Z",
+  "generatedAt": "2026-08-03T14:27:14.162Z",
   "note": "Transfers derived from news headlines at launch."
 }
