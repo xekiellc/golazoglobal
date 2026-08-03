@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "UCF Placed 15th in Big 12 2027 Team Recr",
+      "player": "How FAMU football's new culture has the ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/ucf/news/ucf-placed-15th-in-big-12-2027-team-recruiting-rankings",
-      "publishedAt": "2026-08-01T22:48:10Z"
-    },
-    {
-      "player": "Former Ohio State K Jayden Fielding is l",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Atozsports.com",
-      "url": "https://atozsports.com/college-football/ohio-state-buckeyes-news/former-ohio-state-k-jayden-fielding-is-looking-to-make-a-return-to-college-football-with-potential-new-eligibility/",
-      "publishedAt": "2026-08-01T22:42:17Z"
-    },
-    {
-      "player": "This Week in Penn State Football",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/pennstate/football/this-week-in-penn-state-football-what-we-learned-at-big-ten-media-days",
-      "publishedAt": "2026-08-01T22:41:16Z"
+      "source": "Tallahassee Democrat",
+      "url": "https://www.tallahassee.com/story/sports/college/famu/2026/08/02/famu-rattlers-football-hopes-quinn-gray-new-culture-brings-success/91088808007/",
+      "publishedAt": "2026-08-02T09:05:46Z"
     }
   ],
-  "generatedAt": "2026-08-02T23:53:47.378Z",
+  "generatedAt": "2026-08-03T09:33:03.284Z",
   "note": "Transfers derived from news headlines at launch."
 }
