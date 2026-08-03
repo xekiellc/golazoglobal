@@ -1,66 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Inter Miami’s pursuit of Kevin De Bruyne",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/inter-miami-de-bruyne-mls-interest/",
-      "publishedAt": "2026-08-02T14:01:37Z"
-    },
-    {
-      "player": "National football experts agree that USC",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://trojanswire.usatoday.com/story/sports/college/trojans/football/2026/08/02/usc-football-receiver-room-urgent-focus-2026/91036788007/",
-      "publishedAt": "2026-08-02T14:01:27Z"
-    },
-    {
-      "player": "Former Washington OL expected to assume ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/football/2026/08/02/zach-henning-transfer-portal-uw-football-arizona-wildcats-jedd-fisch/91000453007/",
-      "publishedAt": "2026-08-02T14:00:28Z"
-    },
-    {
-      "player": "Alabama Was Called Cheap; Now Its Strate",
+      "player": "Isaiah Horton Could Unlock Marcel Reed a",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/alabama/opinion/alabama-was-called-cheap-now-its-strategy-looks-smart",
-      "publishedAt": "2026-08-02T14:00:18Z"
+      "url": "https://roundtable.io/sports/ncaa/texas-am/news/isaiah-horton-could-unlock-marcel-reed-and-texas-a-m-s-offense",
+      "publishedAt": "2026-08-02T19:05:28Z"
     },
     {
-      "player": "Ryan Silverfield's offensive creativity ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/arkansas/news/ryan-silverfields-offensive-creativity-will-be-tested-in-2026",
-      "publishedAt": "2026-08-02T14:00:18Z"
-    },
-    {
-      "player": "Five Alabama Position Battles to Watch E",
+      "player": "The Most Important Texas A&M Player Isn'",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/alabama/football/five-alabama-position-battles-to-watch-entering-fall-camp",
-      "publishedAt": "2026-08-02T14:00:04Z"
+      "url": "https://www.si.com/college/tamu/football/the-most-important-texas-am-player-isnt-the-most-talented",
+      "publishedAt": "2026-08-02T19:00:04Z"
     }
   ],
-  "generatedAt": "2026-08-03T14:27:14.162Z",
+  "generatedAt": "2026-08-03T19:23:42.307Z",
   "note": "Transfers derived from news headlines at launch."
 }
