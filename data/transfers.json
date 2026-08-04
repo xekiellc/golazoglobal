@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Lukas Hornicek has now signed for Newcas",
+      "player": "Ranking every projected SEC starting QB ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Mag",
-      "url": "https://www.themag.co.uk/2026/08/lukas-hornicek-has-now-signed-for-newcastle-united-official-announcement/",
-      "publishedAt": "2026-08-03T08:14:25Z"
-    },
-    {
-      "player": "Notre Dame football position preview",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "South Bend Tribune",
-      "url": "https://www.southbendtribune.com/story/sports/college/football/2026/08/03/position-preview-notre-dame-specialists-reload-at-kicker-punter/91042534007/",
-      "publishedAt": "2026-08-03T08:05:07Z"
-    },
-    {
-      "player": "Report",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Madriduniversal.com",
-      "url": "https://madriduniversal.com/report-the-main-reason-behind-yan-diomandes-delayed-transfer-to-real-madrid/",
-      "publishedAt": "2026-08-03T08:05:00Z"
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/ranking-every-projected-sec-starting-qb-college-football-2026/",
+      "publishedAt": "2026-08-03T13:53:43Z"
     }
   ],
-  "generatedAt": "2026-08-04T08:28:14.910Z",
+  "generatedAt": "2026-08-04T13:57:44.123Z",
   "note": "Transfers derived from news headlines at launch."
 }
