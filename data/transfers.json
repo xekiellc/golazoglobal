@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Ranking every projected SEC starting QB ",
+      "player": "Three reasons why Barcelona should retai",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/ranking-every-projected-sec-starting-qb-college-football-2026/",
-      "publishedAt": "2026-08-03T13:53:43Z"
+      "source": "Barcauniversal.com",
+      "url": "https://barcauniversal.com/three-reasons-why-barcelona-should-retain-ferran-torres-no-matter-what-amid-psg-interest/",
+      "publishedAt": "2026-08-03T19:00:00Z"
+    },
+    {
+      "player": "Eli Drinkwitz’s seventh season at Mizzou",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Rockmnation.com",
+      "url": "https://www.rockmnation.com/missouri-tigers-football/151539/eli-drinkwitzs-seventh-season-at-mizzou-is-his-riskiest-yet",
+      "publishedAt": "2026-08-03T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-04T13:57:44.123Z",
+  "generatedAt": "2026-08-04T19:23:29.396Z",
   "note": "Transfers derived from news headlines at launch."
 }
