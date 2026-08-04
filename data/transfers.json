@@ -1,26 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Isaiah Horton Could Unlock Marcel Reed a",
+      "player": "How speed, explosiveness drive Florida S",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/texas-am/news/isaiah-horton-could-unlock-marcel-reed-and-texas-a-m-s-offense",
-      "publishedAt": "2026-08-02T19:05:28Z"
+      "source": "Tallahassee Democrat",
+      "url": "https://www.tallahassee.com/story/sports/college/fsu/football/2026/08/02/fsu-football-defensive-line-growth-physical-sunday-practice/91060500007/",
+      "publishedAt": "2026-08-02T23:46:33Z"
     },
     {
-      "player": "The Most Important Texas A&M Player Isn'",
+      "player": "Mizzou Football Fall Camp Media Day Quot",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Rockmnation.com",
+      "url": "https://www.rockmnation.com/missouri-tigers-football/151414/mizzou-football-fall-camp-media-day-quotes-and-highlights",
+      "publishedAt": "2026-08-02T23:17:06Z"
+    },
+    {
+      "player": "Three Bold Predictions For Baylor Footba",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/tamu/football/the-most-important-texas-am-player-isnt-the-most-talented",
-      "publishedAt": "2026-08-02T19:00:04Z"
+      "url": "https://www.si.com/college/baylor/football/three-bold-predictions-for-baylor-football-s-fall-camp",
+      "publishedAt": "2026-08-02T23:06:11Z"
+    },
+    {
+      "player": "Cal football lands nation's No. 1 JUCO p",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Stockton Record",
+      "url": "https://www.recordnet.com/story/sports/high-school/football/2026/08/02/no-1-juco-prospect-alius-mayo-commits-to-cal-football/91143612007/",
+      "publishedAt": "2026-08-02T23:03:28Z"
+    },
+    {
+      "player": "Jayden Everett Heaps Praise on new Badge",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/wisconsin/football/jayden-everett-heaps-praise-new-badgers-assistant-coach-just-different",
+      "publishedAt": "2026-08-02T23:00:03Z"
     }
   ],
-  "generatedAt": "2026-08-03T19:23:42.307Z",
+  "generatedAt": "2026-08-04T00:03:32.412Z",
   "note": "Transfers derived from news headlines at launch."
 }
