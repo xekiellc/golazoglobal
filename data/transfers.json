@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Three reasons why Barcelona should retai",
+      "player": "Former ASU basketball player caught in e",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Barcauniversal.com",
-      "url": "https://barcauniversal.com/three-reasons-why-barcelona-should-retain-ferran-torres-no-matter-what-amid-psg-interest/",
-      "publishedAt": "2026-08-03T19:00:00Z"
+      "source": "AZCentral",
+      "url": "https://www.azcentral.com/story/sports/college/asu/2026/08/03/eligibility-case-arizona-state-moe-odum/91150799007/",
+      "publishedAt": "2026-08-03T23:45:11Z"
     },
     {
-      "player": "Eli Drinkwitz’s seventh season at Mizzou",
+      "player": "Every Blue",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Rockmnation.com",
-      "url": "https://www.rockmnation.com/missouri-tigers-football/151539/eli-drinkwitzs-seventh-season-at-mizzou-is-his-riskiest-yet",
-      "publishedAt": "2026-08-03T19:00:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/tamu/football/every-blue-chip-texas-am-football-recruit-ready-to-make-a-big-impact-this-season",
+      "publishedAt": "2026-08-03T23:22:12Z"
+    },
+    {
+      "player": "Every Major 2027 LSU Football Recruiting",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/lsu/football/every-major-2027-lsu-football-recruiting-target-still-remaining",
+      "publishedAt": "2026-08-03T23:15:00Z"
+    },
+    {
+      "player": "Penn State Football Players Under the Mo",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/pennstate/football/penn-state-football-players-under-the-most-pressure-entering-training-camp",
+      "publishedAt": "2026-08-03T23:14:00Z"
     }
   ],
-  "generatedAt": "2026-08-04T19:23:29.396Z",
+  "generatedAt": "2026-08-04T23:58:16.931Z",
   "note": "Transfers derived from news headlines at launch."
 }
