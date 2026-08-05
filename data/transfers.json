@@ -1,5 +1,66 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-08-05T13:55:10.950Z",
+  "transfers": [
+    {
+      "player": "Georgia Tech Believes They Have The Piec",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/georgiatech/football/georgia-tech-believes-they-have-the-pieces-around-alberto-mendoza-for-him-to-be-successful-01kz6z6dwr53",
+      "publishedAt": "2026-08-04T19:17:40Z"
+    },
+    {
+      "player": "Where Illinois Football and Its 2026 Opp",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/illinois/football/illinois-football-2026-opponents-preseason-coaches-poll-rankings",
+      "publishedAt": "2026-08-04T19:16:51Z"
+    },
+    {
+      "player": "Houston Returns to the Preseason Coaches",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/houston/football/houston-returns-to-the-preseason-coaches-poll-after-a-four-year-absence",
+      "publishedAt": "2026-08-04T19:10:54Z"
+    },
+    {
+      "player": "Coaches Poll top 25 reactions",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/coaches-poll-top-25-overrated-underrated-preseason-rankings/",
+      "publishedAt": "2026-08-04T19:06:28Z"
+    },
+    {
+      "player": "Auburn RB is 'on a mission' to earn more",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://auburnwire.usatoday.com/story/sports/college/auburn/football/2026/08/04/auburn-football-omar-mabson-on-a-mission-alex-golesh/91168142007/",
+      "publishedAt": "2026-08-04T19:01:00Z"
+    },
+    {
+      "player": "Jesse Bisiwu",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Barcauniversal.com",
+      "url": "https://barcauniversal.com/jesse-bisiwu-everything-you-need-to-know-about-barcelonas-newest-wonderkid/",
+      "publishedAt": "2026-08-04T19:00:00Z"
+    }
+  ],
+  "generatedAt": "2026-08-05T19:22:05.484Z",
   "note": "Transfers derived from news headlines at launch."
 }
