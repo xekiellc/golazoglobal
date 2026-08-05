@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Why Greg Schiano is optimistic about Rut",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Asbury Park Press",
-      "url": "https://www.app.com/story/sports/college/rutgers/2026/08/04/rutgers-footballs-offensive-line-status-as-camp-begins/91151950007/",
-      "publishedAt": "2026-08-04T08:04:30Z"
-    },
-    {
-      "player": "Here's where UConn football's QB battle ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Norwichbulletin.com",
-      "url": "https://www.norwichbulletin.com/story/sports/college/2026/08/04/uconn-football-quarterback-battle-kalieb-osborne-jake-merklinger/91124538007/",
-      "publishedAt": "2026-08-04T08:03:54Z"
-    }
-  ],
-  "generatedAt": "2026-08-05T08:27:16.238Z",
+  "transfers": [],
+  "generatedAt": "2026-08-05T13:55:10.950Z",
   "note": "Transfers derived from news headlines at launch."
 }
