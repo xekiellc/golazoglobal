@@ -1,46 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Former ASU basketball player caught in e",
+      "player": "Why Greg Schiano is optimistic about Rut",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "AZCentral",
-      "url": "https://www.azcentral.com/story/sports/college/asu/2026/08/03/eligibility-case-arizona-state-moe-odum/91150799007/",
-      "publishedAt": "2026-08-03T23:45:11Z"
+      "source": "Asbury Park Press",
+      "url": "https://www.app.com/story/sports/college/rutgers/2026/08/04/rutgers-footballs-offensive-line-status-as-camp-begins/91151950007/",
+      "publishedAt": "2026-08-04T08:04:30Z"
     },
     {
-      "player": "Every Blue",
+      "player": "Here's where UConn football's QB battle ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/tamu/football/every-blue-chip-texas-am-football-recruit-ready-to-make-a-big-impact-this-season",
-      "publishedAt": "2026-08-03T23:22:12Z"
-    },
-    {
-      "player": "Every Major 2027 LSU Football Recruiting",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/lsu/football/every-major-2027-lsu-football-recruiting-target-still-remaining",
-      "publishedAt": "2026-08-03T23:15:00Z"
-    },
-    {
-      "player": "Penn State Football Players Under the Mo",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/pennstate/football/penn-state-football-players-under-the-most-pressure-entering-training-camp",
-      "publishedAt": "2026-08-03T23:14:00Z"
+      "source": "Norwichbulletin.com",
+      "url": "https://www.norwichbulletin.com/story/sports/college/2026/08/04/uconn-football-quarterback-battle-kalieb-osborne-jake-merklinger/91124538007/",
+      "publishedAt": "2026-08-04T08:03:54Z"
     }
   ],
-  "generatedAt": "2026-08-04T23:58:16.931Z",
+  "generatedAt": "2026-08-05T08:27:16.238Z",
   "note": "Transfers derived from news headlines at launch."
 }
