@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Here's five UConn football storylines he",
+      "player": "CFB analyst predicts Texas will top Geor",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Norwichbulletin.com",
-      "url": "https://www.norwichbulletin.com/story/sports/college/2026/08/05/uconn-football-top-storylines-heading-into-season-coach-jason-candle/91125327007/",
-      "publishedAt": "2026-08-05T08:04:22Z"
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/paul-finebaum-texas-georgia-sec-national-title-arch-manning-2026/",
+      "publishedAt": "2026-08-05T13:48:03Z"
+    },
+    {
+      "player": "Yahoo Sports' Preseason College Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/college-football/article/yahoo-sports-preseason-college-football-top-25-lsu-michigan-and-usc-just-miss-out-on-our-top-12-133311210.html",
+      "publishedAt": "2026-08-05T13:33:11Z"
+    },
+    {
+      "player": "Universities would prefer no AI",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Substack.com",
+      "url": "https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to",
+      "publishedAt": "2026-08-05T13:32:55Z"
     }
   ],
-  "generatedAt": "2026-08-06T08:25:32.105Z",
+  "generatedAt": "2026-08-06T13:52:14.170Z",
   "note": "Transfers derived from news headlines at launch."
 }
