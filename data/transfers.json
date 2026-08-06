@@ -1,56 +1,16 @@
 {
   "transfers": [
     {
-      "player": "SDSU football",
+      "player": "Here's five UConn football storylines he",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Mitchellrepublic.com",
-      "url": "https://www.mitchellrepublic.com/sports/college/sdsu-football-o-line-d-line-clash-in-intense-physical-practice",
-      "publishedAt": "2026-08-04T23:50:00Z"
-    },
-    {
-      "player": "Alabama named College Football’s most ov",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/alabama-most-overrated-team-2026-kalen-deboer-cfp-pressure/",
-      "publishedAt": "2026-08-04T23:38:12Z"
-    },
-    {
-      "player": "Jon Sumrall gives Florida injury update ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/08/04/florida-football-injury-report-fall-camp/91173809007/",
-      "publishedAt": "2026-08-04T23:33:54Z"
-    },
-    {
-      "player": "Michigan football roster sees two player",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://wolverineswire.usatoday.com/story/sports/college/wolverines/football/2026/08/04/michigan-football-roster-sees-two-players-depart-before-fall-camp/91174560007/",
-      "publishedAt": "2026-08-04T23:03:52Z"
-    },
-    {
-      "player": "Stephen Daley expected to return to Indi",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/stephen-daley-indiana-fifth-season-ncaa-court-ruling-cfp-champions/",
-      "publishedAt": "2026-08-04T22:59:24Z"
+      "source": "Norwichbulletin.com",
+      "url": "https://www.norwichbulletin.com/story/sports/college/2026/08/05/uconn-football-top-storylines-heading-into-season-coach-jason-candle/91125327007/",
+      "publishedAt": "2026-08-05T08:04:22Z"
     }
   ],
-  "generatedAt": "2026-08-05T23:55:09.274Z",
+  "generatedAt": "2026-08-06T08:25:32.105Z",
   "note": "Transfers derived from news headlines at launch."
 }
