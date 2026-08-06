@@ -1,36 +1,46 @@
 {
   "transfers": [
     {
-      "player": "CFB analyst predicts Texas will top Geor",
+      "player": "USD football",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/paul-finebaum-texas-georgia-sec-national-title-arch-manning-2026/",
-      "publishedAt": "2026-08-05T13:48:03Z"
+      "source": "Mitchellrepublic.com",
+      "url": "https://www.mitchellrepublic.com/sports/college/usd-football-freshman-austyn-modrzewski-has-early-lead-in-qb-race",
+      "publishedAt": "2026-08-05T23:46:00Z"
     },
     {
-      "player": "Yahoo Sports' Preseason College Football",
+      "player": "Kenny Dillingham hints at player additio",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/college-football/article/yahoo-sports-preseason-college-football-top-25-lsu-michigan-and-usc-just-miss-out-on-our-top-12-133311210.html",
-      "publishedAt": "2026-08-05T13:33:11Z"
+      "source": "AZCentral",
+      "url": "https://www.azcentral.com/story/sports/college/asu/2026/08/05/kenny-dillingham-hints-roster-addition-sun-devils-football-camp/91187751007/",
+      "publishedAt": "2026-08-05T23:40:12Z"
     },
     {
-      "player": "Universities would prefer no AI",
+      "player": "Time running out for Gators to settle QB",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Substack.com",
-      "url": "https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to",
-      "publishedAt": "2026-08-05T13:32:55Z"
+      "source": "USA Today",
+      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/08/05/florida-football-quarterback-battle-aaron-philo-tramell-jones-jr-fall-camp/91189931007/",
+      "publishedAt": "2026-08-05T23:15:50Z"
+    },
+    {
+      "player": "Houston Cougars Transfer Wide Receiver F",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/houston/football/houston-cougars-transfer-wide-receiver-faces-injury",
+      "publishedAt": "2026-08-05T23:13:59Z"
     }
   ],
-  "generatedAt": "2026-08-06T13:52:14.170Z",
+  "generatedAt": "2026-08-06T23:53:11.315Z",
   "note": "Transfers derived from news headlines at launch."
 }
