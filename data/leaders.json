@@ -23,6 +23,13 @@
     "DED": {
       "scorers": [
         {
+          "name": "Noah Naujoks",
+          "team": "Excelsior",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Irakli Yegoian",
           "team": "Excelsior",
           "goals": 1,
@@ -30,14 +37,7 @@
           "penalties": 0
         },
         {
-          "name": "Noah Naujoks",
-          "team": "Excelsior",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Nesto Groen",
+          "name": "David Garden",
           "team": "Excelsior",
           "goals": 1,
           "assists": 0,
@@ -55,12 +55,12 @@
         {
           "name": "Noah Naujoks",
           "team": "Excelsior",
-          "goals": 1,
+          "goals": 2,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Nesto Groen",
+          "name": "David Garden",
           "team": "Excelsior",
           "goals": 1,
           "assists": 0,
@@ -69,8 +69,38 @@
       ]
     },
     "PPL": {
-      "scorers": [],
-      "topAssists": []
+      "scorers": [
+        {
+          "name": "Georgios Koutsias",
+          "team": "Famalicão",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Yanis Begraoui",
+          "team": "Estoril Praia",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Georgios Koutsias",
+          "team": "Famalicão",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Yanis Begraoui",
+          "team": "Estoril Praia",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        }
+      ]
     },
     "ELC": {
       "scorers": [],
@@ -188,5 +218,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-07T18:50:16.319Z"
+  "generatedAt": "2026-08-07T23:31:56.867Z"
 }

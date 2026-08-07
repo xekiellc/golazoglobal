@@ -5,19 +5,19 @@
       "homeTeam": "Cambuur",
       "awayTeam": "Excelsior",
       "homeScore": 0,
-      "awayScore": 3,
-      "status": "LIVE",
+      "awayScore": 4,
+      "status": "FINISHED",
       "utcDate": "2026-08-07T18:00:00Z"
     },
     {
       "league": "PPL",
       "homeTeam": "Estoril Praia",
       "awayTeam": "Famalicão",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "SCHEDULED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-08-07T19:15:00Z"
     }
   ],
-  "generatedAt": "2026-08-07T18:48:05.625Z"
+  "generatedAt": "2026-08-07T23:29:47.777Z"
 }
