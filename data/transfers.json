@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Podcast",
+      "player": "Mike Elko Has Built a Team That Looks Di",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p2xq6p?at_campaign=rss",
-      "publishedAt": "2026-08-06T07:00:00Z"
-    },
-    {
-      "player": "'Show me they want me'",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cx2r5v3ykjyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "publishedAt": "2026-08-06T06:45:32Z"
-    },
-    {
-      "player": "Julián, Diomandé, FIFA... 5️⃣ stories ma",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Onefootball.com",
-      "url": "https://onefootball.com/en/news/julian-diomande-fifa-5-stories-making-the-headlines-43236164",
-      "publishedAt": "2026-08-06T06:43:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/tamu/football/mike-elko-has-built-a-team-that-looks-different-than-any-texas-am-roster-in-a-decade",
+      "publishedAt": "2026-08-06T12:39:56Z"
     }
   ],
-  "generatedAt": "2026-08-07T07:06:17.656Z",
+  "generatedAt": "2026-08-07T12:51:10.245Z",
   "note": "Transfers derived from news headlines at launch."
 }
