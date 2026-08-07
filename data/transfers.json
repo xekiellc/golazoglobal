@@ -1,46 +1,36 @@
 {
   "transfers": [
     {
-      "player": "USD football",
+      "player": "Podcast",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Mitchellrepublic.com",
-      "url": "https://www.mitchellrepublic.com/sports/college/usd-football-freshman-austyn-modrzewski-has-early-lead-in-qb-race",
-      "publishedAt": "2026-08-05T23:46:00Z"
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p2xq6p?at_campaign=rss",
+      "publishedAt": "2026-08-06T07:00:00Z"
     },
     {
-      "player": "Kenny Dillingham hints at player additio",
+      "player": "'Show me they want me'",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "AZCentral",
-      "url": "https://www.azcentral.com/story/sports/college/asu/2026/08/05/kenny-dillingham-hints-roster-addition-sun-devils-football-camp/91187751007/",
-      "publishedAt": "2026-08-05T23:40:12Z"
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cx2r5v3ykjyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "publishedAt": "2026-08-06T06:45:32Z"
     },
     {
-      "player": "Time running out for Gators to settle QB",
+      "player": "Julián, Diomandé, FIFA... 5️⃣ stories ma",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/08/05/florida-football-quarterback-battle-aaron-philo-tramell-jones-jr-fall-camp/91189931007/",
-      "publishedAt": "2026-08-05T23:15:50Z"
-    },
-    {
-      "player": "Houston Cougars Transfer Wide Receiver F",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/houston/football/houston-cougars-transfer-wide-receiver-faces-injury",
-      "publishedAt": "2026-08-05T23:13:59Z"
+      "source": "Onefootball.com",
+      "url": "https://onefootball.com/en/news/julian-diomande-fifa-5-stories-making-the-headlines-43236164",
+      "publishedAt": "2026-08-06T06:43:00Z"
     }
   ],
-  "generatedAt": "2026-08-06T23:53:11.315Z",
+  "generatedAt": "2026-08-07T07:06:17.656Z",
   "note": "Transfers derived from news headlines at launch."
 }

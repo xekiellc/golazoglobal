@@ -1,4 +1,23 @@
 {
-  "matches": [],
-  "generatedAt": "2026-08-06T23:54:36.062Z"
+  "matches": [
+    {
+      "league": "DED",
+      "homeTeam": "Cambuur",
+      "awayTeam": "Excelsior",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "SCHEDULED",
+      "utcDate": "2026-08-07T18:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Estoril Praia",
+      "awayTeam": "Famalicão",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "SCHEDULED",
+      "utcDate": "2026-08-07T19:15:00Z"
+    }
+  ],
+  "generatedAt": "2026-08-07T07:07:40.563Z"
 }
