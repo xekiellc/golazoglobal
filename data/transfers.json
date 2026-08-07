@@ -1,16 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Mike Elko Has Built a Team That Looks Di",
+      "player": "Former Florida State quarterback Thomas ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/former-florida-state-quarterback-thomas-castellanos-is-suing-the-ncaa/",
+      "publishedAt": "2026-08-06T18:45:33Z"
+    },
+    {
+      "player": "Manchester City strengthen interest in B",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Cityxtra.co.uk",
+      "url": "https://cityxtra.co.uk/50610/manchester-city-strengthen-interest-in-brazil-u15-superstar-as-family-embark-on-europe-tour/",
+      "publishedAt": "2026-08-06T18:45:00Z"
+    },
+    {
+      "player": "\"I Don't Like It\"",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Essentially Sports",
+      "url": "https://www.essentiallysports.com/ncaa-college-football-news-i-dont-like-it-ryan-day-doesnt-hold-back-on-most-frustrating-ohio-state-reality/",
+      "publishedAt": "2026-08-06T18:40:52Z"
+    },
+    {
+      "player": "Ryan Grubb Says Alabama's Offensive Line",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/tamu/football/mike-elko-has-built-a-team-that-looks-different-than-any-texas-am-roster-in-a-decade",
-      "publishedAt": "2026-08-06T12:39:56Z"
+      "url": "https://www.si.com/college/alabama/football/ryan-grubb-says-alabamas-offensive-line-is-little-ways-off",
+      "publishedAt": "2026-08-06T18:35:00Z"
+    },
+    {
+      "player": "EDGE Jayden Woods talks defensive mindse",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/08/06/florida-football-jayden-woods-fall-camp-quotes/91199245007/",
+      "publishedAt": "2026-08-06T18:34:17Z"
     }
   ],
-  "generatedAt": "2026-08-07T12:51:10.245Z",
+  "generatedAt": "2026-08-07T18:46:42.718Z",
   "note": "Transfers derived from news headlines at launch."
 }

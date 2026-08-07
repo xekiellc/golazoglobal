@@ -21,8 +21,52 @@
       "topAssists": []
     },
     "DED": {
-      "scorers": [],
-      "topAssists": []
+      "scorers": [
+        {
+          "name": "Irakli Yegoian",
+          "team": "Excelsior",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Noah Naujoks",
+          "team": "Excelsior",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Nesto Groen",
+          "team": "Excelsior",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Irakli Yegoian",
+          "team": "Excelsior",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Noah Naujoks",
+          "team": "Excelsior",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Nesto Groen",
+          "team": "Excelsior",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        }
+      ]
     },
     "PPL": {
       "scorers": [],
@@ -144,5 +188,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-07T12:54:43.760Z"
+  "generatedAt": "2026-08-07T18:50:16.319Z"
 }

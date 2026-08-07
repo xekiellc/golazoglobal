@@ -4,9 +4,9 @@
       "league": "DED",
       "homeTeam": "Cambuur",
       "awayTeam": "Excelsior",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "SCHEDULED",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "LIVE",
       "utcDate": "2026-08-07T18:00:00Z"
     },
     {
@@ -19,5 +19,5 @@
       "utcDate": "2026-08-07T19:15:00Z"
     }
   ],
-  "generatedAt": "2026-08-07T12:52:34.582Z"
+  "generatedAt": "2026-08-07T18:48:05.625Z"
 }
