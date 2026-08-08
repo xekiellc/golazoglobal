@@ -1,16 +1,66 @@
 {
   "transfers": [
     {
-      "player": "Ratkov’s Replacement? Croatian Striker S",
+      "player": "Vanderbilt Football Defensive Takeaways ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Thelaziali.com",
-      "url": "https://thelaziali.com/2026/08/07/petar-ratkov-franjo-ivanovic-yes-lazio/",
-      "publishedAt": "2026-08-07T12:25:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/vanderbilt/football/vanderbilt-football-defensive-takeaways-after-the-third-day-of-fall-camp",
+      "publishedAt": "2026-08-07T18:25:00Z"
+    },
+    {
+      "player": "Buckeyes' Devin McCuin Makes the First M",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/ohio-state/players/buckeyes-devin-mccuin-makes-the-first-move-in-the-wide-receiver-room",
+      "publishedAt": "2026-08-07T18:20:15Z"
+    },
+    {
+      "player": "Florida football preseason awards tracke",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Gainesville Sun",
+      "url": "https://www.gainesville.com/story/sports/college/football/2026/08/07/florida-football-k-earns-spot-on-preseason-lou-groza-award-watch-list/91204905007/",
+      "publishedAt": "2026-08-07T18:18:31Z"
+    },
+    {
+      "player": "Previewing UVA Football’s 2026 running b",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Streaking The Lawn",
+      "url": "https://www.streakingthelawn.com/football/52611/previewing-uva-footballs-2026-running-back-group",
+      "publishedAt": "2026-08-07T18:10:11Z"
+    },
+    {
+      "player": "Former Pahokee football star Hardley Gil",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Palm Beach Post",
+      "url": "https://www.palmbeachpost.com/story/sports/high-school/football/2026/08/07/hardley-gilmore-dismissed-kentucky-baylor-nebraska-pahokee-football/91216480007/",
+      "publishedAt": "2026-08-07T18:06:00Z"
+    },
+    {
+      "player": "How Kane Wommack handles Alabama footbal",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Tuscaloosa News",
+      "url": "https://www.tuscaloosanews.com/story/sports/college/football/2026/08/07/how-kane-wommack-sees-alabama-football-inside-linebacker-battle/91151285007/",
+      "publishedAt": "2026-08-07T18:05:44Z"
     }
   ],
-  "generatedAt": "2026-08-08T12:35:47.476Z",
+  "generatedAt": "2026-08-08T18:28:53.232Z",
   "note": "Transfers derived from news headlines at launch."
 }

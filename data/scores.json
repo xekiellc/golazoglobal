@@ -2,66 +2,39 @@
   "matches": [
     {
       "league": "DED",
-      "homeTeam": "Cambuur",
-      "awayTeam": "Excelsior",
-      "homeScore": 0,
-      "awayScore": 4,
-      "status": "FINISHED",
-      "utcDate": "2026-08-07T18:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Estoril Praia",
-      "awayTeam": "Famalicão",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-08-07T18:15:00Z"
-    },
-    {
-      "league": "DED",
       "homeTeam": "Go Ahead",
       "awayTeam": "Willem II",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "SCHEDULED",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "IN_PLAY",
       "utcDate": "2026-08-08T16:45:00Z"
     },
     {
       "league": "DED",
       "homeTeam": "PSV",
       "awayTeam": "Sittard",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "SCHEDULED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "LIVE",
       "utcDate": "2026-08-08T18:00:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "AZ",
-      "awayTeam": "Den Haag",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "SCHEDULED",
-      "utcDate": "2026-08-08T19:00:00Z"
     },
     {
       "league": "PPL",
       "homeTeam": "Vitória SC",
       "awayTeam": "Arouca",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "SCHEDULED",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
       "utcDate": "2026-08-08T17:00:00Z"
     },
     {
-      "league": "PPL",
-      "homeTeam": "Amadora",
-      "awayTeam": "Sporting CP",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "SCHEDULED",
-      "utcDate": "2026-08-08T19:30:00Z"
+      "league": "DED",
+      "homeTeam": "Cambuur",
+      "awayTeam": "Excelsior",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "FINISHED",
+      "utcDate": "2026-08-07T18:00:00Z"
     },
     {
       "league": "DED",
@@ -73,13 +46,40 @@
       "utcDate": "2026-08-08T14:30:00Z"
     },
     {
+      "league": "DED",
+      "homeTeam": "AZ",
+      "awayTeam": "Den Haag",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-08-08T19:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Estoril Praia",
+      "awayTeam": "Famalicão",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "2026-08-07 18:15:00Z",
+      "utcDate": "2026-08-07T19:15:00Z"
+    },
+    {
       "league": "PPL",
       "homeTeam": "Marítimo",
       "awayTeam": "Casa Pia",
       "homeScore": null,
       "awayScore": null,
-      "status": "TIMED",
+      "status": "2026-08-08 13:30:00Z",
       "utcDate": "2026-08-08T14:30:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Amadora",
+      "awayTeam": "Sporting CP",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-08-08T19:30:00Z"
     },
     {
       "league": "BSA",
@@ -118,5 +118,5 @@
       "utcDate": "2026-08-09T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-08T12:37:12.521Z"
+  "generatedAt": "2026-08-08T18:30:16.336Z"
 }

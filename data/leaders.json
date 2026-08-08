@@ -42,12 +42,75 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
+        },
+        {
+          "name": "Patrick Brouwer",
+          "team": "Telstar",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Rui Mendes",
+          "team": "Telstar",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Kaj Sierhuis",
+          "team": "NEC",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Devin Haen",
+          "team": "Willem II",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Søren Tengstedt",
+          "team": "Go Ahead",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Melle  Meulensteen",
+          "team": "Go Ahead",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Erik Flataker",
+          "team": "Go Ahead",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
         }
       ],
       "topAssists": [
         {
           "name": "Irakli Yegoian",
           "team": "Excelsior",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Patrick Brouwer",
+          "team": "Telstar",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Melle  Meulensteen",
+          "team": "Go Ahead",
           "goals": 1,
           "assists": 1,
           "penalties": 0
@@ -83,6 +146,20 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
+        },
+        {
+          "name": "Raphael Guzzo",
+          "team": "Marítimo",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Barbero",
+          "team": "Arouca",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
         }
       ],
       "topAssists": [
@@ -96,6 +173,20 @@
         {
           "name": "Yanis Begraoui",
           "team": "Estoril Praia",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Raphael Guzzo",
+          "team": "Marítimo",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Barbero",
+          "team": "Arouca",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -218,5 +309,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-08T12:39:26.043Z"
+  "generatedAt": "2026-08-08T18:32:23.945Z"
 }
