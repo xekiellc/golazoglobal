@@ -16,8 +16,107 @@
       "homeScore": 1,
       "awayScore": 1,
       "status": "FINISHED",
-      "utcDate": "2026-08-07T19:15:00Z"
+      "utcDate": "2026-08-07T18:15:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "NEC",
+      "awayTeam": "Telstar",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "SCHEDULED",
+      "utcDate": "2026-08-08T14:30:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "Go Ahead",
+      "awayTeam": "Willem II",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "SCHEDULED",
+      "utcDate": "2026-08-08T16:45:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "PSV",
+      "awayTeam": "Sittard",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "SCHEDULED",
+      "utcDate": "2026-08-08T18:00:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "AZ",
+      "awayTeam": "Den Haag",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "SCHEDULED",
+      "utcDate": "2026-08-08T19:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Marítimo",
+      "awayTeam": "Casa Pia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "SCHEDULED",
+      "utcDate": "2026-08-08T14:30:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Vitória SC",
+      "awayTeam": "Arouca",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "SCHEDULED",
+      "utcDate": "2026-08-08T17:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Amadora",
+      "awayTeam": "Sporting CP",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "SCHEDULED",
+      "utcDate": "2026-08-08T19:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Grêmio",
+      "awayTeam": "São Paulo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-08-08T19:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Clube do Remo",
+      "awayTeam": "Mineiro",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-08-08T21:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Chapecoense",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-08-08T23:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Fluminense",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-08-09T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-07T23:29:47.777Z"
+  "generatedAt": "2026-08-08T06:42:52.254Z"
 }
