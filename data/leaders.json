@@ -160,9 +160,44 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
+        },
+        {
+          "name": "Rodrigo Zalazar",
+          "team": "Sporting CP",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Fotis Ioannidis",
+          "team": "Sporting CP",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Leandro Antonetti",
+          "team": "Amadora",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Beni Souza",
+          "team": "Amadora",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Rodrigo Zalazar",
+          "team": "Sporting CP",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
         {
           "name": "Georgios Koutsias",
           "team": "Famalicão",
@@ -217,7 +252,7 @@
           "name": "Carlos Vinícius",
           "team": "Grêmio",
           "goals": 10,
-          "assists": 0,
+          "assists": 1,
           "penalties": 1
         },
         {
@@ -300,14 +335,14 @@
           "penalties": 1
         },
         {
-          "name": "John Kennedy",
-          "team": "Fluminense",
-          "goals": 9,
+          "name": "Carlos Vinícius",
+          "team": "Grêmio",
+          "goals": 10,
           "assists": 1,
-          "penalties": 0
+          "penalties": 1
         }
       ]
     }
   },
-  "generatedAt": "2026-08-08T18:32:23.945Z"
+  "generatedAt": "2026-08-08T23:26:02.661Z"
 }
