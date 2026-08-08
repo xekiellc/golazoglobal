@@ -20,15 +20,6 @@
     },
     {
       "league": "DED",
-      "homeTeam": "NEC",
-      "awayTeam": "Telstar",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "SCHEDULED",
-      "utcDate": "2026-08-08T14:30:00Z"
-    },
-    {
-      "league": "DED",
       "homeTeam": "Go Ahead",
       "awayTeam": "Willem II",
       "homeScore": null,
@@ -56,15 +47,6 @@
     },
     {
       "league": "PPL",
-      "homeTeam": "Marítimo",
-      "awayTeam": "Casa Pia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "SCHEDULED",
-      "utcDate": "2026-08-08T14:30:00Z"
-    },
-    {
-      "league": "PPL",
       "homeTeam": "Vitória SC",
       "awayTeam": "Arouca",
       "homeScore": null,
@@ -80,6 +62,24 @@
       "awayScore": null,
       "status": "SCHEDULED",
       "utcDate": "2026-08-08T19:30:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "NEC",
+      "awayTeam": "Telstar",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-08-08T14:30:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Marítimo",
+      "awayTeam": "Casa Pia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-08-08T14:30:00Z"
     },
     {
       "league": "BSA",
@@ -118,5 +118,5 @@
       "utcDate": "2026-08-09T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-08T06:42:52.254Z"
+  "generatedAt": "2026-08-08T12:37:12.521Z"
 }
