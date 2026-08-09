@@ -1,66 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Vanderbilt Football 2026 Position Previe",
+      "player": "Chelsea vs AC Milan",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Anchor Of Gold",
-      "url": "https://www.anchorofgold.com/football/31884/vanderbilt-football-2026-position-preview-tight-end",
-      "publishedAt": "2026-08-07T23:00:00Z"
-    },
-    {
-      "player": "5 late",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://ftw.usatoday.com/story/sports/ncaaf/2026/08/07/college-football-fantasy-sleepers-late-round-players-to-know/91220877007/",
-      "publishedAt": "2026-08-07T22:31:45Z"
-    },
-    {
-      "player": "3 Houston Cougars Who Have Raised Their ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/houston/football/3-houston-cougars-who-have-raised-their-stock-during-first-week-of-camp",
-      "publishedAt": "2026-08-07T22:31:12Z"
-    },
-    {
-      "player": "Raiders’ tight end dishes on which wide ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/07/sports/raiders-michael-mayer-reveals-which-wr-moving-up-training-camp/",
-      "publishedAt": "2026-08-07T22:29:41Z"
-    },
-    {
-      "player": "Raiders’ tight end dishes on which wide ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/07/sports/raiders-michael-mayer-reveals-which-wr-moving-up-training-camp/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-      "publishedAt": "2026-08-07T22:29:41Z"
-    },
-    {
-      "player": "Top College Football Games Opening Weeke",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Stadiumrant.com",
-      "url": "https://www.stadiumrant.com/top-college-football-games-opening-weekend/",
-      "publishedAt": "2026-08-07T22:29:13Z"
+      "source": "The Football Faithful",
+      "url": "https://thefootballfaithful.com/chelsea-vs-ac-milan-match-preview-and-team-news/",
+      "publishedAt": "2026-08-08T06:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-08T23:22:33.044Z",
+  "generatedAt": "2026-08-09T06:45:29.635Z",
   "note": "Transfers derived from news headlines at launch."
 }
