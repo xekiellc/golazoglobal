@@ -2,6 +2,24 @@
   "matches": [
     {
       "league": "DED",
+      "homeTeam": "Groningen",
+      "awayTeam": "Utrecht",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "LIVE",
+      "utcDate": "2026-08-09T12:30:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "Zwolle",
+      "awayTeam": "Ajax",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "LIVE",
+      "utcDate": "2026-08-09T12:30:00Z"
+    },
+    {
+      "league": "DED",
       "homeTeam": "NEC",
       "awayTeam": "Telstar",
       "homeScore": 1,
@@ -35,6 +53,15 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-08-08T19:00:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "Sparta",
+      "awayTeam": "Feyenoord",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-08-09T10:15:00Z"
     },
     {
       "league": "PPL",
@@ -98,33 +125,6 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-08-09T00:00:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Sparta",
-      "awayTeam": "Feyenoord",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-09T10:15:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Groningen",
-      "awayTeam": "Utrecht",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-09T12:30:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Zwolle",
-      "awayTeam": "Ajax",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-09T12:30:00Z"
     },
     {
       "league": "DED",
@@ -226,5 +226,5 @@
       "utcDate": "2026-08-09T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-08-09T06:46:55.231Z"
+  "generatedAt": "2026-08-09T12:39:52.693Z"
 }

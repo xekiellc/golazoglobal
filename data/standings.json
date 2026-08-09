@@ -1313,6 +1313,19 @@
       },
       {
         "position": 5,
+        "team": "Feyenoord",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 0,
+        "goalDifference": 1,
+        "points": 3,
+        "form": ""
+      },
+      {
+        "position": 6,
         "team": "Sittard",
         "played": 1,
         "won": 0,
@@ -1325,7 +1338,7 @@
         "form": ""
       },
       {
-        "position": 5,
+        "position": 6,
         "team": "PSV",
         "played": 1,
         "won": 0,
@@ -1338,33 +1351,59 @@
         "form": ""
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "Ajax",
-        "played": 0,
+        "played": 1,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
         "goalsFor": 0,
         "goalsAgainst": 0,
         "goalDifference": 0,
-        "points": 0,
+        "points": 1,
         "form": ""
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "Groningen",
-        "played": 0,
+        "played": 1,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
         "goalsFor": 0,
         "goalsAgainst": 0,
         "goalDifference": 0,
-        "points": 0,
+        "points": 1,
         "form": ""
       },
       {
-        "position": 7,
+        "position": 8,
+        "team": "Utrecht",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "points": 1,
+        "form": ""
+      },
+      {
+        "position": 8,
+        "team": "Zwolle",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "points": 1,
+        "form": ""
+      },
+      {
+        "position": 12,
         "team": "Twente",
         "played": 0,
         "won": 0,
@@ -1377,46 +1416,7 @@
         "form": ""
       },
       {
-        "position": 7,
-        "team": "Utrecht",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 7,
-        "team": "Feyenoord",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 7,
-        "team": "Zwolle",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 7,
+        "position": 12,
         "team": "Heerenveen",
         "played": 0,
         "won": 0,
@@ -1429,20 +1429,7 @@
         "form": ""
       },
       {
-        "position": 7,
-        "team": "Sparta",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 15,
+        "position": 14,
         "team": "NEC",
         "played": 1,
         "won": 0,
@@ -1450,6 +1437,19 @@
         "lost": 1,
         "goalsFor": 1,
         "goalsAgainst": 2,
+        "goalDifference": -1,
+        "points": 0,
+        "form": ""
+      },
+      {
+        "position": 15,
+        "team": "Sparta",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 0,
+        "goalsAgainst": 1,
         "goalDifference": -1,
         "points": 0,
         "form": ""
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-09T06:47:59.067Z"
+  "generatedAt": "2026-08-09T12:40:56.312Z"
 }

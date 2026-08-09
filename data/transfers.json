@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Chelsea vs AC Milan",
+      "player": "Lukaku and Napoli set Fenerbahce demands",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Football Faithful",
-      "url": "https://thefootballfaithful.com/chelsea-vs-ac-milan-match-preview-and-team-news/",
-      "publishedAt": "2026-08-08T06:00:00Z"
+      "source": "Football Italia",
+      "url": "https://football-italia.net/lukaku-napoli-set-fenerbahce-demands-e10m/",
+      "publishedAt": "2026-08-08T12:35:22Z"
+    },
+    {
+      "player": "Georgia football QB commit Colton Nussme",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://ugawire.usatoday.com/story/sports/college/bulldogs/football/2026/08/08/georgia-quarterback-commitment-colton-nussmeier-high-school-transfer/91212426007/",
+      "publishedAt": "2026-08-08T12:32:22Z"
     }
   ],
-  "generatedAt": "2026-08-09T06:45:29.635Z",
+  "generatedAt": "2026-08-09T12:38:27.664Z",
   "note": "Transfers derived from news headlines at launch."
 }
