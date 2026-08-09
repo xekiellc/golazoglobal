@@ -1,46 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Matthias Jaissle Reveals Newcastle Trans",
+      "player": "How Does NCAA's New 5",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "SB Nation",
-      "url": "https://cominghomenewcastle.sbnation.com/newcastle-united-transfer-news-rumors/23832/matthias-jaissle-reveals-newcastle-transfer-change-with-eddie-howe-out",
-      "publishedAt": "2026-08-08T18:30:00Z"
-    },
-    {
-      "player": "5 coaches poll Top 25 snubs who will sur",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "FanSided",
-      "url": "https://fansided.com/college-football/5-coaches-poll-top-25-snubs-who-will-surge-into-the-college-football-rankings-quickly",
-      "publishedAt": "2026-08-08T18:29:43Z"
-    },
-    {
-      "player": "How is former Auburn QB Ashton Daniels f",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://auburnwire.usatoday.com/story/sports/college/auburn/football/2026/08/08/auburn-football-ashton-daniels-fsu-preseason-camp-vision/91225854007/",
-      "publishedAt": "2026-08-08T18:00:53Z"
-    },
-    {
-      "player": "Projecting Ohio State's Week 1 Starting ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/ohiostate/news/projecting-ohio-state-s-week-1-starting-lineup-as-camp-begins-01kzf6gdjtn5",
-      "publishedAt": "2026-08-08T18:00:03Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/washington/news/how-does-ncaas-new-5-for-5-rule-affect-current-washington-huskies-players",
+      "publishedAt": "2026-08-08T23:18:40Z"
     }
   ],
-  "generatedAt": "2026-08-09T18:31:55.143Z",
+  "generatedAt": "2026-08-09T23:24:59.130Z",
   "note": "Transfers derived from news headlines at launch."
 }
