@@ -1,26 +1,16 @@
 {
   "transfers": [
     {
-      "player": "How Real Madrid have achieved financial ",
+      "player": "Georgia football named as team that badl",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Madriduniversal.com",
-      "url": "https://madriduniversal.com/how-real-madrid-have-achieved-financial-success-through-their-revenue-model/",
-      "publishedAt": "2026-08-09T07:00:00Z"
-    },
-    {
-      "player": "Manchester United scout £73 million “gre",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Utdreport.co.uk",
-      "url": "https://utdreport.co.uk/2026/08/09/manchester-united-scout-73-million-great-talent-as-summer-transfer-target-emerges/",
-      "publishedAt": "2026-08-09T06:50:00Z"
+      "source": "USA Today",
+      "url": "https://ugawire.usatoday.com/story/sports/college/bulldogs/football/2026/08/09/georgia-bulldogs-football-receiver-questions-void/91215033007/",
+      "publishedAt": "2026-08-09T12:36:26Z"
     }
   ],
-  "generatedAt": "2026-08-10T07:20:16.905Z",
+  "generatedAt": "2026-08-10T12:55:22.965Z",
   "note": "Transfers derived from news headlines at launch."
 }
