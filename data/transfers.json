@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "How Does NCAA's New 5",
+      "player": "How Real Madrid have achieved financial ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/washington/news/how-does-ncaas-new-5-for-5-rule-affect-current-washington-huskies-players",
-      "publishedAt": "2026-08-08T23:18:40Z"
+      "source": "Madriduniversal.com",
+      "url": "https://madriduniversal.com/how-real-madrid-have-achieved-financial-success-through-their-revenue-model/",
+      "publishedAt": "2026-08-09T07:00:00Z"
+    },
+    {
+      "player": "Manchester United scout £73 million “gre",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Utdreport.co.uk",
+      "url": "https://utdreport.co.uk/2026/08/09/manchester-united-scout-73-million-great-talent-as-summer-transfer-target-emerges/",
+      "publishedAt": "2026-08-09T06:50:00Z"
     }
   ],
-  "generatedAt": "2026-08-09T23:24:59.130Z",
+  "generatedAt": "2026-08-10T07:20:16.905Z",
   "note": "Transfers derived from news headlines at launch."
 }

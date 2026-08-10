@@ -1,69 +1,6 @@
 {
   "matches": [
     {
-      "league": "BSA",
-      "homeTeam": "Bragantino",
-      "awayTeam": "Corinthians",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "IN_PLAY",
-      "utcDate": "2026-08-09T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Santos",
-      "awayTeam": "Paranaense",
-      "homeScore": 0,
-      "awayScore": 3,
-      "status": "IN_PLAY",
-      "utcDate": "2026-08-09T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Flamengo",
-      "awayTeam": "Vitória",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "PAUSED",
-      "utcDate": "2026-08-09T22:30:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "NEC",
-      "awayTeam": "Telstar",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-08-08T14:30:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Go Ahead",
-      "awayTeam": "Willem II",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-08-08T16:45:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "PSV",
-      "awayTeam": "Sittard",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-08-08T18:00:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "AZ",
-      "awayTeam": "Den Haag",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-08-08T19:00:00Z"
-    },
-    {
       "league": "DED",
       "homeTeam": "Sparta",
       "awayTeam": "Feyenoord",
@@ -98,33 +35,6 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-08-09T14:45:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Marítimo",
-      "awayTeam": "Casa Pia",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-08-08T14:30:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Vitória SC",
-      "awayTeam": "Arouca",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-08-08T17:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Amadora",
-      "awayTeam": "Sporting CP",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-08-08T19:30:00Z"
     },
     {
       "league": "PPL",
@@ -164,33 +74,6 @@
     },
     {
       "league": "BSA",
-      "homeTeam": "Grêmio",
-      "awayTeam": "São Paulo",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-08-08T19:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Clube do Remo",
-      "awayTeam": "Mineiro",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-08-08T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Coritiba",
-      "awayTeam": "Chapecoense",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-08-08T23:30:00Z"
-    },
-    {
-      "league": "BSA",
       "homeTeam": "Botafogo",
       "awayTeam": "Fluminense",
       "homeScore": 1,
@@ -224,7 +107,43 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-08-09T19:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Corinthians",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-08-09T21:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Santos",
+      "awayTeam": "Paranaense",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-08-09T21:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Vitória",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-08-09T22:30:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Santa Clara",
+      "awayTeam": "CD Nacional",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-08-10T19:15:00Z"
     }
   ],
-  "generatedAt": "2026-08-09T23:26:22.500Z"
+  "generatedAt": "2026-08-10T07:21:39.573Z"
 }

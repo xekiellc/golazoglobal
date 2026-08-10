@@ -1733,7 +1733,7 @@
     "ELC": [
       {
         "position": 1,
-        "team": "Swansea",
+        "team": "Southampton",
         "played": 0,
         "won": 0,
         "drawn": 0,
@@ -1746,7 +1746,7 @@
       },
       {
         "position": 1,
-        "team": "Middlesbrough",
+        "team": "Sheffield Utd",
         "played": 0,
         "won": 0,
         "drawn": 0,
@@ -1773,58 +1773,6 @@
       {
         "position": 1,
         "team": "Norwich",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 1,
-        "team": "Birmingham",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 1,
-        "team": "Burnley",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 1,
-        "team": "Derby County",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 1,
-        "team": "Wolverhampton",
         "played": 0,
         "won": 0,
         "drawn": 0,
@@ -1915,32 +1863,6 @@
       },
       {
         "position": 1,
-        "team": "Southampton",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 1,
-        "team": "Sheffield Utd",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 1,
         "team": "Blackburn",
         "played": 0,
         "won": 0,
@@ -2019,6 +1941,84 @@
       },
       {
         "position": 1,
+        "team": "Birmingham",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "points": 0,
+        "form": ""
+      },
+      {
+        "position": 1,
+        "team": "Burnley",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "points": 0,
+        "form": ""
+      },
+      {
+        "position": 1,
+        "team": "Derby County",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "points": 0,
+        "form": ""
+      },
+      {
+        "position": 1,
+        "team": "Wolverhampton",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "points": 0,
+        "form": ""
+      },
+      {
+        "position": 1,
+        "team": "Swansea",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "points": 0,
+        "form": ""
+      },
+      {
+        "position": 1,
+        "team": "Middlesbrough",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "points": 0,
+        "form": ""
+      },
+      {
+        "position": 1,
         "team": "Millwall",
         "played": 0,
         "won": 0,
@@ -2065,9 +2065,9 @@
         "won": 12,
         "drawn": 6,
         "lost": 3,
-        "goalsFor": 38,
+        "goalsFor": 39,
         "goalsAgainst": 18,
-        "goalDifference": 20,
+        "goalDifference": 21,
         "points": 42,
         "form": ""
       },
@@ -2130,9 +2130,9 @@
         "won": 8,
         "drawn": 8,
         "lost": 6,
-        "goalsFor": 23,
+        "goalsFor": 24,
         "goalsAgainst": 20,
-        "goalDifference": 3,
+        "goalDifference": 4,
         "points": 32,
         "form": ""
       },
@@ -2144,8 +2144,8 @@
         "drawn": 4,
         "lost": 8,
         "goalsFor": 26,
-        "goalsAgainst": 21,
-        "goalDifference": 5,
+        "goalsAgainst": 22,
+        "goalDifference": 4,
         "points": 31,
         "form": ""
       },
@@ -2209,8 +2209,8 @@
         "drawn": 5,
         "lost": 10,
         "goalsFor": 22,
-        "goalsAgainst": 32,
-        "goalDifference": -10,
+        "goalsAgainst": 33,
+        "goalDifference": -11,
         "points": 26,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-09T23:27:24.621Z"
+  "generatedAt": "2026-08-10T07:22:40.883Z"
 }
