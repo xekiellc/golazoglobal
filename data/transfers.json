@@ -1,5 +1,36 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-08-10T18:49:09.807Z",
+  "transfers": [
+    {
+      "player": "Rutgers Football Opponent Previews",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "On The Banks",
+      "url": "https://www.onthebanks.com/big-ten-football/54379/rutgers-football-opponent-previews-penn-state",
+      "publishedAt": "2026-08-09T22:51:33Z"
+    },
+    {
+      "player": "Alabama football game",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/alabama-football-game-by-game-picks-postseason-prediction-for-2026-season",
+      "publishedAt": "2026-08-09T22:31:25Z"
+    },
+    {
+      "player": "How Deep is the Miami Hurricanes Quarter",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/miami/news/how-deep-is-the-miami-hurricanes-quarterback-room-really",
+      "publishedAt": "2026-08-09T22:30:33Z"
+    }
+  ],
+  "generatedAt": "2026-08-10T23:29:16.236Z",
   "note": "Transfers derived from news headlines at launch."
 }

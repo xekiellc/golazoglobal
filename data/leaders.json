@@ -134,6 +134,13 @@
     "PPL": {
       "scorers": [
         {
+          "name": "Gonçalo Paciência",
+          "team": "Santa Clara",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Georgios Koutsias",
           "team": "Famalicão",
           "goals": 1,
@@ -195,13 +202,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Gabriel Veiga",
-          "team": "Porto",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -210,6 +210,13 @@
           "team": "Sporting CP",
           "goals": 1,
           "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Gonçalo Paciência",
+          "team": "Santa Clara",
+          "goals": 2,
+          "assists": 0,
           "penalties": 0
         },
         {
@@ -229,13 +236,6 @@
         {
           "name": "Raphael Guzzo",
           "team": "Marítimo",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Barbero",
-          "team": "Arouca",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -358,5 +358,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-10T18:52:39.171Z"
+  "generatedAt": "2026-08-10T23:32:47.079Z"
 }
