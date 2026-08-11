@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Transfer from SEC rival could fill key r",
+      "player": "Lane Kiffin's Reveiw On Quarterback Sam ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/football/2026/08/10/lsu-football-eugene-wilson-florida-gators-transfer-portal/91236787007/",
-      "publishedAt": "2026-08-10T12:46:25Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/lsu/football/lane-kiffin-reveiw-on-quarterback-sam-leavitt-during-week-two-of-fall-camp",
+      "publishedAt": "2026-08-10T18:50:10Z"
+    },
+    {
+      "player": "Three Early Standouts From Texas A&M Foo",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/tamu/football/three-early-standouts-from-texas-a-m-football-fall-camp",
+      "publishedAt": "2026-08-10T18:48:40Z"
+    },
+    {
+      "player": "Alabama Running Back Shows 'Maturity' Le",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/alabama/football/alabama-running-back-shows-maturity-leading-larger-opportunity",
+      "publishedAt": "2026-08-10T18:30:01Z"
     }
   ],
-  "generatedAt": "2026-08-11T12:51:59.436Z",
+  "generatedAt": "2026-08-11T18:54:43.597Z",
   "note": "Transfers derived from news headlines at launch."
 }
