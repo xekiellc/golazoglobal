@@ -1,36 +1,66 @@
 {
   "transfers": [
     {
-      "player": "Rutgers Football Opponent Previews",
+      "player": "Journalist suggests potential for Liverp",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "On The Banks",
-      "url": "https://www.onthebanks.com/big-ten-football/54379/rutgers-football-opponent-previews-penn-state",
-      "publishedAt": "2026-08-09T22:51:33Z"
+      "source": "Anfieldindex.com",
+      "url": "https://anfieldindex.com/97637/journalist-suggests-potential-for-liverpool-wonderkid-to-return-from-loan-in-january.html",
+      "publishedAt": "2026-08-10T06:55:00Z"
     },
     {
-      "player": "Alabama football game",
+      "player": "Real Madrid’s smartest summer addition m",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/alabama-football-game-by-game-picks-postseason-prediction-for-2026-season",
-      "publishedAt": "2026-08-09T22:31:25Z"
+      "source": "Madriduniversal.com",
+      "url": "https://madriduniversal.com/real-madrids-smartest-summer-addition-may-not-be-the-one-grabbing-the-headlines/",
+      "publishedAt": "2026-08-10T06:40:00Z"
     },
     {
-      "player": "How Deep is the Miami Hurricanes Quarter",
+      "player": "Rangers midfielder Diomande set for move",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/miami/news/how-deep-is-the-miami-hurricanes-quarterback-room-really",
-      "publishedAt": "2026-08-09T22:30:33Z"
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2klw97p97o",
+      "publishedAt": "2026-08-10T06:29:07Z"
+    },
+    {
+      "player": "️ Bernardo runs Madrid, Julián stirs the",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Onefootball.com",
+      "url": "https://onefootball.com/en/news/bernardo-runs-madrid-julian-stirs-the-market-mondays-front-pages-43253828",
+      "publishedAt": "2026-08-10T06:25:00Z"
+    },
+    {
+      "player": "Rodri's Ibiza Pix Sparks Hilarious Rxn",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Rediff.com",
+      "url": "https://www.rediff.com/sports/report/rodris-ibiza-photo-sparks-hilarious-fan-reactions/20260810.htm",
+      "publishedAt": "2026-08-10T06:21:35Z"
+    },
+    {
+      "player": "Manchester City manager breaks silence o",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Barcauniversal.com",
+      "url": "https://barcauniversal.com/manchester-city-manager-breaks-silence-on-rodris-future-as-barcelona-accelerate-efforts-for-the-time-being/",
+      "publishedAt": "2026-08-10T06:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-10T23:29:16.236Z",
+  "generatedAt": "2026-08-11T06:56:36.926Z",
   "note": "Transfers derived from news headlines at launch."
 }
