@@ -1,46 +1,36 @@
 {
   "transfers": [
     {
-      "player": "New LSU QB Leavitt says he's healthy, lo",
+      "player": "Arrested or in prison in Benin",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/lsu-qb-leavitt-says-hes-233038515.html",
-      "publishedAt": "2026-08-10T23:30:38Z"
+      "source": "Www.gov.uk",
+      "url": "https://www.gov.uk/guidance/arrested-or-in-prison-in-benin",
+      "publishedAt": "2026-08-11T07:12:40Z"
     },
     {
-      "player": "How the 'fastest' Penn State football pl",
+      "player": "Arrested or in prison in Ghana",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "York Daily Record",
-      "url": "https://www.ydr.com/story/sports/college/penn-state/football/2026/08/10/fastest-penn-state-football-players-brett-eskildsen-audavion-collins/91110539007/",
-      "publishedAt": "2026-08-10T23:26:22Z"
+      "source": "Www.gov.uk",
+      "url": "https://www.gov.uk/guidance/arrested-or-in-prison-in-ghana--2",
+      "publishedAt": "2026-08-11T07:10:48Z"
     },
     {
-      "player": "Sam Leavitt Admits He Originally Didn’t ",
+      "player": "Podcast",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Heavy.com",
-      "url": "https://heavy.com/sports/college-football/lsu-tigers/sam-leavitt-admits-he-originally-didnt-plan-to-sign-with-lsu-tigers/",
-      "publishedAt": "2026-08-10T22:58:21Z"
-    },
-    {
-      "player": "What anonymous coaches said about top 10",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/us/ncaa-football/news/what-anonymous-coaches-said-about-top-10-sec-qbs-ahead-2026-season/2a16e34c74411b200a049ffb",
-      "publishedAt": "2026-08-10T22:53:18Z"
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p3tt8s?at_campaign=rss",
+      "publishedAt": "2026-08-11T07:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-11T23:33:46.346Z",
+  "generatedAt": "2026-08-12T07:15:51.264Z",
   "note": "Transfers derived from news headlines at launch."
 }
