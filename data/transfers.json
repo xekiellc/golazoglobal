@@ -1,36 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Arrested or in prison in Benin",
+      "player": "What's going on with Marcus Rashford? Ho",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Www.gov.uk",
-      "url": "https://www.gov.uk/guidance/arrested-or-in-prison-in-benin",
-      "publishedAt": "2026-08-11T07:12:40Z"
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/soccer/manchester-united/news/marcus-rashford-barcelona-loan-man-united/fcfa85aeba2861a1d163ab77",
+      "publishedAt": "2026-08-11T12:53:52Z"
     },
     {
-      "player": "Arrested or in prison in Ghana",
+      "player": "Colandrea Calls Nebraska Offensive Line ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Www.gov.uk",
-      "url": "https://www.gov.uk/guidance/arrested-or-in-prison-in-ghana--2",
-      "publishedAt": "2026-08-11T07:10:48Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/nebraska/news/colandrea-calls-nebraska-offensive-line-elite-as-huskers-look-for-major-step-forward-up-front",
+      "publishedAt": "2026-08-11T12:53:42Z"
     },
     {
-      "player": "Podcast",
+      "player": "Rangers Bank On New Business To Turn Aro",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p3tt8s?at_campaign=rss",
-      "publishedAt": "2026-08-11T07:00:00Z"
+      "source": "World Football Index",
+      "url": "https://worldfootballindex.com/2026/08/rangers-bank-on-new-business-to-turn-around-nightmare-start/",
+      "publishedAt": "2026-08-11T12:45:00Z"
     }
   ],
-  "generatedAt": "2026-08-12T07:15:51.264Z",
+  "generatedAt": "2026-08-12T12:56:10.265Z",
   "note": "Transfers derived from news headlines at launch."
 }
