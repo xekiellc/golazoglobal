@@ -1,36 +1,56 @@
 {
   "transfers": [
     {
-      "player": "What's going on with Marcus Rashford? Ho",
+      "player": "30 Day Countdown, Day 24",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/us/soccer/manchester-united/news/marcus-rashford-barcelona-loan-man-united/fcfa85aeba2861a1d163ab77",
-      "publishedAt": "2026-08-11T12:53:52Z"
+      "source": "UW Dawg Pound",
+      "url": "https://www.uwdawgpound.com/washington-football/76072/30-day-countdown-day-24-who-will-win-the-big-12",
+      "publishedAt": "2026-08-11T18:54:00Z"
     },
     {
-      "player": "Colandrea Calls Nebraska Offensive Line ",
+      "player": "Report",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/nebraska/news/colandrea-calls-nebraska-offensive-line-elite-as-huskers-look-for-major-step-forward-up-front",
-      "publishedAt": "2026-08-11T12:53:42Z"
+      "source": "English Premier League Index - Opta Stats",
+      "url": "https://eplindex.com/149305/report-manchester-city-eye-chelsea-star-as-rodri-successor.html",
+      "publishedAt": "2026-08-11T18:50:00Z"
     },
     {
-      "player": "Rangers Bank On New Business To Turn Aro",
+      "player": "NFC West squad signs former Auburn LB Eu",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "World Football Index",
-      "url": "https://worldfootballindex.com/2026/08/rangers-bank-on-new-business-to-turn-around-nightmare-start/",
-      "publishedAt": "2026-08-11T12:45:00Z"
+      "source": "USA Today",
+      "url": "https://auburnwire.usatoday.com/story/sports/college/auburn/football/2026/08/11/auburn-football-nfl-free-agency-eugene-asante-cardinals/91258487007/",
+      "publishedAt": "2026-08-11T18:43:06Z"
+    },
+    {
+      "player": "Monaco set to terminate Paul Pogba’s con",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Get French Football News",
+      "url": "https://www.getfootballnewsfrance.com/2026/monaco-set-to-terminate-paul-pogbas-contract/",
+      "publishedAt": "2026-08-11T18:40:00Z"
+    },
+    {
+      "player": "Michigan football offense showing explos",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://wolverineswire.usatoday.com/story/sports/college/wolverines/football/2026/08/11/michigan-football-offense-showing-explosive-progress/91260110007/",
+      "publishedAt": "2026-08-11T18:37:05Z"
     }
   ],
-  "generatedAt": "2026-08-12T12:56:10.265Z",
+  "generatedAt": "2026-08-12T18:54:27.023Z",
   "note": "Transfers derived from news headlines at launch."
 }
