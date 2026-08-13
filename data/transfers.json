@@ -1,56 +1,36 @@
 {
   "transfers": [
     {
-      "player": "LSU Football",
+      "player": "Who’s in charge at Newcastle United as t",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/football/2026/08/11/lsu-football-lane-kiffin-fall-camp-sam-leavitt-injury-update/91229671007/",
-      "publishedAt": "2026-08-11T23:20:53Z"
+      "source": "The Mag",
+      "url": "https://www.themag.co.uk/2026/08/whos-in-charge-at-newcastle-united-as-the-chaos-reigns/",
+      "publishedAt": "2026-08-12T07:16:30Z"
     },
     {
-      "player": "5 takeaways from 1st UC Bearcats indoor ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Cincinnati Enquirer",
-      "url": "https://www.cincinnati.com/story/sports/college/university-of-cincinnati/2026/08/11/5-takeaways-uc-bearcats-football-indoor-camp/91260965007/",
-      "publishedAt": "2026-08-11T23:12:17Z"
-    },
-    {
-      "player": "UNC's top wide receiver named to preseas",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/football/2026/08/11/unc-football-jordan-shipp-wuerffel-trophy-watch-list/91263023007/",
-      "publishedAt": "2026-08-11T22:42:51Z"
-    },
-    {
-      "player": "Lane Kiffin Feeling ‘Magnitude’ of LSU J",
+      "player": "Ohio State Star Running Back Taking Seco",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Heavy.com",
-      "url": "https://heavy.com/sports/college-football/lsu-tigers/lane-kiffin-feeling-magnitude-of-lsu-job-entering-crucial-season/",
-      "publishedAt": "2026-08-11T22:42:03Z"
+      "url": "https://heavy.com/sports/college-football/ohio-state-buckeyes/bo-jackson-ohio-state-second-team/",
+      "publishedAt": "2026-08-12T07:06:53Z"
     },
     {
-      "player": "Florida HC Jon Sumrall Teases Timeline f",
+      "player": "Newcastle Handed Major Transfer Boost Af",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/florida/news/florida-hc-jon-sumrall-teases-timeline-for-qb-battle",
-      "publishedAt": "2026-08-11T22:39:27Z"
+      "source": "SB Nation",
+      "url": "https://cominghomenewcastle.sbnation.com/newcastle-united-transfer-news-rumors/24043/newcastle-handed-major-transfer-boost-after-manchester-city-managers-message",
+      "publishedAt": "2026-08-12T07:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-12T23:35:06.229Z",
+  "generatedAt": "2026-08-13T07:17:59.726Z",
   "note": "Transfers derived from news headlines at launch."
 }
