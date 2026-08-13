@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Georgia Football",
+      "player": "Why I am Selling The DJ Lagway Hype at B",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Athlon Sports",
-      "url": "https://athlonsports.com/college-football/georgia-football-5-bold-predictions-bulldogs-2026",
-      "publishedAt": "2026-08-12T12:45:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/baylor/why-i-am-selling-the-dj-lagway-hype",
+      "publishedAt": "2026-08-12T18:52:33Z"
+    },
+    {
+      "player": "How Experience And Talent Made USC's Gar",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/usc-trojans-gary-patterson-big-ten-lincoln-riley",
+      "publishedAt": "2026-08-12T18:41:56Z"
     }
   ],
-  "generatedAt": "2026-08-13T12:57:19.344Z",
+  "generatedAt": "2026-08-13T18:55:06.733Z",
   "note": "Transfers derived from news headlines at launch."
 }
