@@ -1325,20 +1325,7 @@
         "form": ""
       },
       {
-        "position": 5,
-        "team": "Telstar",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 2,
-        "goalsAgainst": 1,
-        "goalDifference": 1,
-        "points": 3,
-        "form": ""
-      },
-      {
-        "position": 7,
+        "position": 6,
         "team": "Feyenoord",
         "played": 1,
         "won": 1,
@@ -1351,7 +1338,7 @@
         "form": ""
       },
       {
-        "position": 7,
+        "position": 6,
         "team": "Heerenveen",
         "played": 1,
         "won": 1,
@@ -1364,7 +1351,33 @@
         "form": ""
       },
       {
+        "position": 8,
+        "team": "Telstar",
+        "played": 2,
+        "won": 1,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "goalDifference": 0,
+        "points": 3,
+        "form": ""
+      },
+      {
         "position": 9,
+        "team": "Sparta",
+        "played": 2,
+        "won": 1,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDifference": 0,
+        "points": 3,
+        "form": ""
+      },
+      {
+        "position": 10,
         "team": "Sittard",
         "played": 1,
         "won": 0,
@@ -1377,7 +1390,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "PSV",
         "played": 1,
         "won": 0,
@@ -1390,7 +1403,7 @@
         "form": ""
       },
       {
-        "position": 11,
+        "position": 12,
         "team": "Utrecht",
         "played": 1,
         "won": 0,
@@ -1403,7 +1416,7 @@
         "form": ""
       },
       {
-        "position": 11,
+        "position": 12,
         "team": "NEC",
         "played": 1,
         "won": 0,
@@ -1416,21 +1429,8 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Twente",
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 0,
-        "goalsAgainst": 1,
-        "goalDifference": -1,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 13,
-        "team": "Sparta",
         "played": 1,
         "won": 0,
         "drawn": 0,
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-14T12:55:32.362Z"
+  "generatedAt": "2026-08-14T18:46:56.762Z"
 }
