@@ -134,6 +134,13 @@
     "PPL": {
       "scorers": [
         {
+          "name": "Fotis Ioannidis",
+          "team": "Sporting CP",
+          "goals": 2,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Gonçalo Paciência",
           "team": "Santa Clara",
           "goals": 2,
@@ -176,13 +183,6 @@
           "penalties": 0
         },
         {
-          "name": "Fotis Ioannidis",
-          "team": "Sporting CP",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Leandro Antonetti",
           "team": "Amadora",
           "goals": 1,
@@ -205,6 +205,13 @@
         }
       ],
       "topAssists": [
+        {
+          "name": "Fotis Ioannidis",
+          "team": "Sporting CP",
+          "goals": 2,
+          "assists": 2,
+          "penalties": 0
+        },
         {
           "name": "Rodrigo Zalazar",
           "team": "Sporting CP",
@@ -232,19 +239,70 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Raphael Guzzo",
-          "team": "Marítimo",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
     "ELC": {
-      "scorers": [],
-      "topAssists": []
+      "scorers": [
+        {
+          "name": "Marshall Munetsi",
+          "team": "Wolverhampton",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Sean McLoughlin",
+          "team": "Blackburn",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Andri Guðjohnsen",
+          "team": "Blackburn",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Raúl Jiménez",
+          "team": "Wolverhampton",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 1
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Marshall Munetsi",
+          "team": "Wolverhampton",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Sean McLoughlin",
+          "team": "Blackburn",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Andri Guðjohnsen",
+          "team": "Blackburn",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Raúl Jiménez",
+          "team": "Wolverhampton",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 1
+        }
+      ]
     },
     "BSA": {
       "scorers": [
@@ -358,5 +416,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-14T18:48:00.978Z"
+  "generatedAt": "2026-08-14T23:19:12.982Z"
 }

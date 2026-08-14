@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Five Texas A&M Players Making the Bigges",
+      "player": "Jayden Daniels' camp picked a fight with",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/tamu/football/five-texas-am-players-making-the-biggest-push-in-fall-camp",
-      "publishedAt": "2026-08-13T18:38:27Z"
-    },
-    {
-      "player": "Ohio State game is personal for new Texa",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://longhornswire.usatoday.com/story/sports/college/longhorns/football/2026/08/13/new-texas-lb-rasheem-biles-has-a-grudge-against-ohio-state-buckeyes/91289457007/",
-      "publishedAt": "2026-08-13T18:30:54Z"
-    },
-    {
-      "player": "Michigan QB Bryce Underwood 'turned into",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://wolverineswire.usatoday.com/story/sports/college/wolverines/football/2026/08/13/michigan-football-qb-bryce-underwood-turned-into-a-demon-per-teammate/91290300007/",
-      "publishedAt": "2026-08-13T18:30:43Z"
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/jayden-daniels-camp-picked-a-fight-with-lsu-and-may-have-overplayed-his-hand-in-baton-rouge/",
+      "publishedAt": "2026-08-13T22:44:42Z"
     }
   ],
-  "generatedAt": "2026-08-14T18:44:32.652Z",
+  "generatedAt": "2026-08-14T23:15:43.809Z",
   "note": "Transfers derived from news headlines at launch."
 }
