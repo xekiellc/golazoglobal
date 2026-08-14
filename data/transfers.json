@@ -1,36 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Charles Huff updates Memphis football QB",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Commercial Appeal",
-      "url": "https://www.commercialappeal.com/story/sports/college/memphis-tigers/2026/08/12/memphis-football-quarterback-marcus-stokes-air-noland/91280384007/",
-      "publishedAt": "2026-08-12T23:29:08Z"
-    },
-    {
-      "player": "UCF’s Duke Watson Believes RB Room Can B",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/ucf/news/ucf-s-duke-watson-believes-rb-room-can-be-very-good",
-      "publishedAt": "2026-08-12T23:18:40Z"
-    },
-    {
-      "player": "Ohio State transfer C.J. Hicks ready to ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Tampa Bay Times",
-      "url": "https://www.tampabay.com/sports/bulls/2026/08/12/ohio-state-transfer-cj-hicks-ready-leave-his-stamp-usf/",
-      "publishedAt": "2026-08-12T23:18:13Z"
-    }
-  ],
-  "generatedAt": "2026-08-13T23:35:23.041Z",
+  "transfers": [],
+  "generatedAt": "2026-08-14T07:16:17.707Z",
   "note": "Transfers derived from news headlines at launch."
 }
