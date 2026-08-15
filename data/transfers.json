@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Jayden Daniels' camp picked a fight with",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/jayden-daniels-camp-picked-a-fight-with-lsu-and-may-have-overplayed-his-hand-in-baton-rouge/",
-      "publishedAt": "2026-08-13T22:44:42Z"
-    }
-  ],
-  "generatedAt": "2026-08-14T23:15:43.809Z",
+  "transfers": [],
+  "generatedAt": "2026-08-15T06:27:28.243Z",
   "note": "Transfers derived from news headlines at launch."
 }
