@@ -265,6 +265,32 @@
     "PD": [
       {
         "position": 1,
+        "team": "Alavés",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "points": 1,
+        "form": ""
+      },
+      {
+        "position": 1,
+        "team": "Getafe",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "points": 1,
+        "form": ""
+      },
+      {
+        "position": 3,
         "team": "Athletic",
         "played": 0,
         "won": 0,
@@ -277,7 +303,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Atleti",
         "played": 0,
         "won": 0,
@@ -290,7 +316,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Osasuna",
         "played": 0,
         "won": 0,
@@ -303,20 +329,7 @@
         "form": ""
       },
       {
-        "position": 1,
-        "team": "Alavés",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 1,
+        "position": 3,
         "team": "Deportivo",
         "played": 0,
         "won": 0,
@@ -329,7 +342,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Elche",
         "played": 0,
         "won": 0,
@@ -342,7 +355,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Espanyol",
         "played": 0,
         "won": 0,
@@ -355,7 +368,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Barça",
         "played": 0,
         "won": 0,
@@ -368,20 +381,7 @@
         "form": ""
       },
       {
-        "position": 1,
-        "team": "Getafe",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 1,
+        "position": 3,
         "team": "Levante",
         "played": 0,
         "won": 0,
@@ -394,7 +394,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Málaga",
         "played": 0,
         "won": 0,
@@ -407,7 +407,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Santander",
         "played": 0,
         "won": 0,
@@ -420,7 +420,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Rayo Vallecano",
         "played": 0,
         "won": 0,
@@ -433,7 +433,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Celta",
         "played": 0,
         "won": 0,
@@ -446,7 +446,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Real Betis",
         "played": 0,
         "won": 0,
@@ -459,7 +459,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Real Madrid",
         "played": 0,
         "won": 0,
@@ -472,7 +472,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Real Sociedad",
         "played": 0,
         "won": 0,
@@ -485,7 +485,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Sevilla FC",
         "played": 0,
         "won": 0,
@@ -498,7 +498,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Valencia",
         "played": 0,
         "won": 0,
@@ -511,7 +511,7 @@
         "form": ""
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Villarreal",
         "played": 0,
         "won": 0,
@@ -1261,19 +1261,32 @@
     "DED": [
       {
         "position": 1,
-        "team": "Excelsior",
-        "played": 1,
-        "won": 1,
+        "team": "AZ",
+        "played": 2,
+        "won": 2,
         "drawn": 0,
         "lost": 0,
-        "goalsFor": 4,
-        "goalsAgainst": 0,
+        "goalsFor": 5,
+        "goalsAgainst": 1,
         "goalDifference": 4,
-        "points": 3,
+        "points": 6,
         "form": ""
       },
       {
         "position": 2,
+        "team": "PSV",
+        "played": 2,
+        "won": 1,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 3,
+        "goalsAgainst": 2,
+        "goalDifference": 1,
+        "points": 4,
+        "form": ""
+      },
+      {
+        "position": 3,
         "team": "Go Ahead",
         "played": 1,
         "won": 1,
@@ -1287,6 +1300,32 @@
       },
       {
         "position": 3,
+        "team": "Excelsior",
+        "played": 2,
+        "won": 1,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 4,
+        "goalsAgainst": 1,
+        "goalDifference": 3,
+        "points": 3,
+        "form": ""
+      },
+      {
+        "position": 5,
+        "team": "NEC",
+        "played": 2,
+        "won": 1,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 5,
+        "goalsAgainst": 3,
+        "goalDifference": 2,
+        "points": 3,
+        "form": ""
+      },
+      {
+        "position": 6,
         "team": "Ajax",
         "played": 1,
         "won": 1,
@@ -1299,20 +1338,7 @@
         "form": ""
       },
       {
-        "position": 3,
-        "team": "AZ",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 2,
-        "goalsAgainst": 0,
-        "goalDifference": 2,
-        "points": 3,
-        "form": ""
-      },
-      {
-        "position": 5,
+        "position": 7,
         "team": "Sparta",
         "played": 2,
         "won": 1,
@@ -1325,7 +1351,7 @@
         "form": ""
       },
       {
-        "position": 6,
+        "position": 8,
         "team": "Groningen",
         "played": 1,
         "won": 1,
@@ -1338,7 +1364,7 @@
         "form": ""
       },
       {
-        "position": 7,
+        "position": 9,
         "team": "Feyenoord",
         "played": 1,
         "won": 1,
@@ -1351,7 +1377,7 @@
         "form": ""
       },
       {
-        "position": 7,
+        "position": 9,
         "team": "Heerenveen",
         "played": 1,
         "won": 1,
@@ -1364,7 +1390,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 11,
         "team": "Telstar",
         "played": 2,
         "won": 1,
@@ -1377,7 +1403,7 @@
         "form": ""
       },
       {
-        "position": 10,
+        "position": 12,
         "team": "Sittard",
         "played": 1,
         "won": 0,
@@ -1390,46 +1416,7 @@
         "form": ""
       },
       {
-        "position": 10,
-        "team": "PSV",
-        "played": 1,
-        "won": 0,
-        "drawn": 1,
-        "lost": 0,
-        "goalsFor": 2,
-        "goalsAgainst": 2,
-        "goalDifference": 0,
-        "points": 1,
-        "form": ""
-      },
-      {
-        "position": 12,
-        "team": "Utrecht",
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 1,
-        "goalsAgainst": 2,
-        "goalDifference": -1,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 12,
-        "team": "NEC",
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 1,
-        "goalsAgainst": 2,
-        "goalDifference": -1,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 14,
+        "position": 13,
         "team": "Twente",
         "played": 1,
         "won": 0,
@@ -1442,7 +1429,7 @@
         "form": ""
       },
       {
-        "position": 15,
+        "position": 14,
         "team": "Den Haag",
         "played": 1,
         "won": 0,
@@ -1455,7 +1442,7 @@
         "form": ""
       },
       {
-        "position": 15,
+        "position": 14,
         "team": "Zwolle",
         "played": 1,
         "won": 0,
@@ -1468,20 +1455,20 @@
         "form": ""
       },
       {
-        "position": 17,
-        "team": "Willem II",
-        "played": 1,
+        "position": 16,
+        "team": "Utrecht",
+        "played": 2,
         "won": 0,
         "drawn": 0,
-        "lost": 1,
-        "goalsFor": 1,
-        "goalsAgainst": 4,
+        "lost": 2,
+        "goalsFor": 2,
+        "goalsAgainst": 5,
         "goalDifference": -3,
         "points": 0,
         "form": ""
       },
       {
-        "position": 18,
+        "position": 17,
         "team": "Cambuur",
         "played": 1,
         "won": 0,
@@ -1490,6 +1477,19 @@
         "goalsFor": 0,
         "goalsAgainst": 4,
         "goalDifference": -4,
+        "points": 0,
+        "form": ""
+      },
+      {
+        "position": 18,
+        "team": "Willem II",
+        "played": 2,
+        "won": 0,
+        "drawn": 0,
+        "lost": 2,
+        "goalsFor": 2,
+        "goalsAgainst": 8,
+        "goalDifference": -6,
         "points": 0,
         "form": ""
       }
@@ -1510,6 +1510,19 @@
       },
       {
         "position": 2,
+        "team": "Santa Clara",
+        "played": 2,
+        "won": 1,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 3,
+        "goalsAgainst": 2,
+        "goalDifference": 1,
+        "points": 4,
+        "form": ""
+      },
+      {
+        "position": 3,
         "team": "Porto",
         "played": 1,
         "won": 1,
@@ -1522,7 +1535,7 @@
         "form": ""
       },
       {
-        "position": 3,
+        "position": 4,
         "team": "Marítimo",
         "played": 1,
         "won": 1,
@@ -1535,7 +1548,7 @@
         "form": ""
       },
       {
-        "position": 3,
+        "position": 4,
         "team": "Arouca",
         "played": 1,
         "won": 1,
@@ -1548,7 +1561,7 @@
         "form": ""
       },
       {
-        "position": 3,
+        "position": 4,
         "team": "Gil Vicente",
         "played": 1,
         "won": 1,
@@ -1561,20 +1574,20 @@
         "form": ""
       },
       {
-        "position": 6,
-        "team": "Acad. Viseu",
-        "played": 1,
+        "position": 7,
+        "team": "Amadora",
+        "played": 2,
         "won": 0,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
-        "goalsFor": 2,
-        "goalsAgainst": 2,
+        "goalsFor": 4,
+        "goalsAgainst": 4,
         "goalDifference": 0,
-        "points": 1,
+        "points": 2,
         "form": ""
       },
       {
-        "position": 6,
+        "position": 8,
         "team": "CD Nacional",
         "played": 1,
         "won": 0,
@@ -1587,33 +1600,7 @@
         "form": ""
       },
       {
-        "position": 6,
-        "team": "Santa Clara",
-        "played": 1,
-        "won": 0,
-        "drawn": 1,
-        "lost": 0,
-        "goalsFor": 2,
-        "goalsAgainst": 2,
-        "goalDifference": 0,
-        "points": 1,
-        "form": ""
-      },
-      {
-        "position": 6,
-        "team": "Amadora",
-        "played": 1,
-        "won": 0,
-        "drawn": 1,
-        "lost": 0,
-        "goalsFor": 2,
-        "goalsAgainst": 2,
-        "goalDifference": 0,
-        "points": 1,
-        "form": ""
-      },
-      {
-        "position": 6,
+        "position": 8,
         "team": "Moreirense",
         "played": 1,
         "won": 0,
@@ -1626,7 +1613,7 @@
         "form": ""
       },
       {
-        "position": 6,
+        "position": 8,
         "team": "SL Benfica",
         "played": 1,
         "won": 0,
@@ -1639,7 +1626,7 @@
         "form": ""
       },
       {
-        "position": 6,
+        "position": 8,
         "team": "Braga",
         "played": 1,
         "won": 0,
@@ -1652,7 +1639,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 12,
         "team": "Famalicão",
         "played": 1,
         "won": 0,
@@ -1665,7 +1652,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 12,
         "team": "Estoril Praia",
         "played": 1,
         "won": 0,
@@ -1678,7 +1665,33 @@
         "form": ""
       },
       {
+        "position": 14,
+        "team": "Acad. Viseu",
+        "played": 2,
+        "won": 0,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 3,
+        "goalDifference": -1,
+        "points": 1,
+        "form": ""
+      },
+      {
         "position": 15,
+        "team": "Alverca",
+        "played": 2,
+        "won": 0,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 4,
+        "goalDifference": -2,
+        "points": 1,
+        "form": ""
+      },
+      {
+        "position": 16,
         "team": "Casa Pia",
         "played": 1,
         "won": 0,
@@ -1691,7 +1704,7 @@
         "form": ""
       },
       {
-        "position": 15,
+        "position": 16,
         "team": "Rio Ave",
         "played": 1,
         "won": 0,
@@ -1704,7 +1717,7 @@
         "form": ""
       },
       {
-        "position": 17,
+        "position": 18,
         "team": "Vitória SC",
         "played": 2,
         "won": 0,
@@ -1712,19 +1725,6 @@
         "lost": 2,
         "goalsFor": 2,
         "goalsAgainst": 4,
-        "goalDifference": -2,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 18,
-        "team": "Alverca",
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 0,
-        "goalsAgainst": 2,
         "goalDifference": -2,
         "points": 0,
         "form": ""
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-15T12:28:43.587Z"
+  "generatedAt": "2026-08-15T18:22:30.248Z"
 }

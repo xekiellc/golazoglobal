@@ -30,6 +30,13 @@
           "penalties": 0
         },
         {
+          "name": "Kaj Sierhuis",
+          "team": "NEC",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Irakli Yegoian",
           "team": "Excelsior",
           "goals": 1,
@@ -58,17 +65,10 @@
           "penalties": 0
         },
         {
-          "name": "Kaj Sierhuis",
-          "team": "NEC",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Devin Haen",
           "team": "Willem II",
           "goals": 1,
-          "assists": 0,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -109,6 +109,13 @@
           "penalties": 0
         },
         {
+          "name": "Devin Haen",
+          "team": "Willem II",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Melle  Meulensteen",
           "team": "Go Ahead",
           "goals": 1,
@@ -121,18 +128,18 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "David Garden",
-          "team": "Excelsior",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
     "PPL": {
       "scorers": [
+        {
+          "name": "Gonçalo Paciência",
+          "team": "Santa Clara",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 1
+        },
         {
           "name": "Fotis Ioannidis",
           "team": "Sporting CP",
@@ -141,8 +148,8 @@
           "penalties": 0
         },
         {
-          "name": "Gonçalo Paciência",
-          "team": "Santa Clara",
+          "name": "Leandro Antonetti",
+          "team": "Amadora",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -183,13 +190,6 @@
           "penalties": 0
         },
         {
-          "name": "Leandro Antonetti",
-          "team": "Amadora",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Beni Souza",
           "team": "Amadora",
           "goals": 1,
@@ -222,6 +222,13 @@
         {
           "name": "Gonçalo Paciência",
           "team": "Santa Clara",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Leandro Antonetti",
+          "team": "Amadora",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -232,18 +239,32 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Yanis Begraoui",
-          "team": "Estoril Praia",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
     "ELC": {
       "scorers": [
+        {
+          "name": "Josh Coburn",
+          "team": "Millwall",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "William Lankshear",
+          "team": "Middlesbrough",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Ilias Chair",
+          "team": "QPR",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
+        },
         {
           "name": "Marshall Munetsi",
           "team": "Wolverhampton",
@@ -285,9 +306,37 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
+        },
+        {
+          "name": "Jusef Erabi",
+          "team": "Preston NE",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Ilias Chair",
+          "team": "QPR",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Josh Coburn",
+          "team": "Millwall",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "William Lankshear",
+          "team": "Middlesbrough",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
         {
           "name": "Marshall Munetsi",
           "team": "Wolverhampton",
@@ -298,27 +347,6 @@
         {
           "name": "Sean McLoughlin",
           "team": "Blackburn",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Andri Guðjohnsen",
-          "team": "Blackburn",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Raúl Jiménez",
-          "team": "Wolverhampton",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
-          "name": "Sam Dalby",
-          "team": "Bolton",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -437,5 +465,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-15T12:29:49.891Z"
+  "generatedAt": "2026-08-15T18:23:36.389Z"
 }
