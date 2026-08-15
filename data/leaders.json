@@ -5,8 +5,87 @@
       "topAssists": []
     },
     "PD": {
-      "scorers": [],
-      "topAssists": []
+      "scorers": [
+        {
+          "name": "Nahuel Tenaglia",
+          "team": "Alavés",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Mariano Díaz",
+          "team": "Alavés",
+          "goals": 1,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Mikel Rodríguez",
+          "team": "Alavés",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Álvaro García",
+          "team": "Rayo Vallecano",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Jon Guridi",
+          "team": "Sevilla FC",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Peque",
+          "team": "Sevilla FC",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 1
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Mariano Díaz",
+          "team": "Alavés",
+          "goals": 1,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Nahuel Tenaglia",
+          "team": "Alavés",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Mikel Rodríguez",
+          "team": "Alavés",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Álvaro García",
+          "team": "Rayo Vallecano",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Jon Guridi",
+          "team": "Sevilla FC",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 1
+        }
+      ]
     },
     "SA": {
       "scorers": [],
@@ -40,7 +119,7 @@
           "name": "Irakli Yegoian",
           "team": "Excelsior",
           "goals": 1,
-          "assists": 1,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -98,7 +177,7 @@
           "name": "Irakli Yegoian",
           "team": "Excelsior",
           "goals": 1,
-          "assists": 1,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -359,7 +438,7 @@
           "name": "Kevin Viveros",
           "team": "Paranaense",
           "goals": 14,
-          "assists": 2,
+          "assists": 3,
           "penalties": 2
         },
         {
@@ -438,7 +517,7 @@
           "name": "Kevin Viveros",
           "team": "Paranaense",
           "goals": 14,
-          "assists": 2,
+          "assists": 3,
           "penalties": 2
         },
         {
@@ -465,5 +544,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-15T18:23:36.389Z"
+  "generatedAt": "2026-08-15T23:18:22.887Z"
 }

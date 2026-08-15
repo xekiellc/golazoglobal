@@ -1,49 +1,31 @@
 {
   "matches": [
     {
+      "league": "BSA",
+      "homeTeam": "Paranaense",
+      "awayTeam": "Bragantino",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-08-15T21:30:00Z"
+    },
+    {
       "league": "PD",
       "homeTeam": "Alavés",
       "awayTeam": "Getafe",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0,
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-08-15T17:30:00Z"
     },
     {
-      "league": "DED",
-      "homeTeam": "Utrecht",
-      "awayTeam": "AZ",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "IN_PLAY",
-      "utcDate": "2026-08-15T16:45:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Excelsior",
-      "awayTeam": "PSV",
-      "homeScore": 0,
+      "league": "PD",
+      "homeTeam": "Sevilla FC",
+      "awayTeam": "Rayo Vallecano",
+      "homeScore": 2,
       "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-08-15T18:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Acad. Viseu",
-      "awayTeam": "Santa Clara",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-08-15T17:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Sheffield Utd",
-      "awayTeam": "Birmingham",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-08-15T16:30:00Z"
+      "status": "FINISHED",
+      "utcDate": "2026-08-15T19:30:00Z"
     },
     {
       "league": "DED",
@@ -64,6 +46,33 @@
       "utcDate": "2026-08-15T14:30:00Z"
     },
     {
+      "league": "DED",
+      "homeTeam": "Utrecht",
+      "awayTeam": "AZ",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "FINISHED",
+      "utcDate": "2026-08-15T16:45:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "Excelsior",
+      "awayTeam": "PSV",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-08-15T18:00:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "Sittard",
+      "awayTeam": "Cambuur",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-08-15T19:00:00Z"
+    },
+    {
       "league": "PPL",
       "homeTeam": "Sporting CP",
       "awayTeam": "Vitória SC",
@@ -80,6 +89,24 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-08-15T14:30:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Acad. Viseu",
+      "awayTeam": "Santa Clara",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-08-15T17:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Rio Ave",
+      "awayTeam": "Porto",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-08-15T19:30:00Z"
     },
     {
       "league": "ELC",
@@ -154,49 +181,22 @@
       "utcDate": "2026-08-15T14:00:00Z"
     },
     {
-      "league": "PD",
-      "homeTeam": "Sevilla FC",
-      "awayTeam": "Rayo Vallecano",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-15T19:30:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Sittard",
-      "awayTeam": "Cambuur",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-15T19:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Rio Ave",
-      "awayTeam": "Porto",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-15T19:30:00Z"
+      "league": "ELC",
+      "homeTeam": "Sheffield Utd",
+      "awayTeam": "Birmingham",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-08-15T16:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Fluminense",
       "awayTeam": "Palmeiras",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "2026-08-15 18:30:00Z",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-08-15T19:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Paranaense",
-      "awayTeam": "Bragantino",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "2026-08-15 20:30:00Z",
-      "utcDate": "2026-08-15T21:30:00Z"
     },
     {
       "league": "BSA",
@@ -208,5 +208,5 @@
       "utcDate": "2026-08-16T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-15T18:21:27.564Z"
+  "generatedAt": "2026-08-15T23:16:12.633Z"
 }

@@ -1,76 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Quick Hits",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/westvirginia/football/quick-hits-roster-update-possible-additions-position-battles-latimer-eval",
-      "publishedAt": "2026-08-14T18:15:19Z"
-    },
-    {
-      "player": "After a week of absurdity at Rangers, on",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/football/article-16052987/After-week-absurdity-Rangers-one-thing-clear-Derek-McInnes-needs-adapt-job-eats-alive.html",
-      "publishedAt": "2026-08-14T18:12:25Z"
-    },
-    {
-      "player": "Should the Miami Hurricanes Have Defensi",
+      "player": "Aug. 14 Notebook For Washington Huskies ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/miami/news/should-the-miami-hurricanes-have-defensive-third-down-concerns",
-      "publishedAt": "2026-08-14T18:01:14Z"
+      "url": "https://roundtable.io/sports/ncaa/washington/news/aug-14-notebook-for-washington-huskies-football-practice",
+      "publishedAt": "2026-08-14T23:13:52Z"
     },
     {
-      "player": "Biggest Takeaways From Week 2 of LSU Foo",
+      "player": "AK Dear Injury Is a Tough Blow for Alaba",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/alabama/opinion/ak-dear-injury-is-a-tough-blow-for-alabama-but-it-could-open-the-door-for-another-crimson-tide-rb",
+      "publishedAt": "2026-08-14T22:20:50Z"
+    },
+    {
+      "player": "USC Receiver Competition Taking Shape as",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/lsu/football/biggest-takeaways-from-week-2-of-lsu-football-fall-camp",
-      "publishedAt": "2026-08-14T18:00:46Z"
-    },
-    {
-      "player": "True freshman earns high praise from for",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://soonerswire.usatoday.com/story/sports/college/sooners/football/2026/08/14/oklahoma-football-noah-best-gabe-ikard/91297346007/",
-      "publishedAt": "2026-08-14T18:00:34Z"
-    },
-    {
-      "player": "100 Days to Kickoff",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Fromtherumbleseat.com",
-      "url": "https://www.fromtherumbleseat.com/ftrs/36974/100-days-to-kickoff-opponent-previews-virginia-tech",
-      "publishedAt": "2026-08-14T18:00:00Z"
-    },
-    {
-      "player": "American Conference Quarterback Rankings",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Athlon Sports",
-      "url": "https://athlonsports.com/college-football/american-conference-quarterback-rankings-2026",
-      "publishedAt": "2026-08-14T17:59:28Z"
+      "url": "https://www.si.com/college/usc/football/usc-trojans-receiver-competition-taking-shape-lincoln-riley-weighs-options",
+      "publishedAt": "2026-08-14T22:16:42Z"
     }
   ],
-  "generatedAt": "2026-08-15T18:20:01.555Z",
+  "generatedAt": "2026-08-15T23:14:46.178Z",
   "note": "Transfers derived from news headlines at launch."
 }
