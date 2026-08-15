@@ -1,6 +1,15 @@
 {
   "matches": [
     {
+      "league": "ELC",
+      "homeTeam": "Bolton",
+      "awayTeam": "Preston NE",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "PAUSED",
+      "utcDate": "2026-08-15T11:30:00Z"
+    },
+    {
       "league": "DED",
       "homeTeam": "Telstar",
       "awayTeam": "Sparta",
@@ -110,15 +119,6 @@
     },
     {
       "league": "ELC",
-      "homeTeam": "Bolton",
-      "awayTeam": "Preston NE",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-15T11:30:00Z"
-    },
-    {
-      "league": "ELC",
       "homeTeam": "Norwich",
       "awayTeam": "West Brom",
       "homeScore": null,
@@ -186,7 +186,7 @@
       "awayTeam": "Palmeiras",
       "homeScore": null,
       "awayScore": null,
-      "status": "TIMED",
+      "status": "2026-08-15 18:30:00Z",
       "utcDate": "2026-08-15T19:30:00Z"
     },
     {
@@ -195,7 +195,7 @@
       "awayTeam": "Bragantino",
       "homeScore": null,
       "awayScore": null,
-      "status": "TIMED",
+      "status": "2026-08-15 20:30:00Z",
       "utcDate": "2026-08-15T21:30:00Z"
     },
     {
@@ -208,5 +208,5 @@
       "utcDate": "2026-08-16T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-15T06:28:53.202Z"
+  "generatedAt": "2026-08-15T12:27:41.693Z"
 }

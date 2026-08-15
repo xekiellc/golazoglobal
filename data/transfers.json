@@ -1,5 +1,46 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-08-15T06:27:28.243Z",
+  "transfers": [
+    {
+      "player": "Idaho focuses on situational football on",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Lewiston Morning Tribune",
+      "url": "https://www.lmtribune.com/sports/idaho-focuses-on-situational-football-on-day-13-of-fall-camp-5b5f507e",
+      "publishedAt": "2026-08-14T12:16:00Z"
+    },
+    {
+      "player": "Five Heart Podcast",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Corn Nation",
+      "url": "https://www.cornnation.com/nebraska-football-podcast/99324/five-heart-podcast-nebraska-husker-football-fall-camp-husker-volleyball-red-white-scrimmage",
+      "publishedAt": "2026-08-14T12:11:00Z"
+    },
+    {
+      "player": "'We need help'",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c2k7yz49v40o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "publishedAt": "2026-08-14T12:10:39Z"
+    },
+    {
+      "player": "Sooners offensive lineman proving valuab",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://soonerswire.usatoday.com/story/sports/college/sooners/football/2026/08/14/oklahoma-football-ryan-fodje-michael-fasusi-offensive-tackle/91288088007/",
+      "publishedAt": "2026-08-14T12:01:55Z"
+    }
+  ],
+  "generatedAt": "2026-08-15T12:26:18.683Z",
   "note": "Transfers derived from news headlines at launch."
 }

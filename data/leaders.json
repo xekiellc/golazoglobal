@@ -271,6 +271,20 @@
           "goals": 1,
           "assists": 0,
           "penalties": 1
+        },
+        {
+          "name": "Sam Dalby",
+          "team": "Bolton",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Thierry Gale",
+          "team": "Bolton",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
         }
       ],
       "topAssists": [
@@ -301,6 +315,13 @@
           "goals": 1,
           "assists": 0,
           "penalties": 1
+        },
+        {
+          "name": "Sam Dalby",
+          "team": "Bolton",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
         }
       ]
     },
@@ -416,5 +437,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-15T06:31:09.958Z"
+  "generatedAt": "2026-08-15T12:29:49.891Z"
 }
