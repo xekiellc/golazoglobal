@@ -7,6 +7,13 @@
     "PD": {
       "scorers": [
         {
+          "name": "Roberto Fernández",
+          "team": "Espanyol",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Nahuel Tenaglia",
           "team": "Alavés",
           "goals": 1,
@@ -47,6 +54,27 @@
           "goals": 1,
           "assists": 0,
           "penalties": 1
+        },
+        {
+          "name": "Andrés Martín",
+          "team": "Santander",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Sergio Martínez",
+          "team": "Santander",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Pape Gueye",
+          "team": "Villarreal",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
         }
       ],
       "topAssists": [
@@ -55,6 +83,13 @@
           "team": "Alavés",
           "goals": 1,
           "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Roberto Fernández",
+          "team": "Espanyol",
+          "goals": 2,
+          "assists": 0,
           "penalties": 0
         },
         {
@@ -77,13 +112,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Jon Guridi",
-          "team": "Sevilla FC",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 1
         }
       ]
     },
@@ -111,6 +139,13 @@
         {
           "name": "Kaj Sierhuis",
           "team": "NEC",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Søren Tengstedt",
+          "team": "Go Ahead",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -163,13 +198,6 @@
           "goals": 1,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Søren Tengstedt",
-          "team": "Go Ahead",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -220,6 +248,13 @@
           "penalties": 1
         },
         {
+          "name": "Barbero",
+          "team": "Arouca",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Fotis Ioannidis",
           "team": "Sporting CP",
           "goals": 2,
@@ -250,13 +285,6 @@
         {
           "name": "Raphael Guzzo",
           "team": "Marítimo",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Barbero",
-          "team": "Arouca",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -306,16 +334,16 @@
           "penalties": 1
         },
         {
-          "name": "Leandro Antonetti",
-          "team": "Amadora",
+          "name": "Barbero",
+          "team": "Arouca",
           "goals": 2,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Georgios Koutsias",
-          "team": "Famalicão",
-          "goals": 1,
+          "name": "Leandro Antonetti",
+          "team": "Amadora",
+          "goals": 2,
           "assists": 0,
           "penalties": 0
         }
@@ -343,6 +371,13 @@
           "goals": 2,
           "assists": 1,
           "penalties": 0
+        },
+        {
+          "name": "Zian Flemming",
+          "team": "Burnley",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 1
         },
         {
           "name": "Marshall Munetsi",
@@ -385,13 +420,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Jusef Erabi",
-          "team": "Preston NE",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -417,15 +445,15 @@
           "penalties": 0
         },
         {
-          "name": "Marshall Munetsi",
-          "team": "Wolverhampton",
-          "goals": 1,
+          "name": "Zian Flemming",
+          "team": "Burnley",
+          "goals": 2,
           "assists": 0,
-          "penalties": 0
+          "penalties": 1
         },
         {
-          "name": "Sean McLoughlin",
-          "team": "Blackburn",
+          "name": "Marshall Munetsi",
+          "team": "Wolverhampton",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -544,5 +572,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-16T12:31:25.954Z"
+  "generatedAt": "2026-08-16T18:23:18.167Z"
 }
