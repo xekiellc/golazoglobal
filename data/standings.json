@@ -1274,6 +1274,19 @@
       },
       {
         "position": 2,
+        "team": "Groningen",
+        "played": 2,
+        "won": 2,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 6,
+        "goalsAgainst": 2,
+        "goalDifference": 4,
+        "points": 6,
+        "form": ""
+      },
+      {
+        "position": 3,
         "team": "Sittard",
         "played": 2,
         "won": 1,
@@ -1286,7 +1299,7 @@
         "form": ""
       },
       {
-        "position": 3,
+        "position": 4,
         "team": "PSV",
         "played": 2,
         "won": 1,
@@ -1299,7 +1312,7 @@
         "form": ""
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "Excelsior",
         "played": 2,
         "won": 1,
@@ -1312,7 +1325,7 @@
         "form": ""
       },
       {
-        "position": 5,
+        "position": 6,
         "team": "Go Ahead",
         "played": 1,
         "won": 1,
@@ -1325,7 +1338,7 @@
         "form": ""
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "NEC",
         "played": 2,
         "won": 1,
@@ -1338,7 +1351,7 @@
         "form": ""
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "Ajax",
         "played": 1,
         "won": 1,
@@ -1351,7 +1364,7 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "Sparta",
         "played": 2,
         "won": 1,
@@ -1359,19 +1372,6 @@
         "lost": 1,
         "goalsFor": 3,
         "goalsAgainst": 2,
-        "goalDifference": 1,
-        "points": 3,
-        "form": ""
-      },
-      {
-        "position": 9,
-        "team": "Groningen",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 2,
-        "goalsAgainst": 1,
         "goalDifference": 1,
         "points": 3,
         "form": ""
@@ -1430,19 +1430,6 @@
       },
       {
         "position": 14,
-        "team": "Den Haag",
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 0,
-        "goalsAgainst": 2,
-        "goalDifference": -2,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 14,
         "team": "Zwolle",
         "played": 1,
         "won": 0,
@@ -1455,7 +1442,7 @@
         "form": ""
       },
       {
-        "position": 16,
+        "position": 15,
         "team": "Utrecht",
         "played": 2,
         "won": 0,
@@ -1464,6 +1451,19 @@
         "goalsFor": 2,
         "goalsAgainst": 6,
         "goalDifference": -4,
+        "points": 0,
+        "form": ""
+      },
+      {
+        "position": 16,
+        "team": "Den Haag",
+        "played": 2,
+        "won": 0,
+        "drawn": 0,
+        "lost": 2,
+        "goalsFor": 1,
+        "goalsAgainst": 6,
+        "goalDifference": -5,
         "points": 0,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-16T06:32:52.476Z"
+  "generatedAt": "2026-08-16T12:30:20.299Z"
 }

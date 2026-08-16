@@ -55,6 +55,15 @@
       "utcDate": "2026-08-15T19:00:00Z"
     },
     {
+      "league": "DED",
+      "homeTeam": "Den Haag",
+      "awayTeam": "Groningen",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "FINISHED",
+      "utcDate": "2026-08-16T10:15:00Z"
+    },
+    {
       "league": "PPL",
       "homeTeam": "Alverca",
       "awayTeam": "Amadora",
@@ -200,15 +209,6 @@
     },
     {
       "league": "DED",
-      "homeTeam": "Den Haag",
-      "awayTeam": "Groningen",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-16T10:15:00Z"
-    },
-    {
-      "league": "DED",
       "homeTeam": "Feyenoord",
       "awayTeam": "Go Ahead",
       "homeScore": null,
@@ -343,5 +343,5 @@
       "utcDate": "2026-08-16T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-08-16T06:31:49.582Z"
+  "generatedAt": "2026-08-16T12:29:17.930Z"
 }

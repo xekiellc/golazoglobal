@@ -116,6 +116,20 @@
           "penalties": 0
         },
         {
+          "name": "Brynjolfur Darri Willumsson",
+          "team": "Groningen",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Thom van Bergen",
+          "team": "Groningen",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Irakli Yegoian",
           "team": "Excelsior",
           "goals": 1,
@@ -156,20 +170,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Melle  Meulensteen",
-          "team": "Go Ahead",
-          "goals": 1,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Erik Flataker",
-          "team": "Go Ahead",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -178,6 +178,13 @@
           "team": "Excelsior",
           "goals": 1,
           "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Thom van Bergen",
+          "team": "Groningen",
+          "goals": 2,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -190,13 +197,6 @@
         {
           "name": "Devin Haen",
           "team": "Willem II",
-          "goals": 1,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Melle  Meulensteen",
-          "team": "Go Ahead",
           "goals": 1,
           "assists": 1,
           "penalties": 0
@@ -544,5 +544,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-16T06:33:59.327Z"
+  "generatedAt": "2026-08-16T12:31:25.954Z"
 }
