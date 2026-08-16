@@ -1,22 +1,31 @@
 {
   "matches": [
     {
-      "league": "PD",
-      "homeTeam": "Espanyol",
-      "awayTeam": "Levante",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "LIVE",
-      "utcDate": "2026-08-16T17:00:00Z"
+      "league": "BSA",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Flamengo",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "IN_PLAY",
+      "utcDate": "2026-08-16T21:30:00Z"
     },
     {
-      "league": "PPL",
-      "homeTeam": "Arouca",
-      "awayTeam": "Moreirense",
-      "homeScore": 3,
+      "league": "BSA",
+      "homeTeam": "Vitória",
+      "awayTeam": "Botafogo",
+      "homeScore": 1,
       "awayScore": 0,
       "status": "IN_PLAY",
-      "utcDate": "2026-08-16T17:00:00Z"
+      "utcDate": "2026-08-16T21:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Cruzeiro",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "LIVE",
+      "utcDate": "2026-08-16T22:30:00Z"
     },
     {
       "league": "PD",
@@ -44,6 +53,15 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-08-16T15:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Espanyol",
+      "awayTeam": "Levante",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-08-16T17:00:00Z"
     },
     {
       "league": "DED",
@@ -125,6 +143,24 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-08-16T14:30:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Arouca",
+      "awayTeam": "Moreirense",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-08-16T17:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Famalicão",
+      "awayTeam": "Marítimo",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-08-16T19:30:00Z"
     },
     {
       "league": "ELC",
@@ -226,6 +262,24 @@
       "utcDate": "2026-08-16T14:00:00Z"
     },
     {
+      "league": "BSA",
+      "homeTeam": "Mineiro",
+      "awayTeam": "Grêmio",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-08-16T19:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Santos",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-08-16T19:00:00Z"
+    },
+    {
       "league": "PPL",
       "homeTeam": "Alverca",
       "awayTeam": "Amadora",
@@ -262,15 +316,6 @@
       "utcDate": "2026-08-16T00:00:00Z"
     },
     {
-      "league": "PPL",
-      "homeTeam": "Famalicão",
-      "awayTeam": "Marítimo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "2026-08-16 18:30:00Z",
-      "utcDate": "2026-08-16T19:30:00Z"
-    },
-    {
       "league": "BSA",
       "homeTeam": "Fluminense",
       "awayTeam": "Palmeiras",
@@ -296,52 +341,7 @@
       "awayScore": 1,
       "status": "2026-08-15 23:00:00Z",
       "utcDate": "2026-08-16T00:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Mineiro",
-      "awayTeam": "Grêmio",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "2026-08-16 18:00:00Z",
-      "utcDate": "2026-08-16T19:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Vasco da Gama",
-      "awayTeam": "Santos",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "2026-08-16 18:00:00Z",
-      "utcDate": "2026-08-16T19:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Mirassol",
-      "awayTeam": "Flamengo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "2026-08-16 20:30:00Z",
-      "utcDate": "2026-08-16T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Vitória",
-      "awayTeam": "Botafogo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "2026-08-16 20:30:00Z",
-      "utcDate": "2026-08-16T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Corinthians",
-      "awayTeam": "Cruzeiro",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "2026-08-16 21:30:00Z",
-      "utcDate": "2026-08-16T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-08-16T18:21:12.128Z"
+  "generatedAt": "2026-08-16T23:15:15.205Z"
 }
