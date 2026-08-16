@@ -2151,6 +2151,19 @@
       },
       {
         "position": 9,
+        "team": "Coritiba",
+        "played": 23,
+        "won": 8,
+        "drawn": 7,
+        "lost": 8,
+        "goalsFor": 28,
+        "goalsAgainst": 30,
+        "goalDifference": -2,
+        "points": 31,
+        "form": ""
+      },
+      {
+        "position": 10,
         "team": "Botafogo",
         "played": 21,
         "won": 8,
@@ -2159,19 +2172,6 @@
         "goalsFor": 35,
         "goalsAgainst": 33,
         "goalDifference": 2,
-        "points": 30,
-        "form": ""
-      },
-      {
-        "position": 10,
-        "team": "Coritiba",
-        "played": 22,
-        "won": 8,
-        "drawn": 6,
-        "lost": 8,
-        "goalsFor": 27,
-        "goalsAgainst": 29,
-        "goalDifference": -2,
         "points": 30,
         "form": ""
       },
@@ -2191,14 +2191,14 @@
       {
         "position": 12,
         "team": "São Paulo",
-        "played": 21,
+        "played": 22,
         "won": 7,
-        "drawn": 5,
+        "drawn": 6,
         "lost": 9,
-        "goalsFor": 26,
-        "goalsAgainst": 25,
+        "goalsFor": 27,
+        "goalsAgainst": 26,
         "goalDifference": 1,
-        "points": 26,
+        "points": 27,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-15T23:17:15.881Z"
+  "generatedAt": "2026-08-16T06:32:52.476Z"
 }

@@ -466,7 +466,7 @@
           "name": "Breno Lopes",
           "team": "Coritiba",
           "goals": 8,
-          "assists": 1,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -521,6 +521,13 @@
           "penalties": 2
         },
         {
+          "name": "Breno Lopes",
+          "team": "Coritiba",
+          "goals": 8,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Danilo dos Santos de Oliveira",
           "team": "Botafogo",
           "goals": 7,
@@ -533,16 +540,9 @@
           "goals": 7,
           "assists": 2,
           "penalties": 1
-        },
-        {
-          "name": "Carlos Vinícius",
-          "team": "Grêmio",
-          "goals": 10,
-          "assists": 1,
-          "penalties": 1
         }
       ]
     }
   },
-  "generatedAt": "2026-08-15T23:18:22.887Z"
+  "generatedAt": "2026-08-16T06:33:59.327Z"
 }
