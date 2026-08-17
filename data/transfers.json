@@ -1,46 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "‘We had the upper hand today’",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Deseret News",
-      "url": "https://www.deseret.com/sports/2026/08/15/byu-football-first-scrimmage-saturday-fall-camp-preseason-training-offense/",
-      "publishedAt": "2026-08-15T22:53:19Z"
-    },
-    {
-      "player": "Kentucky has re",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://ukwildcatswire.usatoday.com/story/sports/college/kentucky/football/2026/08/15/kentucky-football-adds-linebacker-alex-afari-roster/91323097007/",
-      "publishedAt": "2026-08-15T22:44:40Z"
-    },
-    {
-      "player": "2027 NFL Mock Draft",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Pro Football Network",
-      "url": "https://www.profootballnetwork.com/2027-nfl-mock-draft-elijah-august/",
-      "publishedAt": "2026-08-15T22:00:20Z"
-    },
-    {
-      "player": "Oklahoma State Isn’t Treating Special Te",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/oklahoma-state/news/oklahoma-state-isn-t-treating-special-teams-like-an-afterthought-under-eric-morris",
-      "publishedAt": "2026-08-15T22:00:16Z"
-    }
-  ],
-  "generatedAt": "2026-08-16T23:13:51.982Z",
+  "transfers": [],
+  "generatedAt": "2026-08-17T06:41:54.931Z",
   "note": "Transfers derived from news headlines at launch."
 }
