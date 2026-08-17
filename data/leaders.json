@@ -241,6 +241,13 @@
     "PPL": {
       "scorers": [
         {
+          "name": "Vangelis Pavlidis",
+          "team": "SL Benfica",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Gonçalo Paciência",
           "team": "Santa Clara",
           "goals": 3,
@@ -266,6 +273,13 @@
           "team": "Amadora",
           "goals": 2,
           "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Gianluca Prestianni",
+          "team": "SL Benfica",
+          "goals": 2,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -295,20 +309,6 @@
           "goals": 1,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Beni Souza",
-          "team": "Amadora",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "André Silva",
-          "team": "Porto",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -317,6 +317,20 @@
           "team": "Sporting CP",
           "goals": 2,
           "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Vangelis Pavlidis",
+          "team": "SL Benfica",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Gianluca Prestianni",
+          "team": "SL Benfica",
+          "goals": 2,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -332,20 +346,6 @@
           "goals": 3,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Barbero",
-          "team": "Arouca",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Leandro Antonetti",
-          "team": "Amadora",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
@@ -572,5 +572,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-17T18:33:51.127Z"
+  "generatedAt": "2026-08-17T23:21:06.985Z"
 }

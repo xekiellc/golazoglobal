@@ -1,6 +1,15 @@
 {
   "matches": [
     {
+      "league": "BSA",
+      "homeTeam": "Internacional",
+      "awayTeam": "Clube do Remo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "LIVE",
+      "utcDate": "2026-08-17T23:00:00Z"
+    },
+    {
       "league": "PD",
       "homeTeam": "Santander",
       "awayTeam": "Villarreal",
@@ -17,6 +26,15 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-08-16T17:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Deportivo",
+      "awayTeam": "Elche",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-08-17T19:00:00Z"
     },
     {
       "league": "DED",
@@ -82,6 +100,15 @@
       "utcDate": "2026-08-16T19:30:00Z"
     },
     {
+      "league": "PPL",
+      "homeTeam": "Casa Pia",
+      "awayTeam": "SL Benfica",
+      "homeScore": 0,
+      "awayScore": 7,
+      "status": "FINISHED",
+      "utcDate": "2026-08-17T19:15:00Z"
+    },
+    {
       "league": "ELC",
       "homeTeam": "Watford",
       "awayTeam": "Southampton",
@@ -98,6 +125,15 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-08-16T15:00:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Cardiff",
+      "awayTeam": "Wrexham",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-08-17T19:00:00Z"
     },
     {
       "league": "BSA",
@@ -163,15 +199,6 @@
       "utcDate": "2026-08-16T22:30:00Z"
     },
     {
-      "league": "PD",
-      "homeTeam": "Deportivo",
-      "awayTeam": "Elche",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-17T19:00:00Z"
-    },
-    {
       "league": "PPL",
       "homeTeam": "Braga",
       "awayTeam": "Gil Vicente",
@@ -179,34 +206,7 @@
       "awayScore": null,
       "status": "POSTPONED",
       "utcDate": "2026-08-16T00:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Casa Pia",
-      "awayTeam": "SL Benfica",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-17T19:15:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Cardiff",
-      "awayTeam": "Wrexham",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-17T19:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Internacional",
-      "awayTeam": "Clube do Remo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-17T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-17T18:31:42.276Z"
+  "generatedAt": "2026-08-17T23:18:54.170Z"
 }
