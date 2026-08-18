@@ -2216,19 +2216,6 @@
       },
       {
         "position": 14,
-        "team": "Internacional",
-        "played": 23,
-        "won": 6,
-        "drawn": 8,
-        "lost": 9,
-        "goalsFor": 24,
-        "goalsAgainst": 27,
-        "goalDifference": -3,
-        "points": 26,
-        "form": ""
-      },
-      {
-        "position": 15,
         "team": "Santos",
         "played": 22,
         "won": 6,
@@ -2241,7 +2228,7 @@
         "form": ""
       },
       {
-        "position": 16,
+        "position": 15,
         "team": "Grêmio",
         "played": 22,
         "won": 6,
@@ -2251,6 +2238,19 @@
         "goalsAgainst": 30,
         "goalDifference": -6,
         "points": 25,
+        "form": ""
+      },
+      {
+        "position": 16,
+        "team": "Internacional",
+        "played": 23,
+        "won": 5,
+        "drawn": 9,
+        "lost": 9,
+        "goalsFor": 24,
+        "goalsAgainst": 28,
+        "goalDifference": -4,
+        "points": 24,
         "form": ""
       },
       {
@@ -2271,12 +2271,12 @@
         "team": "Clube do Remo",
         "played": 23,
         "won": 5,
-        "drawn": 7,
-        "lost": 11,
-        "goalsFor": 26,
+        "drawn": 8,
+        "lost": 10,
+        "goalsFor": 27,
         "goalsAgainst": 37,
-        "goalDifference": -11,
-        "points": 22,
+        "goalDifference": -10,
+        "points": 23,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-17T23:19:57.608Z"
+  "generatedAt": "2026-08-18T06:35:44.341Z"
 }

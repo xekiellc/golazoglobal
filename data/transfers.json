@@ -1,46 +1,26 @@
 {
   "transfers": [
     {
-      "player": "South Carolina football WRs Jayden Selle",
+      "player": "₹100 exit",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Greenville News",
-      "url": "https://www.greenvilleonline.com/story/sports/college/usc/2026/08/16/jayden-sellers-injury-update-south-carolina-football/91327986007/",
-      "publishedAt": "2026-08-16T23:06:51Z"
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/sports/business/tata-steel-jamshedpur-fc-rs-100-sale-investment-isl-finances-churchill-brothers-126081700417_1.html",
+      "publishedAt": "2026-08-17T06:27:43Z"
     },
     {
-      "player": "Why OC Slade Nagle Believes Houston's Of",
+      "player": "Sean Lewis Has San Diego State Rolling. ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/houston/football/why-oc-slade-nagle-believes-houston-offense-can-be-more-balanced-this-year",
-      "publishedAt": "2026-08-16T22:53:42Z"
-    },
-    {
-      "player": "The Biggest Question Ole Miss Still Has ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/olemiss/football/the-biggest-question-ole-miss-still-has-to-answer-before-fall-camp-ends",
-      "publishedAt": "2026-08-16T22:52:05Z"
-    },
-    {
-      "player": "BYU’s rush ends and outside linebackers ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Deseret News",
-      "url": "https://www.deseret.com/sports/2026/08/16/byu-football-defensive-ends-coach-chad-k-cougars-linebackers-strength/",
-      "publishedAt": "2026-08-16T22:17:08Z"
+      "source": "College Football News",
+      "url": "https://collegefootballnews.com/college-football/sean-lewis-san-diego-state-interview",
+      "publishedAt": "2026-08-17T05:37:58Z"
     }
   ],
-  "generatedAt": "2026-08-17T23:17:26.605Z",
+  "generatedAt": "2026-08-18T06:33:15.337Z",
   "note": "Transfers derived from news headlines at launch."
 }
