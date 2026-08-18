@@ -1,16 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Miami Hurricanes Dismiss Wide Receiver C",
+      "player": "Battle for No. 3 receiver 'a good proble",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/miami/news/miami-hurricanes-dismiss-wide-receiver-cam-vaughn-from-the-roster",
-      "publishedAt": "2026-08-17T12:20:57Z"
+      "source": "The Detroit News",
+      "url": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/08/17/why-michigan-football-has-a-good-problem-in-its-wide-receiver-room/91334644007/",
+      "publishedAt": "2026-08-17T18:28:00Z"
+    },
+    {
+      "player": "First college football rankings of the n",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/sport/college-football/article-16059169/ohio-state-oregon-college-football-rankings.html",
+      "publishedAt": "2026-08-17T18:21:12Z"
+    },
+    {
+      "player": "Arizona State football exits Camp T with",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "AZCentral",
+      "url": "https://www.azcentral.com/story/sports/college/asu/2026/08/17/football-leaves-camp-t-with-red-zone-concerns-freshman-standouts/91312437007/",
+      "publishedAt": "2026-08-17T18:17:51Z"
+    },
+    {
+      "player": "AP Top 25 poll",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/ap-poll-top-25-most-overrated-underrated-and-two-teams-to-crash-out-of-final-rankings/",
+      "publishedAt": "2026-08-17T18:12:58Z"
+    },
+    {
+      "player": "Colorado Linebacker With ‘ESPN’ As A Mid",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "BroBible",
+      "url": "https://brobible.com/sports/article/gideon-espn-lampron-deion-sanders-plane-colorado-recruiting/",
+      "publishedAt": "2026-08-17T18:10:02Z"
     }
   ],
-  "generatedAt": "2026-08-18T12:33:55.911Z",
+  "generatedAt": "2026-08-18T18:28:56.789Z",
   "note": "Transfers derived from news headlines at launch."
 }
