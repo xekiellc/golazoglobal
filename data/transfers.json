@@ -1,26 +1,16 @@
 {
   "transfers": [
     {
-      "player": "₹100 exit",
+      "player": "Miami Hurricanes Dismiss Wide Receiver C",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/sports/business/tata-steel-jamshedpur-fc-rs-100-sale-investment-isl-finances-churchill-brothers-126081700417_1.html",
-      "publishedAt": "2026-08-17T06:27:43Z"
-    },
-    {
-      "player": "Sean Lewis Has San Diego State Rolling. ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "College Football News",
-      "url": "https://collegefootballnews.com/college-football/sean-lewis-san-diego-state-interview",
-      "publishedAt": "2026-08-17T05:37:58Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/miami/news/miami-hurricanes-dismiss-wide-receiver-cam-vaughn-from-the-roster",
+      "publishedAt": "2026-08-17T12:20:57Z"
     }
   ],
-  "generatedAt": "2026-08-18T06:33:15.337Z",
+  "generatedAt": "2026-08-18T12:33:55.911Z",
   "note": "Transfers derived from news headlines at launch."
 }
