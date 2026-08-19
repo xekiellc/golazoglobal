@@ -1,16 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Key reason why Rodri chose Barcelona ove",
+      "player": "Liverpool willing to pay £55m for phenom",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Barcauniversal.com",
-      "url": "https://barcauniversal.com/key-reason-why-rodri-chose-barcelona-over-real-madrid-despite-identical-contract-offers-report/",
-      "publishedAt": "2026-08-18T06:00:00Z"
+      "source": "Anfieldwatch.co.uk",
+      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-transfer-news-endrick-willing-to-pay-ps55m-for-phenomenal-real-madrid-forward/",
+      "publishedAt": "2026-08-18T12:35:00Z"
+    },
+    {
+      "player": "Former Georgia OL expected to start for ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://ugawire.usatoday.com/story/sports/college/bulldogs/football/2026/08/18/georgia-transfer-bo-hughley-start-colorado-football/91343979007/",
+      "publishedAt": "2026-08-18T12:31:26Z"
+    },
+    {
+      "player": "One NFL Draft Prospect from Each Team in",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Athlon Sports",
+      "url": "https://athlonsports.com/nfl/jacksonville-jaguars/jaguars-2027-draft-prospects-ap-top-five",
+      "publishedAt": "2026-08-18T12:19:13Z"
+    },
+    {
+      "player": "Idaho transfer McLain shines again for W",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Lewiston Morning Tribune",
+      "url": "https://www.lmtribune.com/sports/idaho-transfer-mclain-shines-again-for-wsu-pinnick-steady-on-day-10-07618652",
+      "publishedAt": "2026-08-18T12:16:00Z"
     }
   ],
-  "generatedAt": "2026-08-19T06:34:07.750Z",
+  "generatedAt": "2026-08-19T12:35:08.202Z",
   "note": "Transfers derived from news headlines at launch."
 }
