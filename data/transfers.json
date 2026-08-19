@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "AS Roma schedules medical tests for Rodr",
+      "player": "Key reason why Rodri chose Barcelona ove",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/roma-rodrigo-mora-porto-medical-tests/",
-      "publishedAt": "2026-08-17T23:13:43Z"
-    },
-    {
-      "player": "Virginia football receives just one vote",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Streaking The Lawn",
-      "url": "https://www.streakingthelawn.com/football/52952/virginia-cavaliers-virginia-football-uva-football-preseason-ap-poll-top-25",
-      "publishedAt": "2026-08-17T23:05:25Z"
-    },
-    {
-      "player": "Florida Gators aren't quite there in ter",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Atozsports.com",
-      "url": "https://atozsports.com/college-football/florida-gators-news/florida-gators-arent-quite-there-in-terms-of-respect-but-they-are-getting-closer/",
-      "publishedAt": "2026-08-17T22:33:12Z"
+      "source": "Barcauniversal.com",
+      "url": "https://barcauniversal.com/key-reason-why-rodri-chose-barcelona-over-real-madrid-despite-identical-contract-offers-report/",
+      "publishedAt": "2026-08-18T06:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-18T23:16:11.595Z",
+  "generatedAt": "2026-08-19T06:34:07.750Z",
   "note": "Transfers derived from news headlines at launch."
 }
