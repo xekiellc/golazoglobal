@@ -1,46 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Report",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "English Premier League Index - Opta Stats",
-      "url": "https://eplindex.com/149534/report-liverpool-still-chasing-two-attackers-before-deadline.html",
-      "publishedAt": "2026-08-18T18:20:00Z"
-    },
-    {
-      "player": "FSU Football Has Two Running Backs Earn ",
+      "player": "USC's Jayden Maiava Leads Returning Quar",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/fsu/florida-state-seminoles-college-football/fsu-football-has-two-running-backs-major-preseason-praise",
-      "publishedAt": "2026-08-18T18:12:18Z"
+      "url": "https://www.si.com/college/usc/football/usc-trojans-jayden-maiava-leads-returning-quarterbacks-eye-catching-statistic",
+      "publishedAt": "2026-08-18T23:00:03Z"
     },
     {
-      "player": "How Auburn football's building depth wit",
+      "player": "Lawson",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Montgomery Advertiser",
-      "url": "https://www.montgomeryadvertiser.com/story/sports/college/auburn/2026/08/18/auburn-football-edge-rusher-position-preview/91341887007/",
-      "publishedAt": "2026-08-18T18:03:11Z"
-    },
-    {
-      "player": "Quote of the Day by Jesse Jackson",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-jesse-jackson-keep-hope-alive-suffering-breeds-character-character-breeds-a-powerful-life-lesson-on-resilience-civil-rights-moral-endurance-and-personal-conviction-and-why-true-character-is-forged-through-trial-rather-than-ease-by-the-historic-civil-rights-leader-known-for-his-nonviolent-activism/articleshow/133326453.cms",
-      "publishedAt": "2026-08-18T18:00:14Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/washington/football/lawson-moss-receiver-competition-remains-in-high-gear-01m0bcw2msp3",
+      "publishedAt": "2026-08-18T22:58:39Z"
     }
   ],
-  "generatedAt": "2026-08-19T18:25:46.851Z",
+  "generatedAt": "2026-08-19T23:17:29.353Z",
   "note": "Transfers derived from news headlines at launch."
 }

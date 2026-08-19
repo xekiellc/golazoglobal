@@ -291,6 +291,19 @@
       },
       {
         "position": 3,
+        "team": "Atleti",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 0,
+        "goalDifference": 2,
+        "points": 3,
+        "form": ""
+      },
+      {
+        "position": 4,
         "team": "Sevilla FC",
         "played": 1,
         "won": 1,
@@ -303,7 +316,7 @@
         "form": ""
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "Santander",
         "played": 1,
         "won": 0,
@@ -316,7 +329,7 @@
         "form": ""
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "Villarreal",
         "played": 1,
         "won": 0,
@@ -329,7 +342,7 @@
         "form": ""
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "Deportivo",
         "played": 1,
         "won": 0,
@@ -342,7 +355,7 @@
         "form": ""
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "Elche",
         "played": 1,
         "won": 0,
@@ -355,7 +368,7 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "Athletic",
         "played": 0,
         "won": 0,
@@ -368,20 +381,7 @@
         "form": ""
       },
       {
-        "position": 8,
-        "team": "Atleti",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 8,
+        "position": 9,
         "team": "Osasuna",
         "played": 0,
         "won": 0,
@@ -394,7 +394,7 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "Barça",
         "played": 0,
         "won": 0,
@@ -407,20 +407,7 @@
         "form": ""
       },
       {
-        "position": 8,
-        "team": "Málaga",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 8,
+        "position": 9,
         "team": "Celta",
         "played": 0,
         "won": 0,
@@ -433,7 +420,7 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "Real Betis",
         "played": 0,
         "won": 0,
@@ -446,7 +433,7 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "Real Madrid",
         "played": 0,
         "won": 0,
@@ -459,7 +446,7 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "Real Sociedad",
         "played": 0,
         "won": 0,
@@ -472,7 +459,7 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "Valencia",
         "played": 0,
         "won": 0,
@@ -485,7 +472,7 @@
         "form": ""
       },
       {
-        "position": 18,
+        "position": 17,
         "team": "Rayo Vallecano",
         "played": 1,
         "won": 0,
@@ -494,6 +481,19 @@
         "goalsFor": 1,
         "goalsAgainst": 2,
         "goalDifference": -1,
+        "points": 0,
+        "form": ""
+      },
+      {
+        "position": 18,
+        "team": "Málaga",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 0,
+        "goalsAgainst": 2,
+        "goalDifference": -2,
         "points": 0,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-19T18:28:13.208Z"
+  "generatedAt": "2026-08-19T23:19:55.537Z"
 }
