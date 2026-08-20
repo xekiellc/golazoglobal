@@ -7,6 +7,13 @@
     "PD": {
       "scorers": [
         {
+          "name": "Mariano Díaz",
+          "team": "Alavés",
+          "goals": 2,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Roberto Fernández",
           "team": "Espanyol",
           "goals": 2,
@@ -18,13 +25,6 @@
           "team": "Alavés",
           "goals": 1,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Mariano Díaz",
-          "team": "Alavés",
-          "goals": 1,
-          "assists": 2,
           "penalties": 0
         },
         {
@@ -81,7 +81,7 @@
         {
           "name": "Mariano Díaz",
           "team": "Alavés",
-          "goals": 1,
+          "goals": 2,
           "assists": 2,
           "penalties": 0
         },
@@ -572,5 +572,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-20T18:34:01.612Z"
+  "generatedAt": "2026-08-20T23:23:27.880Z"
 }

@@ -266,18 +266,18 @@
       {
         "position": 1,
         "team": "Alavés",
-        "played": 1,
+        "played": 2,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
-        "goalsFor": 3,
-        "goalsAgainst": 0,
+        "goalsFor": 4,
+        "goalsAgainst": 1,
         "goalDifference": 3,
-        "points": 3,
+        "points": 4,
         "form": ""
       },
       {
-        "position": 1,
+        "position": 2,
         "team": "Espanyol",
         "played": 1,
         "won": 1,
@@ -369,6 +369,19 @@
       },
       {
         "position": 9,
+        "team": "Rayo Vallecano",
+        "played": 2,
+        "won": 0,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 3,
+        "goalDifference": -1,
+        "points": 1,
+        "form": ""
+      },
+      {
+        "position": 10,
         "team": "Athletic",
         "played": 0,
         "won": 0,
@@ -381,7 +394,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "Osasuna",
         "played": 0,
         "won": 0,
@@ -394,8 +407,8 @@
         "form": ""
       },
       {
-        "position": 9,
-        "team": "Barça",
+        "position": 10,
+        "team": "Bar��a",
         "played": 0,
         "won": 0,
         "drawn": 0,
@@ -407,7 +420,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "Celta",
         "played": 0,
         "won": 0,
@@ -420,7 +433,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "Real Betis",
         "played": 0,
         "won": 0,
@@ -433,7 +446,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "Real Madrid",
         "played": 0,
         "won": 0,
@@ -446,7 +459,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "Real Sociedad",
         "played": 0,
         "won": 0,
@@ -459,7 +472,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "Valencia",
         "played": 0,
         "won": 0,
@@ -468,19 +481,6 @@
         "goalsFor": 0,
         "goalsAgainst": 0,
         "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 17,
-        "team": "Rayo Vallecano",
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 1,
-        "goalsAgainst": 2,
-        "goalDifference": -1,
         "points": 0,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-20T18:32:54.730Z"
+  "generatedAt": "2026-08-20T23:22:21.856Z"
 }
