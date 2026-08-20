@@ -1,26 +1,16 @@
 {
   "transfers": [
     {
-      "player": "USC's Jayden Maiava Leads Returning Quar",
+      "player": "5 College Football Teams That Will Surpr",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/usc/football/usc-trojans-jayden-maiava-leads-returning-quarterbacks-eye-catching-statistic",
-      "publishedAt": "2026-08-18T23:00:03Z"
-    },
-    {
-      "player": "Lawson",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/washington/football/lawson-moss-receiver-competition-remains-in-high-gear-01m0bcw2msp3",
-      "publishedAt": "2026-08-18T22:58:39Z"
+      "source": "College Football News",
+      "url": "https://collegefootballnews.com/college-football/college-football-teams-that-will-surprise-2026",
+      "publishedAt": "2026-08-19T05:23:13Z"
     }
   ],
-  "generatedAt": "2026-08-19T23:17:29.353Z",
+  "generatedAt": "2026-08-20T06:36:14.100Z",
   "note": "Transfers derived from news headlines at launch."
 }

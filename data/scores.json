@@ -8,7 +8,16 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-08-19T19:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Alavés",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-08-20T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-19T23:18:53.389Z"
+  "generatedAt": "2026-08-20T06:37:38.962Z"
 }
