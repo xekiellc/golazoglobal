@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Timber Creek, Hagerty look to derail Win",
+      "player": "In An Alternate CFB World, Would Robert ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Orlando Sentinel",
-      "url": "https://www.orlandosentinel.com/2026/08/19/timber-creek-hagerty-look-to-derail-winter-park-6a-district-4-football/",
-      "publishedAt": "2026-08-19T12:30:00Z"
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/rgiii-baylor-texas-mack-brown-joel-klatt-show",
+      "publishedAt": "2026-08-19T18:09:45Z"
+    },
+    {
+      "player": "Florida Gators' 2026 Schedule Preview",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/florida/game-day/florida-gators-2026-schedule-preview-georgia-bulldogs",
+      "publishedAt": "2026-08-19T18:03:05Z"
     }
   ],
-  "generatedAt": "2026-08-20T12:36:05.828Z",
+  "generatedAt": "2026-08-20T18:30:26.224Z",
   "note": "Transfers derived from news headlines at launch."
 }
