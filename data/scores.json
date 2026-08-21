@@ -1,6 +1,15 @@
 {
   "matches": [
     {
+      "league": "PL",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Coventry City",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-08-21T19:00:00Z"
+    },
+    {
       "league": "PD",
       "homeTeam": "Rayo Vallecano",
       "awayTeam": "Alavés",
@@ -10,30 +19,21 @@
       "utcDate": "2026-08-20T19:00:00Z"
     },
     {
-      "league": "PL",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Coventry City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-21T19:00:00Z"
-    },
-    {
       "league": "PD",
       "homeTeam": "Real Betis",
       "awayTeam": "Real Sociedad",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-08-21T19:00:00Z"
     },
     {
       "league": "FL1",
       "homeTeam": "Marseille",
       "awayTeam": "Strasbourg",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-08-21T18:45:00Z"
     },
     {
@@ -46,5 +46,5 @@
       "utcDate": "2026-08-22T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-21T18:29:40.126Z"
+  "generatedAt": "2026-08-21T23:19:05.444Z"
 }

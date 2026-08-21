@@ -1,8 +1,52 @@
 {
   "leagues": {
     "PL": {
-      "scorers": [],
-      "topAssists": []
+      "scorers": [
+        {
+          "name": "Kai Havertz",
+          "team": "Arsenal",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Bukayo Saka",
+          "team": "Arsenal",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Martin Ødegaard",
+          "team": "Arsenal",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Kai Havertz",
+          "team": "Arsenal",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Bukayo Saka",
+          "team": "Arsenal",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Martin Ødegaard",
+          "team": "Arsenal",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        }
+      ]
     },
     "PD": {
       "scorers": [
@@ -124,8 +168,52 @@
       "topAssists": []
     },
     "FL1": {
-      "scorers": [],
-      "topAssists": []
+      "scorers": [
+        {
+          "name": "Amine Gouiri",
+          "team": "Marseille",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Keyliane Abdallah",
+          "team": "Marseille",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Pierre Emile Højbjerg",
+          "team": "Marseille",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Amine Gouiri",
+          "team": "Marseille",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Keyliane Abdallah",
+          "team": "Marseille",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Pierre Emile Højbjerg",
+          "team": "Marseille",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        }
+      ]
     },
     "DED": {
       "scorers": [
@@ -572,5 +660,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-21T18:31:48.236Z"
+  "generatedAt": "2026-08-21T23:21:17.104Z"
 }

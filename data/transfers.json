@@ -1,36 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Michigan expects more designed runs for ",
+      "player": "Auburn Top Transfer Wideout Named To Pre",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Detroit News",
-      "url": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/08/20/michigan-wolverines-expect-more-designed-runs-for-qb-bryce-underwood/91382658007/",
-      "publishedAt": "2026-08-20T18:15:21Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/auburn/football/auburn-top-transfer-wideout-named-to-prestigious-preseason-watchlist-keshaun-singleton",
+      "publishedAt": "2026-08-20T23:12:48Z"
     },
     {
-      "player": "Alcaraz signals 'here we go' for US Open",
+      "player": "Arizona State Too Easily Discounted in B",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "RTE",
-      "url": "https://www.rte.ie/sport/tennis/2026/0820/1588701-alcaraz-signals-here-we-go-for-us-open-return/",
-      "publishedAt": "2026-08-20T18:10:21Z"
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/arizona-state-easily-discounted-big-12/",
+      "publishedAt": "2026-08-20T23:06:42Z"
     },
     {
-      "player": "Kansas State football starting left tack",
+      "player": "Ole Miss Offensive Line Has One Final Qu",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Topeka Capital-Journal",
-      "url": "https://www.cjonline.com/story/sports/college/cat-zone/2026/08/20/john-pastore-kansas-state-football-injury-left-tackle-depth-chart/91368821007/",
-      "publishedAt": "2026-08-20T18:09:48Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/olemiss/football/ole-miss-offensive-line-has-one-final-question-to-answer-before-louisville",
+      "publishedAt": "2026-08-20T23:00:02Z"
+    },
+    {
+      "player": "Ohio State football news",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/ohio-state-football-news-young-buckeyes-wrs-endorsement-db-jeremiah-smith-touch",
+      "publishedAt": "2026-08-20T22:59:28Z"
     }
   ],
-  "generatedAt": "2026-08-21T18:28:15.081Z",
+  "generatedAt": "2026-08-21T23:17:40.705Z",
   "note": "Transfers derived from news headlines at launch."
 }
