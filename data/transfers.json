@@ -1,56 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Three Quarterbacks Duel for Cal's QB2 As",
+      "player": "Thursday’s Everton News",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/cal/football/three-quarterbacks-duel-for-cal-s-qb2-assignment-01m0e3c41hxg",
-      "publishedAt": "2026-08-19T23:12:17Z"
-    },
-    {
-      "player": "BREAKING",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Talk Chelsea",
-      "url": "https://www.talkchelsea.net/transfers/breaking-chelsea-reach-verbal-agreement-crystal-palace/",
-      "publishedAt": "2026-08-19T23:10:00Z"
-    },
-    {
-      "player": "Hartselle Tigers",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Decaturdaily.com",
-      "url": "https://www.decaturdaily.com/sports/high_school/hartselle-tigers/article_d7522d48-8fec-463c-8393-f8fbadafcd2f.html",
-      "publishedAt": "2026-08-19T23:04:00Z"
-    },
-    {
-      "player": "How Gator Ties Are Fueling Florida OL TJ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/florida/football/gator-ties-fueling-florida-ol-tj-shanahan-jr-2026-season-01m08bmj6rv9",
-      "publishedAt": "2026-08-19T22:49:01Z"
-    },
-    {
-      "player": "Texas football news",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/texas-football-news-nfl-draft-analyst-cam-coleman-deserves-jeremiah-smith-treatment",
-      "publishedAt": "2026-08-19T22:46:12Z"
+      "source": "SB Nation",
+      "url": "https://royalbluemersey.sbnation.com/everton-news/82167/hector-fort-flemming-latest-cash-nwaneri-linked-arsenal-transfer-rumours",
+      "publishedAt": "2026-08-20T06:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-20T23:19:55.113Z",
+  "generatedAt": "2026-08-21T06:36:09.322Z",
   "note": "Transfers derived from news headlines at launch."
 }
