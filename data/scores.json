@@ -33,7 +33,7 @@
       "awayTeam": "Strasbourg",
       "homeScore": null,
       "awayScore": null,
-      "status": "TIMED",
+      "status": "2026-08-22 17:45:00Z",
       "utcDate": "2026-08-21T18:45:00Z"
     },
     {
@@ -46,5 +46,5 @@
       "utcDate": "2026-08-22T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-21T06:37:33.860Z"
+  "generatedAt": "2026-08-21T12:36:47.402Z"
 }

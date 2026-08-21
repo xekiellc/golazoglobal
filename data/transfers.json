@@ -1,16 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Thursday’s Everton News",
+      "player": "College football coaching hires 2026",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "SB Nation",
-      "url": "https://royalbluemersey.sbnation.com/everton-news/82167/hector-fort-flemming-latest-cash-nwaneri-linked-arsenal-transfer-rumours",
-      "publishedAt": "2026-08-20T06:00:00Z"
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/ncaa-football/news/college-football-coaching-hires-lane-kiffin-james-franklin/daeca3e81178d32ab742ad45",
+      "publishedAt": "2026-08-20T12:27:27Z"
     }
   ],
-  "generatedAt": "2026-08-21T06:36:09.322Z",
+  "generatedAt": "2026-08-21T12:35:24.491Z",
   "note": "Transfers derived from news headlines at launch."
 }
