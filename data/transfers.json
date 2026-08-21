@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "College football coaching hires 2026",
+      "player": "Michigan expects more designed runs for ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/us/ncaa-football/news/college-football-coaching-hires-lane-kiffin-james-franklin/daeca3e81178d32ab742ad45",
-      "publishedAt": "2026-08-20T12:27:27Z"
+      "source": "The Detroit News",
+      "url": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/08/20/michigan-wolverines-expect-more-designed-runs-for-qb-bryce-underwood/91382658007/",
+      "publishedAt": "2026-08-20T18:15:21Z"
+    },
+    {
+      "player": "Alcaraz signals 'here we go' for US Open",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "RTE",
+      "url": "https://www.rte.ie/sport/tennis/2026/0820/1588701-alcaraz-signals-here-we-go-for-us-open-return/",
+      "publishedAt": "2026-08-20T18:10:21Z"
+    },
+    {
+      "player": "Kansas State football starting left tack",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Topeka Capital-Journal",
+      "url": "https://www.cjonline.com/story/sports/college/cat-zone/2026/08/20/john-pastore-kansas-state-football-injury-left-tackle-depth-chart/91368821007/",
+      "publishedAt": "2026-08-20T18:09:48Z"
     }
   ],
-  "generatedAt": "2026-08-21T12:35:24.491Z",
+  "generatedAt": "2026-08-21T18:28:15.081Z",
   "note": "Transfers derived from news headlines at launch."
 }
