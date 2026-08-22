@@ -1,5 +1,36 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-08-22T12:27:34.778Z",
+  "transfers": [
+    {
+      "player": "DraftKings Oddsmaker Senses 'Wait",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Covers.com",
+      "url": "https://www.covers.com/industry/draftkings-oddsmaker-senses-wait-and-see-approach-to-college-football-futures-aug-21-2026",
+      "publishedAt": "2026-08-21T18:20:00Z"
+    },
+    {
+      "player": "Ajax Defender Lands in Rome Ahead of Laz",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Thelaziali.com",
+      "url": "https://thelaziali.com/2026/08/21/ajax-josip-sutalo-rome-lazio-medical/",
+      "publishedAt": "2026-08-21T18:20:00Z"
+    },
+    {
+      "player": "Florida State football news",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/florida-state-football-news-thomas-castellanos-set-make-transfer-portal-move",
+      "publishedAt": "2026-08-21T18:11:10Z"
+    }
+  ],
+  "generatedAt": "2026-08-22T18:20:29.720Z",
   "note": "Transfers derived from news headlines at launch."
 }

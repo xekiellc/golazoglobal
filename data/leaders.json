@@ -36,6 +36,41 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
+        },
+        {
+          "name": "Emersonn",
+          "team": "Ipswich Town",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Nilson Angulo",
+          "team": "Sunderland",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Jack Clarke",
+          "team": "Ipswich Town",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Anton Stach",
+          "team": "Leeds United",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Kiernan Dewsbury Hall",
+          "team": "Everton",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
         }
       ],
       "topAssists": [
@@ -188,8 +223,94 @@
       ]
     },
     "SA": {
-      "scorers": [],
-      "topAssists": []
+      "scorers": [
+        {
+          "name": "Hassane Kamara",
+          "team": "Udinese",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Anastasios Douvikas",
+          "team": "Como 1907",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Hakan Çalhanoğlu",
+          "team": "Inter",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Gustavo Varela",
+          "team": "Monza",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Piotr Zieliński",
+          "team": "Inter",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Francesco Esposito",
+          "team": "Inter",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Yann Aurel Bisseck",
+          "team": "Inter",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Francesco Esposito",
+          "team": "Inter",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Hassane Kamara",
+          "team": "Udinese",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Anastasios Douvikas",
+          "team": "Como 1907",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Hakan Çalhanoğlu",
+          "team": "Inter",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Gustavo Varela",
+          "team": "Monza",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        }
+      ]
     },
     "BL1": {
       "scorers": [],
@@ -205,6 +326,13 @@
           "penalties": 1
         },
         {
+          "name": "Florian Thauvin",
+          "team": "RC Lens",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "Keyliane Abdallah",
           "team": "Marseille",
           "goals": 1,
@@ -217,9 +345,51 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
+        },
+        {
+          "name": "Franjo Ivanovic",
+          "team": "RC Lens",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Saud Abdulhamid",
+          "team": "RC Lens",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Daniel Namaso",
+          "team": "Auxerre",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Pierre Ganiou",
+          "team": "RC Lens",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Lamine Sy",
+          "team": "Auxerre",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Florian Thauvin",
+          "team": "RC Lens",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 2
+        },
         {
           "name": "Amine Gouiri",
           "team": "Marseille",
@@ -237,6 +407,13 @@
         {
           "name": "Pierre Emile Højbjerg",
           "team": "Marseille",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Franjo Ivanovic",
+          "team": "RC Lens",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -281,49 +458,42 @@
           "penalties": 0
         },
         {
-          "name": "Irakli Yegoian",
-          "team": "Excelsior",
-          "goals": 1,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "David Garden",
-          "team": "Excelsior",
-          "goals": 1,
+          "name": "Adrian Blake",
+          "team": "Utrecht",
+          "goals": 2,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Patrick Brouwer",
-          "team": "Telstar",
-          "goals": 1,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Rui Mendes",
-          "team": "Telstar",
-          "goals": 1,
+          "name": "Marvin Young",
+          "team": "Sparta",
+          "goals": 2,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Devin Haen",
-          "team": "Willem II",
-          "goals": 1,
-          "assists": 1,
+          "name": "Milan Zonneveld",
+          "team": "Sparta",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Artem Stepanov",
+          "team": "Utrecht",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Jizz Hornkamp",
+          "team": "AZ",
+          "goals": 2,
+          "assists": 0,
           "penalties": 0
         }
       ],
       "topAssists": [
-        {
-          "name": "Irakli Yegoian",
-          "team": "Excelsior",
-          "goals": 1,
-          "assists": 2,
-          "penalties": 0
-        },
         {
           "name": "Thom van Bergen",
           "team": "Groningen",
@@ -332,22 +502,29 @@
           "penalties": 0
         },
         {
-          "name": "Patrick Brouwer",
-          "team": "Telstar",
-          "goals": 1,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Devin Haen",
-          "team": "Willem II",
-          "goals": 1,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
           "name": "Noah Naujoks",
           "team": "Excelsior",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Kaj Sierhuis",
+          "team": "NEC",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Søren Tengstedt",
+          "team": "Go Ahead",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Brynjolfur Darri Willumsson",
+          "team": "Groningen",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -399,6 +576,13 @@
           "penalties": 0
         },
         {
+          "name": "André Clovis",
+          "team": "Acad. Viseu",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Georgios Koutsias",
           "team": "Famalicão",
           "goals": 1,
@@ -417,13 +601,6 @@
           "team": "Marítimo",
           "goals": 1,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Rodrigo Zalazar",
-          "team": "Sporting CP",
-          "goals": 1,
-          "assists": 1,
           "penalties": 0
         }
       ],
@@ -450,23 +627,30 @@
           "penalties": 0
         },
         {
-          "name": "Rodrigo Zalazar",
-          "team": "Sporting CP",
-          "goals": 1,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
           "name": "Gonçalo Paciência",
           "team": "Santa Clara",
           "goals": 3,
           "assists": 0,
           "penalties": 1
+        },
+        {
+          "name": "Barbero",
+          "team": "Arouca",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
         }
       ]
     },
     "ELC": {
       "scorers": [
+        {
+          "name": "Andri Guðjohnsen",
+          "team": "Blackburn",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
         {
           "name": "Josh Coburn",
           "team": "Millwall",
@@ -482,10 +666,31 @@
           "penalties": 0
         },
         {
+          "name": "Lloyd Jones",
+          "team": "Charlton",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Tyreece Campbell",
+          "team": "Charlton",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Ilias Chair",
           "team": "QPR",
           "goals": 2,
           "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Cyle Larin",
+          "team": "Southampton",
+          "goals": 2,
+          "assists": 0,
           "penalties": 0
         },
         {
@@ -496,44 +701,16 @@
           "penalties": 1
         },
         {
-          "name": "Marshall Munetsi",
+          "name": "Taïryk Arconte",
+          "team": "Millwall",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Fer López",
           "team": "Wolverhampton",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Sean McLoughlin",
-          "team": "Blackburn",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Andri Guðjohnsen",
-          "team": "Blackburn",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Raúl Jiménez",
-          "team": "Wolverhampton",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
-          "name": "Sam Dalby",
-          "team": "Bolton",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Thierry Gale",
-          "team": "Bolton",
-          "goals": 1,
+          "goals": 2,
           "assists": 0,
           "penalties": 0
         }
@@ -547,6 +724,13 @@
           "penalties": 0
         },
         {
+          "name": "Andri Guðjohnsen",
+          "team": "Blackburn",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Josh Coburn",
           "team": "Millwall",
           "goals": 2,
@@ -561,16 +745,9 @@
           "penalties": 0
         },
         {
-          "name": "Zian Flemming",
-          "team": "Burnley",
+          "name": "Lloyd Jones",
+          "team": "Charlton",
           "goals": 2,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
-          "name": "Marshall Munetsi",
-          "team": "Wolverhampton",
-          "goals": 1,
           "assists": 0,
           "penalties": 0
         }
@@ -688,5 +865,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-22T12:31:14.590Z"
+  "generatedAt": "2026-08-22T18:24:04.613Z"
 }
