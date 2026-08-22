@@ -22,6 +22,20 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
+        },
+        {
+          "name": "Semi Ajayi",
+          "team": "Hull City",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Nobel Mendy",
+          "team": "Hull City",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
         }
       ],
       "topAssists": [
@@ -42,6 +56,20 @@
         {
           "name": "Martin Ødegaard",
           "team": "Arsenal",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Semi Ajayi",
+          "team": "Hull City",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Nobel Mendy",
+          "team": "Hull City",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -660,5 +688,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-22T06:33:21.544Z"
+  "generatedAt": "2026-08-22T12:31:14.590Z"
 }

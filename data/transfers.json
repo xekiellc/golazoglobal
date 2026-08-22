@@ -1,36 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "“Yes!”",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Utdreport.co.uk",
-      "url": "https://utdreport.co.uk/2026/08/21/jacobs-man-united-offer-louis-page/",
-      "publishedAt": "2026-08-21T06:25:00Z"
-    },
-    {
-      "player": "College Football Heisman Trophy Watch 20",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "College Football News",
-      "url": "https://collegefootballnews.com/college-football/heisman-watch-2026",
-      "publishedAt": "2026-08-21T06:09:02Z"
-    },
-    {
-      "player": "Jaden Jefferson and Quentin Hale power C",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/jaden-jefferson-quentin-hale-power-060536117.html",
-      "publishedAt": "2026-08-21T06:05:36Z"
-    }
-  ],
-  "generatedAt": "2026-08-22T06:29:48.152Z",
+  "transfers": [],
+  "generatedAt": "2026-08-22T12:27:34.778Z",
   "note": "Transfers derived from news headlines at launch."
 }

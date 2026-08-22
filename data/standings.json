@@ -16,6 +16,19 @@
       },
       {
         "position": 2,
+        "team": "Hull City",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 0,
+        "goalDifference": 2,
+        "points": 3,
+        "form": ""
+      },
+      {
+        "position": 3,
         "team": "Bournemouth",
         "played": 0,
         "won": 0,
@@ -28,7 +41,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Aston Villa",
         "played": 0,
         "won": 0,
@@ -41,7 +54,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Brentford",
         "played": 0,
         "won": 0,
@@ -54,7 +67,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Brighton Hove",
         "played": 0,
         "won": 0,
@@ -67,7 +80,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Chelsea",
         "played": 0,
         "won": 0,
@@ -80,7 +93,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Crystal Palace",
         "played": 0,
         "won": 0,
@@ -93,7 +106,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Everton",
         "played": 0,
         "won": 0,
@@ -106,7 +119,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Fulham",
         "played": 0,
         "won": 0,
@@ -119,20 +132,7 @@
         "form": ""
       },
       {
-        "position": 2,
-        "team": "Hull City",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 2,
+        "position": 3,
         "team": "Ipswich Town",
         "played": 0,
         "won": 0,
@@ -145,7 +145,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Leeds United",
         "played": 0,
         "won": 0,
@@ -158,7 +158,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Liverpool",
         "played": 0,
         "won": 0,
@@ -171,7 +171,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Man City",
         "played": 0,
         "won": 0,
@@ -184,20 +184,7 @@
         "form": ""
       },
       {
-        "position": 2,
-        "team": "Man United",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 2,
+        "position": 3,
         "team": "Newcastle",
         "played": 0,
         "won": 0,
@@ -210,7 +197,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Nottingham",
         "played": 0,
         "won": 0,
@@ -223,7 +210,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Sunderland",
         "played": 0,
         "won": 0,
@@ -236,7 +223,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Tottenham",
         "played": 0,
         "won": 0,
@@ -245,6 +232,19 @@
         "goalsFor": 0,
         "goalsAgainst": 0,
         "goalDifference": 0,
+        "points": 0,
+        "form": ""
+      },
+      {
+        "position": 19,
+        "team": "Man United",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 0,
+        "goalsAgainst": 2,
+        "goalDifference": -2,
         "points": 0,
         "form": ""
       },
@@ -1733,6 +1733,19 @@
     "ELC": [
       {
         "position": 1,
+        "team": "Millwall",
+        "played": 2,
+        "won": 2,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 3,
+        "goalsAgainst": 0,
+        "goalDifference": 3,
+        "points": 6,
+        "form": ""
+      },
+      {
+        "position": 2,
         "team": "QPR",
         "played": 1,
         "won": 1,
@@ -1740,19 +1753,6 @@
         "lost": 0,
         "goalsFor": 3,
         "goalsAgainst": 1,
-        "goalDifference": 2,
-        "points": 3,
-        "form": ""
-      },
-      {
-        "position": 2,
-        "team": "Millwall",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 2,
-        "goalsAgainst": 0,
         "goalDifference": 2,
         "points": 3,
         "form": ""
@@ -1837,6 +1837,32 @@
       },
       {
         "position": 9,
+        "team": "Portsmouth",
+        "played": 2,
+        "won": 1,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 3,
+        "goalsAgainst": 4,
+        "goalDifference": -1,
+        "points": 3,
+        "form": ""
+      },
+      {
+        "position": 10,
+        "team": "Birmingham",
+        "played": 2,
+        "won": 0,
+        "drawn": 2,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDifference": 0,
+        "points": 2,
+        "form": ""
+      },
+      {
+        "position": 11,
         "team": "Blackburn",
         "played": 1,
         "won": 0,
@@ -1849,7 +1875,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 11,
         "team": "Burnley",
         "played": 1,
         "won": 0,
@@ -1862,7 +1888,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 11,
         "team": "West Ham",
         "played": 1,
         "won": 0,
@@ -1875,7 +1901,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 11,
         "team": "Wolverhampton",
         "played": 1,
         "won": 0,
@@ -1888,7 +1914,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 15,
         "team": "Cardiff",
         "played": 1,
         "won": 0,
@@ -1901,7 +1927,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 15,
         "team": "Wrexham",
         "played": 1,
         "won": 0,
@@ -1914,20 +1940,7 @@
         "form": ""
       },
       {
-        "position": 15,
-        "team": "Birmingham",
-        "played": 1,
-        "won": 0,
-        "drawn": 1,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 1,
-        "form": ""
-      },
-      {
-        "position": 15,
+        "position": 17,
         "team": "Sheffield Utd",
         "played": 1,
         "won": 0,
@@ -1940,7 +1953,20 @@
         "form": ""
       },
       {
-        "position": 17,
+        "position": 18,
+        "team": "Bristol City",
+        "played": 2,
+        "won": 0,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 3,
+        "goalDifference": -2,
+        "points": 1,
+        "form": ""
+      },
+      {
+        "position": 19,
         "team": "Derby County",
         "played": 1,
         "won": 0,
@@ -1953,33 +1979,7 @@
         "form": ""
       },
       {
-        "position": 17,
-        "team": "Lincoln City",
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 1,
-        "goalsAgainst": 2,
-        "goalDifference": -1,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 17,
-        "team": "Norwich",
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 1,
-        "goalsAgainst": 2,
-        "goalDifference": -1,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 17,
+        "position": 19,
         "team": "Preston NE",
         "played": 1,
         "won": 0,
@@ -1992,7 +1992,7 @@
         "form": ""
       },
       {
-        "position": 17,
+        "position": 19,
         "team": "Southampton",
         "played": 1,
         "won": 0,
@@ -2005,7 +2005,7 @@
         "form": ""
       },
       {
-        "position": 17,
+        "position": 19,
         "team": "Stoke",
         "played": 1,
         "won": 0,
@@ -2019,26 +2019,26 @@
       },
       {
         "position": 23,
-        "team": "Portsmouth",
-        "played": 1,
+        "team": "Lincoln City",
+        "played": 2,
         "won": 0,
         "drawn": 0,
-        "lost": 1,
-        "goalsFor": 1,
-        "goalsAgainst": 3,
+        "lost": 2,
+        "goalsFor": 2,
+        "goalsAgainst": 4,
         "goalDifference": -2,
         "points": 0,
         "form": ""
       },
       {
         "position": 24,
-        "team": "Bristol City",
-        "played": 1,
+        "team": "Norwich",
+        "played": 2,
         "won": 0,
         "drawn": 0,
-        "lost": 1,
-        "goalsFor": 0,
-        "goalsAgainst": 2,
+        "lost": 2,
+        "goalsFor": 1,
+        "goalsAgainst": 3,
         "goalDifference": -2,
         "points": 0,
         "form": ""
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-22T06:32:15.101Z"
+  "generatedAt": "2026-08-22T12:30:01.483Z"
 }
