@@ -1,36 +1,46 @@
 {
   "transfers": [
     {
-      "player": "DraftKings Oddsmaker Senses 'Wait",
+      "player": "Will Louisville have Hutchinson, Mack, P",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Covers.com",
-      "url": "https://www.covers.com/industry/draftkings-oddsmaker-senses-wait-and-see-approach-to-college-football-futures-aug-21-2026",
-      "publishedAt": "2026-08-21T18:20:00Z"
+      "source": "Courier Journal",
+      "url": "https://www.courier-journal.com/story/sports/college/louisville/2026/08/21/louisville-football-eligibility-deangelo-hutchinson-jabari-mack-kalib-perry-uofl-cardinals-roster/91401734007/",
+      "publishedAt": "2026-08-21T22:39:51Z"
     },
     {
-      "player": "Ajax Defender Lands in Rome Ahead of Laz",
+      "player": "Texas Longhorns LB Ty'Anthony Smith Leav",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Thelaziali.com",
-      "url": "https://thelaziali.com/2026/08/21/ajax-josip-sutalo-rome-lazio-medical/",
-      "publishedAt": "2026-08-21T18:20:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/texas/football/texas-longhorns-tyanthony-smith-leaves-team-shocking-move",
+      "publishedAt": "2026-08-21T22:36:21Z"
     },
     {
-      "player": "Florida State football news",
+      "player": "Washington G Hannah Stines enters transf",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/florida-state-football-news-thomas-castellanos-set-make-transfer-portal-move",
-      "publishedAt": "2026-08-21T18:11:10Z"
+      "source": "USA Today",
+      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/womens-basketball/2026/08/21/uw-huskies-womens-basketball-hannah-stines-ncaa-transfer-portal/91400216007/",
+      "publishedAt": "2026-08-21T22:30:29Z"
+    },
+    {
+      "player": "Former Decorated Blue",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/wisconsin/football/former-decorated-blue-chip-recruit-finally-playing-like-one-badgers-fall-camp",
+      "publishedAt": "2026-08-21T22:30:01Z"
     }
   ],
-  "generatedAt": "2026-08-22T18:20:29.720Z",
+  "generatedAt": "2026-08-22T23:14:52.171Z",
   "note": "Transfers derived from news headlines at launch."
 }

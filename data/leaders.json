@@ -272,12 +272,40 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "team": "Napoli",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Antonio Vergara",
+          "team": "Napoli",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Alessandro Romano",
+          "team": "Cagliari",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
         }
       ],
       "topAssists": [
         {
           "name": "Francesco Esposito",
           "team": "Inter",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "team": "Napoli",
           "goals": 1,
           "assists": 1,
           "penalties": 0
@@ -299,13 +327,6 @@
         {
           "name": "Hakan Çalhanoğlu",
           "team": "Inter",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Gustavo Varela",
-          "team": "Monza",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -377,6 +398,13 @@
         {
           "name": "Lamine Sy",
           "team": "Auxerre",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Romain Del Castillo",
+          "team": "Brest",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -865,5 +893,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-22T18:24:04.613Z"
+  "generatedAt": "2026-08-22T23:18:28.185Z"
 }
