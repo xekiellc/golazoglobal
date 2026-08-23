@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Davon Benjamin's versatility opening pat",
+      "player": "Charley Walters",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2026/08/22/oregon-football-davon-benjamin-versatility-fall-camp-rashad-wadood/91388117007/",
-      "publishedAt": "2026-08-22T12:27:39Z"
+      "source": "TwinCities.com-Pioneer Press",
+      "url": "https://www.twincities.com/2026/08/22/charley-walters-lores-need-for-cash-likely-prompted-wolves-sale/",
+      "publishedAt": "2026-08-22T18:06:00Z"
     },
     {
-      "player": "Kids Day Practice Worst Case Scenario fo",
+      "player": "Oklahoma Sooners Transfer Impressive Wit",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Black Heart Gold Pants",
-      "url": "https://www.blackheartgoldpants.com/football/69133/kids-day-practice-iowa-hawkeyes-kirk-ferentz-qb-battle-bhgp",
-      "publishedAt": "2026-08-22T12:04:00Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/northwestern/news/oklahoma-sooners-transfer-impressive-with-northwestern-analyst-says",
+      "publishedAt": "2026-08-22T18:00:32Z"
+    },
+    {
+      "player": "Class of 2022 athletes lose NCAA eligibi",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/ncaa-class-of-2022-athletes-eligibility-court-cases-lawsuits/",
+      "publishedAt": "2026-08-22T17:59:07Z"
+    },
+    {
+      "player": "Former Appalachian State CB Ethan Johnso",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "On3.com",
+      "url": "https://www.on3.com/news/former-appalachian-state-cb-ethan-johnson-commits-to-south-carolina-following-tro-order/",
+      "publishedAt": "2026-08-22T17:55:53Z"
     }
   ],
-  "generatedAt": "2026-08-23T12:28:42.175Z",
+  "generatedAt": "2026-08-23T18:20:41.588Z",
   "note": "Transfers derived from news headlines at launch."
 }

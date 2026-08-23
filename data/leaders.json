@@ -3,6 +3,13 @@
     "PL": {
       "scorers": [
         {
+          "name": "Jack Hinshelwood",
+          "team": "Brighton Hove",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Kai Havertz",
           "team": "Arsenal",
           "goals": 1,
@@ -64,16 +71,16 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Kiernan Dewsbury Hall",
-          "team": "Everton",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Jack Hinshelwood",
+          "team": "Brighton Hove",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
         {
           "name": "Kai Havertz",
           "team": "Arsenal",
@@ -97,13 +104,6 @@
         },
         {
           "name": "Semi Ajayi",
-          "team": "Hull City",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Nobel Mendy",
           "team": "Hull City",
           "goals": 1,
           "assists": 0,
@@ -458,6 +458,27 @@
           "penalties": 0
         },
         {
+          "name": "Brynjolfur Darri Willumsson",
+          "team": "Groningen",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Rafik el Arguioui",
+          "team": "Cambuur",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Gjivai Zechiël",
+          "team": "Feyenoord",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Noah Naujoks",
           "team": "Excelsior",
           "goals": 2,
@@ -472,8 +493,8 @@
           "penalties": 0
         },
         {
-          "name": "Brynjolfur Darri Willumsson",
-          "team": "Groningen",
+          "name": "Luciano Valente",
+          "team": "Feyenoord",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -482,7 +503,7 @@
           "name": "Thom van Bergen",
           "team": "Groningen",
           "goals": 2,
-          "assists": 1,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -498,30 +519,16 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Milan Zonneveld",
-          "team": "Sparta",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Artem Stepanov",
-          "team": "Utrecht",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Stefán Ingi Sigurðarson",
-          "team": "Go Ahead",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Thom van Bergen",
+          "team": "Groningen",
+          "goals": 2,
+          "assists": 2,
+          "penalties": 0
+        },
         {
           "name": "Søren Tengstedt",
           "team": "Go Ahead",
@@ -530,30 +537,23 @@
           "penalties": 0
         },
         {
-          "name": "Thom van Bergen",
-          "team": "Groningen",
-          "goals": 2,
+          "name": "Gjivai Zechiël",
+          "team": "Feyenoord",
+          "goals": 3,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Noah Naujoks",
-          "team": "Excelsior",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Kaj Sierhuis",
-          "team": "NEC",
-          "goals": 2,
-          "assists": 0,
           "penalties": 0
         },
         {
           "name": "Brynjolfur Darri Willumsson",
           "team": "Groningen",
-          "goals": 2,
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Rafik el Arguioui",
+          "team": "Cambuur",
+          "goals": 3,
           "assists": 0,
           "penalties": 0
         }
@@ -571,7 +571,7 @@
         {
           "name": "Gonçalo Paciência",
           "team": "Santa Clara",
-          "goals": 3,
+          "goals": 4,
           "assists": 0,
           "penalties": 1
         },
@@ -657,7 +657,7 @@
         {
           "name": "Gonçalo Paciência",
           "team": "Santa Clara",
-          "goals": 3,
+          "goals": 4,
           "assists": 0,
           "penalties": 1
         },
@@ -893,5 +893,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-23T12:32:16.991Z"
+  "generatedAt": "2026-08-23T18:24:21.442Z"
 }
