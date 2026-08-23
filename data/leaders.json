@@ -784,18 +784,18 @@
     "BSA": {
       "scorers": [
         {
+          "name": "Pedro",
+          "team": "Flamengo",
+          "goals": 15,
+          "assists": 5,
+          "penalties": 0
+        },
+        {
           "name": "Kevin Viveros",
           "team": "Paranaense",
           "goals": 14,
           "assists": 3,
           "penalties": 2
-        },
-        {
-          "name": "Pedro",
-          "team": "Flamengo",
-          "goals": 14,
-          "assists": 5,
-          "penalties": 0
         },
         {
           "name": "Carlos Vinícius",
@@ -858,7 +858,7 @@
         {
           "name": "Pedro",
           "team": "Flamengo",
-          "goals": 14,
+          "goals": 15,
           "assists": 5,
           "penalties": 0
         },
@@ -893,5 +893,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-22T23:18:28.185Z"
+  "generatedAt": "2026-08-23T06:34:50.904Z"
 }

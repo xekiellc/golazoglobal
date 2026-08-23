@@ -2061,13 +2061,13 @@
       {
         "position": 2,
         "team": "Flamengo",
-        "played": 22,
+        "played": 23,
         "won": 13,
         "drawn": 6,
-        "lost": 3,
-        "goalsFor": 44,
-        "goalsAgainst": 19,
-        "goalDifference": 25,
+        "lost": 4,
+        "goalsFor": 45,
+        "goalsAgainst": 21,
+        "goalDifference": 24,
         "points": 45,
         "form": ""
       },
@@ -2100,14 +2100,14 @@
       {
         "position": 5,
         "team": "Cruzeiro",
-        "played": 23,
-        "won": 10,
+        "played": 24,
+        "won": 11,
         "drawn": 6,
         "lost": 7,
-        "goalsFor": 32,
-        "goalsAgainst": 32,
-        "goalDifference": 0,
-        "points": 36,
+        "goalsFor": 34,
+        "goalsAgainst": 33,
+        "goalDifference": 1,
+        "points": 39,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-22T23:17:21.291Z"
+  "generatedAt": "2026-08-23T06:33:45.156Z"
 }

@@ -1,46 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Will Louisville have Hutchinson, Mack, P",
+      "player": "Commentary",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Courier Journal",
-      "url": "https://www.courier-journal.com/story/sports/college/louisville/2026/08/21/louisville-football-eligibility-deangelo-hutchinson-jabari-mack-kalib-perry-uofl-cardinals-roster/91401734007/",
-      "publishedAt": "2026-08-21T22:39:51Z"
-    },
-    {
-      "player": "Texas Longhorns LB Ty'Anthony Smith Leav",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/texas/football/texas-longhorns-tyanthony-smith-leaves-team-shocking-move",
-      "publishedAt": "2026-08-21T22:36:21Z"
-    },
-    {
-      "player": "Washington G Hannah Stines enters transf",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/womens-basketball/2026/08/21/uw-huskies-womens-basketball-hannah-stines-ncaa-transfer-portal/91400216007/",
-      "publishedAt": "2026-08-21T22:30:29Z"
-    },
-    {
-      "player": "Former Decorated Blue",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/wisconsin/football/former-decorated-blue-chip-recruit-finally-playing-like-one-badgers-fall-camp",
-      "publishedAt": "2026-08-21T22:30:01Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/commentary-st-john-boscos-rally-062555392.html",
+      "publishedAt": "2026-08-22T06:25:55Z"
     }
   ],
-  "generatedAt": "2026-08-22T23:14:52.171Z",
+  "generatedAt": "2026-08-23T06:31:19.275Z",
   "note": "Transfers derived from news headlines at launch."
 }
