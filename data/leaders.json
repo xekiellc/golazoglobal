@@ -128,6 +128,20 @@
           "penalties": 0
         },
         {
+          "name": "Raphinha",
+          "team": "Barça",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Fermín López",
+          "team": "Barça",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Nahuel Tenaglia",
           "team": "Alavés",
           "goals": 1,
@@ -168,20 +182,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Sergio Martínez",
-          "team": "Santander",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Pape Gueye",
-          "team": "Villarreal",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -200,22 +200,22 @@
           "penalties": 0
         },
         {
+          "name": "Raphinha",
+          "team": "Barça",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Fermín López",
+          "team": "Barça",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Nahuel Tenaglia",
           "team": "Alavés",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Mikel Rodríguez",
-          "team": "Alavés",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Álvaro García",
-          "team": "Rayo Vallecano",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -354,6 +354,13 @@
           "penalties": 2
         },
         {
+          "name": "Ferrán Torres",
+          "team": "PSG",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Keyliane Abdallah",
           "team": "Marseille",
           "goals": 1,
@@ -401,13 +408,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Romain Del Castillo",
-          "team": "Brest",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -426,6 +426,13 @@
           "penalties": 1
         },
         {
+          "name": "Ferrán Torres",
+          "team": "PSG",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Keyliane Abdallah",
           "team": "Marseille",
           "goals": 1,
@@ -435,13 +442,6 @@
         {
           "name": "Pierre Emile Højbjerg",
           "team": "Marseille",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Franjo Ivanovic",
-          "team": "RC Lens",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -597,6 +597,13 @@
           "penalties": 0
         },
         {
+          "name": "Gabriel Veiga",
+          "team": "Porto",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Gianluca Prestianni",
           "team": "SL Benfica",
           "goals": 2,
@@ -611,22 +618,15 @@
           "penalties": 0
         },
         {
+          "name": "Borja Sainz",
+          "team": "Porto",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Georgios Koutsias",
           "team": "Famalicão",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Yanis Begraoui",
-          "team": "Estoril Praia",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Raphael Guzzo",
-          "team": "Marítimo",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -648,6 +648,13 @@
           "penalties": 0
         },
         {
+          "name": "Gabriel Veiga",
+          "team": "Porto",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Gianluca Prestianni",
           "team": "SL Benfica",
           "goals": 2,
@@ -660,13 +667,6 @@
           "goals": 4,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Barbero",
-          "team": "Arouca",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
@@ -812,6 +812,13 @@
           "penalties": 0
         },
         {
+          "name": "José Manuel López",
+          "team": "Palmeiras",
+          "goals": 8,
+          "assists": 4,
+          "penalties": 0
+        },
+        {
           "name": "Breno Lopes",
           "team": "Coritiba",
           "goals": 8,
@@ -845,13 +852,6 @@
           "goals": 7,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Luciano Juba",
-          "team": "Bahia",
-          "goals": 7,
-          "assists": 1,
-          "penalties": 2
         }
       ],
       "topAssists": [
@@ -860,6 +860,13 @@
           "team": "Flamengo",
           "goals": 15,
           "assists": 5,
+          "penalties": 0
+        },
+        {
+          "name": "José Manuel López",
+          "team": "Palmeiras",
+          "goals": 8,
+          "assists": 4,
           "penalties": 0
         },
         {
@@ -882,16 +889,9 @@
           "goals": 8,
           "assists": 2,
           "penalties": 1
-        },
-        {
-          "name": "Danilo dos Santos de Oliveira",
-          "team": "Botafogo",
-          "goals": 7,
-          "assists": 2,
-          "penalties": 0
         }
       ]
     }
   },
-  "generatedAt": "2026-08-23T18:24:21.442Z"
+  "generatedAt": "2026-08-23T23:18:51.401Z"
 }

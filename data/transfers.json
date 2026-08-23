@@ -1,46 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Charley Walters",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "TwinCities.com-Pioneer Press",
-      "url": "https://www.twincities.com/2026/08/22/charley-walters-lores-need-for-cash-likely-prompted-wolves-sale/",
-      "publishedAt": "2026-08-22T18:06:00Z"
-    },
-    {
-      "player": "Oklahoma Sooners Transfer Impressive Wit",
+      "player": "Seminoles LB Pritchard Named to the Come",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/northwestern/news/oklahoma-sooners-transfer-impressive-with-northwestern-analyst-says",
-      "publishedAt": "2026-08-22T18:00:32Z"
+      "url": "https://roundtable.io/sports/ncaa/fsu/news/seminoles-lb-pritchard-named-to-the-comeback-poy-watch-list",
+      "publishedAt": "2026-08-22T23:14:02Z"
     },
     {
-      "player": "Class of 2022 athletes lose NCAA eligibi",
+      "player": "Mark Mitchell commits to Kentucky basket",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/ncaa-class-of-2022-athletes-eligibility-court-cases-lawsuits/",
-      "publishedAt": "2026-08-22T17:59:07Z"
+      "source": "Courier Journal",
+      "url": "https://www.courier-journal.com/story/sports/college/kentucky/2026/08/22/mark-mitchell-commits-kentucky-basketball-eligibility-lawsuit-uk-wildcats-roster-mark-pope-missouri/89463177007/",
+      "publishedAt": "2026-08-22T23:12:39Z"
     },
     {
-      "player": "Former Appalachian State CB Ethan Johnso",
+      "player": "H.S. FOOTBALL",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "On3.com",
-      "url": "https://www.on3.com/news/former-appalachian-state-cb-ethan-johnson-commits-to-south-carolina-following-tro-order/",
-      "publishedAt": "2026-08-22T17:55:53Z"
+      "source": "Republicanherald.com",
+      "url": "https://www.republicanherald.com/2026/08/22/h-s-football-minersville-welcomes-nativity-and-shenandoah-valley-for-saturday-scrimmage/",
+      "publishedAt": "2026-08-22T22:47:00Z"
+    },
+    {
+      "player": "Browns Rookie Makes Awkward History Agai",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/nfl/cleveland-browns/rookie-daequan-wright-awkward-history-bills/",
+      "publishedAt": "2026-08-22T22:42:57Z"
+    },
+    {
+      "player": "Kentucky Football gets 2 disappointing u",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "A Sea Of Blue",
+      "url": "https://www.aseaofblue.com/kentucky-wildcats-football/178665/tovani-mizell-injury-alex-afari-eligibility-colorado-lawsuit",
+      "publishedAt": "2026-08-22T22:36:16Z"
     }
   ],
-  "generatedAt": "2026-08-23T18:20:41.588Z",
+  "generatedAt": "2026-08-23T23:15:18.262Z",
   "note": "Transfers derived from news headlines at launch."
 }
