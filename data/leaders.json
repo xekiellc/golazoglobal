@@ -451,6 +451,13 @@
     "DED": {
       "scorers": [
         {
+          "name": "Søren Tengstedt",
+          "team": "Go Ahead",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Noah Naujoks",
           "team": "Excelsior",
           "goals": 2,
@@ -460,13 +467,6 @@
         {
           "name": "Kaj Sierhuis",
           "team": "NEC",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Søren Tengstedt",
-          "team": "Go Ahead",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -514,14 +514,21 @@
           "penalties": 0
         },
         {
-          "name": "Jizz Hornkamp",
-          "team": "AZ",
+          "name": "Stefán Ingi Sigurðarson",
+          "team": "Go Ahead",
           "goals": 2,
           "assists": 0,
           "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Søren Tengstedt",
+          "team": "Go Ahead",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
         {
           "name": "Thom van Bergen",
           "team": "Groningen",
@@ -539,13 +546,6 @@
         {
           "name": "Kaj Sierhuis",
           "team": "NEC",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Søren Tengstedt",
-          "team": "Go Ahead",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -893,5 +893,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-23T06:34:50.904Z"
+  "generatedAt": "2026-08-23T12:32:16.991Z"
 }

@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Commentary",
+      "player": "Davon Benjamin's versatility opening pat",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/commentary-st-john-boscos-rally-062555392.html",
-      "publishedAt": "2026-08-22T06:25:55Z"
+      "source": "USA Today",
+      "url": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2026/08/22/oregon-football-davon-benjamin-versatility-fall-camp-rashad-wadood/91388117007/",
+      "publishedAt": "2026-08-22T12:27:39Z"
+    },
+    {
+      "player": "Kids Day Practice Worst Case Scenario fo",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Black Heart Gold Pants",
+      "url": "https://www.blackheartgoldpants.com/football/69133/kids-day-practice-iowa-hawkeyes-kirk-ferentz-qb-battle-bhgp",
+      "publishedAt": "2026-08-22T12:04:00Z"
     }
   ],
-  "generatedAt": "2026-08-23T06:31:19.275Z",
+  "generatedAt": "2026-08-23T12:28:42.175Z",
   "note": "Transfers derived from news headlines at launch."
 }

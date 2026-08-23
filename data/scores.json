@@ -1,6 +1,24 @@
 {
   "matches": [
     {
+      "league": "DED",
+      "homeTeam": "Go Ahead",
+      "awayTeam": "Den Haag",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-08-23T10:15:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "West Brom",
+      "awayTeam": "Burnley",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "PAUSED",
+      "utcDate": "2026-08-23T11:00:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Hull City",
       "awayTeam": "Man United",
@@ -461,15 +479,6 @@
     },
     {
       "league": "DED",
-      "homeTeam": "Go Ahead",
-      "awayTeam": "Den Haag",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-23T10:15:00Z"
-    },
-    {
-      "league": "DED",
       "homeTeam": "PSV",
       "awayTeam": "Groningen",
       "homeScore": null,
@@ -512,15 +521,6 @@
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-08-23T19:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "West Brom",
-      "awayTeam": "Burnley",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-23T11:00:00Z"
     },
     {
       "league": "BSA",
@@ -577,5 +577,5 @@
       "utcDate": "2026-08-23T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-08-23T06:32:42.624Z"
+  "generatedAt": "2026-08-23T12:30:06.504Z"
 }
