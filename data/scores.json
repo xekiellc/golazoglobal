@@ -1,6 +1,24 @@
 {
   "matches": [
     {
+      "league": "SA",
+      "homeTeam": "Bologna",
+      "awayTeam": "Lazio",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-08-24T16:30:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Osasuna",
+      "awayTeam": "Levante",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "PAUSED",
+      "utcDate": "2026-08-24T17:30:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Man City",
       "awayTeam": "Bournemouth",
@@ -182,30 +200,12 @@
     },
     {
       "league": "PD",
-      "homeTeam": "Osasuna",
-      "awayTeam": "Levante",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-24T17:30:00Z"
-    },
-    {
-      "league": "PD",
       "homeTeam": "Málaga",
       "awayTeam": "Deportivo",
       "homeScore": null,
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-08-24T19:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Bologna",
-      "awayTeam": "Lazio",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-24T16:30:00Z"
     },
     {
       "league": "SA",
@@ -298,5 +298,5 @@
       "utcDate": "2026-08-24T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-24T12:39:14.638Z"
+  "generatedAt": "2026-08-24T18:32:54.745Z"
 }

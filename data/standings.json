@@ -395,6 +395,19 @@
       },
       {
         "position": 11,
+        "team": "Osasuna",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "points": 1,
+        "form": ""
+      },
+      {
+        "position": 11,
         "team": "Celta",
         "played": 1,
         "won": 0,
@@ -420,7 +433,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Santander",
         "played": 2,
         "won": 0,
@@ -433,7 +446,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Rayo Vallecano",
         "played": 2,
         "won": 0,
@@ -446,7 +459,20 @@
         "form": ""
       },
       {
-        "position": 15,
+        "position": 16,
+        "team": "Levante",
+        "played": 2,
+        "won": 0,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 0,
+        "goalsAgainst": 3,
+        "goalDifference": -3,
+        "points": 1,
+        "form": ""
+      },
+      {
+        "position": 17,
         "team": "Elche",
         "played": 2,
         "won": 0,
@@ -459,20 +485,7 @@
         "form": ""
       },
       {
-        "position": 16,
-        "team": "Osasuna",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 17,
+        "position": 18,
         "team": "Real Sociedad",
         "played": 1,
         "won": 0,
@@ -485,7 +498,7 @@
         "form": ""
       },
       {
-        "position": 18,
+        "position": 19,
         "team": "Athletic",
         "played": 1,
         "won": 0,
@@ -498,7 +511,7 @@
         "form": ""
       },
       {
-        "position": 19,
+        "position": 20,
         "team": "Málaga",
         "played": 1,
         "won": 0,
@@ -507,19 +520,6 @@
         "goalsFor": 0,
         "goalsAgainst": 2,
         "goalDifference": -2,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 20,
-        "team": "Levante",
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 0,
-        "goalsAgainst": 3,
-        "goalDifference": -3,
         "points": 0,
         "form": ""
       }
@@ -617,7 +617,20 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 6,
+        "team": "Lazio",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 0,
+        "goalDifference": 1,
+        "points": 3,
+        "form": ""
+      },
+      {
+        "position": 9,
         "team": "Como 1907",
         "played": 1,
         "won": 0,
@@ -630,7 +643,7 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "Udinese",
         "played": 1,
         "won": 0,
@@ -643,7 +656,7 @@
         "form": ""
       },
       {
-        "position": 10,
+        "position": 11,
         "team": "Fiorentina",
         "played": 0,
         "won": 0,
@@ -656,7 +669,7 @@
         "form": ""
       },
       {
-        "position": 10,
+        "position": 11,
         "team": "Roma",
         "played": 0,
         "won": 0,
@@ -669,33 +682,7 @@
         "form": ""
       },
       {
-        "position": 10,
-        "team": "Bologna",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 10,
-        "team": "Lazio",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "points": 0,
-        "form": ""
-      },
-      {
-        "position": 14,
+        "position": 13,
         "team": "Sassuolo",
         "played": 1,
         "won": 0,
@@ -708,7 +695,7 @@
         "form": ""
       },
       {
-        "position": 14,
+        "position": 13,
         "team": "Torino",
         "played": 1,
         "won": 0,
@@ -721,7 +708,20 @@
         "form": ""
       },
       {
-        "position": 16,
+        "position": 15,
+        "team": "Bologna",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 0,
+        "goalsAgainst": 1,
+        "goalDifference": -1,
+        "points": 0,
+        "form": ""
+      },
+      {
+        "position": 15,
         "team": "Frosinone",
         "played": 1,
         "won": 0,
@@ -734,7 +734,7 @@
         "form": ""
       },
       {
-        "position": 16,
+        "position": 15,
         "team": "Parma",
         "played": 1,
         "won": 0,
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-24T12:40:17.192Z"
+  "generatedAt": "2026-08-24T18:33:57.062Z"
 }

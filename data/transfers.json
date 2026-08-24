@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Penn State QB Rocco Becht Has Had an \"El",
+      "player": "North Carolina Tar Heels HC Bill Belichi",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/penn-state/players/penn-state-qb-rocco-becht-has-had-an-elite-fall-camp-so-far",
-      "publishedAt": "2026-08-23T12:30:20Z"
+      "source": "Sportsnaut",
+      "url": "https://sportsnaut.com/college-football/cfb-news-bill-belichick-north-carolina-tar-heels-player-targets",
+      "publishedAt": "2026-08-23T18:24:23Z"
     },
     {
-      "player": "POSITION PREVIEW",
+      "player": "Oregon coach Dan Lanning lays out multip",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Goodbullhunting.com",
-      "url": "https://www.goodbullhunting.com/texas-am-aggie-football/40577/position-preview-running-backs",
-      "publishedAt": "2026-08-23T12:21:45Z"
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/oregon-coach-dan-lanning-lays-out-multiple-reasons-why-nfl-players-returning-college-football-unfair",
+      "publishedAt": "2026-08-23T18:19:42Z"
+    },
+    {
+      "player": "Trent Hendrick transfers to UCLA",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/trent-hendrick-ucla-transfer-portal-james-madison-fifth-season-ncaa-court-ruling-browns/",
+      "publishedAt": "2026-08-23T18:13:28Z"
+    },
+    {
+      "player": "On The Road",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/sport/football/article-16073635/On-Road-Ambitious-Saltire-Citys-priority-players-second-chance.html",
+      "publishedAt": "2026-08-23T18:11:43Z"
     }
   ],
-  "generatedAt": "2026-08-24T12:37:50.422Z",
+  "generatedAt": "2026-08-24T18:31:30.677Z",
   "note": "Transfers derived from news headlines at launch."
 }
