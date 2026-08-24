@@ -1,5 +1,26 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-08-24T06:44:15.238Z",
+  "transfers": [
+    {
+      "player": "Penn State QB Rocco Becht Has Had an \"El",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/penn-state/players/penn-state-qb-rocco-becht-has-had-an-elite-fall-camp-so-far",
+      "publishedAt": "2026-08-23T12:30:20Z"
+    },
+    {
+      "player": "POSITION PREVIEW",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Goodbullhunting.com",
+      "url": "https://www.goodbullhunting.com/texas-am-aggie-football/40577/position-preview-running-backs",
+      "publishedAt": "2026-08-23T12:21:45Z"
+    }
+  ],
+  "generatedAt": "2026-08-24T12:37:50.422Z",
   "note": "Transfers derived from news headlines at launch."
 }

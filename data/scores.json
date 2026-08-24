@@ -118,69 +118,6 @@
       "utcDate": "2026-08-23T18:45:00Z"
     },
     {
-      "league": "DED",
-      "homeTeam": "Go Ahead",
-      "awayTeam": "Den Haag",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-08-23T10:15:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "PSV",
-      "awayTeam": "Groningen",
-      "homeScore": 5,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-08-23T12:30:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Cambuur",
-      "awayTeam": "Feyenoord",
-      "homeScore": 2,
-      "awayScore": 5,
-      "status": "FINISHED",
-      "utcDate": "2026-08-23T14:45:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Vitória SC",
-      "awayTeam": "CD Nacional",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-08-23T14:30:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Santa Clara",
-      "awayTeam": "Famalicão",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-08-23T17:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Porto",
-      "awayTeam": "Arouca",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-08-23T19:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "West Brom",
-      "awayTeam": "Burnley",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-08-23T11:00:00Z"
-    },
-    {
       "league": "BSA",
       "homeTeam": "Bragantino",
       "awayTeam": "Grêmio",
@@ -280,13 +217,76 @@
       "utcDate": "2026-08-24T18:45:00Z"
     },
     {
+      "league": "DED",
+      "homeTeam": "Go Ahead",
+      "awayTeam": "Den Haag",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "2026-08-23 09:15:00Z",
+      "utcDate": "2026-08-23T10:15:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "PSV",
+      "awayTeam": "Groningen",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "2026-08-23 11:30:00Z",
+      "utcDate": "2026-08-23T12:30:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "Cambuur",
+      "awayTeam": "Feyenoord",
+      "homeScore": 2,
+      "awayScore": 5,
+      "status": "2026-08-23 13:45:00Z",
+      "utcDate": "2026-08-23T14:45:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Vitória SC",
+      "awayTeam": "CD Nacional",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "2026-08-23 13:30:00Z",
+      "utcDate": "2026-08-23T14:30:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Santa Clara",
+      "awayTeam": "Famalicão",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "2026-08-23 16:00:00Z",
+      "utcDate": "2026-08-23T17:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Porto",
+      "awayTeam": "Arouca",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "2026-08-23 18:30:00Z",
+      "utcDate": "2026-08-23T19:30:00Z"
+    },
+    {
       "league": "PPL",
       "homeTeam": "Gil Vicente",
       "awayTeam": "Casa Pia",
       "homeScore": null,
       "awayScore": null,
-      "status": "TIMED",
+      "status": "2026-08-24 18:15:00Z",
       "utcDate": "2026-08-24T19:15:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "West Brom",
+      "awayTeam": "Burnley",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "2026-08-23 10:00:00Z",
+      "utcDate": "2026-08-23T11:00:00Z"
     },
     {
       "league": "BSA",
@@ -298,5 +298,5 @@
       "utcDate": "2026-08-24T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-24T06:45:37.835Z"
+  "generatedAt": "2026-08-24T12:39:14.638Z"
 }
