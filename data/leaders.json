@@ -128,6 +128,13 @@
           "penalties": 0
         },
         {
+          "name": "Pierre-Emerick Aubameyang",
+          "team": "Deportivo",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Raphinha",
           "team": "Barça",
           "goals": 2,
@@ -175,13 +182,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Andrés Martín",
-          "team": "Santander",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -200,6 +200,13 @@
           "penalties": 0
         },
         {
+          "name": "Pierre-Emerick Aubameyang",
+          "team": "Deportivo",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Raphinha",
           "team": "Barça",
           "goals": 2,
@@ -212,18 +219,18 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Nahuel Tenaglia",
-          "team": "Alavés",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
     "SA": {
       "scorers": [
+        {
+          "name": "Donyell Malen",
+          "team": "Roma",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
         {
           "name": "Hassane Kamara",
           "team": "Udinese",
@@ -286,13 +293,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Alessandro Romano",
-          "team": "Cagliari",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -311,6 +311,13 @@
           "penalties": 0
         },
         {
+          "name": "Donyell Malen",
+          "team": "Roma",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Hassane Kamara",
           "team": "Udinese",
           "goals": 1,
@@ -320,13 +327,6 @@
         {
           "name": "Anastasios Douvikas",
           "team": "Como 1907",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Hakan Çalhanoğlu",
-          "team": "Inter",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -604,6 +604,13 @@
           "penalties": 1
         },
         {
+          "name": "Héctor Hernández",
+          "team": "Gil Vicente",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "Gianluca Prestianni",
           "team": "SL Benfica",
           "goals": 2,
@@ -621,13 +628,6 @@
           "name": "Borja Sainz",
           "team": "Porto",
           "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Georgios Koutsias",
-          "team": "Famalicão",
-          "goals": 1,
           "assists": 0,
           "penalties": 0
         }
@@ -655,18 +655,18 @@
           "penalties": 1
         },
         {
+          "name": "Héctor Hernández",
+          "team": "Gil Vicente",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "Gianluca Prestianni",
           "team": "SL Benfica",
           "goals": 2,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Gonçalo Paciência",
-          "team": "Santa Clara",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 1
         }
       ]
     },
@@ -784,18 +784,18 @@
     "BSA": {
       "scorers": [
         {
+          "name": "Kevin Viveros",
+          "team": "Paranaense",
+          "goals": 15,
+          "assists": 3,
+          "penalties": 2
+        },
+        {
           "name": "Pedro",
           "team": "Flamengo",
           "goals": 15,
           "assists": 5,
           "penalties": 0
-        },
-        {
-          "name": "Kevin Viveros",
-          "team": "Paranaense",
-          "goals": 14,
-          "assists": 3,
-          "penalties": 2
         },
         {
           "name": "Carlos Vinícius",
@@ -872,7 +872,7 @@
         {
           "name": "Kevin Viveros",
           "team": "Paranaense",
-          "goals": 14,
+          "goals": 15,
           "assists": 3,
           "penalties": 2
         },
@@ -893,5 +893,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-24T18:35:04.045Z"
+  "generatedAt": "2026-08-24T23:21:13.280Z"
 }

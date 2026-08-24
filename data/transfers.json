@@ -1,46 +1,56 @@
 {
   "transfers": [
     {
-      "player": "North Carolina Tar Heels HC Bill Belichi",
+      "player": "MHS to honor Clayborn with HOF induction",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sportsnaut",
-      "url": "https://sportsnaut.com/college-football/cfb-news-bill-belichick-north-carolina-tar-heels-player-targets",
-      "publishedAt": "2026-08-23T18:24:23Z"
+      "source": "Mcalesternews.com",
+      "url": "https://www.mcalesternews.com/sports/mhs-to-honor-clayborn-with-hof-induction/article_81d67bd8-61f7-41e9-85c7-3ef6d8225761.html",
+      "publishedAt": "2026-08-23T23:02:00Z"
     },
     {
-      "player": "Oregon coach Dan Lanning lays out multip",
+      "player": "LSU football news",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/outkick-sports/oregon-coach-dan-lanning-lays-out-multiple-reasons-why-nfl-players-returning-college-football-unfair",
-      "publishedAt": "2026-08-23T18:19:42Z"
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/lsu-football-news-ncaa-declines-comment-on-daequan-wrights-college-return",
+      "publishedAt": "2026-08-23T23:00:05Z"
     },
     {
-      "player": "Trent Hendrick transfers to UCLA",
+      "player": "Where Are the Clemson Tigers Projected t",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/trent-hendrick-ucla-transfer-portal-james-madison-fifth-season-ncaa-court-ruling-browns/",
-      "publishedAt": "2026-08-23T18:13:28Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/clemson/football/where-are-the-clemson-tigers-projected-to-land-this-bowl-season-espn-",
+      "publishedAt": "2026-08-23T22:50:34Z"
     },
     {
-      "player": "On The Road",
+      "player": "Lane Kiffin on verge of landing waived B",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/football/article-16073635/On-Road-Ambitious-Saltire-Citys-priority-players-second-chance.html",
-      "publishedAt": "2026-08-23T18:11:43Z"
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/23/sports/lane-kiffin-lsu-could-land-waived-browns-tight-end-in-unprecedented-move/",
+      "publishedAt": "2026-08-23T22:31:43Z"
+    },
+    {
+      "player": "Can Utah’s young defensive tackles room ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Deseret News",
+      "url": "https://www.deseret.com/sports/2026/08/23/utah-utes-defensive-tackles-room/",
+      "publishedAt": "2026-08-23T22:26:12Z"
     }
   ],
-  "generatedAt": "2026-08-24T18:31:30.677Z",
+  "generatedAt": "2026-08-24T23:17:33.119Z",
   "note": "Transfers derived from news headlines at launch."
 }
