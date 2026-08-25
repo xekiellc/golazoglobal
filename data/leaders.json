@@ -786,7 +786,7 @@
         {
           "name": "Kevin Viveros",
           "team": "Paranaense",
-          "goals": 15,
+          "goals": 16,
           "assists": 3,
           "penalties": 2
         },
@@ -872,7 +872,7 @@
         {
           "name": "Kevin Viveros",
           "team": "Paranaense",
-          "goals": 15,
+          "goals": 16,
           "assists": 3,
           "penalties": 2
         },
@@ -893,5 +893,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-24T23:21:13.280Z"
+  "generatedAt": "2026-08-25T06:39:40.859Z"
 }

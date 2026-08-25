@@ -2075,13 +2075,13 @@
         "position": 3,
         "team": "Paranaense",
         "played": 24,
-        "won": 12,
-        "drawn": 6,
+        "won": 13,
+        "drawn": 5,
         "lost": 6,
-        "goalsFor": 31,
-        "goalsAgainst": 20,
-        "goalDifference": 11,
-        "points": 42,
+        "goalsFor": 34,
+        "goalsAgainst": 22,
+        "goalDifference": 12,
+        "points": 44,
         "form": ""
       },
       {
@@ -2180,12 +2180,12 @@
         "team": "Botafogo",
         "played": 23,
         "won": 8,
-        "drawn": 7,
-        "lost": 8,
-        "goalsFor": 35,
-        "goalsAgainst": 34,
-        "goalDifference": 1,
-        "points": 31,
+        "drawn": 6,
+        "lost": 9,
+        "goalsFor": 37,
+        "goalsAgainst": 37,
+        "goalDifference": 0,
+        "points": 30,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-24T23:20:00.268Z"
+  "generatedAt": "2026-08-25T06:38:32.847Z"
 }
