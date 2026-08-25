@@ -1,16 +1,46 @@
 {
   "transfers": [
     {
-      "player": "2026 Team Outlook",
+      "player": "WJFL '26 preview",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fulltimefantasy.com",
-      "url": "https://fftoolbox.fulltimefantasy.com/football/article.cfm?article_id=3012",
-      "publishedAt": "2026-08-24T06:33:54Z"
+      "source": "Courier Post",
+      "url": "https://www.courierpostonline.com/story/sports/high-school/football/2026/08/24/wjfl-diamond-division-26-players-to-watch-predictions/91023228007/",
+      "publishedAt": "2026-08-24T12:30:59Z"
+    },
+    {
+      "player": "NCAA created this mess, now LSU set to m",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/ncaa-created-mess-lsu-set-make-dae-quan-wright-college-footballs-first-nfl-returnee",
+      "publishedAt": "2026-08-24T12:27:55Z"
+    },
+    {
+      "player": "“Complete Lack of Leadership”",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Essentially Sports",
+      "url": "https://www.essentiallysports.com/nfl-active-news-complete-lack-of-leadership-ncaa-under-fire-after-browns-rookie-strikes-deal-with-lsu-for-college-football-return/",
+      "publishedAt": "2026-08-24T12:20:00Z"
+    },
+    {
+      "player": "Lane Kiffin to LSU, Notre Dame's respons",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/ncaa-football/news/lane-kiffin-lsu-notre-dame-playoff-snub-college-football-storylines/85120a45c84cef6dde1e10b8",
+      "publishedAt": "2026-08-24T12:14:24Z"
     }
   ],
-  "generatedAt": "2026-08-25T06:36:06.037Z",
+  "generatedAt": "2026-08-25T12:36:50.124Z",
   "note": "Transfers derived from news headlines at launch."
 }
