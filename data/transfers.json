@@ -1,46 +1,36 @@
 {
   "transfers": [
     {
-      "player": "WJFL '26 preview",
+      "player": "Michigan State Football Captains Announc",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Courier Post",
-      "url": "https://www.courierpostonline.com/story/sports/high-school/football/2026/08/24/wjfl-diamond-division-26-players-to-watch-predictions/91023228007/",
-      "publishedAt": "2026-08-24T12:30:59Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/michigan-state/players/michigan-state-football-captains-announced-for-2026-season",
+      "publishedAt": "2026-08-24T18:31:10Z"
     },
     {
-      "player": "NCAA created this mess, now LSU set to m",
+      "player": "Georgia golfer Carter Loflin sues NCAA s",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/outkick-sports/ncaa-created-mess-lsu-set-make-dae-quan-wright-college-footballs-first-nfl-returnee",
-      "publishedAt": "2026-08-24T12:27:55Z"
+      "source": "Online Athens",
+      "url": "https://www.onlineathens.com/story/sports/college/bulldogs-extra/2026/08/24/carter-loflin-georgia-golf-ncaa-lawsuit-us-amateur/91401694007/",
+      "publishedAt": "2026-08-24T18:19:23Z"
     },
     {
-      "player": "“Complete Lack of Leadership”",
+      "player": "J.J. Buchanan has early look of receivin",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Essentially Sports",
-      "url": "https://www.essentiallysports.com/nfl-active-news-complete-lack-of-leadership-ncaa-under-fire-after-browns-rookie-strikes-deal-with-lsu-for-college-football-return/",
-      "publishedAt": "2026-08-24T12:20:00Z"
-    },
-    {
-      "player": "Lane Kiffin to LSU, Notre Dame's respons",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/us/ncaa-football/news/lane-kiffin-lsu-notre-dame-playoff-snub-college-football-storylines/85120a45c84cef6dde1e10b8",
-      "publishedAt": "2026-08-24T12:14:24Z"
+      "source": "The Detroit News",
+      "url": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/08/24/j-j-buchanan-has-early-look-of-receiving-weapon-for-michigan-wolverines/91438594007/",
+      "publishedAt": "2026-08-24T18:08:10Z"
     }
   ],
-  "generatedAt": "2026-08-25T12:36:50.124Z",
+  "generatedAt": "2026-08-25T18:31:35.678Z",
   "note": "Transfers derived from news headlines at launch."
 }
