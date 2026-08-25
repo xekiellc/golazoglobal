@@ -28,6 +28,15 @@
       "utcDate": "2026-08-24T19:30:00Z"
     },
     {
+      "league": "PD",
+      "homeTeam": "Valencia",
+      "awayTeam": "Real Betis",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-08-25T19:00:00Z"
+    },
+    {
       "league": "SA",
       "homeTeam": "Bologna",
       "awayTeam": "Lazio",
@@ -62,16 +71,7 @@
       "awayScore": 3,
       "status": "FINISHED",
       "utcDate": "2026-08-24T23:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Valencia",
-      "awayTeam": "Real Betis",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-25T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-25T18:33:00.834Z"
+  "generatedAt": "2026-08-25T23:21:15.946Z"
 }

@@ -1,36 +1,76 @@
 {
   "transfers": [
     {
-      "player": "Michigan State Football Captains Announc",
+      "player": "Minnesota's kicking competition muddied ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/michigan-state/players/michigan-state-football-captains-announced-for-2026-season",
-      "publishedAt": "2026-08-24T18:31:10Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/minnesotas-kicking-competition-muddied-ncaa-231151885.html",
+      "publishedAt": "2026-08-24T23:11:51Z"
     },
     {
-      "player": "Georgia golfer Carter Loflin sues NCAA s",
+      "player": "Ultimate 2026 College Football Gambling ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Online Athens",
-      "url": "https://www.onlineathens.com/story/sports/college/bulldogs-extra/2026/08/24/carter-loflin-georgia-golf-ncaa-lawsuit-us-amateur/91401694007/",
-      "publishedAt": "2026-08-24T18:19:23Z"
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/ultimate-2026-college-football-gambling-guide-picks-predictions-odds-futures-bet",
+      "publishedAt": "2026-08-24T23:10:02Z"
     },
     {
-      "player": "J.J. Buchanan has early look of receivin",
+      "player": "Auburn Head Coach Alex Golesh Prepares F",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Detroit News",
-      "url": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/08/24/j-j-buchanan-has-early-look-of-receiving-weapon-for-michigan-wolverines/91438594007/",
-      "publishedAt": "2026-08-24T18:08:10Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/auburn/football/auburn-head-coach-alex-golesh-prepares-for-familiar-opponent-with-new-staff-baylor",
+      "publishedAt": "2026-08-24T23:00:02Z"
+    },
+    {
+      "player": "Florida State Football's 13 'Notes To Kn",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/fsu/florida-state-seminoles-college-football/florida-state-football-13-notes-season-opener-new-mexico-state-",
+      "publishedAt": "2026-08-24T22:51:32Z"
+    },
+    {
+      "player": "College football analyst calls for SEC C",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/college-football-analyst-calls-for-sec-commissioner-to-take-extreme-measures-against-lsu/",
+      "publishedAt": "2026-08-24T22:51:29Z"
+    },
+    {
+      "player": "Here’s what Utah OC Kevin McGiven is mos",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Deseret News",
+      "url": "https://www.deseret.com/sports/2026/08/24/kevin-mcgiven-confident-in-utahs-playmakers/",
+      "publishedAt": "2026-08-24T22:50:17Z"
+    },
+    {
+      "player": "Should UIL relax transfer rules after Ja",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Dallas Morning News",
+      "url": "https://www.dallasnews.com/high-school-sports/football/article/jalen-brewster-transfer-cedar-hill-buford-uil-22401597.php",
+      "publishedAt": "2026-08-24T22:50:06Z"
     }
   ],
-  "generatedAt": "2026-08-25T18:31:35.678Z",
+  "generatedAt": "2026-08-25T23:19:49.112Z",
   "note": "Transfers derived from news headlines at launch."
 }
