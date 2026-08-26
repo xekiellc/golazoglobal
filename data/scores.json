@@ -2,22 +2,22 @@
   "matches": [
     {
       "league": "PD",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Real Sociedad",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-08-26T19:00:00Z"
+    },
+    {
+      "league": "PD",
       "homeTeam": "Valencia",
       "awayTeam": "Real Betis",
       "homeScore": 0,
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-08-25T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Real Sociedad",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "2026-08-26 19:00:00Z",
-      "utcDate": "2026-08-26T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-26T12:41:32.795Z"
+  "generatedAt": "2026-08-26T19:42:09.578Z"
 }

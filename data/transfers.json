@@ -1,36 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Match!",
+      "player": "12 days, 12 opponents for the 12th Man",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Rlsbb.cc",
-      "url": "https://post.rlsbb.cc/match-august-25-2026/",
-      "publishedAt": "2026-08-25T12:39:10Z"
+      "source": "USA Today",
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/08/25/texas-aggies-football-twelve-days-twelve-opponents-arizona-state-preview/91452082007/",
+      "publishedAt": "2026-08-25T19:36:15Z"
     },
     {
-      "player": "Jumbo Package",
+      "player": "Clemson at LSU Q&A Preview",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roll Bama Roll",
-      "url": "https://www.rollbamaroll.com/jumbo-package/83293/jumbo-package-nfl-players-coming-back-to-college-what-next",
-      "publishedAt": "2026-08-25T12:27:00Z"
+      "source": "Shakinthesouthland.com",
+      "url": "https://www.shakinthesouthland.com/football/29490/clemson-at-lsu-qa-preview",
+      "publishedAt": "2026-08-25T19:35:05Z"
     },
     {
-      "player": "College football score predictions for W",
+      "player": "Oklahoma State football has new Aussie p",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/college-football-score-predictions-lines-spreads-for-week-0-2026/",
-      "publishedAt": "2026-08-25T12:24:57Z"
+      "source": "Oklahoman.com",
+      "url": "https://www.oklahoman.com/story/sports/college/cowboys/2026/08/25/oklahoma-state-football-punter-achie-pozzobon-australia-pro-kick-osu-cowboys/91461072007/",
+      "publishedAt": "2026-08-25T19:34:23Z"
+    },
+    {
+      "player": "LSU football's Lane Kiffin shakes off 'v",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/lsu-football-news-lane-kiffin-shakes-off-villain-label-hulk-hogan-example",
+      "publishedAt": "2026-08-25T19:31:06Z"
+    },
+    {
+      "player": "Virginia Tech Hokie Football 2026 Roster",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Gobblercountry.com",
+      "url": "https://www.gobblercountry.com/virginia-tech-football/30987/virginia-tech-hokie-football-2026-roster-reviews-the-specialists",
+      "publishedAt": "2026-08-25T19:30:00Z"
     }
   ],
-  "generatedAt": "2026-08-26T12:40:09.214Z",
+  "generatedAt": "2026-08-26T19:40:46.461Z",
   "note": "Transfers derived from news headlines at launch."
 }
