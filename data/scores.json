@@ -1,33 +1,6 @@
 {
   "matches": [
     {
-      "league": "PL",
-      "homeTeam": "Fulham",
-      "awayTeam": "Chelsea",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-08-24T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Osasuna",
-      "awayTeam": "Levante",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-08-24T17:30:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Málaga",
-      "awayTeam": "Deportivo",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-08-24T19:30:00Z"
-    },
-    {
       "league": "PD",
       "homeTeam": "Valencia",
       "awayTeam": "Real Betis",
@@ -37,41 +10,14 @@
       "utcDate": "2026-08-25T19:00:00Z"
     },
     {
-      "league": "SA",
-      "homeTeam": "Bologna",
-      "awayTeam": "Lazio",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-08-24T16:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Roma",
-      "awayTeam": "Fiorentina",
-      "homeScore": 4,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-08-24T18:45:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Gil Vicente",
-      "awayTeam": "Casa Pia",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-08-24T19:15:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Botafogo",
-      "awayTeam": "Paranaense",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-08-24T23:00:00Z"
+      "league": "PD",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Real Sociedad",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-08-26T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-25T23:21:15.946Z"
+  "generatedAt": "2026-08-26T06:39:24.244Z"
 }
