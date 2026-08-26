@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Clemson's Ashton Hampton Receives Major ",
+      "player": "Match!",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/clemson/news/clemsons-ashton-hampton-receives-major-prediction-for-2027-nfl-draft",
-      "publishedAt": "2026-08-25T06:18:29Z"
+      "source": "Rlsbb.cc",
+      "url": "https://post.rlsbb.cc/match-august-25-2026/",
+      "publishedAt": "2026-08-25T12:39:10Z"
+    },
+    {
+      "player": "Jumbo Package",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roll Bama Roll",
+      "url": "https://www.rollbamaroll.com/jumbo-package/83293/jumbo-package-nfl-players-coming-back-to-college-what-next",
+      "publishedAt": "2026-08-25T12:27:00Z"
+    },
+    {
+      "player": "College football score predictions for W",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/college-football-score-predictions-lines-spreads-for-week-0-2026/",
+      "publishedAt": "2026-08-25T12:24:57Z"
     }
   ],
-  "generatedAt": "2026-08-26T06:38:00.364Z",
+  "generatedAt": "2026-08-26T12:40:09.214Z",
   "note": "Transfers derived from news headlines at launch."
 }
