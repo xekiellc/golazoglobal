@@ -265,6 +265,19 @@
     "PD": [
       {
         "position": 1,
+        "team": "Real Madrid",
+        "played": 2,
+        "won": 2,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 6,
+        "goalsAgainst": 2,
+        "goalDifference": 4,
+        "points": 6,
+        "form": ""
+      },
+      {
+        "position": 2,
         "team": "Sevilla FC",
         "played": 2,
         "won": 2,
@@ -277,7 +290,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Real Betis",
         "played": 2,
         "won": 2,
@@ -290,7 +303,7 @@
         "form": ""
       },
       {
-        "position": 3,
+        "position": 4,
         "team": "Alavés",
         "played": 2,
         "won": 1,
@@ -303,7 +316,7 @@
         "form": ""
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "Atleti",
         "played": 2,
         "won": 1,
@@ -312,19 +325,6 @@
         "goalsFor": 4,
         "goalsAgainst": 2,
         "goalDifference": 2,
-        "points": 4,
-        "form": ""
-      },
-      {
-        "position": 5,
-        "team": "Real Madrid",
-        "played": 2,
-        "won": 1,
-        "drawn": 1,
-        "lost": 0,
-        "goalsFor": 2,
-        "goalsAgainst": 1,
-        "goalDifference": 1,
         "points": 4,
         "form": ""
       },
@@ -447,19 +447,6 @@
       },
       {
         "position": 15,
-        "team": "Real Sociedad",
-        "played": 2,
-        "won": 0,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 0,
-        "goalsAgainst": 1,
-        "goalDifference": -1,
-        "points": 1,
-        "form": ""
-      },
-      {
-        "position": 15,
         "team": "Valencia",
         "played": 2,
         "won": 0,
@@ -472,7 +459,7 @@
         "form": ""
       },
       {
-        "position": 17,
+        "position": 16,
         "team": "Málaga",
         "played": 2,
         "won": 0,
@@ -485,7 +472,7 @@
         "form": ""
       },
       {
-        "position": 18,
+        "position": 17,
         "team": "Levante",
         "played": 2,
         "won": 0,
@@ -498,7 +485,7 @@
         "form": ""
       },
       {
-        "position": 19,
+        "position": 18,
         "team": "Elche",
         "played": 2,
         "won": 0,
@@ -511,7 +498,7 @@
         "form": ""
       },
       {
-        "position": 20,
+        "position": 19,
         "team": "Athletic",
         "played": 1,
         "won": 0,
@@ -520,6 +507,19 @@
         "goalsFor": 1,
         "goalsAgainst": 3,
         "goalDifference": -2,
+        "points": 0,
+        "form": ""
+      },
+      {
+        "position": 20,
+        "team": "Real Sociedad",
+        "played": 2,
+        "won": 0,
+        "drawn": 0,
+        "lost": 2,
+        "goalsFor": 1,
+        "goalsAgainst": 5,
+        "goalDifference": -4,
         "points": 0,
         "form": ""
       }
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-26T19:43:13.297Z"
+  "generatedAt": "2026-08-27T04:13:43.911Z"
 }

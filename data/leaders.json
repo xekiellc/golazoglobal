@@ -114,6 +114,13 @@
     "PD": {
       "scorers": [
         {
+          "name": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Mariano Díaz",
           "team": "Alavés",
           "goals": 2,
@@ -175,13 +182,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Peque",
-          "team": "Sevilla FC",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -190,6 +190,13 @@
           "team": "Alavés",
           "goals": 2,
           "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "goals": 3,
+          "assists": 0,
           "penalties": 0
         },
         {
@@ -212,13 +219,6 @@
           "goals": 2,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Fermín López",
-          "team": "Barça",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
@@ -893,5 +893,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-26T19:44:19.905Z"
+  "generatedAt": "2026-08-27T04:14:51.576Z"
 }
