@@ -1,56 +1,36 @@
 {
   "transfers": [
     {
-      "player": "This 'field general' earned a starting j",
+      "player": "NIL",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Tuscaloosa News",
-      "url": "https://www.tuscaloosanews.com/story/sports/college/football/2026/08/26/why-luke-metz-was-named-alabama-football-starting-linebacker/91405153007/",
-      "publishedAt": "2026-08-26T17:11:23Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/nil-fueled-parity-shakes-title-012029241.html",
+      "publishedAt": "2026-08-27T01:20:29Z"
     },
     {
-      "player": "Iowa football DB 'iffy' for Week 1 vs. N",
+      "player": "Lane Kiffin dives into a highly anticipa",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://hawkeyeswire.usatoday.com/story/sports/college/hawkeyes/football/2026/08/26/iowa-football-tyler-brown-injury-update/91475910007/",
-      "publishedAt": "2026-08-26T17:10:11Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/lane-kiffin-dives-highly-anticipated-011537891.html",
+      "publishedAt": "2026-08-27T01:15:37Z"
     },
     {
-      "player": "McInnes on absent Raskin amid transfer i",
+      "player": "What Caleb Wooden, Sean Williams' eligib",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/articles/ce8evnjy54do?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "publishedAt": "2026-08-26T17:05:51Z"
-    },
-    {
-      "player": "Ole Miss football 2026",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Red Cup Rebellion",
-      "url": "https://www.redcuprebellion.com/ole-miss-rebels-football/41381/ole-miss-football-2026-who-will-step-up-at-wide-receiver",
-      "publishedAt": "2026-08-26T17:05:32Z"
-    },
-    {
-      "player": "These 6 Ohio players landed on USA TODAY",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Cincinnati Enquirer",
-      "url": "https://www.cincinnati.com/story/sports/college/2026/08/26/ohio-players-usa-today-college-football-top-100/91476275007/",
-      "publishedAt": "2026-08-26T17:04:56Z"
+      "source": "Swtimes.com",
+      "url": "https://www.swtimes.com/story/sports/college/sec/2026/08/26/arkansas-football-eligibility-safeties-defense-wooden-williams/91482850007/",
+      "publishedAt": "2026-08-27T00:57:25Z"
     }
   ],
-  "generatedAt": "2026-08-27T17:13:53.007Z",
+  "generatedAt": "2026-08-28T01:59:47.962Z",
   "note": "Transfers derived from news headlines at launch."
 }
