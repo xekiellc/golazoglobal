@@ -1,6 +1,24 @@
 {
   "matches": [
     {
+      "league": "DED",
+      "homeTeam": "Groningen",
+      "awayTeam": "Sittard",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-08-28T18:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Santander",
+      "awayTeam": "Elche",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "PAUSED",
+      "utcDate": "2026-08-28T17:00:00Z"
+    },
+    {
       "league": "PD",
       "homeTeam": "Celta",
       "awayTeam": "Osasuna",
@@ -26,15 +44,6 @@
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-08-28T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Santander",
-      "awayTeam": "Elche",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-28T17:00:00Z"
     },
     {
       "league": "PD",
@@ -73,15 +82,6 @@
       "utcDate": "2026-08-28T18:45:00Z"
     },
     {
-      "league": "DED",
-      "homeTeam": "Groningen",
-      "awayTeam": "Sittard",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-28T18:00:00Z"
-    },
-    {
       "league": "PPL",
       "homeTeam": "Rio Ave",
       "awayTeam": "Sporting CP",
@@ -100,5 +100,5 @@
       "utcDate": "2026-08-28T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-28T02:01:14.250Z"
+  "generatedAt": "2026-08-28T18:07:36.743Z"
 }

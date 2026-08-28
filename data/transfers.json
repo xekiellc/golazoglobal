@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "NIL",
+      "player": "Arizona State Receives Hefty Praise From",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/nil-fueled-parity-shakes-title-012029241.html",
-      "publishedAt": "2026-08-27T01:20:29Z"
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/college-football/arizona-state-sun-devils/arizona-state-praise-pete-thamel/",
+      "publishedAt": "2026-08-27T18:00:59Z"
     },
     {
-      "player": "Lane Kiffin dives into a highly anticipa",
+      "player": "Thursday afternoon Cardinal news and not",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/lane-kiffin-dives-highly-anticipated-011537891.html",
-      "publishedAt": "2026-08-27T01:15:37Z"
-    },
-    {
-      "player": "What Caleb Wooden, Sean Williams' eligib",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Swtimes.com",
-      "url": "https://www.swtimes.com/story/sports/college/sec/2026/08/26/arkansas-football-eligibility-safeties-defense-wooden-williams/91482850007/",
-      "publishedAt": "2026-08-27T00:57:25Z"
+      "source": "Card Chronicle",
+      "url": "https://www.cardchronicle.com/cardinal-news-and-notes/103694/thursday-afternoon-cardinal-news-and-notes-louisville-cardinals",
+      "publishedAt": "2026-08-27T17:58:55Z"
     }
   ],
-  "generatedAt": "2026-08-28T01:59:47.962Z",
+  "generatedAt": "2026-08-28T18:06:13.897Z",
   "note": "Transfers derived from news headlines at launch."
 }

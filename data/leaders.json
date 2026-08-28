@@ -135,6 +135,13 @@
           "penalties": 0
         },
         {
+          "name": "Yassir Zabiri",
+          "team": "Santander",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Mariano Díaz",
           "team": "Alavés",
           "goals": 2,
@@ -175,13 +182,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Jon Guridi",
-          "team": "Sevilla FC",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -214,9 +214,9 @@
           "penalties": 0
         },
         {
-          "name": "Roberto Fernández",
-          "team": "Espanyol",
-          "goals": 2,
+          "name": "Yassir Zabiri",
+          "team": "Santander",
+          "goals": 3,
           "assists": 0,
           "penalties": 0
         }
@@ -893,5 +893,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-28T02:03:22.224Z"
+  "generatedAt": "2026-08-28T18:09:44.261Z"
 }

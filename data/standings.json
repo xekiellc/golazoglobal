@@ -330,6 +330,19 @@
       },
       {
         "position": 6,
+        "team": "Santander",
+        "played": 3,
+        "won": 1,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 5,
+        "goalsAgainst": 3,
+        "goalDifference": 2,
+        "points": 4,
+        "form": ""
+      },
+      {
+        "position": 7,
         "team": "Atleti",
         "played": 2,
         "won": 1,
@@ -342,7 +355,7 @@
         "form": ""
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "Osasuna",
         "played": 2,
         "won": 1,
@@ -355,7 +368,7 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "Espanyol",
         "played": 2,
         "won": 1,
@@ -368,7 +381,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "Getafe",
         "played": 2,
         "won": 1,
@@ -381,7 +394,7 @@
         "form": ""
       },
       {
-        "position": 10,
+        "position": 11,
         "team": "Villarreal",
         "played": 2,
         "won": 0,
@@ -394,7 +407,7 @@
         "form": ""
       },
       {
-        "position": 11,
+        "position": 12,
         "team": "Deportivo",
         "played": 2,
         "won": 0,
@@ -407,20 +420,7 @@
         "form": ""
       },
       {
-        "position": 12,
-        "team": "Santander",
-        "played": 2,
-        "won": 0,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 2,
-        "goalsAgainst": 3,
-        "goalDifference": -1,
-        "points": 1,
-        "form": ""
-      },
-      {
-        "position": 12,
+        "position": 13,
         "team": "Rayo Vallecano",
         "played": 2,
         "won": 0,
@@ -487,13 +487,13 @@
       {
         "position": 18,
         "team": "Elche",
-        "played": 2,
+        "played": 3,
         "won": 0,
         "drawn": 1,
-        "lost": 1,
+        "lost": 2,
         "goalsFor": 1,
-        "goalsAgainst": 6,
-        "goalDifference": -5,
+        "goalsAgainst": 9,
+        "goalDifference": -8,
         "points": 1,
         "form": ""
       },
@@ -1314,18 +1314,31 @@
       {
         "position": 5,
         "team": "Groningen",
-        "played": 3,
+        "played": 4,
         "won": 2,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
         "goalsFor": 7,
         "goalsAgainst": 7,
         "goalDifference": 0,
-        "points": 6,
+        "points": 7,
         "form": ""
       },
       {
         "position": 6,
+        "team": "Sittard",
+        "played": 4,
+        "won": 1,
+        "drawn": 2,
+        "lost": 1,
+        "goalsFor": 5,
+        "goalsAgainst": 5,
+        "goalDifference": 0,
+        "points": 5,
+        "form": ""
+      },
+      {
+        "position": 7,
         "team": "Ajax",
         "played": 2,
         "won": 1,
@@ -1338,7 +1351,7 @@
         "form": ""
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "Sparta",
         "played": 3,
         "won": 1,
@@ -1347,19 +1360,6 @@
         "goalsFor": 6,
         "goalsAgainst": 5,
         "goalDifference": 1,
-        "points": 4,
-        "form": ""
-      },
-      {
-        "position": 8,
-        "team": "Sittard",
-        "played": 3,
-        "won": 1,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 5,
-        "goalsAgainst": 5,
-        "goalDifference": 0,
         "points": 4,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-28T02:02:16.612Z"
+  "generatedAt": "2026-08-28T18:08:37.982Z"
 }
