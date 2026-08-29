@@ -2,6 +2,51 @@
   "matches": [
     {
       "league": "PL",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Nottingham",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-08-29T11:30:00Z"
+    },
+    {
+      "league": "BL1",
+      "homeTeam": "Bayern",
+      "awayTeam": "Stuttgart",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "IN_PLAY",
+      "utcDate": "2026-08-28T18:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Wolverhampton",
+      "awayTeam": "Stoke",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-08-29T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Derby County",
+      "awayTeam": "Swansea",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-08-29T11:30:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Middlesbrough",
+      "awayTeam": "West Brom",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-08-29T11:30:00Z"
+    },
+    {
+      "league": "PL",
       "homeTeam": "Crystal Palace",
       "awayTeam": "Man City",
       "homeScore": 1,
@@ -37,15 +82,6 @@
       "utcDate": "2026-08-28T18:45:00Z"
     },
     {
-      "league": "BL1",
-      "homeTeam": "Bayern",
-      "awayTeam": "Stuttgart",
-      "homeScore": 5,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-08-28T18:30:00Z"
-    },
-    {
       "league": "FL1",
       "homeTeam": "Lille",
       "awayTeam": "PSG",
@@ -73,13 +109,13 @@
       "utcDate": "2026-08-28T19:15:00Z"
     },
     {
-      "league": "PL",
-      "homeTeam": "Liverpool",
-      "awayTeam": "Nottingham",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-29T11:30:00Z"
+      "league": "ELC",
+      "homeTeam": "Wrexham",
+      "awayTeam": "Birmingham",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-08-28T19:00:00Z"
     },
     {
       "league": "PL",
@@ -326,42 +362,6 @@
     },
     {
       "league": "ELC",
-      "homeTeam": "Wrexham",
-      "awayTeam": "Birmingham",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-28T19:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Wolverhampton",
-      "awayTeam": "Stoke",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-29T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Derby County",
-      "awayTeam": "Swansea",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-29T11:30:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Middlesbrough",
-      "awayTeam": "West Brom",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-08-29T11:30:00Z"
-    },
-    {
-      "league": "ELC",
       "homeTeam": "Norwich",
       "awayTeam": "Burnley",
       "homeScore": null,
@@ -451,5 +451,5 @@
       "utcDate": "2026-08-29T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-29T04:00:54.236Z"
+  "generatedAt": "2026-08-29T12:10:16.955Z"
 }

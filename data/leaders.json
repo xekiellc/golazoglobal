@@ -766,6 +766,13 @@
           "penalties": 0
         },
         {
+          "name": "Joseph Opoku",
+          "team": "Swansea",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Lloyd Jones",
           "team": "Charlton",
           "goals": 2,
@@ -806,13 +813,6 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Fer López",
-          "team": "Wolverhampton",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -845,8 +845,8 @@
           "penalties": 0
         },
         {
-          "name": "Lloyd Jones",
-          "team": "Charlton",
+          "name": "Joseph Opoku",
+          "team": "Swansea",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -965,5 +965,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-29T04:03:02.947Z"
+  "generatedAt": "2026-08-29T12:12:31.433Z"
 }
