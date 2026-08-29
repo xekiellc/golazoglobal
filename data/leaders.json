@@ -10,6 +10,20 @@
           "penalties": 0
         },
         {
+          "name": "Erling Haaland",
+          "team": "Man City",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Rayan Cherki",
+          "team": "Man City",
+          "goals": 2,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Kai Havertz",
           "team": "Arsenal",
           "goals": 1,
@@ -57,26 +71,26 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Jack Clarke",
-          "team": "Ipswich Town",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Anton Stach",
-          "team": "Leeds United",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
         {
+          "name": "Rayan Cherki",
+          "team": "Man City",
+          "goals": 2,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Jack Hinshelwood",
           "team": "Brighton Hove",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Erling Haaland",
+          "team": "Man City",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -91,20 +105,6 @@
         {
           "name": "Bukayo Saka",
           "team": "Arsenal",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Martin Ødegaard",
-          "team": "Arsenal",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Semi Ajayi",
-          "team": "Hull City",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -334,8 +334,80 @@
       ]
     },
     "BL1": {
-      "scorers": [],
-      "topAssists": []
+      "scorers": [
+        {
+          "name": "Dayot Upamecano",
+          "team": "Bayern",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Josha Vagnoman",
+          "team": "Stuttgart",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Michael Olise",
+          "team": "Bayern",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Aleksandar Pavlović",
+          "team": "Bayern",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Luis Díaz",
+          "team": "Bayern",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        }
+      ],
+      "topAssists": [
+        {
+          "name": "Dayot Upamecano",
+          "team": "Bayern",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Josha Vagnoman",
+          "team": "Stuttgart",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Michael Olise",
+          "team": "Bayern",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Aleksandar Pavlović",
+          "team": "Bayern",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Luis Díaz",
+          "team": "Bayern",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        }
+      ]
     },
     "FL1": {
       "scorers": [
@@ -576,6 +648,13 @@
           "penalties": 1
         },
         {
+          "name": "Luis Suárez",
+          "team": "Sporting CP",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Barbero",
           "team": "Arouca",
           "goals": 2,
@@ -620,13 +699,6 @@
         {
           "name": "André Clovis",
           "team": "Acad. Viseu",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Borja Sainz",
-          "team": "Porto",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -893,5 +965,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-28T18:09:44.261Z"
+  "generatedAt": "2026-08-29T04:03:02.947Z"
 }

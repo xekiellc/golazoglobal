@@ -1,26 +1,76 @@
 {
   "transfers": [
     {
-      "player": "Arizona State Receives Hefty Praise From",
+      "player": "Chelsea agree to sign Lionel Messi's Wor",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/football/champions-league/chelsea-agree-to-sign-lionel-messis-world-cup-winning-argentina-teammate-in-7-5m-deal/articleshow/133582240.cms",
+      "publishedAt": "2026-08-28T03:44:09Z"
+    },
+    {
+      "player": "UCF QB Alonza Barnett Looking to Prove H",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Heavy.com",
-      "url": "https://heavy.com/sports/college-football/arizona-state-sun-devils/arizona-state-praise-pete-thamel/",
-      "publishedAt": "2026-08-27T18:00:59Z"
+      "url": "https://heavy.com/sports/college-football/ucf-knights/alonza-barnett-looking-prove-himself/",
+      "publishedAt": "2026-08-28T03:41:24Z"
     },
     {
-      "player": "Thursday afternoon Cardinal news and not",
+      "player": "Healthy Cal Royce has Gaylord St. Mary's",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Card Chronicle",
-      "url": "https://www.cardchronicle.com/cardinal-news-and-notes/103694/thursday-afternoon-cardinal-news-and-notes-louisville-cardinals",
-      "publishedAt": "2026-08-27T17:58:55Z"
+      "source": "Petoskey News-Review",
+      "url": "https://www.petoskeynews.com/story/sports/high-school/football/2026/08/27/can-a-healthy-cal-royce-be-the-difference-for-gaylord-st-mary-football/91435913007/",
+      "publishedAt": "2026-08-28T03:41:09Z"
+    },
+    {
+      "player": "Nebraska vs Ohio Prediction",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "College Football News",
+      "url": "https://collegefootballnews.com/college-football/nebraska-vs-ohio-prediction-2026",
+      "publishedAt": "2026-08-28T03:38:44Z"
+    },
+    {
+      "player": "Kansas Football Lands Two Running Backs ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/kansas/news/kansas-football-lands-two-running-backs-on-doak-walker-award-watch-list",
+      "publishedAt": "2026-08-28T03:28:07Z"
+    },
+    {
+      "player": "Colorado QB Julian Lewis reportedly eyed",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/colorado/news/colorado-qb-julian-lewis-reportedly-eyed-georgia-tech-transfer-during-offseason",
+      "publishedAt": "2026-08-28T03:19:35Z"
+    },
+    {
+      "player": "Despite Campbell’s record last season, t",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "WJHL-TV News Channel 11",
+      "url": "https://www.wjhl.com/sports/college-sports-2/etsu-bucs/despite-campbells-record-last-season-the-bucs-will-not-overlook-the-camels-in-opener/",
+      "publishedAt": "2026-08-28T03:04:36Z"
     }
   ],
-  "generatedAt": "2026-08-28T18:06:13.897Z",
+  "generatedAt": "2026-08-29T03:59:29.454Z",
   "note": "Transfers derived from news headlines at launch."
 }
