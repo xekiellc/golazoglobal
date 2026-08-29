@@ -10,6 +10,13 @@
           "penalties": 0
         },
         {
+          "name": "Anthony Elanga",
+          "team": "Newcastle",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Erling Haaland",
           "team": "Man City",
           "goals": 2,
@@ -64,13 +71,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Nilson Angulo",
-          "team": "Sunderland",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -89,6 +89,13 @@
           "penalties": 0
         },
         {
+          "name": "Anthony Elanga",
+          "team": "Newcastle",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Erling Haaland",
           "team": "Man City",
           "goals": 2,
@@ -101,18 +108,25 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Bukayo Saka",
-          "team": "Arsenal",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
     "PD": {
       "scorers": [
+        {
+          "name": "Roberto Fernández",
+          "team": "Espanyol",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Álex Baena",
+          "team": "Atleti",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
         {
           "name": "Raphinha",
           "team": "Barça",
@@ -149,13 +163,6 @@
           "penalties": 0
         },
         {
-          "name": "Roberto Fernández",
-          "team": "Espanyol",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Pierre-Emerick Aubameyang",
           "team": "Deportivo",
           "goals": 2,
@@ -163,23 +170,16 @@
           "penalties": 0
         },
         {
-          "name": "Nahuel Tenaglia",
-          "team": "Alavés",
-          "goals": 1,
+          "name": "Rodrigo Riquelme",
+          "team": "Real Betis",
+          "goals": 2,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Mikel Rodríguez",
-          "team": "Alavés",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Álvaro García",
-          "team": "Rayo Vallecano",
-          "goals": 1,
+          "name": "Brugui",
+          "team": "Levante",
+          "goals": 2,
           "assists": 0,
           "penalties": 0
         }
@@ -193,6 +193,20 @@
           "penalties": 0
         },
         {
+          "name": "Álex Baena",
+          "team": "Atleti",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Roberto Fernández",
+          "team": "Espanyol",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Raphinha",
           "team": "Barça",
           "goals": 3,
@@ -202,20 +216,6 @@
         {
           "name": "Fermín López",
           "team": "Barça",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Kylian Mbappé",
-          "team": "Real Madrid",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Yassir Zabiri",
-          "team": "Santander",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -234,7 +234,21 @@
         {
           "name": "Hassane Kamara",
           "team": "Udinese",
-          "goals": 1,
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Gustavo Varela",
+          "team": "Monza",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Antonio Raimondo",
+          "team": "Frosinone",
+          "goals": 2,
           "assists": 0,
           "penalties": 0
         },
@@ -248,13 +262,6 @@
         {
           "name": "Hakan Çalhanoğlu",
           "team": "Inter",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Gustavo Varela",
-          "team": "Monza",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -286,16 +293,16 @@
           "goals": 1,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Antonio Vergara",
-          "team": "Napoli",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Hassane Kamara",
+          "team": "Udinese",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
+        },
         {
           "name": "Francesco Esposito",
           "team": "Inter",
@@ -318,16 +325,9 @@
           "penalties": 0
         },
         {
-          "name": "Hassane Kamara",
-          "team": "Udinese",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Anastasios Douvikas",
-          "team": "Como 1907",
-          "goals": 1,
+          "name": "Gustavo Varela",
+          "team": "Monza",
+          "goals": 2,
           "assists": 0,
           "penalties": 0
         }
@@ -336,6 +336,20 @@
     "BL1": {
       "scorers": [
         {
+          "name": "Younes Ebnoutalib",
+          "team": "Frankfurt",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Thijs Dallinga",
+          "team": "1. FC Köln",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Dayot Upamecano",
           "team": "Bayern",
           "goals": 1,
@@ -366,6 +380,27 @@
         {
           "name": "Luis Díaz",
           "team": "Bayern",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Ridle Baku",
+          "team": "RB Leipzig",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Antonio Nusa",
+          "team": "RB Leipzig",
+          "goals": 1,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Rocco Reitz",
+          "team": "RB Leipzig",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -373,6 +408,20 @@
       ],
       "topAssists": [
         {
+          "name": "Younes Ebnoutalib",
+          "team": "Frankfurt",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Thijs Dallinga",
+          "team": "1. FC Köln",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Dayot Upamecano",
           "team": "Bayern",
           "goals": 1,
@@ -388,20 +437,6 @@
         },
         {
           "name": "Michael Olise",
-          "team": "Bayern",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Aleksandar Pavlović",
-          "team": "Bayern",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Luis Díaz",
           "team": "Bayern",
           "goals": 1,
           "assists": 0,
@@ -412,6 +447,13 @@
     "FL1": {
       "scorers": [
         {
+          "name": "Florian Thauvin",
+          "team": "RC Lens",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 3
+        },
+        {
           "name": "Amine Gouiri",
           "team": "Marseille",
           "goals": 2,
@@ -419,15 +461,22 @@
           "penalties": 1
         },
         {
-          "name": "Florian Thauvin",
-          "team": "RC Lens",
+          "name": "Kamory Doumbia",
+          "team": "Brest",
           "goals": 2,
           "assists": 1,
-          "penalties": 2
+          "penalties": 0
         },
         {
           "name": "Ferrán Torres",
           "team": "PSG",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Gessime Yassine",
+          "team": "Strasbourg",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -466,29 +515,22 @@
           "goals": 1,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Pierre Ganiou",
-          "team": "RC Lens",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Lamine Sy",
-          "team": "Auxerre",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
         {
           "name": "Florian Thauvin",
           "team": "RC Lens",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 3
+        },
+        {
+          "name": "Kamory Doumbia",
+          "team": "Brest",
           "goals": 2,
           "assists": 1,
-          "penalties": 2
+          "penalties": 0
         },
         {
           "name": "Amine Gouiri",
@@ -505,16 +547,9 @@
           "penalties": 0
         },
         {
-          "name": "Keyliane Abdallah",
-          "team": "Marseille",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Pierre Emile Højbjerg",
-          "team": "Marseille",
-          "goals": 1,
+          "name": "Gessime Yassine",
+          "team": "Strasbourg",
+          "goals": 2,
           "assists": 0,
           "penalties": 0
         }
@@ -530,11 +565,32 @@
           "penalties": 0
         },
         {
+          "name": "Ro-Zangelo Daal",
+          "team": "AZ",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Brynjolfur Darri Willumsson",
           "team": "Groningen",
           "goals": 3,
           "assists": 0,
           "penalties": 0
+        },
+        {
+          "name": "Milan Zonneveld",
+          "team": "Sparta",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Tjaronn Chery",
+          "team": "NEC",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 2
         },
         {
           "name": "Rafik el Arguioui",
@@ -549,6 +605,13 @@
           "goals": 3,
           "assists": 1,
           "penalties": 0
+        },
+        {
+          "name": "Koen Kostons",
+          "team": "Zwolle",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 1
         },
         {
           "name": "Noah Naujoks",
@@ -563,50 +626,22 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Luciano Valente",
-          "team": "Feyenoord",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Thom van Bergen",
-          "team": "Groningen",
-          "goals": 2,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Adrian Blake",
-          "team": "Utrecht",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Marvin Young",
-          "team": "Sparta",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
-        {
-          "name": "Thom van Bergen",
-          "team": "Groningen",
-          "goals": 2,
-          "assists": 2,
-          "penalties": 0
-        },
         {
           "name": "Søren Tengstedt",
           "team": "Go Ahead",
           "goals": 3,
           "assists": 1,
           "penalties": 0
+        },
+        {
+          "name": "Tjaronn Chery",
+          "team": "NEC",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 2
         },
         {
           "name": "Gjivai Zechiël",
@@ -616,15 +651,15 @@
           "penalties": 0
         },
         {
-          "name": "Brynjolfur Darri Willumsson",
-          "team": "Groningen",
+          "name": "Ro-Zangelo Daal",
+          "team": "AZ",
           "goals": 3,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Rafik el Arguioui",
-          "team": "Cambuur",
+          "name": "Brynjolfur Darri Willumsson",
+          "team": "Groningen",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -648,16 +683,23 @@
           "penalties": 1
         },
         {
-          "name": "Luis Suárez",
-          "team": "Sporting CP",
+          "name": "Barbero",
+          "team": "Arouca",
           "goals": 3,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Barbero",
-          "team": "Arouca",
-          "goals": 2,
+          "name": "Gabriel Veiga",
+          "team": "Porto",
+          "goals": 3,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
+          "name": "Luis Suárez",
+          "team": "Sporting CP",
+          "goals": 3,
           "assists": 0,
           "penalties": 0
         },
@@ -676,10 +718,10 @@
           "penalties": 0
         },
         {
-          "name": "Gabriel Veiga",
+          "name": "André Silva",
           "team": "Porto",
           "goals": 2,
-          "assists": 1,
+          "assists": 0,
           "penalties": 1
         },
         {
@@ -695,16 +737,16 @@
           "goals": 2,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "André Clovis",
-          "team": "Acad. Viseu",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Gabriel Veiga",
+          "team": "Porto",
+          "goals": 3,
+          "assists": 2,
+          "penalties": 1
+        },
         {
           "name": "Fotis Ioannidis",
           "team": "Sporting CP",
@@ -718,13 +760,6 @@
           "goals": 4,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Gabriel Veiga",
-          "team": "Porto",
-          "goals": 2,
-          "assists": 1,
-          "penalties": 1
         },
         {
           "name": "Héctor Hernández",
@@ -745,22 +780,43 @@
     "ELC": {
       "scorers": [
         {
+          "name": "William Lankshear",
+          "team": "Middlesbrough",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Cyle Larin",
+          "team": "Southampton",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Andri Guðjohnsen",
           "team": "Blackburn",
           "goals": 2,
-          "assists": 0,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Raúl Jiménez",
+          "team": "Wolverhampton",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
+          "name": "Jimmy Morgan",
+          "team": "West Brom",
+          "goals": 2,
+          "assists": 2,
           "penalties": 0
         },
         {
           "name": "Josh Coburn",
           "team": "Millwall",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "William Lankshear",
-          "team": "Middlesbrough",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -792,30 +848,30 @@
           "goals": 2,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Cyle Larin",
-          "team": "Southampton",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Zian Flemming",
-          "team": "Burnley",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
-          "name": "Taïryk Arconte",
-          "team": "Millwall",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Jimmy Morgan",
+          "team": "West Brom",
+          "goals": 2,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Andri Guðjohnsen",
+          "team": "Blackburn",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Raúl Jiménez",
+          "team": "Wolverhampton",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 2
+        },
         {
           "name": "Ilias Chair",
           "team": "QPR",
@@ -824,30 +880,9 @@
           "penalties": 0
         },
         {
-          "name": "Andri Guðjohnsen",
-          "team": "Blackburn",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Josh Coburn",
-          "team": "Millwall",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "William Lankshear",
           "team": "Middlesbrough",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Joseph Opoku",
-          "team": "Swansea",
-          "goals": 2,
+          "goals": 4,
           "assists": 0,
           "penalties": 0
         }
@@ -965,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-29T12:12:31.433Z"
+  "generatedAt": "2026-08-29T20:21:54.491Z"
 }
