@@ -593,6 +593,13 @@
           "penalties": 2
         },
         {
+          "name": "Artem Stepanov",
+          "team": "Utrecht",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Rafik el Arguioui",
           "team": "Cambuur",
           "goals": 3,
@@ -616,13 +623,6 @@
         {
           "name": "Kaj Sierhuis",
           "team": "NEC",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Luciano Valente",
-          "team": "Feyenoord",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-30T01:00:57.920Z"
+  "generatedAt": "2026-08-30T11:08:21.288Z"
 }

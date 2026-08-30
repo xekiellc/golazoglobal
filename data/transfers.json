@@ -1,56 +1,76 @@
 {
   "transfers": [
     {
-      "player": "Watch",
+      "player": "How to watch Alabama State football vs S",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "On3.com",
-      "url": "https://www.on3.com/high-school/news/watch-nebraska-5-star-qb-commit-trae-taylor-throws-first-touchdown-for-millard-south/",
-      "publishedAt": "2026-08-29T00:31:54Z"
+      "source": "Montgomery Advertiser",
+      "url": "https://www.montgomeryadvertiser.com/story/sports/college/alabama-state/2026/08/29/what-channel-is-alabama-state-football-vs-southern-on-tv-schedule-for-birmingham-classic/91405860007/",
+      "publishedAt": "2026-08-29T11:01:01Z"
     },
     {
-      "player": "College football odds, picks, prediction",
+      "player": "UNC vs. TCU live updates",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/college-football-odds-lines-spreads-picks-best-bets-predictions-week-0-2026/",
-      "publishedAt": "2026-08-29T00:25:30Z"
+      "source": "USA Today",
+      "url": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/football/2026/08/29/unc-tcu-football-august-29-season-opener-live-blog-updates-ireland--live/91514274007/",
+      "publishedAt": "2026-08-29T11:00:58Z"
     },
     {
-      "player": "North Carolina vs. TCU prediction, odds,",
+      "player": "NCAA Approves Major Football Calendar Ov",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/north-carolina-tcu-prediction-odds-start-time-location-2026-dublin-week-0-college-football-picks-best-bets/",
-      "publishedAt": "2026-08-29T00:05:45Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/north-carolina/news/ncaa-approves-major-football-calendar-overhaul-signaling-more-changes-ahead",
+      "publishedAt": "2026-08-29T11:00:39Z"
     },
     {
-      "player": "North Carolina vs TCU Weather Report",
+      "player": "College sports and ‘amateurism’ become t",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/29/college-amateur-sports-professional-nfl-return/",
+      "publishedAt": "2026-08-29T11:00:00Z"
+    },
+    {
+      "player": "Opponent Preview",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Dawg Sports",
+      "url": "https://www.dawgsports.com/college-football/38443/opponent-preview-missouri-tigers",
+      "publishedAt": "2026-08-29T11:00:00Z"
+    },
+    {
+      "player": "Gameday Central",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Tomahawk Nation",
+      "url": "https://www.tomahawknation.com/florida-state-football/135833/gameday-central-odds-how-watch-stream-aggies-new-mexico-fsu",
+      "publishedAt": "2026-08-29T11:00:00Z"
+    },
+    {
+      "player": "Saturday Nightcap",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Covers.com",
-      "url": "https://www.covers.com/ncaaf/north-carolina-vs-tcu-weather-report-2026",
-      "publishedAt": "2026-08-29T00:02:00Z"
-    },
-    {
-      "player": "Ex",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "AZCentral",
-      "url": "https://www.azcentral.com/story/sports/college/asu/2026/08/28/asu-workout-leader-says-he-left-just-before-hockey-player-collapse/91511624007/",
-      "publishedAt": "2026-08-28T23:43:39Z"
+      "url": "https://www.covers.com/ncaaf/college-football-long-shot-picks-saturday-night-week-0-2026",
+      "publishedAt": "2026-08-29T11:00:00Z"
     }
   ],
-  "generatedAt": "2026-08-30T00:57:21.588Z",
+  "generatedAt": "2026-08-30T11:04:51.209Z",
   "note": "Transfers derived from news headlines at launch."
 }
