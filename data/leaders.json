@@ -3,6 +3,13 @@
     "PL": {
       "scorers": [
         {
+          "name": "Bruno Fernandes",
+          "team": "Man United",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Jack Hinshelwood",
           "team": "Brighton Hove",
           "goals": 2,
@@ -64,13 +71,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Semi Ajayi",
-          "team": "Hull City",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -89,6 +89,13 @@
           "penalties": 0
         },
         {
+          "name": "Bruno Fernandes",
+          "team": "Man United",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Cole Palmer",
           "team": "Chelsea",
           "goals": 2,
@@ -98,13 +105,6 @@
         {
           "name": "Jack Hinshelwood",
           "team": "Brighton Hove",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Anthony Elanga",
-          "team": "Newcastle",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -123,6 +123,13 @@
         {
           "name": "Roberto Fernández",
           "team": "Espanyol",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Pierre-Emerick Aubameyang",
+          "team": "Deportivo",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -160,13 +167,6 @@
           "team": "Alavés",
           "goals": 2,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Pierre-Emerick Aubameyang",
-          "team": "Deportivo",
-          "goals": 2,
-          "assists": 0,
           "penalties": 0
         },
         {
@@ -239,8 +239,29 @@
           "penalties": 0
         },
         {
+          "name": "Anastasios Douvikas",
+          "team": "Como 1907",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Hakan Çalhanoğlu",
+          "team": "Inter",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Gustavo Varela",
           "team": "Monza",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Davide Frattesi",
+          "team": "Lazio",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -249,20 +270,6 @@
           "name": "Antonio Raimondo",
           "team": "Frosinone",
           "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Anastasios Douvikas",
-          "team": "Como 1907",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Hakan Çalhanoğlu",
-          "team": "Inter",
-          "goals": 1,
           "assists": 0,
           "penalties": 0
         },
@@ -286,13 +293,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Kevin De Bruyne",
-          "team": "Napoli",
-          "goals": 1,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -311,13 +311,6 @@
           "penalties": 0
         },
         {
-          "name": "Kevin De Bruyne",
-          "team": "Napoli",
-          "goals": 1,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
           "name": "Donyell Malen",
           "team": "Roma",
           "goals": 3,
@@ -325,8 +318,15 @@
           "penalties": 0
         },
         {
-          "name": "Gustavo Varela",
-          "team": "Monza",
+          "name": "Anastasios Douvikas",
+          "team": "Como 1907",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Hakan Çalhanoğlu",
+          "team": "Inter",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -454,6 +454,20 @@
           "penalties": 3
         },
         {
+          "name": "Louis Mafouta",
+          "team": "Le Mans",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Esteban Lepaul",
+          "team": "Stade Rennais",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Amine Gouiri",
           "team": "Marseille",
           "goals": 2,
@@ -461,24 +475,10 @@
           "penalties": 1
         },
         {
-          "name": "Louis Mafouta",
-          "team": "Le Mans",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Kamory Doumbia",
           "team": "Brest",
           "goals": 2,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Esteban Lepaul",
-          "team": "Stade Rennais",
-          "goals": 2,
-          "assists": 0,
           "penalties": 0
         },
         {
@@ -496,6 +496,13 @@
           "penalties": 0
         },
         {
+          "name": "Paris Brunner",
+          "team": "Monaco",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Keyliane Abdallah",
           "team": "Marseille",
           "goals": 1,
@@ -505,13 +512,6 @@
         {
           "name": "Pierre Emile Højbjerg",
           "team": "Marseille",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Franjo Ivanovic",
-          "team": "RC Lens",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -533,25 +533,25 @@
           "penalties": 0
         },
         {
+          "name": "Louis Mafouta",
+          "team": "Le Mans",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Esteban Lepaul",
+          "team": "Stade Rennais",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Amine Gouiri",
           "team": "Marseille",
           "goals": 2,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Louis Mafouta",
-          "team": "Le Mans",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Esteban Lepaul",
-          "team": "Stade Rennais",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
@@ -690,6 +690,13 @@
           "penalties": 0
         },
         {
+          "name": "Leandro Antonetti",
+          "team": "Amadora",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Gabriel Veiga",
           "team": "Porto",
           "goals": 3,
@@ -708,13 +715,6 @@
           "team": "Sporting CP",
           "goals": 2,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Leandro Antonetti",
-          "team": "Amadora",
-          "goals": 2,
-          "assists": 0,
           "penalties": 0
         },
         {
@@ -893,9 +893,9 @@
         {
           "name": "Kevin Viveros",
           "team": "Paranaense",
-          "goals": 16,
+          "goals": 17,
           "assists": 3,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Pedro",
@@ -979,9 +979,9 @@
         {
           "name": "Kevin Viveros",
           "team": "Paranaense",
-          "goals": 16,
+          "goals": 17,
           "assists": 3,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Breno Lopes",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-30T15:57:52.825Z"
+  "generatedAt": "2026-08-30T20:28:14.325Z"
 }

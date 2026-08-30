@@ -1,16 +1,86 @@
 {
   "transfers": [
     {
-      "player": "LSU poised to sign former NFL players af",
+      "player": "North Carolina Opens Bill Belichick's 2n",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/college-football/breaking-news/article/lsu-poised-to-sign-former-nfl-players-after-sec-says-it-will-comply-with-court-order-154717701.html",
-      "publishedAt": "2026-08-29T15:47:17Z"
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/north-carolina-tcu-recap-bill-belichick-future",
+      "publishedAt": "2026-08-29T20:19:54Z"
+    },
+    {
+      "player": "LSU's 2026 Roster Is Loaded, But One Num",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/lsu/football/lsu-s-2026-roster-is-loaded-but-one-number-should-concern-lane-kiffin",
+      "publishedAt": "2026-08-29T20:19:27Z"
+    },
+    {
+      "player": "UNC's Belichick Resets Narrative Against",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/unc/tar-heels-belichick-resets-narrative-against-tcu-biggest-winners-losers",
+      "publishedAt": "2026-08-29T20:10:47Z"
+    },
+    {
+      "player": "Boston College Football 2026 Record Pred",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/bostoncollege/football/boston-college-football-2026-record-predictions",
+      "publishedAt": "2026-08-29T20:06:54Z"
+    },
+    {
+      "player": "FAMU football vs Albany State live updat",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Tallahassee Democrat",
+      "url": "https://www.tallahassee.com/story/sports/college/famu/2026/08/29/famu-albany-state-score-college-football-game-updates--live/91425095007/",
+      "publishedAt": "2026-08-29T20:00:28Z"
+    },
+    {
+      "player": "Colorado Linebacker Liona Lefau Breaks D",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/colorado/football/colorado-buffaloes-linebacker-liona-lefau-breaks-down-advantage-georgia-tech-yellow-jackets",
+      "publishedAt": "2026-08-29T20:00:03Z"
+    },
+    {
+      "player": "Arsenal makes late call on the future of",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Just Arsenal News",
+      "url": "https://www.justarsenal.com/arsenal-makes-late-call-on-the-future-of-man-utd-target/421110",
+      "publishedAt": "2026-08-29T20:00:00Z"
+    },
+    {
+      "player": "North Carolina opens Bill Belichick’s se",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "NBCSports.com",
+      "url": "https://www.nbcsports.com/college-football/news/north-carolina-opens-bill-belichicks-second-season-with-15-10-win-over-tcu-in-ireland",
+      "publishedAt": "2026-08-29T19:58:49Z"
     }
   ],
-  "generatedAt": "2026-08-30T15:54:19.300Z",
+  "generatedAt": "2026-08-30T20:24:41.638Z",
   "note": "Transfers derived from news headlines at launch."
 }
