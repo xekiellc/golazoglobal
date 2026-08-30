@@ -1,76 +1,16 @@
 {
   "transfers": [
     {
-      "player": "How to watch Alabama State football vs S",
+      "player": "LSU poised to sign former NFL players af",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Montgomery Advertiser",
-      "url": "https://www.montgomeryadvertiser.com/story/sports/college/alabama-state/2026/08/29/what-channel-is-alabama-state-football-vs-southern-on-tv-schedule-for-birmingham-classic/91405860007/",
-      "publishedAt": "2026-08-29T11:01:01Z"
-    },
-    {
-      "player": "UNC vs. TCU live updates",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/football/2026/08/29/unc-tcu-football-august-29-season-opener-live-blog-updates-ireland--live/91514274007/",
-      "publishedAt": "2026-08-29T11:00:58Z"
-    },
-    {
-      "player": "NCAA Approves Major Football Calendar Ov",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/north-carolina/news/ncaa-approves-major-football-calendar-overhaul-signaling-more-changes-ahead",
-      "publishedAt": "2026-08-29T11:00:39Z"
-    },
-    {
-      "player": "College sports and ‘amateurism’ become t",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/29/college-amateur-sports-professional-nfl-return/",
-      "publishedAt": "2026-08-29T11:00:00Z"
-    },
-    {
-      "player": "Opponent Preview",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Dawg Sports",
-      "url": "https://www.dawgsports.com/college-football/38443/opponent-preview-missouri-tigers",
-      "publishedAt": "2026-08-29T11:00:00Z"
-    },
-    {
-      "player": "Gameday Central",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Tomahawk Nation",
-      "url": "https://www.tomahawknation.com/florida-state-football/135833/gameday-central-odds-how-watch-stream-aggies-new-mexico-fsu",
-      "publishedAt": "2026-08-29T11:00:00Z"
-    },
-    {
-      "player": "Saturday Nightcap",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Covers.com",
-      "url": "https://www.covers.com/ncaaf/college-football-long-shot-picks-saturday-night-week-0-2026",
-      "publishedAt": "2026-08-29T11:00:00Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/college-football/breaking-news/article/lsu-poised-to-sign-former-nfl-players-after-sec-says-it-will-comply-with-court-order-154717701.html",
+      "publishedAt": "2026-08-29T15:47:17Z"
     }
   ],
-  "generatedAt": "2026-08-30T11:04:51.209Z",
+  "generatedAt": "2026-08-30T15:54:19.300Z",
   "note": "Transfers derived from news headlines at launch."
 }
