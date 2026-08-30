@@ -1,26 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Napoli can only sign Jesus if they sell ",
+      "player": "Watch",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Just Arsenal News",
-      "url": "https://www.justarsenal.com/napoli-can-only-sign-jesus-if-they-sell-an-attacker/421054",
-      "publishedAt": "2026-08-28T20:00:00Z"
+      "source": "On3.com",
+      "url": "https://www.on3.com/high-school/news/watch-nebraska-5-star-qb-commit-trae-taylor-throws-first-touchdown-for-millard-south/",
+      "publishedAt": "2026-08-29T00:31:54Z"
     },
     {
-      "player": "Justin Cryer didn't grow up a Texas fan.",
+      "player": "College football odds, picks, prediction",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Houston Chronicle",
-      "url": "https://www.houstonchronicle.com/sports/college/longhorns/article/justin-cryer-texas-football-22406683.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-      "publishedAt": "2026-08-28T19:52:10Z"
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/college-football-odds-lines-spreads-picks-best-bets-predictions-week-0-2026/",
+      "publishedAt": "2026-08-29T00:25:30Z"
+    },
+    {
+      "player": "North Carolina vs. TCU prediction, odds,",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/north-carolina-tcu-prediction-odds-start-time-location-2026-dublin-week-0-college-football-picks-best-bets/",
+      "publishedAt": "2026-08-29T00:05:45Z"
+    },
+    {
+      "player": "North Carolina vs TCU Weather Report",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Covers.com",
+      "url": "https://www.covers.com/ncaaf/north-carolina-vs-tcu-weather-report-2026",
+      "publishedAt": "2026-08-29T00:02:00Z"
+    },
+    {
+      "player": "Ex",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "AZCentral",
+      "url": "https://www.azcentral.com/story/sports/college/asu/2026/08/28/asu-workout-leader-says-he-left-just-before-hockey-player-collapse/91511624007/",
+      "publishedAt": "2026-08-28T23:43:39Z"
     }
   ],
-  "generatedAt": "2026-08-29T20:18:16.992Z",
+  "generatedAt": "2026-08-30T00:57:21.588Z",
   "note": "Transfers derived from news headlines at launch."
 }
