@@ -10,6 +10,13 @@
           "penalties": 1
         },
         {
+          "name": "Bukayo Saka",
+          "team": "Arsenal",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Jack Hinshelwood",
           "team": "Brighton Hove",
           "goals": 2,
@@ -59,13 +66,6 @@
           "penalties": 0
         },
         {
-          "name": "Bukayo Saka",
-          "team": "Arsenal",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Martin Ødegaard",
           "team": "Arsenal",
           "goals": 1,
@@ -103,8 +103,8 @@
           "penalties": 0
         },
         {
-          "name": "Jack Hinshelwood",
-          "team": "Brighton Hove",
+          "name": "Bukayo Saka",
+          "team": "Arsenal",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -113,6 +113,13 @@
     },
     "PD": {
       "scorers": [
+        {
+          "name": "Raphinha",
+          "team": "Barça",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 1
+        },
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
@@ -142,11 +149,11 @@
           "penalties": 0
         },
         {
-          "name": "Raphinha",
-          "team": "Barça",
+          "name": "Sergio Camello",
+          "team": "Rayo Vallecano",
           "goals": 3,
           "assists": 0,
-          "penalties": 1
+          "penalties": 0
         },
         {
           "name": "Fermín López",
@@ -175,13 +182,6 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Jude Bellingham",
-          "team": "Real Madrid",
-          "goals": 2,
-          "assists": 2,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -193,18 +193,18 @@
           "penalties": 0
         },
         {
-          "name": "Jude Bellingham",
-          "team": "Real Madrid",
-          "goals": 2,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
           "name": "Álex Baena",
           "team": "Atleti",
           "goals": 3,
           "assists": 1,
           "penalties": 0
+        },
+        {
+          "name": "Raphinha",
+          "team": "Barça",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 1
         },
         {
           "name": "Kylian Mbappé",
@@ -227,7 +227,7 @@
         {
           "name": "Donyell Malen",
           "team": "Roma",
-          "goals": 3,
+          "goals": 5,
           "assists": 0,
           "penalties": 0
         },
@@ -313,7 +313,7 @@
         {
           "name": "Donyell Malen",
           "team": "Roma",
-          "goals": 3,
+          "goals": 5,
           "assists": 0,
           "penalties": 0
         },
@@ -671,7 +671,7 @@
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
-          "goals": 4,
+          "goals": 5,
           "assists": 1,
           "penalties": 0
         },
@@ -711,6 +711,13 @@
           "penalties": 0
         },
         {
+          "name": "Yanis Begraoui",
+          "team": "Estoril Praia",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Fotis Ioannidis",
           "team": "Sporting CP",
           "goals": 2,
@@ -730,13 +737,6 @@
           "goals": 2,
           "assists": 1,
           "penalties": 2
-        },
-        {
-          "name": "Gianluca Prestianni",
-          "team": "SL Benfica",
-          "goals": 2,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -757,7 +757,7 @@
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
-          "goals": 4,
+          "goals": 5,
           "assists": 1,
           "penalties": 0
         },
@@ -769,11 +769,11 @@
           "penalties": 2
         },
         {
-          "name": "Gianluca Prestianni",
-          "team": "SL Benfica",
-          "goals": 2,
-          "assists": 1,
-          "penalties": 0
+          "name": "Gonçalo Paciência",
+          "team": "Santa Clara",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 1
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-08-31T12:31:51.430Z"
+  "generatedAt": "2026-08-31T22:21:57.190Z"
 }
