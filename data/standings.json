@@ -2048,14 +2048,14 @@
       {
         "position": 1,
         "team": "Palmeiras",
-        "played": 24,
+        "played": 25,
         "won": 15,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 3,
-        "goalsFor": 44,
-        "goalsAgainst": 20,
+        "goalsFor": 45,
+        "goalsAgainst": 21,
         "goalDifference": 24,
-        "points": 51,
+        "points": 52,
         "form": ""
       },
       {
@@ -2065,9 +2065,9 @@
         "won": 14,
         "drawn": 6,
         "lost": 4,
-        "goalsFor": 46,
+        "goalsFor": 48,
         "goalsAgainst": 21,
-        "goalDifference": 25,
+        "goalDifference": 27,
         "points": 48,
         "form": ""
       },
@@ -2099,6 +2099,19 @@
       },
       {
         "position": 5,
+        "team": "Bahia",
+        "played": 25,
+        "won": 10,
+        "drawn": 10,
+        "lost": 5,
+        "goalsFor": 37,
+        "goalsAgainst": 30,
+        "goalDifference": 7,
+        "points": 40,
+        "form": ""
+      },
+      {
+        "position": 6,
         "team": "Cruzeiro",
         "played": 25,
         "won": 11,
@@ -2108,19 +2121,6 @@
         "goalsAgainst": 36,
         "goalDifference": -1,
         "points": 39,
-        "form": ""
-      },
-      {
-        "position": 6,
-        "team": "Bahia",
-        "played": 24,
-        "won": 9,
-        "drawn": 10,
-        "lost": 5,
-        "goalsFor": 34,
-        "goalsAgainst": 28,
-        "goalDifference": 6,
-        "points": 37,
         "form": ""
       },
       {
@@ -2196,8 +2196,8 @@
         "drawn": 6,
         "lost": 10,
         "goalsFor": 37,
-        "goalsAgainst": 38,
-        "goalDifference": -1,
+        "goalsAgainst": 40,
+        "goalDifference": -3,
         "points": 30,
         "form": ""
       },
@@ -2230,18 +2230,31 @@
       {
         "position": 15,
         "team": "Grêmio",
-        "played": 23,
-        "won": 6,
+        "played": 24,
+        "won": 7,
         "drawn": 7,
         "lost": 10,
-        "goalsFor": 24,
-        "goalsAgainst": 31,
-        "goalDifference": -7,
-        "points": 25,
+        "goalsFor": 27,
+        "goalsAgainst": 32,
+        "goalDifference": -5,
+        "points": 28,
         "form": ""
       },
       {
         "position": 16,
+        "team": "Mirassol",
+        "played": 24,
+        "won": 6,
+        "drawn": 7,
+        "lost": 11,
+        "goalsFor": 27,
+        "goalsAgainst": 37,
+        "goalDifference": -10,
+        "points": 25,
+        "form": ""
+      },
+      {
+        "position": 17,
         "team": "Vasco da Gama",
         "played": 24,
         "won": 6,
@@ -2254,29 +2267,16 @@
         "form": ""
       },
       {
-        "position": 17,
+        "position": 18,
         "team": "Internacional",
-        "played": 24,
+        "played": 25,
         "won": 5,
         "drawn": 10,
-        "lost": 9,
-        "goalsFor": 24,
-        "goalsAgainst": 28,
-        "goalDifference": -4,
-        "points": 25,
-        "form": ""
-      },
-      {
-        "position": 18,
-        "team": "Mirassol",
-        "played": 23,
-        "won": 6,
-        "drawn": 6,
-        "lost": 11,
+        "lost": 10,
         "goalsFor": 26,
-        "goalsAgainst": 36,
-        "goalDifference": -10,
-        "points": 24,
+        "goalsAgainst": 31,
+        "goalDifference": -5,
+        "points": 25,
         "form": ""
       },
       {
@@ -2295,17 +2295,17 @@
       {
         "position": 20,
         "team": "Chapecoense",
-        "played": 23,
+        "played": 24,
         "won": 2,
         "drawn": 8,
-        "lost": 13,
-        "goalsFor": 24,
-        "goalsAgainst": 46,
-        "goalDifference": -22,
+        "lost": 14,
+        "goalsFor": 25,
+        "goalsAgainst": 49,
+        "goalDifference": -24,
         "points": 14,
         "form": ""
       }
     ]
   },
-  "generatedAt": "2026-08-30T20:27:06.966Z"
+  "generatedAt": "2026-08-31T01:05:03.443Z"
 }
