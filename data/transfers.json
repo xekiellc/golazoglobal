@@ -1,76 +1,46 @@
 {
   "transfers": [
     {
-      "player": "What to know about Marcus Stokes, new st",
+      "player": "Atletico Madrid confident Julian Alvarez",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Commercial Appeal",
-      "url": "https://www.commercialappeal.com/story/sports/college/memphis-tigers/football/2026/08/29/memphis-football-marcus-stokes-starting-quarterback-tigers/91527664007/",
-      "publishedAt": "2026-08-30T01:01:40Z"
+      "source": "Dailycannon.com",
+      "url": "https://dailycannon.com/2026/08/atletico-madrid-julian-alvarez-stay/",
+      "publishedAt": "2026-08-30T12:05:00Z"
     },
     {
-      "player": "Memphis vs. UNLV betting",
+      "player": "'Evan Stewart is a problem;' Receiver ha",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/memphis-vs-unlv-betting-picks-odds-start-time-prediction-best-bets-for-college-football-week-0/",
-      "publishedAt": "2026-08-30T01:00:54Z"
+      "source": "The Register-Guard",
+      "url": "https://www.registerguard.com/story/sports/college/football/2026/08/30/evan-stewart-oregon-ducks-football-receiver/91464870007/",
+      "publishedAt": "2026-08-30T12:03:05Z"
     },
     {
-      "player": "How to watch Memphis vs UNLV",
+      "player": "Lane Kiffin Proves an LSU Tiger Can't Ch",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/how-to-watch-memphis-vs-unlv-live-stream-college-football-ncaa-tv-channel/",
-      "publishedAt": "2026-08-30T01:00:00Z"
+      "source": "Lindyssports.com",
+      "url": "https://lindyssports.com/college-football/lane-kiffin-proves-an-lsu-tiger-cant-change-its-stripes",
+      "publishedAt": "2026-08-30T12:03:00Z"
     },
     {
-      "player": "Lehigh dominates Holy Cross in season op",
+      "player": "Natty or bust? How Oregon football can p",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Worcester Telegram",
-      "url": "https://www.telegram.com/story/sports/college/football/2026/08/29/holy-cross-football-loses-season-opener-to-lehigh/91453634007/",
-      "publishedAt": "2026-08-30T00:48:22Z"
-    },
-    {
-      "player": "West Florida transfer Marcus Stokes to s",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Commercial Appeal",
-      "url": "https://www.commercialappeal.com/story/sports/college/memphis-tigers/2026/08/29/memphis-football-marcus-stokes-air-noland-quarterback/91422232007/",
-      "publishedAt": "2026-08-30T00:46:25Z"
-    },
-    {
-      "player": "Will Kentucky's offense finally catch up",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://ukwildcatswire.usatoday.com/story/sports/college/kentucky/football/2026/08/29/kentucky-football-needs-offense-catch-up-defense/91531919007/",
-      "publishedAt": "2026-08-30T00:44:55Z"
-    },
-    {
-      "player": "Trent Mosley announces himself in USC's ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Thesportingtribune.com",
-      "url": "https://www.thesportingtribune.com/2026/08/29/trent-mosley-announces-himself-in-uscs-week-0-win",
-      "publishedAt": "2026-08-30T00:37:39Z"
+      "source": "The Register-Guard",
+      "url": "https://www.registerguard.com/story/sports/college/football/2026/08/30/oregon-ducks-football-national-title-dante-moore/91503623007/",
+      "publishedAt": "2026-08-30T12:02:38Z"
     }
   ],
-  "generatedAt": "2026-08-31T01:02:34.547Z",
+  "generatedAt": "2026-08-31T12:28:19.354Z",
   "note": "Transfers derived from news headlines at launch."
 }
