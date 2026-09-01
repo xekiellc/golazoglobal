@@ -1,66 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Kenny Minchey is reportedly a member of ",
+      "player": "Maryland football’s secondary must pick ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Testudo Times",
+      "url": "https://www.testudotimes.com/maryland-terps-football/92670/maryland-footballs-secondary-must-pick-up-the-pieces-after-notable-offseason-departures",
+      "publishedAt": "2026-08-31T10:45:00Z"
+    },
+    {
+      "player": "Kentucky Wildcats News",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "A Sea Of Blue",
-      "url": "https://www.aseaofblue.com/kentucky-wildcats-football/179195/kenny-minchey-2-million-nil-club-college-sports",
-      "publishedAt": "2026-08-31T01:15:59Z"
-    },
-    {
-      "player": "BYU athletic department changes come at ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Deseret News",
-      "url": "https://www.deseret.com/sports/2026/08/30/byu-athletic-department-changes-transforming-ops-into-nba-nfl-models/",
-      "publishedAt": "2026-08-31T01:15:24Z"
-    },
-    {
-      "player": "Former Ohio State player named captain b",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/08/30/ohio-state-football-cj-hicks-captain-usf-brian-hartline/91541519007/",
-      "publishedAt": "2026-08-31T01:03:30Z"
-    },
-    {
-      "player": "Auburn's Roster Overhaul Could Give Tige",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/auburn/players/auburns-roster-overhaul-could-give-tigers-major-edge-against-baylor",
-      "publishedAt": "2026-08-31T00:44:39Z"
-    },
-    {
-      "player": "Seminoles’ Singleton is a Weapon to Keep",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/fsu/news/seminoles-singleton-is-a-weapon-to-keep-locked-and-loaded",
-      "publishedAt": "2026-08-31T00:39:34Z"
-    },
-    {
-      "player": "Neymar hits back at criticism over playi",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Worldsoccertalk.com",
-      "url": "https://worldsoccertalk.com/news/neymar-hits-back-at-criticism-over-playing-only-against-small-teams-ahead-of-santos-vs-palmeiras-clash/",
-      "publishedAt": "2026-08-31T00:30:13Z"
+      "url": "https://www.aseaofblue.com/kentucky-wildcats-news/179245/youngstown-state-game-week-arrives",
+      "publishedAt": "2026-08-31T10:45:00Z"
     }
   ],
-  "generatedAt": "2026-09-01T01:33:04.833Z",
+  "generatedAt": "2026-09-01T10:57:49.002Z",
   "note": "Transfers derived from news headlines at launch."
 }
