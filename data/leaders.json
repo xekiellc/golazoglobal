@@ -794,6 +794,13 @@
           "penalties": 0
         },
         {
+          "name": "Marshall Munetsi",
+          "team": "Wolverhampton",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Andri Guðjohnsen",
           "team": "Blackburn",
           "goals": 2,
@@ -806,6 +813,13 @@
           "goals": 2,
           "assists": 1,
           "penalties": 2
+        },
+        {
+          "name": "Sam Dalby",
+          "team": "Bolton",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
         },
         {
           "name": "Jimmy Morgan",
@@ -829,22 +843,8 @@
           "penalties": 0
         },
         {
-          "name": "Lloyd Jones",
-          "team": "Charlton",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Tyreece Campbell",
-          "team": "Charlton",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Ilias Chair",
-          "team": "QPR",
+          "name": "Adam Idah",
+          "team": "Swansea",
           "goals": 2,
           "assists": 1,
           "penalties": 0
@@ -873,8 +873,8 @@
           "penalties": 2
         },
         {
-          "name": "Ilias Chair",
-          "team": "QPR",
+          "name": "Adam Idah",
+          "team": "Swansea",
           "goals": 2,
           "assists": 1,
           "penalties": 0
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-01T16:00:35.759Z"
+  "generatedAt": "2026-09-01T20:28:34.024Z"
 }

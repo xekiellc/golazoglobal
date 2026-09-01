@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "UConn football 2026 season preview",
+      "player": "Liverpool beat Chelsea to signing with s",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The UConn Blog",
-      "url": "https://www.theuconnblog.com/uconn-huskies-football/63833/uconn-football-2026-season-preview-the-qb-room",
-      "publishedAt": "2026-08-31T15:51:42Z"
-    },
-    {
-      "player": "“It will cost him”",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Anfieldindex.com",
-      "url": "https://anfieldindex.com/99108/it-will-cost-him-gary-neville-sends-warning-to-andoni-iraola-over-liverpool-transfers.html",
-      "publishedAt": "2026-08-31T15:50:00Z"
-    },
-    {
-      "player": "Iowa Football",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/iowa/news/iowa-football-five-fast-facts-about-northern-illinois",
-      "publishedAt": "2026-08-31T15:45:16Z"
+      "source": "Anfieldwatch.co.uk",
+      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-beat-chelsea-to-signing-with-sudden-late-offer/",
+      "publishedAt": "2026-08-31T20:05:00Z"
     }
   ],
-  "generatedAt": "2026-09-01T15:57:03.836Z",
+  "generatedAt": "2026-09-01T20:25:02.668Z",
   "note": "Transfers derived from news headlines at launch."
 }

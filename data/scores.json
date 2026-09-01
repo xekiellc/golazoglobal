@@ -1,6 +1,78 @@
 {
   "matches": [
     {
+      "league": "ELC",
+      "homeTeam": "Preston NE",
+      "awayTeam": "Bristol City",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-01T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "West Ham",
+      "awayTeam": "Wolverhampton",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-01T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Lincoln City",
+      "awayTeam": "Blackburn",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-01T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Sheffield Utd",
+      "awayTeam": "Bolton",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-01T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Portsmouth",
+      "awayTeam": "Derby County",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-01T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Swansea",
+      "awayTeam": "Watford",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-01T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Stoke",
+      "awayTeam": "Norwich",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-01T19:00:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Birmingham",
+      "awayTeam": "Southampton",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-01T19:00:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Aston Villa",
       "awayTeam": "Arsenal",
@@ -71,79 +143,7 @@
       "awayScore": 3,
       "status": "FINISHED",
       "utcDate": "2026-08-31T23:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Preston NE",
-      "awayTeam": "Bristol City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-01T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "West Ham",
-      "awayTeam": "Wolverhampton",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-01T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Lincoln City",
-      "awayTeam": "Blackburn",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-01T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Sheffield Utd",
-      "awayTeam": "Bolton",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-01T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Portsmouth",
-      "awayTeam": "Derby County",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-01T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Swansea",
-      "awayTeam": "Watford",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-01T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Stoke",
-      "awayTeam": "Norwich",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-01T19:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Birmingham",
-      "awayTeam": "Southampton",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-01T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-09-01T15:58:26.795Z"
+  "generatedAt": "2026-09-01T20:26:25.964Z"
 }
