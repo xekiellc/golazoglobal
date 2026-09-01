@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Maryland football’s secondary must pick ",
+      "player": "UConn football 2026 season preview",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Testudo Times",
-      "url": "https://www.testudotimes.com/maryland-terps-football/92670/maryland-footballs-secondary-must-pick-up-the-pieces-after-notable-offseason-departures",
-      "publishedAt": "2026-08-31T10:45:00Z"
+      "source": "The UConn Blog",
+      "url": "https://www.theuconnblog.com/uconn-huskies-football/63833/uconn-football-2026-season-preview-the-qb-room",
+      "publishedAt": "2026-08-31T15:51:42Z"
     },
     {
-      "player": "Kentucky Wildcats News",
+      "player": "“It will cost him”",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "A Sea Of Blue",
-      "url": "https://www.aseaofblue.com/kentucky-wildcats-news/179245/youngstown-state-game-week-arrives",
-      "publishedAt": "2026-08-31T10:45:00Z"
+      "source": "Anfieldindex.com",
+      "url": "https://anfieldindex.com/99108/it-will-cost-him-gary-neville-sends-warning-to-andoni-iraola-over-liverpool-transfers.html",
+      "publishedAt": "2026-08-31T15:50:00Z"
+    },
+    {
+      "player": "Iowa Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/iowa/news/iowa-football-five-fast-facts-about-northern-illinois",
+      "publishedAt": "2026-08-31T15:45:16Z"
     }
   ],
-  "generatedAt": "2026-09-01T10:57:49.002Z",
+  "generatedAt": "2026-09-01T15:57:03.836Z",
   "note": "Transfers derived from news headlines at launch."
 }
