@@ -2125,6 +2125,19 @@
       },
       {
         "position": 7,
+        "team": "Coritiba",
+        "played": 25,
+        "won": 10,
+        "drawn": 7,
+        "lost": 8,
+        "goalsFor": 33,
+        "goalsAgainst": 33,
+        "goalDifference": 0,
+        "points": 37,
+        "form": ""
+      },
+      {
+        "position": 8,
         "team": "Mineiro",
         "played": 24,
         "won": 10,
@@ -2137,7 +2150,7 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "Bragantino",
         "played": 24,
         "won": 10,
@@ -2147,19 +2160,6 @@
         "goalsAgainst": 25,
         "goalDifference": 4,
         "points": 35,
-        "form": ""
-      },
-      {
-        "position": 9,
-        "team": "Coritiba",
-        "played": 24,
-        "won": 9,
-        "drawn": 7,
-        "lost": 8,
-        "goalsFor": 30,
-        "goalsAgainst": 31,
-        "goalDifference": -1,
-        "points": 34,
         "form": ""
       },
       {
@@ -2282,13 +2282,13 @@
       {
         "position": 19,
         "team": "Clube do Remo",
-        "played": 24,
+        "played": 25,
         "won": 5,
         "drawn": 8,
-        "lost": 11,
-        "goalsFor": 28,
-        "goalsAgainst": 39,
-        "goalDifference": -11,
+        "lost": 12,
+        "goalsFor": 30,
+        "goalsAgainst": 42,
+        "goalDifference": -12,
         "points": 23,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-08-31T22:20:52.111Z"
+  "generatedAt": "2026-09-01T01:35:34.204Z"
 }
