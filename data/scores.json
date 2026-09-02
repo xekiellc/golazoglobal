@@ -2,6 +2,42 @@
   "matches": [
     {
       "league": "ELC",
+      "homeTeam": "Millwall",
+      "awayTeam": "Wrexham",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-02T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "QPR",
+      "awayTeam": "Cardiff",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-02T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "West Brom",
+      "awayTeam": "Charlton",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-02T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Burnley",
+      "awayTeam": "Middlesbrough",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-02T19:00:00Z"
+    },
+    {
+      "league": "ELC",
       "homeTeam": "Preston NE",
       "awayTeam": "Bristol City",
       "homeScore": 1,
@@ -73,42 +109,6 @@
       "utcDate": "2026-09-01T19:00:00Z"
     },
     {
-      "league": "ELC",
-      "homeTeam": "Millwall",
-      "awayTeam": "Wrexham",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-02T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "QPR",
-      "awayTeam": "Cardiff",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-02T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "West Brom",
-      "awayTeam": "Charlton",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-02T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Burnley",
-      "awayTeam": "Middlesbrough",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-02T19:00:00Z"
-    },
-    {
       "league": "BSA",
       "homeTeam": "Flamengo",
       "awayTeam": "Mirassol",
@@ -118,5 +118,5 @@
       "utcDate": "2026-09-02T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-09-02T15:51:22.078Z"
+  "generatedAt": "2026-09-02T20:26:11.176Z"
 }

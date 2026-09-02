@@ -794,6 +794,13 @@
           "penalties": 0
         },
         {
+          "name": "Tyreece Campbell",
+          "team": "Charlton",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Marshall Munetsi",
           "team": "Wolverhampton",
           "goals": 2,
@@ -841,13 +848,6 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Adam Idah",
-          "team": "Swansea",
-          "goals": 2,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -873,15 +873,15 @@
           "penalties": 2
         },
         {
-          "name": "Adam Idah",
-          "team": "Swansea",
-          "goals": 2,
-          "assists": 1,
+          "name": "William Lankshear",
+          "team": "Middlesbrough",
+          "goals": 4,
+          "assists": 0,
           "penalties": 0
         },
         {
-          "name": "William Lankshear",
-          "team": "Middlesbrough",
+          "name": "Cyle Larin",
+          "team": "Southampton",
           "goals": 4,
           "assists": 0,
           "penalties": 0
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-02T15:53:39.315Z"
+  "generatedAt": "2026-09-02T20:28:21.194Z"
 }

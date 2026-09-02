@@ -1,26 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Who will lead Purdue football in 2026? B",
+      "player": "Furman coach doesn't think Tennessee foo",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Journal & Courier",
-      "url": "https://www.jconline.com/story/sports/college/purdue/football/2026/09/01/purdue-football-captains-boilermakers-ryan-browne-charles-correa/91561485007/",
-      "publishedAt": "2026-09-01T15:40:08Z"
+      "source": "Knoxville News Sentinel",
+      "url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2026/09/01/faizon-brandon-tennessee-football-starting-quarterback-furman/91566324007/",
+      "publishedAt": "2026-09-01T20:16:54Z"
     },
     {
-      "player": "Former TCU Football Player Accused of Lo",
+      "player": "Ndiaye",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "PEOPLE",
-      "url": "https://people.com/former-tcu-player-turns-himself-in-after-alleged-locker-room-assault-12075063",
-      "publishedAt": "2026-09-01T15:21:21Z"
+      "source": "Manchester City FC",
+      "url": "https://www.mancity.com/news/mens/iliman-ndiaye-it-was-always-city-for-men-63923888",
+      "publishedAt": "2026-09-01T20:10:00Z"
     }
   ],
-  "generatedAt": "2026-09-02T15:49:56.338Z",
+  "generatedAt": "2026-09-02T20:24:47.775Z",
   "note": "Transfers derived from news headlines at launch."
 }
