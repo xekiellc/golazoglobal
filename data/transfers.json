@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Liverpool beat Chelsea to signing with s",
+      "player": "GJ Kinne returns to Austin leading high",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Anfieldwatch.co.uk",
-      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-beat-chelsea-to-signing-with-sudden-late-offer/",
-      "publishedAt": "2026-08-31T20:05:00Z"
+      "source": "Burnt Orange Nation",
+      "url": "https://www.burntorangenation.com/texas-longhorns-football/104096/gj-kinne-scheme-texas-state-texas",
+      "publishedAt": "2026-09-01T00:35:14Z"
+    },
+    {
+      "player": "UCLA fires AD Martin Jarmond days before",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/ucla-fires-martin-jarmond-athletic-director-financial-deficit/",
+      "publishedAt": "2026-09-01T00:10:34Z"
     }
   ],
-  "generatedAt": "2026-09-01T20:25:02.668Z",
+  "generatedAt": "2026-09-02T00:46:02.480Z",
   "note": "Transfers derived from news headlines at launch."
 }
