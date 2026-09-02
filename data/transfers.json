@@ -1,26 +1,26 @@
 {
   "transfers": [
     {
-      "player": "GJ Kinne returns to Austin leading high",
+      "player": "What Ohio coach John Hauser said ahead o",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Burnt Orange Nation",
-      "url": "https://www.burntorangenation.com/texas-longhorns-football/104096/gj-kinne-scheme-texas-state-texas",
-      "publishedAt": "2026-09-01T00:35:14Z"
+      "source": "USA Today",
+      "url": "https://cornhuskerswire.usatoday.com/story/sports/college/cornhuskers/football/2026/09/01/ohio-football-coach-john-hauser-talks-to-media-ahead-of-nebraska-game/91556009007/",
+      "publishedAt": "2026-09-01T10:15:58Z"
     },
     {
-      "player": "UCLA fires AD Martin Jarmond days before",
+      "player": "How Mississippi State football is handli",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/ucla-fires-martin-jarmond-athletic-director-financial-deficit/",
-      "publishedAt": "2026-09-01T00:10:34Z"
+      "source": "Clarion Ledger",
+      "url": "https://www.clarionledger.com/story/sports/college/mississippi-state/2026/09/01/mississippi-state-football-eligibility-ncaa-jahron-manning-ulm/91500795007/",
+      "publishedAt": "2026-09-01T10:05:43Z"
     }
   ],
-  "generatedAt": "2026-09-02T00:46:02.480Z",
+  "generatedAt": "2026-09-02T10:26:43.370Z",
   "note": "Transfers derived from news headlines at launch."
 }

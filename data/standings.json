@@ -932,7 +932,7 @@
       },
       {
         "position": 12,
-        "team": "Hoffenheim",
+        "team": "Leverkusen",
         "played": 1,
         "won": 0,
         "drawn": 0,
@@ -945,7 +945,7 @@
       },
       {
         "position": 12,
-        "team": "Leverkusen",
+        "team": "Hoffenheim",
         "played": 1,
         "won": 0,
         "drawn": 0,
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-02T00:48:30.755Z"
+  "generatedAt": "2026-09-02T10:29:10.685Z"
 }
