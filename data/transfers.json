@@ -1,46 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Paul Finebaum rips LSU football coach La",
+      "player": "“I Blame (Greg) Sankey”",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/paul-finebaum-rips-lsu-football-coach-lane-kiffin-for-constant-flat-out-lies/",
-      "publishedAt": "2026-09-02T00:44:19Z"
+      "source": "Collegefootballnetwork.com",
+      "url": "https://collegefootballnetwork.com/mens-college-basketball/i-blame-greg-sankey-sec-and-kentucky-take-the-heat-as-analyst-absolves-mark-pope-of-mark-mitchell-recruitment-debacle/?utm_medium=rss&amp;utm_source=nordot",
+      "publishedAt": "2026-09-02T10:26:34Z"
     },
     {
-      "player": "College Football TV Ratings",
+      "player": "Attitude improves but midfield questions",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "On3.com",
-      "url": "https://www.on3.com/nil/news/college-football-tv-ratings-north-carolina-vs-tcu-4-9-million-viewers-week-0/",
-      "publishedAt": "2026-09-02T00:36:21Z"
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/articles/cje8vde9en2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "publishedAt": "2026-09-02T10:21:37Z"
     },
     {
-      "player": "UW Defense Prepares for Caden Pinnick in",
+      "player": "Lincoln City's transfer window reviewed",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c74k394q4w4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "publishedAt": "2026-09-02T10:18:06Z"
+    },
+    {
+      "player": "Messi departure leaves Argentina facing ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/uw-defense-prepares-caden-pinnick-001838443.html",
-      "publishedAt": "2026-09-02T00:18:38Z"
+      "url": "https://sports.yahoo.com/articles/messi-departure-leaves-argentina-facing-101607246.html",
+      "publishedAt": "2026-09-02T10:16:07Z"
     },
     {
-      "player": "Cal coach Tosh Lupoi sticks to ‘the main",
+      "player": "Ismaila Sarr and Lamine Camara's agent l",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "San Francisco Chronicle",
-      "url": "https://www.sfchronicle.com/sports/college/article/cal-football-team-focused-ahead-season-opener-ucla-22411856.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-      "publishedAt": "2026-09-02T00:17:17Z"
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/sport/football/article-16098485/Ismaila-Sarrs-agent-launches-extraordinary-attack-clubs.html",
+      "publishedAt": "2026-09-02T10:14:26Z"
     }
   ],
-  "generatedAt": "2026-09-03T00:54:19.206Z",
+  "generatedAt": "2026-09-03T10:33:25.342Z",
   "note": "Transfers derived from news headlines at launch."
 }
