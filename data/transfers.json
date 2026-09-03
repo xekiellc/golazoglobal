@@ -1,26 +1,66 @@
 {
   "transfers": [
     {
-      "player": "Jalen Brewster’s Eligibility In Limbo Du",
+      "player": "Enzo Fernandez takes swipe at Chelsea af",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "BroBible",
-      "url": "https://brobible.com/sports/article/jalen-brewster-transfer-paperwork-buford-high-school-football-ineligible/",
-      "publishedAt": "2026-09-02T15:29:07Z"
+      "source": "Dpa-international.com",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260902-930-624363/",
+      "publishedAt": "2026-09-02T20:18:42Z"
     },
     {
-      "player": "5 Oregon football players poised for bre",
+      "player": "Balogun pulled out of Everton move over ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Register-Guard",
-      "url": "https://www.registerguard.com/story/sports/college/football/2026/09/02/oregon-ducks-football-players-breakout-seasons-dan-lanning/91475464007/",
-      "publishedAt": "2026-09-02T15:28:33Z"
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185379108",
+      "publishedAt": "2026-09-02T20:12:38Z"
+    },
+    {
+      "player": "Final preseason bowl projections for LSU",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/football/2026/09/02/lsu-football-bowl-predictions-college-football-playoff-lane-kiffin/91583517007/",
+      "publishedAt": "2026-09-02T20:06:16Z"
+    },
+    {
+      "player": "Liverpool break world transfer record wi",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Anfieldwatch.co.uk",
+      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-break-world-transfer-record-with-spectacular-last-minute-transfer/",
+      "publishedAt": "2026-09-02T20:05:00Z"
+    },
+    {
+      "player": "Oklahoma Sooners football printable 2026",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/ncaa-football/news/oklahoma-sooners-football-printable-2026-schedule-dates-times-and-tv-lineup/0904978e25189b36364c4a65",
+      "publishedAt": "2026-09-02T20:04:51Z"
+    },
+    {
+      "player": "College football odds, picks, prediction",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/college-football-odds-lines-spreads-picks-predictions-best-bets-for-week-1-2026/",
+      "publishedAt": "2026-09-02T20:01:24Z"
     }
   ],
-  "generatedAt": "2026-09-03T15:39:15.433Z",
+  "generatedAt": "2026-09-03T20:24:01.001Z",
   "note": "Transfers derived from news headlines at launch."
 }
