@@ -1,56 +1,26 @@
 {
   "transfers": [
     {
-      "player": "“I Blame (Greg) Sankey”",
+      "player": "Jalen Brewster’s Eligibility In Limbo Du",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Collegefootballnetwork.com",
-      "url": "https://collegefootballnetwork.com/mens-college-basketball/i-blame-greg-sankey-sec-and-kentucky-take-the-heat-as-analyst-absolves-mark-pope-of-mark-mitchell-recruitment-debacle/?utm_medium=rss&amp;utm_source=nordot",
-      "publishedAt": "2026-09-02T10:26:34Z"
+      "source": "BroBible",
+      "url": "https://brobible.com/sports/article/jalen-brewster-transfer-paperwork-buford-high-school-football-ineligible/",
+      "publishedAt": "2026-09-02T15:29:07Z"
     },
     {
-      "player": "Attitude improves but midfield questions",
+      "player": "5 Oregon football players poised for bre",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/articles/cje8vde9en2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "publishedAt": "2026-09-02T10:21:37Z"
-    },
-    {
-      "player": "Lincoln City's transfer window reviewed",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c74k394q4w4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "publishedAt": "2026-09-02T10:18:06Z"
-    },
-    {
-      "player": "Messi departure leaves Argentina facing ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/messi-departure-leaves-argentina-facing-101607246.html",
-      "publishedAt": "2026-09-02T10:16:07Z"
-    },
-    {
-      "player": "Ismaila Sarr and Lamine Camara's agent l",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/football/article-16098485/Ismaila-Sarrs-agent-launches-extraordinary-attack-clubs.html",
-      "publishedAt": "2026-09-02T10:14:26Z"
+      "source": "The Register-Guard",
+      "url": "https://www.registerguard.com/story/sports/college/football/2026/09/02/oregon-ducks-football-players-breakout-seasons-dan-lanning/91475464007/",
+      "publishedAt": "2026-09-02T15:28:33Z"
     }
   ],
-  "generatedAt": "2026-09-03T10:33:25.342Z",
+  "generatedAt": "2026-09-03T15:39:15.433Z",
   "note": "Transfers derived from news headlines at launch."
 }
