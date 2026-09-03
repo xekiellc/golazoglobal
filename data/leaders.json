@@ -901,7 +901,7 @@
           "name": "Pedro",
           "team": "Flamengo",
           "goals": 15,
-          "assists": 5,
+          "assists": 6,
           "penalties": 0
         },
         {
@@ -973,7 +973,7 @@
           "name": "Pedro",
           "team": "Flamengo",
           "goals": 15,
-          "assists": 5,
+          "assists": 6,
           "penalties": 0
         },
         {
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-02T20:28:21.194Z"
+  "generatedAt": "2026-09-03T00:57:50.454Z"
 }

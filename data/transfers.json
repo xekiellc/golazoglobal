@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Furman coach doesn't think Tennessee foo",
+      "player": "Paul Finebaum rips LSU football coach La",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Knoxville News Sentinel",
-      "url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2026/09/01/faizon-brandon-tennessee-football-starting-quarterback-furman/91566324007/",
-      "publishedAt": "2026-09-01T20:16:54Z"
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/paul-finebaum-rips-lsu-football-coach-lane-kiffin-for-constant-flat-out-lies/",
+      "publishedAt": "2026-09-02T00:44:19Z"
     },
     {
-      "player": "Ndiaye",
+      "player": "College Football TV Ratings",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Manchester City FC",
-      "url": "https://www.mancity.com/news/mens/iliman-ndiaye-it-was-always-city-for-men-63923888",
-      "publishedAt": "2026-09-01T20:10:00Z"
+      "source": "On3.com",
+      "url": "https://www.on3.com/nil/news/college-football-tv-ratings-north-carolina-vs-tcu-4-9-million-viewers-week-0/",
+      "publishedAt": "2026-09-02T00:36:21Z"
+    },
+    {
+      "player": "UW Defense Prepares for Caden Pinnick in",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/uw-defense-prepares-caden-pinnick-001838443.html",
+      "publishedAt": "2026-09-02T00:18:38Z"
+    },
+    {
+      "player": "Cal coach Tosh Lupoi sticks to ‘the main",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "San Francisco Chronicle",
+      "url": "https://www.sfchronicle.com/sports/college/article/cal-football-team-focused-ahead-season-opener-ucla-22411856.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "publishedAt": "2026-09-02T00:17:17Z"
     }
   ],
-  "generatedAt": "2026-09-02T20:24:47.775Z",
+  "generatedAt": "2026-09-03T00:54:19.206Z",
   "note": "Transfers derived from news headlines at launch."
 }
