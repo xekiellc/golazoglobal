@@ -3,6 +3,13 @@
     "PL": {
       "scorers": [
         {
+          "name": "Alexander Isak",
+          "team": "Liverpool",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Bruno Fernandes",
           "team": "Man United",
           "goals": 3,
@@ -64,13 +71,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Martin Ødegaard",
-          "team": "Arsenal",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -103,9 +103,9 @@
           "penalties": 0
         },
         {
-          "name": "Bukayo Saka",
-          "team": "Arsenal",
-          "goals": 2,
+          "name": "Alexander Isak",
+          "team": "Liverpool",
+          "goals": 3,
           "assists": 0,
           "penalties": 0
         }
@@ -274,6 +274,13 @@
           "penalties": 0
         },
         {
+          "name": "Martin Baturina",
+          "team": "Como 1907",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Piotr Zieliński",
           "team": "Inter",
           "goals": 1,
@@ -286,19 +293,19 @@
           "goals": 1,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Yann Aurel Bisseck",
-          "team": "Inter",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
         {
           "name": "Hassane Kamara",
           "team": "Udinese",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Martin Baturina",
+          "team": "Como 1907",
           "goals": 2,
           "assists": 1,
           "penalties": 0
@@ -320,13 +327,6 @@
         {
           "name": "Anastasios Douvikas",
           "team": "Como 1907",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Hakan Çalhanoğlu",
-          "team": "Inter",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -367,7 +367,7 @@
           "name": "Josha Vagnoman",
           "team": "Stuttgart",
           "goals": 1,
-          "assists": 0,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -408,6 +408,13 @@
       ],
       "topAssists": [
         {
+          "name": "Josha Vagnoman",
+          "team": "Stuttgart",
+          "goals": 1,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Younes Ebnoutalib",
           "team": "Frankfurt",
           "goals": 3,
@@ -431,13 +438,6 @@
         {
           "name": "Dayot Upamecano",
           "team": "Bayern",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Josha Vagnoman",
-          "team": "Stuttgart",
           "goals": 1,
           "assists": 0,
           "penalties": 0
@@ -489,6 +489,13 @@
           "penalties": 0
         },
         {
+          "name": "Marquinhos",
+          "team": "PSG",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Gessime Yassine",
           "team": "Strasbourg",
           "goals": 2,
@@ -504,13 +511,6 @@
         },
         {
           "name": "Keyliane Abdallah",
-          "team": "Marseille",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Pierre Emile Højbjerg",
           "team": "Marseille",
           "goals": 1,
           "assists": 0,
@@ -558,6 +558,13 @@
     "DED": {
       "scorers": [
         {
+          "name": "Milan Zonneveld",
+          "team": "Sparta",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Søren Tengstedt",
           "team": "Go Ahead",
           "goals": 3,
@@ -574,13 +581,6 @@
         {
           "name": "Brynjolfur Darri Willumsson",
           "team": "Groningen",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Milan Zonneveld",
-          "team": "Sparta",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -621,14 +621,21 @@
           "penalties": 1
         },
         {
-          "name": "Noah Naujoks",
-          "team": "Excelsior",
-          "goals": 2,
+          "name": "Koen Kostons",
+          "team": "Zwolle",
+          "goals": 3,
           "assists": 0,
-          "penalties": 0
+          "penalties": 1
         }
       ],
       "topAssists": [
+        {
+          "name": "Milan Zonneveld",
+          "team": "Sparta",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
         {
           "name": "Søren Tengstedt",
           "team": "Go Ahead",
@@ -656,13 +663,6 @@
           "goals": 3,
           "assists": 1,
           "penalties": 1
-        },
-        {
-          "name": "Ro-Zangelo Daal",
-          "team": "AZ",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-04T15:41:11.827Z"
+  "generatedAt": "2026-09-04T20:13:21.701Z"
 }

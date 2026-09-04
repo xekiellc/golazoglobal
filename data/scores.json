@@ -1,6 +1,60 @@
 {
   "matches": [
     {
+      "league": "PL",
+      "homeTeam": "Ipswich Town",
+      "awayTeam": "Liverpool",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-04T19:00:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Genoa",
+      "awayTeam": "Como 1907",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-04T18:45:00Z"
+    },
+    {
+      "league": "BL1",
+      "homeTeam": "Stuttgart",
+      "awayTeam": "1. FC Köln",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-04T18:30:00Z"
+    },
+    {
+      "league": "FL1",
+      "homeTeam": "PSG",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-04T19:05:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Porto",
+      "awayTeam": "Moreirense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-04T19:15:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "PAUSED",
+      "utcDate": "2026-09-04T19:00:00Z"
+    },
+    {
       "league": "FL1",
       "homeTeam": "Toulouse",
       "awayTeam": "Lille",
@@ -10,13 +64,22 @@
       "utcDate": "2026-09-03T18:45:00Z"
     },
     {
-      "league": "PL",
-      "homeTeam": "Ipswich Town",
-      "awayTeam": "Liverpool",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-04T19:00:00Z"
+      "league": "FL1",
+      "homeTeam": "Olympique Lyon",
+      "awayTeam": "Auxerre",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-04T17:00:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "Sparta",
+      "awayTeam": "Zwolle",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-09-04T18:00:00Z"
     },
     {
       "league": "PD",
@@ -26,70 +89,7 @@
       "awayScore": 0,
       "status": "2026-09-03 18:00:00Z",
       "utcDate": "2026-09-03T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Real Betis",
-      "awayTeam": "Real Madrid",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "2026-09-04 18:00:00Z",
-      "utcDate": "2026-09-04T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Genoa",
-      "awayTeam": "Como 1907",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "2026-09-04 17:45:00Z",
-      "utcDate": "2026-09-04T18:45:00Z"
-    },
-    {
-      "league": "BL1",
-      "homeTeam": "Stuttgart",
-      "awayTeam": "1. FC Köln",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "2026-09-04 17:30:00Z",
-      "utcDate": "2026-09-04T18:30:00Z"
-    },
-    {
-      "league": "FL1",
-      "homeTeam": "Olympique Lyon",
-      "awayTeam": "Auxerre",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-04T17:00:00Z"
-    },
-    {
-      "league": "FL1",
-      "homeTeam": "PSG",
-      "awayTeam": "Monaco",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-04T19:05:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Sparta",
-      "awayTeam": "Zwolle",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-04T18:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Porto",
-      "awayTeam": "Moreirense",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-04T19:15:00Z"
     }
   ],
-  "generatedAt": "2026-09-04T15:39:00.955Z"
+  "generatedAt": "2026-09-04T20:11:14.693Z"
 }
