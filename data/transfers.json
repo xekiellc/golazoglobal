@@ -1,46 +1,66 @@
 {
   "transfers": [
     {
-      "player": "Ranking Nebraska's opponents for the 202",
+      "player": "Miami Hurricanes saving state from total",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://cornhuskerswire.usatoday.com/story/sports/college/cornhuskers/football/2026/09/03/nebraska-football-2026-schedule-rankings-week-one/91548926007/",
-      "publishedAt": "2026-09-03T10:15:44Z"
+      "source": "Palm Beach Post",
+      "url": "https://www.palmbeachpost.com/story/sports/college/football/2026/09/03/miami-hurricanes-florida-state-seminoles-florida-gators-ucf-knights/91439118007/",
+      "publishedAt": "2026-09-03T15:36:56Z"
     },
     {
-      "player": "Iraola reveals what impressed him most a",
+      "player": "Journalists are so used to the old model",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Anfieldindex.com",
-      "url": "https://anfieldindex.com/99295/iraola-reveals-what-impressed-him-most-about-bradley-barcola.html",
-      "publishedAt": "2026-09-03T10:15:00Z"
+      "source": "Untold-arsenal.com",
+      "url": "https://untold-arsenal.com/archives/122751",
+      "publishedAt": "2026-09-03T15:36:44Z"
     },
     {
-      "player": "Texas A&M transfer LB has done an 'unbel",
+      "player": "College Football SEC power rankings ente",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/09/03/texas-aggies-football-lb-ray-coney-has-done-an-unbelievable-job-adapting-mike-elko/91589199007/",
-      "publishedAt": "2026-09-03T10:08:24Z"
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/college-football-sec-power-rankings-entering-week-1/",
+      "publishedAt": "2026-09-03T15:36:00Z"
     },
     {
-      "player": "Will Southern Miss football win season o",
+      "player": "2026 Kansas Volleyball Preview",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Hattiesburgamerican.com",
-      "url": "https://www.hattiesburgamerican.com/story/sports/college/southern-miss/football/2026/09/03/southern-miss-football-alcorn-state-score-prediction/91545726007/",
-      "publishedAt": "2026-09-03T10:05:25Z"
+      "source": "Rock Chalk Talk",
+      "url": "https://www.rockchalktalk.com/general/33997/2026-kansas-jayhawks-volleyball-preview",
+      "publishedAt": "2026-09-03T15:30:00Z"
+    },
+    {
+      "player": "2026 Week 1 Preview",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Underdogdynasty.com",
+      "url": "https://www.underdogdynasty.com/conference-usa/45373/2026-week-1-preview-missouri-state-bears-texas-am-aggies",
+      "publishedAt": "2026-09-03T15:30:00Z"
+    },
+    {
+      "player": "2027 NFL Draft breakout candidates",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/draft/news/2027-nfl-draft-breakout-candidates-cj-carr-prospects-to-watch/",
+      "publishedAt": "2026-09-03T15:21:34Z"
     }
   ],
-  "generatedAt": "2026-09-04T10:24:23.066Z",
+  "generatedAt": "2026-09-04T15:37:37.029Z",
   "note": "Transfers derived from news headlines at launch."
 }

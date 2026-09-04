@@ -42,7 +42,7 @@
       "awayTeam": "Como 1907",
       "homeScore": null,
       "awayScore": null,
-      "status": "TIMED",
+      "status": "2026-09-04 17:45:00Z",
       "utcDate": "2026-09-04T18:45:00Z"
     },
     {
@@ -51,7 +51,7 @@
       "awayTeam": "1. FC Köln",
       "homeScore": null,
       "awayScore": null,
-      "status": "TIMED",
+      "status": "2026-09-04 17:30:00Z",
       "utcDate": "2026-09-04T18:30:00Z"
     },
     {
@@ -91,5 +91,5 @@
       "utcDate": "2026-09-04T19:15:00Z"
     }
   ],
-  "generatedAt": "2026-09-04T10:25:45.694Z"
+  "generatedAt": "2026-09-04T15:39:00.955Z"
 }
