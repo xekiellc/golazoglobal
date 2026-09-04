@@ -1,66 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Dabo Swinney says Lane Kiffin had 'zero'",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/college-football/breaking-news/article/dabo-swinney-says-lane-kiffin-had-zero-to-do-with-clemson-reporting-ole-miss-for-tampering-over-a-linebackers-transfer-002431352.html",
-      "publishedAt": "2026-09-03T00:24:31Z"
-    },
-    {
-      "player": "Preview 2026",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "mgoblog.com",
-      "url": "https://mgoblog.com/content/preview-2026-linebacker",
-      "publishedAt": "2026-09-03T00:19:06Z"
-    },
-    {
-      "player": "Miami football news",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/miami-football-news-danny-kanell-darian-mensah-upgrade-over-cam-ward",
-      "publishedAt": "2026-09-03T00:14:18Z"
-    },
-    {
-      "player": "Notre Dame Players And Coordinators Talk",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/notre-dame/news/notre-dame-players-and-coordinators-talk-season-opener-against-wisconsin",
-      "publishedAt": "2026-09-03T00:08:06Z"
-    },
-    {
-      "player": "Michigan State football freshman wide re",
+      "player": "Ranking Nebraska's opponents for the 202",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://spartanswire.usatoday.com/story/sports/college/spartans/football/2026/09/02/michigan-state-football-freshman-wide-receiver-suspended-indefinitely/91587007007/",
-      "publishedAt": "2026-09-02T23:44:26Z"
+      "url": "https://cornhuskerswire.usatoday.com/story/sports/college/cornhuskers/football/2026/09/03/nebraska-football-2026-schedule-rankings-week-one/91548926007/",
+      "publishedAt": "2026-09-03T10:15:44Z"
     },
     {
-      "player": "KJ Duff pushing to be rare Rutgers first",
+      "player": "Iraola reveals what impressed him most a",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/02/sports/kj-duff-pushing-to-be-rare-rutgers-first-round-nfl-pick/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-      "publishedAt": "2026-09-02T23:37:26Z"
+      "source": "Anfieldindex.com",
+      "url": "https://anfieldindex.com/99295/iraola-reveals-what-impressed-him-most-about-bradley-barcola.html",
+      "publishedAt": "2026-09-03T10:15:00Z"
+    },
+    {
+      "player": "Texas A&M transfer LB has done an 'unbel",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/09/03/texas-aggies-football-lb-ray-coney-has-done-an-unbelievable-job-adapting-mike-elko/91589199007/",
+      "publishedAt": "2026-09-03T10:08:24Z"
+    },
+    {
+      "player": "Will Southern Miss football win season o",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Hattiesburgamerican.com",
+      "url": "https://www.hattiesburgamerican.com/story/sports/college/southern-miss/football/2026/09/03/southern-miss-football-alcorn-state-score-prediction/91545726007/",
+      "publishedAt": "2026-09-03T10:05:25Z"
     }
   ],
-  "generatedAt": "2026-09-04T00:38:53.247Z",
+  "generatedAt": "2026-09-04T10:24:23.066Z",
   "note": "Transfers derived from news headlines at launch."
 }

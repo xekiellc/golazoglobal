@@ -1,15 +1,6 @@
 {
   "matches": [
     {
-      "league": "PD",
-      "homeTeam": "Real Sociedad",
-      "awayTeam": "Celta",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-09-03T19:00:00Z"
-    },
-    {
       "league": "FL1",
       "homeTeam": "Toulouse",
       "awayTeam": "Lille",
@@ -29,11 +20,20 @@
     },
     {
       "league": "PD",
+      "homeTeam": "Real Sociedad",
+      "awayTeam": "Celta",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "2026-09-03 18:00:00Z",
+      "utcDate": "2026-09-03T19:00:00Z"
+    },
+    {
+      "league": "PD",
       "homeTeam": "Real Betis",
       "awayTeam": "Real Madrid",
       "homeScore": null,
       "awayScore": null,
-      "status": "TIMED",
+      "status": "2026-09-04 18:00:00Z",
       "utcDate": "2026-09-04T19:00:00Z"
     },
     {
@@ -91,5 +91,5 @@
       "utcDate": "2026-09-04T19:15:00Z"
     }
   ],
-  "generatedAt": "2026-09-04T00:40:17.066Z"
+  "generatedAt": "2026-09-04T10:25:45.694Z"
 }
