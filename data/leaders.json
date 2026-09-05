@@ -3,6 +3,13 @@
     "PL": {
       "scorers": [
         {
+          "name": "Erling Haaland",
+          "team": "Man City",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Alexander Isak",
           "team": "Liverpool",
           "goals": 3,
@@ -19,6 +26,13 @@
         {
           "name": "Bukayo Saka",
           "team": "Arsenal",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Marcus Tavernier",
+          "team": "Bournemouth",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -45,31 +59,17 @@
           "penalties": 0
         },
         {
+          "name": "Joshua King",
+          "team": "Fulham",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Cole Palmer",
           "team": "Chelsea",
           "goals": 2,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Erling Haaland",
-          "team": "Man City",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Rayan Cherki",
-          "team": "Man City",
-          "goals": 2,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Kai Havertz",
-          "team": "Arsenal",
-          "goals": 1,
-          "assists": 0,
           "penalties": 0
         }
       ],
@@ -77,13 +77,6 @@
         {
           "name": "João Pedro",
           "team": "Chelsea",
-          "goals": 2,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Rayan Cherki",
-          "team": "Man City",
           "goals": 2,
           "assists": 2,
           "penalties": 0
@@ -100,6 +93,13 @@
           "team": "Chelsea",
           "goals": 2,
           "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Erling Haaland",
+          "team": "Man City",
+          "goals": 3,
+          "assists": 0,
           "penalties": 0
         },
         {
@@ -357,8 +357,22 @@
           "penalties": 0
         },
         {
+          "name": "David Mokwa Ntusu",
+          "team": "Elversberg",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Thijs Dallinga",
           "team": "1. FC Köln",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Hugo Bolin",
+          "team": "M'gladbach",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -390,20 +404,6 @@
           "goals": 1,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Ridle Baku",
-          "team": "RB Leipzig",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Antonio Nusa",
-          "team": "RB Leipzig",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -429,16 +429,16 @@
           "penalties": 0
         },
         {
-          "name": "Thijs Dallinga",
-          "team": "1. FC Köln",
+          "name": "David Mokwa Ntusu",
+          "team": "Elversberg",
           "goals": 2,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Dayot Upamecano",
-          "team": "Bayern",
-          "goals": 1,
+          "name": "Thijs Dallinga",
+          "team": "1. FC Köln",
+          "goals": 2,
           "assists": 0,
           "penalties": 0
         }
@@ -782,13 +782,20 @@
         {
           "name": "William Lankshear",
           "team": "Middlesbrough",
-          "goals": 4,
+          "goals": 5,
           "assists": 0,
           "penalties": 0
         },
         {
           "name": "Cyle Larin",
           "team": "Southampton",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Ethan Galbraith",
+          "team": "Stoke",
           "goals": 4,
           "assists": 0,
           "penalties": 0
@@ -841,13 +848,6 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Joseph Opoku",
-          "team": "Swansea",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -875,7 +875,7 @@
         {
           "name": "William Lankshear",
           "team": "Middlesbrough",
-          "goals": 4,
+          "goals": 5,
           "assists": 0,
           "penalties": 0
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-05T09:54:31.748Z"
+  "generatedAt": "2026-09-05T14:28:51.555Z"
 }
