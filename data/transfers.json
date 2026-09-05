@@ -1,46 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Is Alberto Mendoza Related to Raiders’ N",
+      "player": "Chelsea targets Atlético Madrid’s Pablo ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Pro Football Network",
-      "url": "https://www.profootballnetwork.com/cfb/is-alberto-mendoza-related-to-raiders-no-1-pick-fernando-mendoza-a-look-at-the-georgia-tech-qbs-family-ties/",
-      "publishedAt": "2026-09-04T00:01:53Z"
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/chelsea-targets-atletico-pablo-barrios-january-transfer/",
+      "publishedAt": "2026-09-04T09:45:43Z"
     },
     {
-      "player": "How to watch UAB vs Illinois",
+      "player": "TENNESSEE VOLS FOOTBALL",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/how-to-watch-uab-vs-illinois-live-stream-college-football-ncaa-tv-channel/",
-      "publishedAt": "2026-09-04T00:00:00Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/tennessee/game-day/tennessee-vols-football-ut-opens-2026-season-with-visiting-furman",
+      "publishedAt": "2026-09-04T09:45:29Z"
     },
     {
-      "player": "Our 2026 Journey Begins",
+      "player": "The 10 costliest transfer windows in his",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Ndnation.com",
-      "url": "https://ndnation.com/our-2026-journey-begins/",
-      "publishedAt": "2026-09-03T23:54:14Z"
-    },
-    {
-      "player": "Trey Houchin",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Mitchellrepublic.com",
-      "url": "https://www.mitchellrepublic.com/sports/college/houchin-usd-football-gets-glimpse-of-what-its-revamped-roster-can-become",
-      "publishedAt": "2026-09-03T23:50:00Z"
+      "source": "Onefootball.com",
+      "url": "https://onefootball.com/en/news/the-10-costliest-transfer-windows-in-history-43399412",
+      "publishedAt": "2026-09-04T09:37:00Z"
     }
   ],
-  "generatedAt": "2026-09-05T00:34:05.135Z",
+  "generatedAt": "2026-09-05T09:50:58.280Z",
   "note": "Transfers derived from news headlines at launch."
 }
