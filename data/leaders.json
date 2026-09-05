@@ -281,17 +281,17 @@
           "penalties": 0
         },
         {
+          "name": "Assane Diao",
+          "team": "Como 1907",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Piotr Zieliński",
           "team": "Inter",
           "goals": 1,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Francesco Esposito",
-          "team": "Inter",
-          "goals": 1,
-          "assists": 1,
           "penalties": 0
         }
       ],
@@ -311,9 +311,9 @@
           "penalties": 0
         },
         {
-          "name": "Francesco Esposito",
-          "team": "Inter",
-          "goals": 1,
+          "name": "Assane Diao",
+          "team": "Como 1907",
+          "goals": 2,
           "assists": 1,
           "penalties": 0
         },
@@ -350,6 +350,13 @@
           "penalties": 0
         },
         {
+          "name": "Josha Vagnoman",
+          "team": "Stuttgart",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Thijs Dallinga",
           "team": "1. FC Köln",
           "goals": 2,
@@ -361,13 +368,6 @@
           "team": "Bayern",
           "goals": 1,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Josha Vagnoman",
-          "team": "Stuttgart",
-          "goals": 1,
-          "assists": 1,
           "penalties": 0
         },
         {
@@ -410,7 +410,7 @@
         {
           "name": "Josha Vagnoman",
           "team": "Stuttgart",
-          "goals": 1,
+          "goals": 2,
           "assists": 1,
           "penalties": 0
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-04T20:13:21.701Z"
+  "generatedAt": "2026-09-05T00:37:37.977Z"
 }
