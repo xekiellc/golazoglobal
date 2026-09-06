@@ -24,7 +24,21 @@
           "penalties": 1
         },
         {
+          "name": "Kai Havertz",
+          "team": "Arsenal",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Bukayo Saka",
+          "team": "Arsenal",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Martin Ødegaard",
           "team": "Arsenal",
           "goals": 2,
           "assists": 0,
@@ -57,30 +71,9 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "João Pedro",
-          "team": "Chelsea",
-          "goals": 2,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Joshua King",
-          "team": "Fulham",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
-        {
-          "name": "João Pedro",
-          "team": "Chelsea",
-          "goals": 2,
-          "assists": 2,
-          "penalties": 0
-        },
         {
           "name": "Bruno Fernandes",
           "team": "Man United",
@@ -103,6 +96,13 @@
           "penalties": 0
         },
         {
+          "name": "Kai Havertz",
+          "team": "Arsenal",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Bukayo Saka",
           "team": "Arsenal",
           "goals": 2,
@@ -114,18 +114,18 @@
     "PD": {
       "scorers": [
         {
+          "name": "Raphinha",
+          "team": "Barça",
+          "goals": 6,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Sergio Camello",
           "team": "Rayo Vallecano",
           "goals": 5,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Raphinha",
-          "team": "Barça",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 1
         },
         {
           "name": "Pierre-Emerick Aubameyang",
@@ -138,7 +138,7 @@
           "name": "Fermín López",
           "team": "Barça",
           "goals": 4,
-          "assists": 1,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -149,42 +149,49 @@
           "penalties": 0
         },
         {
-          "name": "Roberto Fernández",
-          "team": "Espanyol",
-          "goals": 3,
+          "name": "Ante Budimir",
+          "team": "Osasuna",
+          "goals": 4,
           "assists": 0,
-          "penalties": 0
+          "penalties": 3
         },
         {
-          "name": "Álex Baena",
-          "team": "Atleti",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Yassir Zabiri",
-          "team": "Santander",
-          "goals": 3,
+          "name": "Lucas Boyé",
+          "team": "Alavés",
+          "goals": 4,
           "assists": 0,
           "penalties": 0
         },
         {
           "name": "Lamine Yamal",
           "team": "Barça",
-          "goals": 3,
+          "goals": 4,
           "assists": 0,
           "penalties": 0
         },
         {
           "name": "Mariano Díaz",
           "team": "Alavés",
-          "goals": 2,
-          "assists": 2,
+          "goals": 3,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
+          "name": "Roberto Fernández",
+          "team": "Espanyol",
+          "goals": 3,
+          "assists": 0,
           "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Mariano Díaz",
+          "team": "Alavés",
+          "goals": 3,
+          "assists": 3,
+          "penalties": 0
+        },
         {
           "name": "Pierre-Emerick Aubameyang",
           "team": "Deportivo",
@@ -193,9 +200,9 @@
           "penalties": 0
         },
         {
-          "name": "Mariano Díaz",
-          "team": "Alavés",
-          "goals": 2,
+          "name": "Fermín López",
+          "team": "Barça",
+          "goals": 4,
           "assists": 2,
           "penalties": 0
         },
@@ -207,18 +214,11 @@
           "penalties": 0
         },
         {
-          "name": "Fermín López",
+          "name": "Raphinha",
           "team": "Barça",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Álex Baena",
-          "team": "Atleti",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
+          "goals": 6,
+          "assists": 0,
+          "penalties": 1
         }
       ]
     },
@@ -339,7 +339,7 @@
           "name": "Younes Ebnoutalib",
           "team": "Frankfurt",
           "goals": 3,
-          "assists": 0,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -408,6 +408,13 @@
       ],
       "topAssists": [
         {
+          "name": "Younes Ebnoutalib",
+          "team": "Frankfurt",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Josha Vagnoman",
           "team": "Stuttgart",
           "goals": 2,
@@ -429,13 +436,6 @@
           "penalties": 0
         },
         {
-          "name": "Younes Ebnoutalib",
-          "team": "Frankfurt",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Yuito Suzuki",
           "team": "Freiburg",
           "goals": 3,
@@ -451,6 +451,13 @@
           "team": "Brest",
           "goals": 4,
           "assists": 1,
+          "penalties": 1
+        },
+        {
+          "name": "Amine Gouiri",
+          "team": "Marseille",
+          "goals": 3,
+          "assists": 0,
           "penalties": 1
         },
         {
@@ -475,9 +482,9 @@
           "penalties": 1
         },
         {
-          "name": "Amine Gouiri",
-          "team": "Marseille",
-          "goals": 2,
+          "name": "Lassine Sinayoko",
+          "team": "Paris FC",
+          "goals": 3,
           "assists": 0,
           "penalties": 1
         },
@@ -508,13 +515,6 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Keyliane Abdallah",
-          "team": "Marseille",
-          "goals": 1,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -540,15 +540,15 @@
           "penalties": 0
         },
         {
-          "name": "Louis Mafouta",
-          "team": "Le Mans",
+          "name": "Amine Gouiri",
+          "team": "Marseille",
           "goals": 3,
           "assists": 0,
           "penalties": 1
         },
         {
-          "name": "Esteban Lepaul",
-          "team": "Stade Rennais",
+          "name": "Louis Mafouta",
+          "team": "Le Mans",
           "goals": 3,
           "assists": 0,
           "penalties": 1
@@ -686,7 +686,7 @@
           "name": "Gonçalo Paciência",
           "team": "Santa Clara",
           "goals": 4,
-          "assists": 0,
+          "assists": 1,
           "penalties": 1
         },
         {
@@ -755,6 +755,13 @@
           "penalties": 1
         },
         {
+          "name": "Gonçalo Paciência",
+          "team": "Santa Clara",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Luis Suárez",
           "team": "Sporting CP",
           "goals": 4,
@@ -764,13 +771,6 @@
         {
           "name": "Gianluca Prestianni",
           "team": "SL Benfica",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Flávio Gonçalves",
-          "team": "Sporting CP",
           "goals": 3,
           "assists": 1,
           "penalties": 0
@@ -912,6 +912,13 @@
           "penalties": 1
         },
         {
+          "name": "Gabriel Barbosa",
+          "team": "Santos",
+          "goals": 10,
+          "assists": 2,
+          "penalties": 2
+        },
+        {
           "name": "John Kennedy",
           "team": "Fluminense",
           "goals": 9,
@@ -940,35 +947,21 @@
           "penalties": 0
         },
         {
+          "name": "Pedro Rocha",
+          "team": "Coritiba",
+          "goals": 8,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Luciano Juba",
           "team": "Bahia",
           "goals": 8,
           "assists": 1,
           "penalties": 3
-        },
-        {
-          "name": "Gabriel Barbosa",
-          "team": "Santos",
-          "goals": 8,
-          "assists": 2,
-          "penalties": 1
-        },
-        {
-          "name": "Samuel Lino",
-          "team": "Flamengo",
-          "goals": 8,
-          "assists": 7,
-          "penalties": 0
         }
       ],
       "topAssists": [
-        {
-          "name": "Samuel Lino",
-          "team": "Flamengo",
-          "goals": 8,
-          "assists": 7,
-          "penalties": 0
-        },
         {
           "name": "Pedro",
           "team": "Flamengo",
@@ -991,6 +984,13 @@
           "penalties": 3
         },
         {
+          "name": "Gabriel Barbosa",
+          "team": "Santos",
+          "goals": 10,
+          "assists": 2,
+          "penalties": 2
+        },
+        {
           "name": "Breno Lopes",
           "team": "Coritiba",
           "goals": 8,
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-06T14:50:57.172Z"
+  "generatedAt": "2026-09-06T19:56:47.167Z"
 }

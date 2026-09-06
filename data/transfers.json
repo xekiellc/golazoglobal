@@ -1,56 +1,76 @@
 {
   "transfers": [
     {
-      "player": "Good Morning, Illini Nation",
+      "player": "Four Takeaways From Syracuse Football's ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Champaign/Urbana News-Gazette",
-      "url": "https://www.news-gazette.com/sports/good-morning-illini-nation-bring-your-best-five/article_71a35cc5-2c3d-4a8e-9d95-00320239fa11.html",
-      "publishedAt": "2026-09-05T14:47:00Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/syracuse/news/four-takeaways-from-syracuse-footballs-resounding-week-1-win",
+      "publishedAt": "2026-09-05T19:52:49Z"
     },
     {
-      "player": "How to watch Miami (Ohio) vs Pitt",
+      "player": "Ohio State football routs Ball State in ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fci Academy",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/05/ohio-state-football-ball-state-game-highlights-stats-recap/91566578007/",
+      "publishedAt": "2026-09-05T19:52:23Z"
+    },
+    {
+      "player": "How to watch Northern Illinois vs Iowa",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/how-to-watch-miami-ohio-vs-pitt-live-stream-college-football-ncaa-tv-channel/",
-      "publishedAt": "2026-09-05T14:45:00Z"
+      "url": "https://www.thebiglead.com/how-to-watch-northern-illinois-vs-iowa-live-stream-college-football-ncaa-tv-channel/",
+      "publishedAt": "2026-09-05T19:50:00Z"
     },
     {
-      "player": "Javon Tracy looked like the Gophers' WR1",
+      "player": "Julian Sayin is Sharp, Jeremiah Smith St",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Bringmethesports.com",
-      "url": "https://bringmethesports.com/javon-tracy-looked-like-the-gophers-wr1-is-he",
-      "publishedAt": "2026-09-05T14:38:46Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/ohio-state/game-day/julian-sayin-is-sharp-jeremiah-smith-strikes-the-pose-buckeyes-roll-to-easy-win",
+      "publishedAt": "2026-09-05T19:48:28Z"
     },
     {
-      "player": "2026 college football picks, Week 1 best",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/2026-college-football-picks-predictions-week-1-best-bets-expert-parlay/",
-      "publishedAt": "2026-09-05T14:25:32Z"
-    },
-    {
-      "player": "Iowa football vs. NIU",
+      "player": "Josh Hoover shines in Indiana debut, eas",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://hawkeyeswire.usatoday.com/story/sports/college/hawkeyes/football/2026/09/05/iowa-football-vs-northern-illinois-final-score-predictions/91586915007/",
-      "publishedAt": "2026-09-05T14:25:28Z"
+      "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/09/05/josh-hoover-stats-today-indiana-football-north-texas/91632572007/",
+      "publishedAt": "2026-09-05T19:41:26Z"
+    },
+    {
+      "player": "UConn football report card vs Lafayette",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Norwichbulletin.com",
+      "url": "https://www.norwichbulletin.com/story/sports/college/football/2026/09/05/uconn-football-report-card-vs-lafayette-grading-huskies-after-win/91578057007/",
+      "publishedAt": "2026-09-05T19:35:23Z"
+    },
+    {
+      "player": "Syracuse 66, New Hampshire 3",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Troy Nunes Is An Absolute Magician",
+      "url": "https://www.nunesmagician.com/syracuse-orange-football-fran/112706/syracuse-66-new-hampshire-3-orange-romp-wildcats-in-season-opener",
+      "publishedAt": "2026-09-05T19:34:10Z"
     }
   ],
-  "generatedAt": "2026-09-06T14:47:25.247Z",
+  "generatedAt": "2026-09-06T19:53:10.905Z",
   "note": "Transfers derived from news headlines at launch."
 }
