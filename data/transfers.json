@@ -1,86 +1,56 @@
 {
   "transfers": [
     {
-      "player": "What channel is Oklahoma State football ",
+      "player": "Good Morning, Illini Nation",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Oklahoman.com",
-      "url": "https://www.oklahoman.com/story/sports/college/cowboys/2026/09/05/oklahoma-state-tulsa-channel-today-time-tv-schedule-streaming-info/91626900007/",
-      "publishedAt": "2026-09-05T10:07:18Z"
+      "source": "Champaign/Urbana News-Gazette",
+      "url": "https://www.news-gazette.com/sports/good-morning-illini-nation-bring-your-best-five/article_71a35cc5-2c3d-4a8e-9d95-00320239fa11.html",
+      "publishedAt": "2026-09-05T14:47:00Z"
     },
     {
-      "player": "What channel is Clemson football vs LSU ",
+      "player": "How to watch Miami (Ohio) vs Pitt",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Greenville News",
-      "url": "https://www.greenvilleonline.com/story/sports/college/clemson/2026/09/05/clemson-football-lsu-tv-channel-today-time/91603097007/",
-      "publishedAt": "2026-09-05T10:06:28Z"
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/how-to-watch-miami-ohio-vs-pitt-live-stream-college-football-ncaa-tv-channel/",
+      "publishedAt": "2026-09-05T14:45:00Z"
     },
     {
-      "player": "What channel is Vanderbilt football vs A",
+      "player": "Javon Tracy looked like the Gophers' WR1",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Tennessean",
-      "url": "https://www.tennessean.com/story/sports/college/vanderbilt/football/2026/09/05/vanderbilt-football-austin-peay-tv-channel-today-time/91603094007/",
-      "publishedAt": "2026-09-05T10:06:07Z"
+      "source": "Bringmethesports.com",
+      "url": "https://bringmethesports.com/javon-tracy-looked-like-the-gophers-wr1-is-he",
+      "publishedAt": "2026-09-05T14:38:46Z"
     },
     {
-      "player": "Where to watch Texas vs. Texas State tod",
+      "player": "2026 college football picks, Week 1 best",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/2026-college-football-picks-predictions-week-1-best-bets-expert-parlay/",
+      "publishedAt": "2026-09-05T14:25:32Z"
+    },
+    {
+      "player": "Iowa football vs. NIU",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://longhornswire.usatoday.com/story/sports/college/longhorns/football/2026/09/05/how-to-watch-texas-vs-texas-state-today-channel-streaming-info/91614173007/",
-      "publishedAt": "2026-09-05T10:05:07Z"
-    },
-    {
-      "player": "Why did DJ Lagway transfer to Baylor? Co",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/big12/2026/09/05/dj-lagway-transfer-baylor-florida-stats-247-rating/91553949007/",
-      "publishedAt": "2026-09-05T10:03:08Z"
-    },
-    {
-      "player": "Pitt hopeful QB carousel ends with big s",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/acc/2026/09/05/pitt-football-mason-heintschel-pat-narduzzi-needs/91473348007/",
-      "publishedAt": "2026-09-05T10:02:56Z"
-    },
-    {
-      "player": "Ball State football at Ohio State live s",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Star Press",
-      "url": "https://www.thestarpress.com/story/sports/college/ball-state/2026/09/05/ball-state-football-ohio-state-live-score-updates-highlights--live/91626536007/",
-      "publishedAt": "2026-09-05T10:02:18Z"
-    },
-    {
-      "player": "What is 'Calimony'? Why UCLA owes Cal $1",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/05/calimony-cal-ucla-football-big-ten-acc-pac-12/91490307007/",
-      "publishedAt": "2026-09-05T10:01:53Z"
+      "url": "https://hawkeyeswire.usatoday.com/story/sports/college/hawkeyes/football/2026/09/05/iowa-football-vs-northern-illinois-final-score-predictions/91586915007/",
+      "publishedAt": "2026-09-05T14:25:28Z"
     }
   ],
-  "generatedAt": "2026-09-06T10:07:39.891Z",
+  "generatedAt": "2026-09-06T14:47:25.247Z",
   "note": "Transfers derived from news headlines at launch."
 }

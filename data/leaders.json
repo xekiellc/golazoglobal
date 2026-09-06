@@ -135,6 +135,13 @@
           "penalties": 0
         },
         {
+          "name": "Fermín López",
+          "team": "Barça",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
           "goals": 4,
@@ -156,15 +163,15 @@
           "penalties": 0
         },
         {
-          "name": "Fermín López",
-          "team": "Barça",
+          "name": "Yassir Zabiri",
+          "team": "Santander",
           "goals": 3,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Yassir Zabiri",
-          "team": "Santander",
+          "name": "Lamine Yamal",
+          "team": "Barça",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -174,13 +181,6 @@
           "team": "Alavés",
           "goals": 2,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Nicolas Pépé",
-          "team": "Villarreal",
-          "goals": 2,
-          "assists": 0,
           "penalties": 0
         }
       ],
@@ -207,18 +207,18 @@
           "penalties": 0
         },
         {
+          "name": "Fermín López",
+          "team": "Barça",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Álex Baena",
           "team": "Atleti",
           "goals": 3,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Raphinha",
-          "team": "Barça",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 1
         }
       ]
     },
@@ -228,6 +228,13 @@
           "name": "Donyell Malen",
           "team": "Roma",
           "goals": 5,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Antonio Raimondo",
+          "team": "Frosinone",
+          "goals": 4,
           "assists": 0,
           "penalties": 0
         },
@@ -274,13 +281,6 @@
           "penalties": 0
         },
         {
-          "name": "Antonio Raimondo",
-          "team": "Frosinone",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Martin Baturina",
           "team": "Como 1907",
           "goals": 2,
@@ -318,15 +318,15 @@
           "penalties": 0
         },
         {
-          "name": "Anastasios Douvikas",
-          "team": "Como 1907",
-          "goals": 2,
+          "name": "Antonio Raimondo",
+          "team": "Frosinone",
+          "goals": 4,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Hakan Çalhanoğlu",
-          "team": "Inter",
+          "name": "Anastasios Douvikas",
+          "team": "Como 1907",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -499,7 +499,7 @@
           "name": "Gessime Yassine",
           "team": "Strasbourg",
           "goals": 2,
-          "assists": 0,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -533,6 +533,13 @@
           "penalties": 3
         },
         {
+          "name": "Gessime Yassine",
+          "team": "Strasbourg",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Louis Mafouta",
           "team": "Le Mans",
           "goals": 3,
@@ -543,13 +550,6 @@
           "name": "Esteban Lepaul",
           "team": "Stade Rennais",
           "goals": 3,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
-          "name": "Amine Gouiri",
-          "team": "Marseille",
-          "goals": 2,
           "assists": 0,
           "penalties": 1
         }
@@ -565,6 +565,13 @@
           "penalties": 0
         },
         {
+          "name": "Ro-Zangelo Daal",
+          "team": "AZ",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Milan Zonneveld",
           "team": "Sparta",
           "goals": 4,
@@ -572,17 +579,17 @@
           "penalties": 0
         },
         {
+          "name": "Rafik el Arguioui",
+          "team": "Cambuur",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Gjivai Zechiël",
           "team": "Feyenoord",
           "goals": 4,
           "assists": 3,
-          "penalties": 0
-        },
-        {
-          "name": "Ro-Zangelo Daal",
-          "team": "AZ",
-          "goals": 3,
-          "assists": 0,
           "penalties": 0
         },
         {
@@ -600,6 +607,13 @@
           "penalties": 0
         },
         {
+          "name": "Thom van Bergen",
+          "team": "Groningen",
+          "goals": 3,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Tjaronn Chery",
           "team": "NEC",
           "goals": 3,
@@ -609,20 +623,6 @@
         {
           "name": "Artem Stepanov",
           "team": "Utrecht",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Ricardo Pepi",
-          "team": "PSV",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
-          "name": "Rafik el Arguioui",
-          "team": "Cambuur",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -644,6 +644,13 @@
           "penalties": 0
         },
         {
+          "name": "Thom van Bergen",
+          "team": "Groningen",
+          "goals": 3,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Milan Zonneveld",
           "team": "Sparta",
           "goals": 4,
@@ -656,13 +663,6 @@
           "goals": 3,
           "assists": 1,
           "penalties": 2
-        },
-        {
-          "name": "Ro-Zangelo Daal",
-          "team": "AZ",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
@@ -815,6 +815,13 @@
           "penalties": 0
         },
         {
+          "name": "Fer López",
+          "team": "Wolverhampton",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Mohamed Toure",
           "team": "Norwich",
           "goals": 3,
@@ -841,13 +848,6 @@
           "goals": 2,
           "assists": 1,
           "penalties": 2
-        },
-        {
-          "name": "Sam Dalby",
-          "team": "Bolton",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -856,6 +856,13 @@
           "team": "West Brom",
           "goals": 3,
           "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Fer López",
+          "team": "Wolverhampton",
+          "goals": 3,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -876,13 +883,6 @@
           "name": "William Lankshear",
           "team": "Middlesbrough",
           "goals": 5,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Cyle Larin",
-          "team": "Southampton",
-          "goals": 4,
           "assists": 0,
           "penalties": 0
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-06T10:11:14.910Z"
+  "generatedAt": "2026-09-06T14:50:57.172Z"
 }
