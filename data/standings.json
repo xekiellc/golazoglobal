@@ -448,9 +448,22 @@
       {
         "position": 15,
         "team": "Getafe",
-        "played": 3,
+        "played": 4,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
+        "lost": 2,
+        "goalsFor": 1,
+        "goalsAgainst": 4,
+        "goalDifference": -3,
+        "points": 4,
+        "form": ""
+      },
+      {
+        "position": 16,
+        "team": "Celta",
+        "played": 5,
+        "won": 0,
+        "drawn": 3,
         "lost": 2,
         "goalsFor": 1,
         "goalsAgainst": 4,
@@ -459,7 +472,7 @@
         "form": ""
       },
       {
-        "position": 16,
+        "position": 17,
         "team": "Villarreal",
         "played": 4,
         "won": 0,
@@ -468,19 +481,6 @@
         "goalsFor": 6,
         "goalsAgainst": 8,
         "goalDifference": -2,
-        "points": 2,
-        "form": ""
-      },
-      {
-        "position": 17,
-        "team": "Celta",
-        "played": 4,
-        "won": 0,
-        "drawn": 2,
-        "lost": 2,
-        "goalsFor": 1,
-        "goalsAgainst": 4,
-        "goalDifference": -3,
         "points": 2,
         "form": ""
       },
@@ -657,6 +657,32 @@
       },
       {
         "position": 11,
+        "team": "Cagliari",
+        "played": 3,
+        "won": 1,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDifference": 0,
+        "points": 4,
+        "form": ""
+      },
+      {
+        "position": 12,
+        "team": "Lecce",
+        "played": 3,
+        "won": 1,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 4,
+        "goalDifference": -2,
+        "points": 4,
+        "form": ""
+      },
+      {
+        "position": 13,
         "team": "Napoli",
         "played": 3,
         "won": 1,
@@ -669,20 +695,7 @@
         "form": ""
       },
       {
-        "position": 12,
-        "team": "Cagliari",
-        "played": 2,
-        "won": 1,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 1,
-        "goalsAgainst": 1,
-        "goalDifference": 0,
-        "points": 3,
-        "form": ""
-      },
-      {
-        "position": 13,
+        "position": 14,
         "team": "Torino",
         "played": 3,
         "won": 1,
@@ -691,19 +704,6 @@
         "goalsFor": 4,
         "goalsAgainst": 5,
         "goalDifference": -1,
-        "points": 3,
-        "form": ""
-      },
-      {
-        "position": 14,
-        "team": "Lecce",
-        "played": 2,
-        "won": 1,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 2,
-        "goalsAgainst": 4,
-        "goalDifference": -2,
         "points": 3,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-07T11:25:22.758Z"
+  "generatedAt": "2026-09-07T17:07:38.510Z"
 }
