@@ -267,6 +267,13 @@
           "penalties": 0
         },
         {
+          "name": "Alphadjo Cisse",
+          "team": "Milan",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Che Adams",
           "team": "Torino",
           "goals": 2,
@@ -285,13 +292,6 @@
           "team": "Como 1907",
           "goals": 2,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Rasmus Højlund",
-          "team": "Napoli",
-          "goals": 2,
-          "assists": 0,
           "penalties": 0
         }
       ],
@@ -447,6 +447,13 @@
     "FL1": {
       "scorers": [
         {
+          "name": "Amine Gouiri",
+          "team": "Marseille",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Kamory Doumbia",
           "team": "Brest",
           "goals": 4,
@@ -454,11 +461,11 @@
           "penalties": 1
         },
         {
-          "name": "Amine Gouiri",
-          "team": "Marseille",
-          "goals": 3,
+          "name": "Lassine Sinayoko",
+          "team": "Paris FC",
+          "goals": 4,
           "assists": 0,
-          "penalties": 1
+          "penalties": 2
         },
         {
           "name": "Florian Thauvin",
@@ -477,13 +484,6 @@
         {
           "name": "Esteban Lepaul",
           "team": "Stade Rennais",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
-          "name": "Lassine Sinayoko",
-          "team": "Paris FC",
           "goals": 3,
           "assists": 0,
           "penalties": 1
@@ -542,16 +542,16 @@
         {
           "name": "Amine Gouiri",
           "team": "Marseille",
-          "goals": 3,
+          "goals": 4,
           "assists": 0,
           "penalties": 1
         },
         {
-          "name": "Louis Mafouta",
-          "team": "Le Mans",
-          "goals": 3,
+          "name": "Lassine Sinayoko",
+          "team": "Paris FC",
+          "goals": 4,
           "assists": 0,
-          "penalties": 1
+          "penalties": 2
         }
       ]
     },
@@ -926,6 +926,13 @@
           "penalties": 0
         },
         {
+          "name": "Samuel Lino",
+          "team": "Flamengo",
+          "goals": 9,
+          "assists": 7,
+          "penalties": 0
+        },
+        {
           "name": "José Manuel López",
           "team": "Palmeiras",
           "goals": 8,
@@ -952,16 +959,16 @@
           "goals": 8,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Luciano Juba",
-          "team": "Bahia",
-          "goals": 8,
-          "assists": 1,
-          "penalties": 3
         }
       ],
       "topAssists": [
+        {
+          "name": "Samuel Lino",
+          "team": "Flamengo",
+          "goals": 9,
+          "assists": 7,
+          "penalties": 0
+        },
         {
           "name": "Pedro",
           "team": "Flamengo",
@@ -989,16 +996,9 @@
           "goals": 10,
           "assists": 2,
           "penalties": 2
-        },
-        {
-          "name": "Breno Lopes",
-          "team": "Coritiba",
-          "goals": 8,
-          "assists": 2,
-          "penalties": 0
         }
       ]
     }
   },
-  "generatedAt": "2026-09-06T19:56:47.167Z"
+  "generatedAt": "2026-09-07T00:41:37.429Z"
 }
