@@ -239,6 +239,13 @@
           "penalties": 0
         },
         {
+          "name": "Davide Frattesi",
+          "team": "Lazio",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Hassane Kamara",
           "team": "Udinese",
           "goals": 2,
@@ -281,13 +288,6 @@
           "penalties": 0
         },
         {
-          "name": "Davide Frattesi",
-          "team": "Lazio",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Martin Baturina",
           "team": "Como 1907",
           "goals": 2,
@@ -325,9 +325,9 @@
           "penalties": 0
         },
         {
-          "name": "Anastasios Douvikas",
-          "team": "Como 1907",
-          "goals": 2,
+          "name": "Davide Frattesi",
+          "team": "Lazio",
+          "goals": 3,
           "assists": 0,
           "penalties": 0
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-07T17:08:46.411Z"
+  "generatedAt": "2026-09-07T21:04:44.528Z"
 }

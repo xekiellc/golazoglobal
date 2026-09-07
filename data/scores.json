@@ -1,13 +1,22 @@
 {
   "matches": [
     {
-      "league": "SA",
-      "homeTeam": "Cagliari",
-      "awayTeam": "Lecce",
-      "homeScore": 1,
+      "league": "PD",
+      "homeTeam": "Elche",
+      "awayTeam": "Real Sociedad",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-07T19:30:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Estoril Praia",
+      "awayTeam": "Arouca",
+      "homeScore": 0,
       "awayScore": 0,
       "status": "IN_PLAY",
-      "utcDate": "2026-09-07T16:30:00Z"
+      "utcDate": "2026-09-07T19:15:00Z"
     },
     {
       "league": "PL",
@@ -64,6 +73,15 @@
       "utcDate": "2026-09-06T19:00:00Z"
     },
     {
+      "league": "PD",
+      "homeTeam": "Getafe",
+      "awayTeam": "Celta",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-07T17:00:00Z"
+    },
+    {
       "league": "SA",
       "homeTeam": "Parma",
       "awayTeam": "Monza",
@@ -98,6 +116,24 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-09-06T18:45:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Cagliari",
+      "awayTeam": "Lecce",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-09-07T16:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Udinese",
+      "awayTeam": "Lazio",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-09-07T18:45:00Z"
     },
     {
       "league": "BL1",
@@ -217,42 +253,6 @@
       "utcDate": "2026-09-06T11:00:00Z"
     },
     {
-      "league": "PD",
-      "homeTeam": "Getafe",
-      "awayTeam": "Celta",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-07T17:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Elche",
-      "awayTeam": "Real Sociedad",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-07T19:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Udinese",
-      "awayTeam": "Lazio",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-07T18:45:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Estoril Praia",
-      "awayTeam": "Arouca",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-07T19:15:00Z"
-    },
-    {
       "league": "BSA",
       "homeTeam": "Fluminense",
       "awayTeam": "Vasco da Gama",
@@ -325,5 +325,5 @@
       "utcDate": "2026-09-07T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-09-07T17:06:35.945Z"
+  "generatedAt": "2026-09-07T21:02:36.446Z"
 }

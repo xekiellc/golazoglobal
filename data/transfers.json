@@ -1,26 +1,76 @@
 {
   "transfers": [
     {
-      "player": "Michigan State's top five defenders in w",
+      "player": "Purdue 44 Indiana State 19",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://spartanswire.usatoday.com/story/sports/college/spartans/football/2026/09/06/michigan-states-top-five-defenders-in-win-over-toledo-per-pff/91642877007/",
-      "publishedAt": "2026-09-06T17:03:56Z"
+      "source": "Hammer and Rails",
+      "url": "https://www.hammerandrails.com/purdue-football/60955/purdue-44-indiana-state-19-forest-fire",
+      "publishedAt": "2026-09-06T21:00:00Z"
     },
     {
-      "player": "Texas A&M Targets Rising 2028 TE Gregory",
+      "player": "College football coaches agree to change",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/texas-am/news/texas-a-m-targets-rising-2028-te-gregory-kirwan-with-sec-offer",
-      "publishedAt": "2026-09-06T17:00:32Z"
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/sport/college-football/article-16109955/college-football-coaches-rule-change-arizona-state-morgan-state.html",
+      "publishedAt": "2026-09-06T20:55:55Z"
+    },
+    {
+      "player": "Chelsea plot early move for Scott",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cj3dj6djrd3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "publishedAt": "2026-09-06T20:54:48Z"
+    },
+    {
+      "player": "Top Performers From Tennessee Football's",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/tennessee/football/top-performers-from-tennessee-football-s-dominant-performance-vs-furman-01m1vmf5rqjr",
+      "publishedAt": "2026-09-06T20:54:47Z"
+    },
+    {
+      "player": "Chelsea plot early move for Scott",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3dj6djrd3o",
+      "publishedAt": "2026-09-06T20:54:40Z"
+    },
+    {
+      "player": "OU football vs Michigan TV channel, odds",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Oklahoman.com",
+      "url": "https://www.oklahoman.com/story/sports/college/sooners/2026/09/06/ou-football-vs-michigan-tv-channel-betting-line-scouting-report-oklahoma-sooners/91641759007/",
+      "publishedAt": "2026-09-06T20:54:13Z"
+    },
+    {
+      "player": "Use FanDuel promo code to get $350 in bo",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-louisville-ole-miss-college-football-sunday/",
+      "publishedAt": "2026-09-06T20:40:36Z"
     }
   ],
-  "generatedAt": "2026-09-07T17:05:10.798Z",
+  "generatedAt": "2026-09-07T21:01:13.128Z",
   "note": "Transfers derived from news headlines at launch."
 }
