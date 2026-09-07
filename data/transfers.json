@@ -1,86 +1,36 @@
 {
   "transfers": [
     {
-      "player": "5 interesting things in LSU football's d",
+      "player": "Fans furious with Robinson, but what is ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Daily Advertiser",
-      "url": "https://www.theadvertiser.com/story/sports/college/lsu/2026/09/05/lsu-football-depth-chart-clemson-lane-kiffin-nfl-players/91509049007/",
-      "publishedAt": "2026-09-06T00:28:42Z"
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/ced7257g7l0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "publishedAt": "2026-09-06T11:04:39Z"
     },
     {
-      "player": "Joe Tessitore went wild in iconic call o",
+      "player": "What will Clemson's Dabo Swinney do at q",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://ftw.usatoday.com/story/sports/ncaaf/2026/09/05/auburn-baylor-ending-iconic-joe-tessitore-call/91637415007/",
-      "publishedAt": "2026-09-06T00:20:58Z"
+      "source": "Greenville News",
+      "url": "https://www.greenvilleonline.com/story/sports/college/clemson/2026/09/06/clemson-qb-christopher-vizzina-tait-reynolds-dabo-swinney/91641016007/",
+      "publishedAt": "2026-09-06T11:02:22Z"
     },
     {
-      "player": "Baylor QB DJ Lagway Dealt Unfortunate In",
+      "player": "MSU vs Toledo Weather Report",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Heavy.com",
-      "url": "https://heavy.com/sports/college-football/florida-gators/auburn-baylor-dj-lagway-injury-news-nil-florida-gators/",
-      "publishedAt": "2026-09-06T00:16:41Z"
-    },
-    {
-      "player": "Tulsa defeats Oklahoma State 24",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/tulsa-defeats-oklahoma-state-24-001413493.html",
-      "publishedAt": "2026-09-06T00:14:13Z"
-    },
-    {
-      "player": "Bloodied, dazzling and gutsy",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/05/quarterback-week-1-debuts-keelon-russell-dj-lagway/91636019007/",
-      "publishedAt": "2026-09-06T00:10:37Z"
-    },
-    {
-      "player": "Iowa football has its QB",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://hawkeyeswire.usatoday.com/story/sports/college/hawkeyes/football/2026/09/05/iowa-football-takeaways-season-opening-win-niu/91636526007/",
-      "publishedAt": "2026-09-06T00:05:06Z"
-    },
-    {
-      "player": "Jackson duo provides Ohio State's runnin",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Fci Academy",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/05/bo-jackson-jakobi-jackson-lead-ohio-state-run-game-vs-ball-state/91566613007/",
-      "publishedAt": "2026-09-05T23:56:06Z"
-    },
-    {
-      "player": "Tulsa stuns Oklahoma State again, spoils",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Underdogdynasty.com",
-      "url": "https://www.underdogdynasty.com/american-conference/45447/tulsa-stuns-oklahoma-state-again-spoils-eric-morris-debut",
-      "publishedAt": "2026-09-05T23:54:25Z"
+      "source": "The Only Colors",
+      "url": "https://www.theonlycolors.com/football/47975/msu-vs-toledo-weather-report",
+      "publishedAt": "2026-09-06T11:00:00Z"
     }
   ],
-  "generatedAt": "2026-09-07T00:38:04.640Z",
+  "generatedAt": "2026-09-07T11:22:56.661Z",
   "note": "Transfers derived from news headlines at launch."
 }
