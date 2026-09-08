@@ -1,15 +1,6 @@
 {
   "matches": [
     {
-      "league": "BSA",
-      "homeTeam": "Vitória",
-      "awayTeam": "Grêmio",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "PAUSED",
-      "utcDate": "2026-09-07T23:00:00Z"
-    },
-    {
       "league": "PD",
       "homeTeam": "Getafe",
       "awayTeam": "Celta",
@@ -53,6 +44,15 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-09-07T19:15:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Vitória",
+      "awayTeam": "Grêmio",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-09-07T23:00:00Z"
     },
     {
       "league": "CL",
@@ -181,5 +181,5 @@
       "utcDate": "2026-09-08T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-09-08T00:53:21.885Z"
+  "generatedAt": "2026-09-08T10:28:28.258Z"
 }

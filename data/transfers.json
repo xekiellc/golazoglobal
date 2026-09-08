@@ -1,56 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Isaiah Marshall’s First Start Changes th",
+      "player": "Arsecast Extra Episode 711",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/kansas/news/isaiah-marshall-s-first-start-changes-the-outlook-for-kansas-football",
-      "publishedAt": "2026-09-07T00:35:00Z"
+      "source": "Acast.com",
+      "url": "https://shows.acast.com/arseblog/episodes/arsecast-extra-episode-711-07092026",
+      "publishedAt": "2026-09-07T10:11:19Z"
     },
     {
-      "player": "Apple Cup stays put, Huskies beat Cougar",
+      "player": "Are college football games on today? Tim",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "UW Dawg Pound",
-      "url": "https://www.uwdawgpound.com/washington-football/76753/apple-cup-stays-put-huskies-beat-cougars-24-10",
-      "publishedAt": "2026-09-07T00:15:45Z"
-    },
-    {
-      "player": "Kewan Lacy injury update",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Clarion Ledger",
-      "url": "https://www.clarionledger.com/story/sports/college/ole-miss/2026/09/06/trinidad-chambliss-injury-update-ole-miss-football-louisville/91100565007/",
-      "publishedAt": "2026-09-07T00:08:37Z"
-    },
-    {
-      "player": "Dabo Swinney says Clemson football will ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Greenville News",
-      "url": "https://www.greenvilleonline.com/story/sports/college/clemson/2026/09/06/dabo-swinney-clemson-football-lsu-georgia-southern/91575486007/",
-      "publishedAt": "2026-09-06T23:52:40Z"
-    },
-    {
-      "player": "Controversy deepens as Zamalek treasurer",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "HITC - Football, Gaming, Movies, TV, Music",
-      "url": "https://www.hitc.com/controversy-deepens-as-zamalek-treasurer-threatens-to-take-zizo-contract-discrepancy-to-parliament/",
-      "publishedAt": "2026-09-06T23:46:01Z"
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/acc/2026/09/07/college-football-games-today-schedule-week-1-monday/91538703007/",
+      "publishedAt": "2026-09-07T10:02:08Z"
     }
   ],
-  "generatedAt": "2026-09-08T00:51:59.238Z",
+  "generatedAt": "2026-09-08T10:27:06.202Z",
   "note": "Transfers derived from news headlines at launch."
 }
