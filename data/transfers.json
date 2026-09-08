@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Arsecast Extra Episode 711",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Acast.com",
-      "url": "https://shows.acast.com/arseblog/episodes/arsecast-extra-episode-711-07092026",
-      "publishedAt": "2026-09-07T10:11:19Z"
-    },
-    {
-      "player": "Are college football games on today? Tim",
+      "player": "Michigan controversy goes beyond the clo",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/acc/2026/09/07/college-football-games-today-schedule-week-1-monday/91538703007/",
-      "publishedAt": "2026-09-07T10:02:08Z"
+      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/07/michigan-football-clock-controversy-bryce-underwood/91544916007/",
+      "publishedAt": "2026-09-07T15:44:40Z"
+    },
+    {
+      "player": "Kyle Whittingham provides injury updates",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://wolverineswire.usatoday.com/story/sports/college/wolverines/football/2026/09/07/michigan-football-injury-updates-ahead-of-oklahoma-game/91649386007/",
+      "publishedAt": "2026-09-07T15:41:43Z"
+    },
+    {
+      "player": "Kyle Whittingham",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Detroit News",
+      "url": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/09/07/michigan-wolverines-starting-jobs-including-bryce-underwood-arent-infinite/91648606007/",
+      "publishedAt": "2026-09-07T15:40:17Z"
+    },
+    {
+      "player": "Will Bryce Underwood remain Michigan's Q",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Detroit Free Press",
+      "url": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2026/09/07/michigan-bryce-underwood-quarterback-tommy-carr/91649046007/",
+      "publishedAt": "2026-09-07T15:30:43Z"
     }
   ],
-  "generatedAt": "2026-09-08T10:27:06.202Z",
+  "generatedAt": "2026-09-08T15:51:36.139Z",
   "note": "Transfers derived from news headlines at launch."
 }

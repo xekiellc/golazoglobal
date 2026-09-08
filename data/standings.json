@@ -1326,6 +1326,19 @@
       },
       {
         "position": 6,
+        "team": "Go Ahead",
+        "played": 5,
+        "won": 2,
+        "drawn": 2,
+        "lost": 1,
+        "goalsFor": 14,
+        "goalsAgainst": 12,
+        "goalDifference": 2,
+        "points": 8,
+        "form": ""
+      },
+      {
+        "position": 7,
         "team": "Ajax",
         "played": 4,
         "won": 2,
@@ -1338,7 +1351,7 @@
         "form": ""
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "Twente",
         "played": 4,
         "won": 2,
@@ -1347,19 +1360,6 @@
         "goalsFor": 9,
         "goalsAgainst": 5,
         "goalDifference": 4,
-        "points": 7,
-        "form": ""
-      },
-      {
-        "position": 8,
-        "team": "Go Ahead",
-        "played": 4,
-        "won": 2,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 11,
-        "goalsAgainst": 9,
-        "goalDifference": 2,
         "points": 7,
         "form": ""
       },
@@ -1443,6 +1443,19 @@
       },
       {
         "position": 15,
+        "team": "Utrecht",
+        "played": 5,
+        "won": 0,
+        "drawn": 2,
+        "lost": 3,
+        "goalsFor": 9,
+        "goalsAgainst": 18,
+        "goalDifference": -9,
+        "points": 2,
+        "form": ""
+      },
+      {
+        "position": 16,
         "team": "Den Haag",
         "played": 5,
         "won": 0,
@@ -1451,19 +1464,6 @@
         "goalsFor": 6,
         "goalsAgainst": 14,
         "goalDifference": -8,
-        "points": 1,
-        "form": ""
-      },
-      {
-        "position": 16,
-        "team": "Utrecht",
-        "played": 4,
-        "won": 0,
-        "drawn": 1,
-        "lost": 3,
-        "goalsFor": 6,
-        "goalsAgainst": 15,
-        "goalDifference": -9,
         "points": 1,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-08T10:29:29.537Z"
+  "generatedAt": "2026-09-08T15:54:03.439Z"
 }

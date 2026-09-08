@@ -60,7 +60,7 @@
       "awayTeam": "Aston Villa",
       "homeScore": null,
       "awayScore": null,
-      "status": "TIMED",
+      "status": "SCHEDULED",
       "utcDate": "2026-09-08T16:45:00Z"
     },
     {
@@ -69,7 +69,7 @@
       "awayTeam": "LASK",
       "homeScore": null,
       "awayScore": null,
-      "status": "TIMED",
+      "status": "SCHEDULED",
       "utcDate": "2026-09-08T16:45:00Z"
     },
     {
@@ -181,5 +181,5 @@
       "utcDate": "2026-09-08T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-09-08T10:28:28.258Z"
+  "generatedAt": "2026-09-08T15:53:00.775Z"
 }
