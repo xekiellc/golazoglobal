@@ -1300,6 +1300,19 @@
       },
       {
         "position": 4,
+        "team": "Excelsior",
+        "played": 5,
+        "won": 3,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 12,
+        "goalsAgainst": 5,
+        "goalDifference": 7,
+        "points": 10,
+        "form": ""
+      },
+      {
+        "position": 5,
         "team": "Sittard",
         "played": 5,
         "won": 3,
@@ -1309,19 +1322,6 @@
         "goalsAgainst": 9,
         "goalDifference": 2,
         "points": 10,
-        "form": ""
-      },
-      {
-        "position": 5,
-        "team": "Excelsior",
-        "played": 4,
-        "won": 3,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 10,
-        "goalsAgainst": 3,
-        "goalDifference": 7,
-        "points": 9,
         "form": ""
       },
       {
@@ -1365,6 +1365,19 @@
       },
       {
         "position": 9,
+        "team": "NEC",
+        "played": 5,
+        "won": 2,
+        "drawn": 1,
+        "lost": 2,
+        "goalsFor": 11,
+        "goalsAgainst": 9,
+        "goalDifference": 2,
+        "points": 7,
+        "form": ""
+      },
+      {
+        "position": 10,
         "team": "Groningen",
         "played": 5,
         "won": 2,
@@ -1374,19 +1387,6 @@
         "goalsAgainst": 12,
         "goalDifference": -1,
         "points": 7,
-        "form": ""
-      },
-      {
-        "position": 10,
-        "team": "NEC",
-        "played": 4,
-        "won": 2,
-        "drawn": 0,
-        "lost": 2,
-        "goalsFor": 9,
-        "goalsAgainst": 7,
-        "goalDifference": 2,
-        "points": 6,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-08T15:54:03.439Z"
+  "generatedAt": "2026-09-08T20:38:11.464Z"
 }

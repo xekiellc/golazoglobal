@@ -1,6 +1,96 @@
 {
   "matches": [
     {
+      "league": "CL",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Inter",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-08T19:00:00Z"
+    },
+    {
+      "league": "CL",
+      "homeTeam": "Porto",
+      "awayTeam": "Man City",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-08T19:00:00Z"
+    },
+    {
+      "league": "CL",
+      "homeTeam": "Dortmund",
+      "awayTeam": "Villarreal",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-08T19:00:00Z"
+    },
+    {
+      "league": "CL",
+      "homeTeam": "Lille",
+      "awayTeam": "Real Betis",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-08T19:00:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Blackburn",
+      "awayTeam": "Sheffield Utd",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-08T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Southampton",
+      "awayTeam": "Swansea",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-08T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Watford",
+      "awayTeam": "Preston NE",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-08T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Cardiff",
+      "awayTeam": "Stoke",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-08T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Wrexham",
+      "awayTeam": "Burnley",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-08T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Bolton",
+      "awayTeam": "West Ham",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-08T19:00:00Z"
+    },
+    {
       "league": "PD",
       "homeTeam": "Getafe",
       "awayTeam": "Celta",
@@ -37,6 +127,33 @@
       "utcDate": "2026-09-07T18:45:00Z"
     },
     {
+      "league": "CL",
+      "homeTeam": "Club Brugge",
+      "awayTeam": "Aston Villa",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-09-08T16:45:00Z"
+    },
+    {
+      "league": "CL",
+      "homeTeam": "PAE AEK",
+      "awayTeam": "LASK",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-09-08T16:45:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "NEC",
+      "awayTeam": "Excelsior",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-09-08T16:45:00Z"
+    },
+    {
       "league": "PPL",
       "homeTeam": "Estoril Praia",
       "awayTeam": "Arouca",
@@ -55,60 +172,6 @@
       "utcDate": "2026-09-07T23:00:00Z"
     },
     {
-      "league": "CL",
-      "homeTeam": "Club Brugge",
-      "awayTeam": "Aston Villa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "SCHEDULED",
-      "utcDate": "2026-09-08T16:45:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "PAE AEK",
-      "awayTeam": "LASK",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "SCHEDULED",
-      "utcDate": "2026-09-08T16:45:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Inter",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-08T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Porto",
-      "awayTeam": "Man City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-08T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Dortmund",
-      "awayTeam": "Villarreal",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-08T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Lille",
-      "awayTeam": "Real Betis",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-08T19:00:00Z"
-    },
-    {
       "league": "DED",
       "homeTeam": "Utrecht",
       "awayTeam": "Go Ahead",
@@ -116,70 +179,7 @@
       "awayScore": 3,
       "status": "CANCELLED",
       "utcDate": "2026-09-08T12:00:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "NEC",
-      "awayTeam": "Excelsior",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-08T16:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Blackburn",
-      "awayTeam": "Sheffield Utd",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-08T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Southampton",
-      "awayTeam": "Swansea",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-08T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Watford",
-      "awayTeam": "Preston NE",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-08T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Cardiff",
-      "awayTeam": "Stoke",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-08T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Wrexham",
-      "awayTeam": "Burnley",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-08T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Bolton",
-      "awayTeam": "West Ham",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-08T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-09-08T15:53:00.775Z"
+  "generatedAt": "2026-09-08T20:37:09.574Z"
 }

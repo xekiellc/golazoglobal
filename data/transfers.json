@@ -1,46 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Michigan controversy goes beyond the clo",
+      "player": "Steve Sarkisian",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/07/michigan-football-clock-controversy-bryce-underwood/91544916007/",
-      "publishedAt": "2026-09-07T15:44:40Z"
+      "source": "Burnt Orange Nation",
+      "url": "https://www.burntorangenation.com/texas-longhorns-football/104349/left-guard-rotation-dyan-sikorski-laurence-seymore",
+      "publishedAt": "2026-09-07T20:16:28Z"
     },
     {
-      "player": "Kyle Whittingham provides injury updates",
+      "player": "Big figures impress, and forward could l",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://wolverineswire.usatoday.com/story/sports/college/wolverines/football/2026/09/07/michigan-football-injury-updates-ahead-of-oklahoma-game/91649386007/",
-      "publishedAt": "2026-09-07T15:41:43Z"
+      "source": "Onefootball.com",
+      "url": "https://onefootball.com/en/news/big-figures-impress-and-forward-could-leave-atletico-mg-43419885",
+      "publishedAt": "2026-09-07T20:07:00Z"
     },
     {
-      "player": "Kyle Whittingham",
+      "player": "LSU's Lane Kiffin admits he let Tiger St",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Detroit News",
-      "url": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/09/07/michigan-wolverines-starting-jobs-including-bryce-underwood-arent-infinite/91648606007/",
-      "publishedAt": "2026-09-07T15:40:17Z"
-    },
-    {
-      "player": "Will Bryce Underwood remain Michigan's Q",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Detroit Free Press",
-      "url": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2026/09/07/michigan-bryce-underwood-quarterback-tommy-carr/91649046007/",
-      "publishedAt": "2026-09-07T15:30:43Z"
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/lsu-lane-kiffin-admits-let-tiger-stadium-weather-delay-drag-hurt-clemson",
+      "publishedAt": "2026-09-07T20:05:26Z"
     }
   ],
-  "generatedAt": "2026-09-08T15:51:36.139Z",
+  "generatedAt": "2026-09-08T20:35:43.629Z",
   "note": "Transfers derived from news headlines at launch."
 }
