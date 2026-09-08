@@ -374,8 +374,8 @@
         "won": 2,
         "drawn": 1,
         "lost": 2,
-        "goalsFor": 5,
-        "goalsAgainst": 7,
+        "goalsFor": 6,
+        "goalsAgainst": 8,
         "goalDifference": -2,
         "points": 7,
         "form": ""
@@ -504,8 +504,8 @@
         "won": 0,
         "drawn": 1,
         "lost": 3,
-        "goalsFor": 4,
-        "goalsAgainst": 11,
+        "goalsFor": 5,
+        "goalsAgainst": 12,
         "goalDifference": -7,
         "points": 1,
         "form": ""
@@ -2177,6 +2177,19 @@
       },
       {
         "position": 11,
+        "team": "Vitória",
+        "played": 26,
+        "won": 9,
+        "drawn": 5,
+        "lost": 12,
+        "goalsFor": 25,
+        "goalsAgainst": 37,
+        "goalDifference": -12,
+        "points": 32,
+        "form": ""
+      },
+      {
+        "position": 12,
         "team": "Corinthians",
         "played": 26,
         "won": 8,
@@ -2189,7 +2202,7 @@
         "form": ""
       },
       {
-        "position": 12,
+        "position": 13,
         "team": "Santos",
         "played": 25,
         "won": 8,
@@ -2202,7 +2215,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Botafogo",
         "played": 25,
         "won": 8,
@@ -2215,28 +2228,15 @@
         "form": ""
       },
       {
-        "position": 14,
-        "team": "Vitória",
-        "played": 25,
-        "won": 8,
-        "drawn": 5,
-        "lost": 12,
-        "goalsFor": 24,
-        "goalsAgainst": 37,
-        "goalDifference": -13,
-        "points": 29,
-        "form": ""
-      },
-      {
         "position": 15,
         "team": "Grêmio",
-        "played": 24,
+        "played": 25,
         "won": 7,
         "drawn": 7,
-        "lost": 10,
+        "lost": 11,
         "goalsFor": 27,
-        "goalsAgainst": 32,
-        "goalDifference": -5,
+        "goalsAgainst": 33,
+        "goalDifference": -6,
         "points": 28,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-07T21:03:38.756Z"
+  "generatedAt": "2026-09-08T00:54:23.723Z"
 }
