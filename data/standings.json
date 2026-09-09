@@ -1313,6 +1313,19 @@
       },
       {
         "position": 5,
+        "team": "Twente",
+        "played": 5,
+        "won": 3,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 10,
+        "goalsAgainst": 5,
+        "goalDifference": 5,
+        "points": 10,
+        "form": ""
+      },
+      {
+        "position": 6,
         "team": "Sittard",
         "played": 5,
         "won": 3,
@@ -1325,7 +1338,7 @@
         "form": ""
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "Go Ahead",
         "played": 5,
         "won": 2,
@@ -1338,21 +1351,8 @@
         "form": ""
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "Ajax",
-        "played": 4,
-        "won": 2,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 9,
-        "goalsAgainst": 5,
-        "goalDifference": 4,
-        "points": 7,
-        "form": ""
-      },
-      {
-        "position": 7,
-        "team": "Twente",
         "played": 4,
         "won": 2,
         "drawn": 1,
@@ -1431,13 +1431,13 @@
       {
         "position": 14,
         "team": "Telstar",
-        "played": 4,
+        "played": 5,
         "won": 1,
         "drawn": 1,
-        "lost": 2,
+        "lost": 3,
         "goalsFor": 5,
-        "goalsAgainst": 10,
-        "goalDifference": -5,
+        "goalsAgainst": 11,
+        "goalDifference": -6,
         "points": 4,
         "form": ""
       },
@@ -1523,6 +1523,19 @@
       },
       {
         "position": 3,
+        "team": "SL Benfica",
+        "played": 5,
+        "won": 3,
+        "drawn": 2,
+        "lost": 0,
+        "goalsFor": 14,
+        "goalsAgainst": 3,
+        "goalDifference": 11,
+        "points": 11,
+        "form": ""
+      },
+      {
+        "position": 4,
         "team": "Santa Clara",
         "played": 5,
         "won": 3,
@@ -1532,19 +1545,6 @@
         "goalsAgainst": 3,
         "goalDifference": 6,
         "points": 11,
-        "form": ""
-      },
-      {
-        "position": 4,
-        "team": "SL Benfica",
-        "played": 4,
-        "won": 3,
-        "drawn": 1,
-        "lost": 0,
-        "goalsFor": 14,
-        "goalsAgainst": 3,
-        "goalDifference": 11,
-        "points": 10,
         "form": ""
       },
       {
@@ -1627,6 +1627,19 @@
       },
       {
         "position": 11,
+        "team": "Moreirense",
+        "played": 5,
+        "won": 1,
+        "drawn": 2,
+        "lost": 2,
+        "goalsFor": 4,
+        "goalsAgainst": 8,
+        "goalDifference": -4,
+        "points": 5,
+        "form": ""
+      },
+      {
+        "position": 12,
         "team": "CD Nacional",
         "played": 5,
         "won": 1,
@@ -1639,7 +1652,7 @@
         "form": ""
       },
       {
-        "position": 12,
+        "position": 13,
         "team": "Vitória SC",
         "played": 5,
         "won": 1,
@@ -1648,19 +1661,6 @@
         "goalsFor": 3,
         "goalsAgainst": 5,
         "goalDifference": -2,
-        "points": 4,
-        "form": ""
-      },
-      {
-        "position": 13,
-        "team": "Moreirense",
-        "played": 4,
-        "won": 1,
-        "drawn": 1,
-        "lost": 2,
-        "goalsFor": 4,
-        "goalsAgainst": 8,
-        "goalDifference": -4,
         "points": 4,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-09T15:49:46.412Z"
+  "generatedAt": "2026-09-09T20:20:32.938Z"
 }

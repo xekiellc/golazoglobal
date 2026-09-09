@@ -804,7 +804,7 @@
           "name": "Jimmy Morgan",
           "team": "West Brom",
           "goals": 3,
-          "assists": 2,
+          "assists": 3,
           "penalties": 0
         },
         {
@@ -855,7 +855,7 @@
           "name": "Jimmy Morgan",
           "team": "West Brom",
           "goals": 3,
-          "assists": 2,
+          "assists": 3,
           "penalties": 0
         },
         {
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-09T15:50:53.545Z"
+  "generatedAt": "2026-09-09T20:21:37.544Z"
 }
