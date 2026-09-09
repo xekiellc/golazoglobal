@@ -1,46 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Transfer named as top performer by PFF f",
+      "player": "Iowa football praises 'best' version of ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2026/09/08/notre-dame-football-news-update-pff-grades-week-1-wisconsin-defense-francis-brewu/91653566007/",
-      "publishedAt": "2026-09-08T10:31:06Z"
+      "url": "https://hawkeyeswire.usatoday.com/story/sports/college/hawkeyes/football/2026/09/08/iowa-football-kamari-moulton-kirk-ferentz-best-version/91643784007/",
+      "publishedAt": "2026-09-08T15:45:20Z"
     },
     {
-      "player": "I’m still thinking about the star power ",
+      "player": "Scotland defender Souttar may leave Rang",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-football/121392/still-thinking-about-ohio-state-vs-ball-state-freshmen-chris-henry-jr-legend-bey-jay-timmons",
-      "publishedAt": "2026-09-08T10:31:00Z"
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/articles/cpq0vz3v0plo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "publishedAt": "2026-09-08T15:44:42Z"
     },
     {
-      "player": "When is Miami football vs FAMU? Time, da",
+      "player": "LSU football QB Sam Leavitt wins major S",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Palm Beach Post",
-      "url": "https://www.palmbeachpost.com/story/sports/college/hurricanes/2026/09/08/miami-florida-am-game-time-prediction/91633066007/",
-      "publishedAt": "2026-09-08T10:06:02Z"
+      "source": "USA Today",
+      "url": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/football/2026/09/08/lsu-football-sam-leavitt-quarterback-clemson-sec-player-of-week/91651974007/",
+      "publishedAt": "2026-09-08T15:42:44Z"
     },
     {
-      "player": "College football rankings after Week 1",
+      "player": "Carmari Solomon does it all for Oviedo; ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Detroit Free Press",
-      "url": "https://www.freep.com/story/sports/college/2026/09/08/college-rankings-football-top-25-ap-coaches-poll-big-ten-week-1/91644047007/",
-      "publishedAt": "2026-09-08T10:05:39Z"
+      "source": "Orlando Sentinel",
+      "url": "https://www.orlandosentinel.com/2026/09/08/carmari-solomon-does-it-all-for-oviedo-former-ocp-back-shines-at-umass-football-insider/",
+      "publishedAt": "2026-09-08T15:40:00Z"
+    },
+    {
+      "player": "Lane Kiffin praises transfer running bac",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/football/2026/09/08/lsu-football-dilin-jones-lane-kiffin-clemson-game/91653551007/",
+      "publishedAt": "2026-09-08T15:38:12Z"
     }
   ],
-  "generatedAt": "2026-09-09T10:37:47.580Z",
+  "generatedAt": "2026-09-09T15:47:17.932Z",
   "note": "Transfers derived from news headlines at launch."
 }
