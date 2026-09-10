@@ -728,7 +728,7 @@
           "name": "Pau Victor Delgado",
           "team": "Braga",
           "goals": 3,
-          "assists": 0,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-10T15:46:02.567Z"
+  "generatedAt": "2026-09-10T20:23:50.907Z"
 }

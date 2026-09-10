@@ -1,36 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Florida High School Football Coach Moved",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "BroBible",
-      "url": "https://brobible.com/sports/article/florida-high-school-football-lely-fire-dan-nieboer/",
-      "publishedAt": "2026-09-09T15:41:09Z"
-    },
-    {
-      "player": "2026 College Football Playoff bracket pr",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/2026-college-football-playoff-bracket-projection-western-michigan-ohio-state-texas/",
-      "publishedAt": "2026-09-09T15:25:24Z"
-    },
-    {
-      "player": "Liverpool considered moves for Chelsea m",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Anfieldindex.com",
-      "url": "https://anfieldindex.com/99784/liverpool-considered-moves-for-chelsea-man-and-psg-star-this-summer.html",
-      "publishedAt": "2026-09-09T15:25:00Z"
-    }
-  ],
-  "generatedAt": "2026-09-10T15:42:22.725Z",
+  "transfers": [],
+  "generatedAt": "2026-09-10T20:20:16.487Z",
   "note": "Transfers derived from news headlines at launch."
 }

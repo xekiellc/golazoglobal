@@ -2,6 +2,51 @@
   "matches": [
     {
       "league": "CL",
+      "homeTeam": "Bayern",
+      "awayTeam": "Bodø/Glimt",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-10T19:00:00Z"
+    },
+    {
+      "league": "CL",
+      "homeTeam": "Man United",
+      "awayTeam": "Sabah FK",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-10T19:00:00Z"
+    },
+    {
+      "league": "CL",
+      "homeTeam": "Como 1907",
+      "awayTeam": "RB Leipzig",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-10T19:00:00Z"
+    },
+    {
+      "league": "CL",
+      "homeTeam": "Slavia Praha",
+      "awayTeam": "RC Lens",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-10T19:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Amadora",
+      "awayTeam": "Braga",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-10T19:15:00Z"
+    },
+    {
+      "league": "CL",
       "homeTeam": "Barça",
       "awayTeam": "Feyenoord",
       "homeScore": 5,
@@ -55,13 +100,22 @@
       "utcDate": "2026-09-09T19:00:00Z"
     },
     {
-      "league": "DED",
-      "homeTeam": "Twente",
-      "awayTeam": "Telstar",
+      "league": "CL",
+      "homeTeam": "Fenerbahçe",
+      "awayTeam": "Roma",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "FINISHED",
-      "utcDate": "2026-09-09T16:45:00Z"
+      "utcDate": "2026-09-10T16:45:00Z"
+    },
+    {
+      "league": "CL",
+      "homeTeam": "PSV",
+      "awayTeam": "Shaktar",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-10T16:45:00Z"
     },
     {
       "league": "PPL",
@@ -100,68 +154,14 @@
       "utcDate": "2026-09-09T19:00:00Z"
     },
     {
-      "league": "CL",
-      "homeTeam": "Fenerbahçe",
-      "awayTeam": "Roma",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-10T16:45:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "PSV",
-      "awayTeam": "Shaktar",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-10T16:45:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Bayern",
-      "awayTeam": "Bodø/Glimt",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-10T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Man United",
-      "awayTeam": "Sabah FK",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-10T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Como 1907",
-      "awayTeam": "RB Leipzig",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-10T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Slavia Praha",
-      "awayTeam": "RC Lens",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-10T19:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Amadora",
-      "awayTeam": "Braga",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-10T19:15:00Z"
+      "league": "DED",
+      "homeTeam": "Twente",
+      "awayTeam": "Telstar",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "2026-09-09 15:45:00Z",
+      "utcDate": "2026-09-09T16:45:00Z"
     }
   ],
-  "generatedAt": "2026-09-10T15:43:49.261Z"
+  "generatedAt": "2026-09-10T20:21:40.835Z"
 }

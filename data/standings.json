@@ -1563,14 +1563,14 @@
       {
         "position": 6,
         "team": "Braga",
-        "played": 3,
+        "played": 4,
         "won": 2,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
-        "goalsFor": 5,
-        "goalsAgainst": 3,
+        "goalsFor": 6,
+        "goalsAgainst": 4,
         "goalDifference": 2,
-        "points": 7,
+        "points": 8,
         "form": ""
       },
       {
@@ -1588,6 +1588,19 @@
       },
       {
         "position": 8,
+        "team": "Amadora",
+        "played": 5,
+        "won": 1,
+        "drawn": 4,
+        "lost": 0,
+        "goalsFor": 10,
+        "goalsAgainst": 9,
+        "goalDifference": 1,
+        "points": 7,
+        "form": ""
+      },
+      {
+        "position": 9,
         "team": "Marítimo",
         "played": 5,
         "won": 2,
@@ -1597,19 +1610,6 @@
         "goalsAgainst": 8,
         "goalDifference": -2,
         "points": 7,
-        "form": ""
-      },
-      {
-        "position": 9,
-        "team": "Amadora",
-        "played": 4,
-        "won": 1,
-        "drawn": 3,
-        "lost": 0,
-        "goalsFor": 9,
-        "goalsAgainst": 8,
-        "goalDifference": 1,
-        "points": 6,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-10T15:44:53.189Z"
+  "generatedAt": "2026-09-10T20:22:43.568Z"
 }
