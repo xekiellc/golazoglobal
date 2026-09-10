@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Pat Fitzgerald Tells Spartans Playing Ti",
+      "player": "Marcus Freeman updates injury status Bra",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Detroit Sports Nation",
-      "url": "https://detroitsportsnation.com/pat-fitzgerald-michigan-state-practice-better-playing-time/akutchey/college-sports/msu-news/09/08/2026/492759/",
-      "publishedAt": "2026-09-09T00:20:00Z"
+      "source": "USA Today",
+      "url": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2026/09/09/notre-dame-football-news-injury-update-brauntae-johnson-jason-onye-out-weeks-marcus-freeman/91666304007/",
+      "publishedAt": "2026-09-09T10:06:35Z"
     },
     {
-      "player": "College Football Playoff Predictions 202",
+      "player": "Jeremiah Smith has been quiet against Te",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Pro Football Network",
-      "url": "https://www.profootballnetwork.com/cfb/college-football-playoff-predictions-week-1-2026/",
-      "publishedAt": "2026-09-09T00:16:03Z"
-    },
-    {
-      "player": "Paul Finebaum explains how USC head coac",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/paul-finebaum-explains-how-usc-head-coach-lincoln-rileys-hot-seat-can-cool-down/",
-      "publishedAt": "2026-09-09T00:06:15Z"
+      "source": "Fci Academy",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/09/ohio-state-football-jeremiah-smith-texas-rematch/91661201007/",
+      "publishedAt": "2026-09-09T10:06:26Z"
     }
   ],
-  "generatedAt": "2026-09-10T00:45:27.927Z",
+  "generatedAt": "2026-09-10T10:25:34.114Z",
   "note": "Transfers derived from news headlines at launch."
 }

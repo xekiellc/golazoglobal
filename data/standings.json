@@ -1733,6 +1733,19 @@
     "ELC": [
       {
         "position": 1,
+        "team": "West Brom",
+        "played": 6,
+        "won": 4,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 9,
+        "goalsAgainst": 6,
+        "goalDifference": 3,
+        "points": 13,
+        "form": ""
+      },
+      {
+        "position": 2,
         "team": "West Ham",
         "played": 6,
         "won": 3,
@@ -1745,7 +1758,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Swansea",
         "played": 6,
         "won": 3,
@@ -1758,7 +1771,33 @@
         "form": ""
       },
       {
-        "position": 3,
+        "position": 4,
+        "team": "QPR",
+        "played": 6,
+        "won": 3,
+        "drawn": 2,
+        "lost": 1,
+        "goalsFor": 7,
+        "goalsAgainst": 4,
+        "goalDifference": 3,
+        "points": 11,
+        "form": ""
+      },
+      {
+        "position": 5,
+        "team": "Charlton",
+        "played": 6,
+        "won": 3,
+        "drawn": 2,
+        "lost": 1,
+        "goalsFor": 6,
+        "goalsAgainst": 7,
+        "goalDifference": -1,
+        "points": 11,
+        "form": ""
+      },
+      {
+        "position": 6,
         "team": "Middlesbrough",
         "played": 5,
         "won": 3,
@@ -1771,20 +1810,7 @@
         "form": ""
       },
       {
-        "position": 4,
-        "team": "QPR",
-        "played": 5,
-        "won": 3,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 7,
-        "goalsAgainst": 4,
-        "goalDifference": 3,
-        "points": 10,
-        "form": ""
-      },
-      {
-        "position": 5,
+        "position": 7,
         "team": "Bristol City",
         "played": 5,
         "won": 3,
@@ -1793,32 +1819,6 @@
         "goalsFor": 9,
         "goalsAgainst": 7,
         "goalDifference": 2,
-        "points": 10,
-        "form": ""
-      },
-      {
-        "position": 6,
-        "team": "West Brom",
-        "played": 5,
-        "won": 3,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 8,
-        "goalsAgainst": 6,
-        "goalDifference": 2,
-        "points": 10,
-        "form": ""
-      },
-      {
-        "position": 7,
-        "team": "Charlton",
-        "played": 5,
-        "won": 3,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 6,
-        "goalsAgainst": 7,
-        "goalDifference": -1,
         "points": 10,
         "form": ""
       },
@@ -1837,6 +1837,19 @@
       },
       {
         "position": 9,
+        "team": "Norwich",
+        "played": 6,
+        "won": 3,
+        "drawn": 0,
+        "lost": 3,
+        "goalsFor": 10,
+        "goalsAgainst": 9,
+        "goalDifference": 1,
+        "points": 9,
+        "form": ""
+      },
+      {
+        "position": 10,
         "team": "Sheffield Utd",
         "played": 6,
         "won": 2,
@@ -1849,7 +1862,7 @@
         "form": ""
       },
       {
-        "position": 10,
+        "position": 11,
         "team": "Wolverhampton",
         "played": 5,
         "won": 2,
@@ -1862,7 +1875,7 @@
         "form": ""
       },
       {
-        "position": 11,
+        "position": 12,
         "team": "Watford",
         "played": 6,
         "won": 2,
@@ -1875,7 +1888,7 @@
         "form": ""
       },
       {
-        "position": 12,
+        "position": 13,
         "team": "Southampton",
         "played": 6,
         "won": 3,
@@ -1888,7 +1901,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Wrexham",
         "played": 6,
         "won": 1,
@@ -1901,20 +1914,20 @@
         "form": ""
       },
       {
-        "position": 14,
+        "position": 15,
         "team": "Birmingham",
-        "played": 5,
+        "played": 6,
         "won": 1,
         "drawn": 4,
-        "lost": 0,
-        "goalsFor": 7,
-        "goalsAgainst": 6,
-        "goalDifference": 1,
+        "lost": 1,
+        "goalsFor": 8,
+        "goalsAgainst": 8,
+        "goalDifference": 0,
         "points": 7,
         "form": ""
       },
       {
-        "position": 15,
+        "position": 16,
         "team": "Stoke",
         "played": 6,
         "won": 2,
@@ -1924,19 +1937,6 @@
         "goalsAgainst": 10,
         "goalDifference": -1,
         "points": 7,
-        "form": ""
-      },
-      {
-        "position": 16,
-        "team": "Norwich",
-        "played": 5,
-        "won": 2,
-        "drawn": 0,
-        "lost": 3,
-        "goalsFor": 8,
-        "goalsAgainst": 8,
-        "goalDifference": 0,
-        "points": 6,
         "form": ""
       },
       {
@@ -1993,19 +1993,6 @@
       },
       {
         "position": 21,
-        "team": "Derby County",
-        "played": 5,
-        "won": 1,
-        "drawn": 1,
-        "lost": 3,
-        "goalsFor": 5,
-        "goalsAgainst": 10,
-        "goalDifference": -5,
-        "points": 4,
-        "form": ""
-      },
-      {
-        "position": 22,
         "team": "Bolton",
         "played": 6,
         "won": 1,
@@ -2013,6 +2000,19 @@
         "lost": 4,
         "goalsFor": 6,
         "goalsAgainst": 12,
+        "goalDifference": -6,
+        "points": 4,
+        "form": ""
+      },
+      {
+        "position": 22,
+        "team": "Derby County",
+        "played": 6,
+        "won": 1,
+        "drawn": 1,
+        "lost": 4,
+        "goalsFor": 5,
+        "goalsAgainst": 11,
         "goalDifference": -6,
         "points": 4,
         "form": ""
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-10T00:47:53.762Z"
+  "generatedAt": "2026-09-10T10:27:58.837Z"
 }
