@@ -671,15 +671,22 @@
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
-          "goals": 5,
+          "goals": 6,
           "assists": 2,
-          "penalties": 0
+          "penalties": 1
         },
         {
           "name": "Leandro Antonetti",
           "team": "Amadora",
           "goals": 4,
           "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Gianluca Prestianni",
+          "team": "SL Benfica",
+          "goals": 4,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -725,13 +732,6 @@
           "penalties": 0
         },
         {
-          "name": "Gianluca Prestianni",
-          "team": "SL Benfica",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
           "name": "Flávio Gonçalves",
           "team": "Sporting CP",
           "goals": 3,
@@ -743,7 +743,14 @@
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
-          "goals": 5,
+          "goals": 6,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
+          "name": "Gianluca Prestianni",
+          "team": "SL Benfica",
+          "goals": 4,
           "assists": 2,
           "penalties": 0
         },
@@ -767,13 +774,6 @@
           "goals": 4,
           "assists": 1,
           "penalties": 1
-        },
-        {
-          "name": "Gianluca Prestianni",
-          "team": "SL Benfica",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-09T20:21:37.544Z"
+  "generatedAt": "2026-09-10T00:49:01.024Z"
 }

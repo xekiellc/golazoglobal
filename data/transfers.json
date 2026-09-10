@@ -1,56 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Texas Tech football gears up for Oregon ",
+      "player": "Pat Fitzgerald Tells Spartans Playing Ti",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "LubbockOnline.com",
-      "url": "https://www.lubbockonline.com/story/sports/college/red-raiders/2026/09/08/texas-tech-football-oregon-state-braden-atkinson/91604791007/",
-      "publishedAt": "2026-09-08T20:09:32Z"
+      "source": "Detroit Sports Nation",
+      "url": "https://detroitsportsnation.com/pat-fitzgerald-michigan-state-practice-better-playing-time/akutchey/college-sports/msu-news/09/08/2026/492759/",
+      "publishedAt": "2026-09-09T00:20:00Z"
     },
     {
-      "player": "Key Takeaways From Brent Venables' Press",
+      "player": "College Football Playoff Predictions 202",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/oklahoma/news/key-takeaways-from-brent-venables-press-conference-ahead-of-oklahomas-matchup-vs-michigan",
-      "publishedAt": "2026-09-08T20:05:27Z"
+      "source": "Pro Football Network",
+      "url": "https://www.profootballnetwork.com/cfb/college-football-playoff-predictions-week-1-2026/",
+      "publishedAt": "2026-09-09T00:16:03Z"
     },
     {
-      "player": "Iowa football coach Kirk Ferentz gives u",
+      "player": "Paul Finebaum explains how USC head coac",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Hawk Central",
-      "url": "https://www.hawkcentral.com/story/sports/college/iowa/football/2026/09/08/iowa-football-kirk-ferentz-hawkeyes-cyclones-cy-hawk-rivalry-phillips/91662525007/",
-      "publishedAt": "2026-09-08T20:04:01Z"
-    },
-    {
-      "player": "Texas A&M Climbs to No. 9 After Dominant",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/texas-am/news/texas-a-m-climbs-to-no-9-after-dominant-50-0-season-opener",
-      "publishedAt": "2026-09-08T20:00:38Z"
-    },
-    {
-      "player": "Oklahoma State football players response",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Oklahoman.com",
-      "url": "https://www.oklahoman.com/story/sports/college/cowboys/2026/09/08/oklahoma-state-football-coach-eric-morris-loss-tulsa-osu-cowboys-oregon-ducks/91652477007/",
-      "publishedAt": "2026-09-08T19:57:37Z"
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/paul-finebaum-explains-how-usc-head-coach-lincoln-rileys-hot-seat-can-cool-down/",
+      "publishedAt": "2026-09-09T00:06:15Z"
     }
   ],
-  "generatedAt": "2026-09-09T20:18:07.337Z",
+  "generatedAt": "2026-09-10T00:45:27.927Z",
   "note": "Transfers derived from news headlines at launch."
 }
