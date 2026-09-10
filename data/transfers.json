@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Marcus Freeman updates injury status Bra",
+      "player": "Florida High School Football Coach Moved",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2026/09/09/notre-dame-football-news-injury-update-brauntae-johnson-jason-onye-out-weeks-marcus-freeman/91666304007/",
-      "publishedAt": "2026-09-09T10:06:35Z"
+      "source": "BroBible",
+      "url": "https://brobible.com/sports/article/florida-high-school-football-lely-fire-dan-nieboer/",
+      "publishedAt": "2026-09-09T15:41:09Z"
     },
     {
-      "player": "Jeremiah Smith has been quiet against Te",
+      "player": "2026 College Football Playoff bracket pr",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fci Academy",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/09/ohio-state-football-jeremiah-smith-texas-rematch/91661201007/",
-      "publishedAt": "2026-09-09T10:06:26Z"
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/2026-college-football-playoff-bracket-projection-western-michigan-ohio-state-texas/",
+      "publishedAt": "2026-09-09T15:25:24Z"
+    },
+    {
+      "player": "Liverpool considered moves for Chelsea m",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Anfieldindex.com",
+      "url": "https://anfieldindex.com/99784/liverpool-considered-moves-for-chelsea-man-and-psg-star-this-summer.html",
+      "publishedAt": "2026-09-09T15:25:00Z"
     }
   ],
-  "generatedAt": "2026-09-10T10:25:34.114Z",
+  "generatedAt": "2026-09-10T15:42:22.725Z",
   "note": "Transfers derived from news headlines at launch."
 }
