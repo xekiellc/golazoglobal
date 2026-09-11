@@ -1562,15 +1562,15 @@
       },
       {
         "position": 6,
-        "team": "Braga",
-        "played": 4,
+        "team": "Amadora",
+        "played": 5,
         "won": 2,
-        "drawn": 2,
+        "drawn": 3,
         "lost": 0,
-        "goalsFor": 6,
-        "goalsAgainst": 4,
+        "goalsFor": 11,
+        "goalsAgainst": 9,
         "goalDifference": 2,
-        "points": 8,
+        "points": 9,
         "form": ""
       },
       {
@@ -1588,13 +1588,13 @@
       },
       {
         "position": 8,
-        "team": "Amadora",
-        "played": 5,
-        "won": 1,
-        "drawn": 4,
-        "lost": 0,
-        "goalsFor": 10,
-        "goalsAgainst": 9,
+        "team": "Braga",
+        "played": 4,
+        "won": 2,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 6,
+        "goalsAgainst": 5,
         "goalDifference": 1,
         "points": 7,
         "form": ""
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-10T20:22:43.568Z"
+  "generatedAt": "2026-09-11T00:49:20.472Z"
 }

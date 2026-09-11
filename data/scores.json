@@ -2,105 +2,6 @@
   "matches": [
     {
       "league": "CL",
-      "homeTeam": "Bayern",
-      "awayTeam": "Bodø/Glimt",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-09-10T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Man United",
-      "awayTeam": "Sabah FK",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-09-10T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Como 1907",
-      "awayTeam": "RB Leipzig",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-09-10T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Slavia Praha",
-      "awayTeam": "RC Lens",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-09-10T19:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Amadora",
-      "awayTeam": "Braga",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-09-10T19:15:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Barça",
-      "awayTeam": "Feyenoord",
-      "homeScore": 5,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-09T16:45:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Stuttgart",
-      "awayTeam": "Viking",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-09T16:45:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Liverpool",
-      "awayTeam": "Atleti",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-09T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "PSG",
-      "awayTeam": "Sl. Bratislava",
-      "homeScore": 6,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-09T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Napoli",
-      "awayTeam": "Arsenal",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-09T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Sporting CP",
-      "awayTeam": "Galatasaray",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-09T19:00:00Z"
-    },
-    {
-      "league": "CL",
       "homeTeam": "Fenerbahçe",
       "awayTeam": "Roma",
       "homeScore": 1,
@@ -118,50 +19,113 @@
       "utcDate": "2026-09-10T16:45:00Z"
     },
     {
-      "league": "PPL",
-      "homeTeam": "Moreirense",
-      "awayTeam": "SL Benfica",
-      "homeScore": 0,
-      "awayScore": 4,
+      "league": "CL",
+      "homeTeam": "Bayern",
+      "awayTeam": "Bodø/Glimt",
+      "homeScore": 5,
+      "awayScore": 0,
       "status": "FINISHED",
-      "utcDate": "2026-09-09T19:45:00Z"
+      "utcDate": "2026-09-10T19:00:00Z"
     },
     {
-      "league": "ELC",
-      "homeTeam": "Derby County",
-      "awayTeam": "West Brom",
-      "homeScore": 0,
+      "league": "CL",
+      "homeTeam": "Man United",
+      "awayTeam": "Sabah FK",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-09-10T19:00:00Z"
+    },
+    {
+      "league": "CL",
+      "homeTeam": "Como 1907",
+      "awayTeam": "RB Leipzig",
+      "homeScore": 4,
       "awayScore": 1,
       "status": "FINISHED",
-      "utcDate": "2026-09-09T18:45:00Z"
+      "utcDate": "2026-09-10T19:00:00Z"
     },
     {
-      "league": "ELC",
-      "homeTeam": "Norwich",
-      "awayTeam": "Birmingham",
+      "league": "CL",
+      "homeTeam": "Slavia Praha",
+      "awayTeam": "RC Lens",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-09-10T19:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Amadora",
+      "awayTeam": "Braga",
       "homeScore": 2,
       "awayScore": 1,
       "status": "FINISHED",
-      "utcDate": "2026-09-09T18:45:00Z"
+      "utcDate": "2026-09-10T19:15:00Z"
     },
     {
-      "league": "ELC",
-      "homeTeam": "Charlton",
-      "awayTeam": "QPR",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-09-09T19:00:00Z"
+      "league": "PD",
+      "homeTeam": "Sevilla FC",
+      "awayTeam": "Valencia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-09-11T19:00:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Venezia FC",
+      "awayTeam": "Fiorentina",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-09-11T18:45:00Z"
+    },
+    {
+      "league": "BL1",
+      "homeTeam": "Union Berlin",
+      "awayTeam": "Schalke",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-09-11T18:30:00Z"
+    },
+    {
+      "league": "FL1",
+      "homeTeam": "Stade Rennais",
+      "awayTeam": "Marseille",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-09-11T18:45:00Z"
     },
     {
       "league": "DED",
-      "homeTeam": "Twente",
-      "awayTeam": "Telstar",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "2026-09-09 15:45:00Z",
-      "utcDate": "2026-09-09T16:45:00Z"
+      "homeTeam": "AZ",
+      "awayTeam": "Willem II",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-09-11T18:00:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "West Ham",
+      "awayTeam": "Wrexham",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-09-11T19:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Paranaense",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-09-12T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-09-10T20:21:40.835Z"
+  "generatedAt": "2026-09-11T00:48:18.066Z"
 }
