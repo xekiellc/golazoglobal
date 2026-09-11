@@ -1,16 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Michael Carroll is doubtful for Alabama ",
+      "player": "Boston College vs. Rutgers Tickets",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Tuscaloosa News",
-      "url": "https://www.tuscaloosanews.com/story/sports/college/football/2026/09/10/how-alabama-football-could-replace-michael-carroll-on-offensive-line/91598356007/",
-      "publishedAt": "2026-09-10T15:37:40Z"
+      "source": "NESN",
+      "url": "https://nesn.com/tickets/news/boston-college-vs-rutgers-tickets-prices-sept-11-college-football/eb70d482d035006b4a614713",
+      "publishedAt": "2026-09-10T20:18:07Z"
+    },
+    {
+      "player": "‘Stressed’ Kim Zolciak and ‘somber’ Kroy",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Page Six",
+      "url": "https://pagesix.com/2026/09/10/celebrity-news/stressed-kim-zolciak-and-somber-kroy-biermann-spotted-ahead-of-kjs-hearing-in-sexual-battery-case/",
+      "publishedAt": "2026-09-10T20:10:33Z"
+    },
+    {
+      "player": "Texas Tech vs. Oregon State prediction, ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/texas-tech-oregon-state-prediction-picks-odds-spread-where-to-watch-live/",
+      "publishedAt": "2026-09-10T20:00:46Z"
+    },
+    {
+      "player": "Oklahoma has 'Tremendous Respect' for Mi",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/oklahoma/football/oklahoma-has-tremendous-respect-for-michigan-despite-bizarre-week-1-victory-01m245r4j7s8",
+      "publishedAt": "2026-09-10T20:00:03Z"
     }
   ],
-  "generatedAt": "2026-09-11T15:43:24.314Z",
+  "generatedAt": "2026-09-11T20:20:44.270Z",
   "note": "Transfers derived from news headlines at launch."
 }

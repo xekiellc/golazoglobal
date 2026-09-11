@@ -607,6 +607,13 @@
           "penalties": 0
         },
         {
+          "name": "Devin Haen",
+          "team": "Willem II",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Luciano Valente",
           "team": "Feyenoord",
           "goals": 3,
@@ -618,13 +625,6 @@
           "team": "Groningen",
           "goals": 3,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Thom van Bergen",
-          "team": "Groningen",
-          "goals": 3,
-          "assists": 2,
           "penalties": 0
         }
       ],
@@ -644,16 +644,16 @@
           "penalties": 0
         },
         {
-          "name": "Thom van Bergen",
-          "team": "Groningen",
-          "goals": 3,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
           "name": "Milan Zonneveld",
           "team": "Sparta",
           "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Devin Haen",
+          "team": "Willem II",
+          "goals": 3,
           "assists": 1,
           "penalties": 0
         },
@@ -801,6 +801,13 @@
           "penalties": 0
         },
         {
+          "name": "Jarrod Bowen",
+          "team": "West Ham",
+          "goals": 4,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
           "name": "Jimmy Morgan",
           "team": "West Brom",
           "goals": 3,
@@ -810,6 +817,13 @@
         {
           "name": "Tyreece Campbell",
           "team": "Charlton",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Joël Piroe",
+          "team": "West Ham",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -829,23 +843,9 @@
           "penalties": 0
         },
         {
-          "name": "Jarrod Bowen",
+          "name": "Konstantinos Mavropanos",
           "team": "West Ham",
           "goals": 3,
-          "assists": 2,
-          "penalties": 1
-        },
-        {
-          "name": "Callum Lang",
-          "team": "Preston NE",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Marshall Munetsi",
-          "team": "Wolverhampton",
-          "goals": 2,
           "assists": 0,
           "penalties": 0
         }
@@ -861,7 +861,7 @@
         {
           "name": "Jarrod Bowen",
           "team": "West Ham",
-          "goals": 3,
+          "goals": 4,
           "assists": 2,
           "penalties": 1
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-11T15:46:53.144Z"
+  "generatedAt": "2026-09-11T20:24:20.331Z"
 }
