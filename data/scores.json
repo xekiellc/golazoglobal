@@ -69,7 +69,7 @@
       "awayTeam": "Valencia",
       "homeScore": null,
       "awayScore": null,
-      "status": "TIMED",
+      "status": "2026-09-11 18:00:00Z",
       "utcDate": "2026-09-11T19:00:00Z"
     },
     {
@@ -114,7 +114,7 @@
       "awayTeam": "Wrexham",
       "homeScore": null,
       "awayScore": null,
-      "status": "TIMED",
+      "status": "2026-09-11 18:00:00Z",
       "utcDate": "2026-09-11T19:00:00Z"
     },
     {
@@ -127,5 +127,5 @@
       "utcDate": "2026-09-12T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-09-11T00:48:18.066Z"
+  "generatedAt": "2026-09-11T10:29:33.078Z"
 }
