@@ -114,7 +114,7 @@
       "awayTeam": "Wrexham",
       "homeScore": null,
       "awayScore": null,
-      "status": "2026-09-11 18:00:00Z",
+      "status": "TIMED",
       "utcDate": "2026-09-11T19:00:00Z"
     },
     {
@@ -127,5 +127,5 @@
       "utcDate": "2026-09-12T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-09-11T10:29:33.078Z"
+  "generatedAt": "2026-09-11T15:44:46.681Z"
 }

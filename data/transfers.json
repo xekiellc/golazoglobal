@@ -1,46 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Texas A&M vs. Arizona State",
+      "player": "Michael Carroll is doubtful for Alabama ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/09/10/texas-aggies-football-arizona-state-preview-scouting-report-week-two/91683828007/",
-      "publishedAt": "2026-09-10T10:15:34Z"
-    },
-    {
-      "player": "Everything Mike Elko said during the Agg",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/09/10/mike-elkos-aggie-football-hour-quotes-before-hosting-arizona-state-texas-aggies-football/91685341007/",
-      "publishedAt": "2026-09-10T10:08:59Z"
-    },
-    {
-      "player": "Mississippi State AD Zac Selmon addresse",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Clarion Ledger",
-      "url": "https://www.clarionledger.com/story/sports/college/mississippi-state/2026/09/10/jeff-lebby-hot-seat-mississippi-state-zac-selmon/91632925007/",
-      "publishedAt": "2026-09-10T10:07:31Z"
-    },
-    {
-      "player": "Arch Manning failed against Ohio State l",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/10/arch-manning-ohio-state-texas-rematch-college-gameday-steve-sarkisian/91665161007/",
-      "publishedAt": "2026-09-10T10:06:58Z"
+      "source": "Tuscaloosa News",
+      "url": "https://www.tuscaloosanews.com/story/sports/college/football/2026/09/10/how-alabama-football-could-replace-michael-carroll-on-offensive-line/91598356007/",
+      "publishedAt": "2026-09-10T15:37:40Z"
     }
   ],
-  "generatedAt": "2026-09-11T10:28:08.584Z",
+  "generatedAt": "2026-09-11T15:43:24.314Z",
   "note": "Transfers derived from news headlines at launch."
 }
