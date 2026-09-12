@@ -3,6 +3,20 @@
     "PL": {
       "scorers": [
         {
+          "name": "Marcus Tavernier",
+          "team": "Bournemouth",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "João Pedro",
+          "team": "Chelsea",
+          "goals": 3,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
           "name": "Morgan Rogers",
           "team": "Chelsea",
           "goals": 3,
@@ -19,6 +33,13 @@
         {
           "name": "Alexander Isak",
           "team": "Liverpool",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Kevin Schade",
+          "team": "Brentford",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -50,30 +71,16 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Emersonn",
-          "team": "Ipswich Town",
-          "goals": 2,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Vitaly Janelt",
-          "team": "Brentford",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Marcus Tavernier",
-          "team": "Bournemouth",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "João Pedro",
+          "team": "Chelsea",
+          "goals": 3,
+          "assists": 3,
+          "penalties": 0
+        },
         {
           "name": "Morgan Rogers",
           "team": "Chelsea",
@@ -89,22 +96,15 @@
           "penalties": 1
         },
         {
-          "name": "Emersonn",
-          "team": "Ipswich Town",
-          "goals": 2,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Erling Haaland",
-          "team": "Man City",
+          "name": "Marcus Tavernier",
+          "team": "Bournemouth",
           "goals": 3,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Alexander Isak",
-          "team": "Liverpool",
+          "name": "Erling Haaland",
+          "team": "Man City",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -135,6 +135,13 @@
           "penalties": 0
         },
         {
+          "name": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Yassir Zabiri",
           "team": "Santander",
           "goals": 5,
@@ -153,13 +160,6 @@
           "team": "Barça",
           "goals": 4,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Kylian Mbappé",
-          "team": "Real Madrid",
-          "goals": 4,
-          "assists": 0,
           "penalties": 0
         },
         {
@@ -207,18 +207,18 @@
           "penalties": 0
         },
         {
+          "name": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Raphinha",
           "team": "Barça",
           "goals": 6,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Roberto Fernández",
-          "team": "Espanyol",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
@@ -343,6 +343,13 @@
           "penalties": 0
         },
         {
+          "name": "Patrik Schick",
+          "team": "Leverkusen",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Yuito Suzuki",
           "team": "Freiburg",
           "goals": 3,
@@ -350,8 +357,22 @@
           "penalties": 0
         },
         {
+          "name": "Igor Matanovic",
+          "team": "Freiburg",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Michael Gregoritsch",
           "team": "Augsburg",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Phillip Tietz",
+          "team": "Mainz",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -383,33 +404,26 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Patrik Schick",
-          "team": "Leverkusen",
-          "goals": 2,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Christian Kofane",
-          "team": "Leverkusen",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Thijs Dallinga",
-          "team": "1. FC Köln",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
         {
           "name": "Younes Ebnoutalib",
           "team": "Frankfurt",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Patrik Schick",
+          "team": "Leverkusen",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Igor Matanovic",
+          "team": "Freiburg",
           "goals": 3,
           "assists": 1,
           "penalties": 0
@@ -422,22 +436,8 @@
           "penalties": 0
         },
         {
-          "name": "Patrik Schick",
-          "team": "Leverkusen",
-          "goals": 2,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
           "name": "Yuito Suzuki",
           "team": "Freiburg",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Michael Gregoritsch",
-          "team": "Augsburg",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -489,6 +489,13 @@
           "penalties": 1
         },
         {
+          "name": "Paris Brunner",
+          "team": "Monaco",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Ferrán Torres",
           "team": "PSG",
           "goals": 2,
@@ -507,13 +514,6 @@
           "team": "Strasbourg",
           "goals": 2,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Paris Brunner",
-          "team": "Monaco",
-          "goals": 2,
-          "assists": 0,
           "penalties": 0
         }
       ],
@@ -560,13 +560,20 @@
         {
           "name": "Søren Tengstedt",
           "team": "Go Ahead",
-          "goals": 4,
+          "goals": 5,
           "assists": 2,
           "penalties": 0
         },
         {
           "name": "Ro-Zangelo Daal",
           "team": "AZ",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Brynjolfur Darri Willumsson",
+          "team": "Groningen",
           "goals": 4,
           "assists": 0,
           "penalties": 0
@@ -619,13 +626,6 @@
           "goals": 3,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Brynjolfur Darri Willumsson",
-          "team": "Groningen",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -639,7 +639,7 @@
         {
           "name": "Søren Tengstedt",
           "team": "Go Ahead",
-          "goals": 4,
+          "goals": 5,
           "assists": 2,
           "penalties": 0
         },
@@ -718,10 +718,17 @@
           "penalties": 0
         },
         {
+          "name": "André Silva",
+          "team": "Porto",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Gabriel Veiga",
           "team": "Porto",
           "goals": 3,
-          "assists": 2,
+          "assists": 3,
           "penalties": 1
         },
         {
@@ -730,16 +737,16 @@
           "goals": 3,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Flávio Gonçalves",
-          "team": "Sporting CP",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Gabriel Veiga",
+          "team": "Porto",
+          "goals": 3,
+          "assists": 3,
+          "penalties": 1
+        },
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
@@ -753,13 +760,6 @@
           "goals": 4,
           "assists": 2,
           "penalties": 0
-        },
-        {
-          "name": "Gabriel Veiga",
-          "team": "Porto",
-          "goals": 3,
-          "assists": 2,
-          "penalties": 1
         },
         {
           "name": "Gonçalo Paciência",
@@ -782,7 +782,7 @@
         {
           "name": "Cyle Larin",
           "team": "Southampton",
-          "goals": 6,
+          "goals": 7,
           "assists": 0,
           "penalties": 0
         },
@@ -815,6 +815,13 @@
           "penalties": 1
         },
         {
+          "name": "Andri Guðjohnsen",
+          "team": "Blackburn",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Jimmy Morgan",
           "team": "West Brom",
           "goals": 3,
@@ -836,17 +843,10 @@
           "penalties": 0
         },
         {
-          "name": "Joël Piroe",
-          "team": "West Ham",
+          "name": "Amin Nabizada",
+          "team": "Watford",
           "goals": 3,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Fer López",
-          "team": "Wolverhampton",
-          "goals": 3,
-          "assists": 1,
           "penalties": 0
         }
       ],
@@ -866,6 +866,13 @@
           "penalties": 1
         },
         {
+          "name": "Andri Guðjohnsen",
+          "team": "Blackburn",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Adam Idah",
           "team": "Swansea",
           "goals": 3,
@@ -873,16 +880,9 @@
           "penalties": 0
         },
         {
-          "name": "Fer López",
-          "team": "Wolverhampton",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
           "name": "Cyle Larin",
           "team": "Southampton",
-          "goals": 6,
+          "goals": 7,
           "assists": 0,
           "penalties": 0
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-12T14:55:13.181Z"
+  "generatedAt": "2026-09-12T20:07:38.920Z"
 }
