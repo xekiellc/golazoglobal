@@ -291,6 +291,19 @@
       },
       {
         "position": 3,
+        "team": "Sevilla FC",
+        "played": 5,
+        "won": 3,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 8,
+        "goalsAgainst": 6,
+        "goalDifference": 2,
+        "points": 10,
+        "form": ""
+      },
+      {
+        "position": 4,
         "team": "Real Madrid",
         "played": 4,
         "won": 3,
@@ -303,7 +316,7 @@
         "form": ""
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "Real Betis",
         "played": 4,
         "won": 3,
@@ -316,7 +329,7 @@
         "form": ""
       },
       {
-        "position": 5,
+        "position": 6,
         "team": "Deportivo",
         "played": 4,
         "won": 2,
@@ -325,19 +338,6 @@
         "goalsFor": 8,
         "goalsAgainst": 5,
         "goalDifference": 3,
-        "points": 8,
-        "form": ""
-      },
-      {
-        "position": 6,
-        "team": "Sevilla FC",
-        "played": 5,
-        "won": 2,
-        "drawn": 2,
-        "lost": 1,
-        "goalsFor": 7,
-        "goalsAgainst": 6,
-        "goalDifference": 1,
         "points": 8,
         "form": ""
       },
@@ -499,19 +499,6 @@
       },
       {
         "position": 19,
-        "team": "Valencia",
-        "played": 5,
-        "won": 0,
-        "drawn": 2,
-        "lost": 3,
-        "goalsFor": 1,
-        "goalsAgainst": 9,
-        "goalDifference": -8,
-        "points": 2,
-        "form": ""
-      },
-      {
-        "position": 20,
         "team": "Elche",
         "played": 4,
         "won": 0,
@@ -520,6 +507,19 @@
         "goalsFor": 5,
         "goalsAgainst": 12,
         "goalDifference": -7,
+        "points": 1,
+        "form": ""
+      },
+      {
+        "position": 20,
+        "team": "Valencia",
+        "played": 5,
+        "won": 0,
+        "drawn": 1,
+        "lost": 4,
+        "goalsFor": 1,
+        "goalsAgainst": 10,
+        "goalDifference": -9,
         "points": 1,
         "form": ""
       }
@@ -714,8 +714,8 @@
         "won": 1,
         "drawn": 0,
         "lost": 3,
-        "goalsFor": 4,
-        "goalsAgainst": 10,
+        "goalsFor": 5,
+        "goalsAgainst": 11,
         "goalDifference": -6,
         "points": 3,
         "form": ""
@@ -779,8 +779,8 @@
         "won": 0,
         "drawn": 0,
         "lost": 4,
-        "goalsFor": 3,
-        "goalsAgainst": 10,
+        "goalsFor": 4,
+        "goalsAgainst": 11,
         "goalDifference": -7,
         "points": 0,
         "form": ""
@@ -872,8 +872,8 @@
         "won": 1,
         "drawn": 1,
         "lost": 1,
-        "goalsFor": 2,
-        "goalsAgainst": 3,
+        "goalsFor": 3,
+        "goalsAgainst": 4,
         "goalDifference": -1,
         "points": 4,
         "form": ""
@@ -976,8 +976,8 @@
         "won": 0,
         "drawn": 1,
         "lost": 2,
-        "goalsFor": 3,
-        "goalsAgainst": 9,
+        "goalsFor": 4,
+        "goalsAgainst": 10,
         "goalDifference": -6,
         "points": 1,
         "form": ""
@@ -2074,14 +2074,14 @@
       {
         "position": 3,
         "team": "Paranaense",
-        "played": 26,
-        "won": 13,
+        "played": 27,
+        "won": 14,
         "drawn": 6,
         "lost": 7,
-        "goalsFor": 38,
+        "goalsFor": 40,
         "goalsAgainst": 28,
-        "goalDifference": 10,
-        "points": 45,
+        "goalDifference": 12,
+        "points": 48,
         "form": ""
       },
       {
@@ -2126,13 +2126,13 @@
       {
         "position": 7,
         "team": "Coritiba",
-        "played": 26,
+        "played": 27,
         "won": 10,
         "drawn": 7,
-        "lost": 9,
+        "lost": 10,
         "goalsFor": 34,
-        "goalsAgainst": 35,
-        "goalDifference": -1,
+        "goalsAgainst": 37,
+        "goalDifference": -3,
         "points": 37,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-11T20:23:12.220Z"
+  "generatedAt": "2026-09-12T00:52:52.163Z"
 }
