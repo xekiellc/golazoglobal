@@ -1,46 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Florida's Aaron Philo Lights Up New QB R",
+      "player": "Texas A&M HC Mike Elko 'doesn't care' ab",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/florida/news/floridas-aaron-philo-lights-up-new-qb-rankings-with-exceptional-debut",
-      "publishedAt": "2026-09-11T00:24:02Z"
+      "source": "USA Today",
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/09/11/texas-aggies-football-hc-mike-elko-doesnt-care-about-outside-opinions/91695940007/",
+      "publishedAt": "2026-09-11T09:45:58Z"
     },
     {
-      "player": "Why an Oklahoma State student is punishi",
+      "player": "Iowa Hawkeyes Football",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Oklahoman.com",
-      "url": "https://www.oklahoman.com/story/sports/college/cowboys/2026/09/10/oklahoma-state-student-punishing-himself-each-osu-cowboys-football-loss/91692463007/",
-      "publishedAt": "2026-09-11T00:19:59Z"
+      "source": "Black Heart Gold Pants",
+      "url": "https://www.blackheartgoldpants.com/football/69869/iowa-hawkeyes-football-iowa-state-cyclones-game-preview",
+      "publishedAt": "2026-09-11T09:30:00Z"
     },
     {
-      "player": "Penn State's Rocco Becht Climbs in QB Ra",
+      "player": "Century of history says Kentucky can't b",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/penn-state/news/penn-states-rocco-becht-climbs-in-qb-rankings",
-      "publishedAt": "2026-09-11T00:10:30Z"
-    },
-    {
-      "player": "SEC Can't Afford to Lose Tripleheader vs",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Athlon Sports",
-      "url": "https://athlonsports.com/college-football/big-ten-sec-power-conference-college-football-playoff",
-      "publishedAt": "2026-09-11T00:03:41Z"
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/09/11/kentucky-football-vs-alabama-will-stein-indiana-curt-cignetti-blueprint/91698698007/",
+      "publishedAt": "2026-09-11T09:16:12Z"
     }
   ],
-  "generatedAt": "2026-09-12T00:50:25.265Z",
+  "generatedAt": "2026-09-12T09:56:28.330Z",
   "note": "Transfers derived from news headlines at launch."
 }

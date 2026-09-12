@@ -893,9 +893,9 @@
         {
           "name": "Kevin Viveros",
           "team": "Paranaense",
-          "goals": 17,
+          "goals": 18,
           "assists": 3,
-          "penalties": 3
+          "penalties": 4
         },
         {
           "name": "Pedro",
@@ -986,9 +986,9 @@
         {
           "name": "Kevin Viveros",
           "team": "Paranaense",
-          "goals": 17,
+          "goals": 18,
           "assists": 3,
-          "penalties": 3
+          "penalties": 4
         },
         {
           "name": "Gabriel Barbosa",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-12T00:53:59.300Z"
+  "generatedAt": "2026-09-12T10:00:01.684Z"
 }

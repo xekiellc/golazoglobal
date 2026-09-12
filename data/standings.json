@@ -1733,6 +1733,19 @@
     "ELC": [
       {
         "position": 1,
+        "team": "West Ham",
+        "played": 7,
+        "won": 4,
+        "drawn": 2,
+        "lost": 1,
+        "goalsFor": 20,
+        "goalsAgainst": 9,
+        "goalDifference": 11,
+        "points": 14,
+        "form": ""
+      },
+      {
+        "position": 2,
         "team": "West Brom",
         "played": 6,
         "won": 4,
@@ -1742,19 +1755,6 @@
         "goalsAgainst": 6,
         "goalDifference": 3,
         "points": 13,
-        "form": ""
-      },
-      {
-        "position": 2,
-        "team": "West Ham",
-        "played": 6,
-        "won": 3,
-        "drawn": 2,
-        "lost": 1,
-        "goalsFor": 14,
-        "goalsAgainst": 9,
-        "goalDifference": 5,
-        "points": 11,
         "form": ""
       },
       {
@@ -1902,19 +1902,6 @@
       },
       {
         "position": 14,
-        "team": "Wrexham",
-        "played": 6,
-        "won": 1,
-        "drawn": 4,
-        "lost": 1,
-        "goalsFor": 7,
-        "goalsAgainst": 5,
-        "goalDifference": 2,
-        "points": 7,
-        "form": ""
-      },
-      {
-        "position": 15,
         "team": "Birmingham",
         "played": 6,
         "won": 1,
@@ -1927,7 +1914,7 @@
         "form": ""
       },
       {
-        "position": 16,
+        "position": 15,
         "team": "Stoke",
         "played": 6,
         "won": 2,
@@ -1936,6 +1923,19 @@
         "goalsFor": 9,
         "goalsAgainst": 10,
         "goalDifference": -1,
+        "points": 7,
+        "form": ""
+      },
+      {
+        "position": 16,
+        "team": "Wrexham",
+        "played": 7,
+        "won": 1,
+        "drawn": 4,
+        "lost": 2,
+        "goalsFor": 7,
+        "goalsAgainst": 11,
+        "goalDifference": -4,
         "points": 7,
         "form": ""
       },
@@ -2075,13 +2075,13 @@
         "position": 3,
         "team": "Paranaense",
         "played": 27,
-        "won": 14,
-        "drawn": 6,
+        "won": 13,
+        "drawn": 7,
         "lost": 7,
-        "goalsFor": 40,
-        "goalsAgainst": 28,
-        "goalDifference": 12,
-        "points": 48,
+        "goalsFor": 41,
+        "goalsAgainst": 31,
+        "goalDifference": 10,
+        "points": 46,
         "form": ""
       },
       {
@@ -2128,12 +2128,12 @@
         "team": "Coritiba",
         "played": 27,
         "won": 10,
-        "drawn": 7,
-        "lost": 10,
-        "goalsFor": 34,
-        "goalsAgainst": 37,
-        "goalDifference": -3,
-        "points": 37,
+        "drawn": 8,
+        "lost": 9,
+        "goalsFor": 37,
+        "goalsAgainst": 38,
+        "goalDifference": -1,
+        "points": 38,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-12T00:52:52.163Z"
+  "generatedAt": "2026-09-12T09:58:53.345Z"
 }
