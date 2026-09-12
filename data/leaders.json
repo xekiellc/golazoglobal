@@ -3,6 +3,13 @@
     "PL": {
       "scorers": [
         {
+          "name": "Morgan Rogers",
+          "team": "Chelsea",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Erling Haaland",
           "team": "Man City",
           "goals": 3,
@@ -45,6 +52,13 @@
           "penalties": 0
         },
         {
+          "name": "Emersonn",
+          "team": "Ipswich Town",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Vitaly Janelt",
           "team": "Brentford",
           "goals": 2,
@@ -57,29 +71,29 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Jack Hinshelwood",
-          "team": "Brighton Hove",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Anthony Elanga",
-          "team": "Newcastle",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Morgan Rogers",
+          "team": "Chelsea",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
         {
           "name": "Bruno Fernandes",
           "team": "Man United",
           "goals": 3,
           "assists": 1,
           "penalties": 1
+        },
+        {
+          "name": "Emersonn",
+          "team": "Ipswich Town",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
         },
         {
           "name": "Erling Haaland",
@@ -92,20 +106,6 @@
           "name": "Alexander Isak",
           "team": "Liverpool",
           "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Kai Havertz",
-          "team": "Arsenal",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Bukayo Saka",
-          "team": "Arsenal",
-          "goals": 2,
           "assists": 0,
           "penalties": 0
         }
@@ -121,10 +121,24 @@
           "penalties": 1
         },
         {
+          "name": "Roberto Fernández",
+          "team": "Espanyol",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Sergio Camello",
           "team": "Rayo Vallecano",
           "goals": 5,
           "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Yassir Zabiri",
+          "team": "Santander",
+          "goals": 5,
+          "assists": 0,
           "penalties": 0
         },
         {
@@ -168,30 +182,9 @@
           "goals": 4,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Mariano Díaz",
-          "team": "Alavés",
-          "goals": 3,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
-          "name": "Roberto Fernández",
-          "team": "Espanyol",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
-        {
-          "name": "Mariano Díaz",
-          "team": "Alavés",
-          "goals": 3,
-          "assists": 3,
-          "penalties": 0
-        },
         {
           "name": "Pierre-Emerick Aubameyang",
           "team": "Deportivo",
@@ -219,6 +212,13 @@
           "goals": 6,
           "assists": 0,
           "penalties": 1
+        },
+        {
+          "name": "Roberto Fernández",
+          "team": "Espanyol",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 0
         }
       ]
     },
@@ -350,6 +350,13 @@
           "penalties": 0
         },
         {
+          "name": "Michael Gregoritsch",
+          "team": "Augsburg",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Josha Vagnoman",
           "team": "Stuttgart",
           "goals": 2,
@@ -385,22 +392,15 @@
           "penalties": 0
         },
         {
-          "name": "Thijs Dallinga",
-          "team": "1. FC Köln",
+          "name": "Christian Kofane",
+          "team": "Leverkusen",
           "goals": 2,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Sehrou Guirassy",
-          "team": "Dortmund",
-          "goals": 2,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Hugo Bolin",
-          "team": "M'gladbach",
+          "name": "Thijs Dallinga",
+          "team": "1. FC Köln",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -429,15 +429,15 @@
           "penalties": 0
         },
         {
-          "name": "Sehrou Guirassy",
-          "team": "Dortmund",
-          "goals": 2,
-          "assists": 1,
+          "name": "Yuito Suzuki",
+          "team": "Freiburg",
+          "goals": 3,
+          "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Yuito Suzuki",
-          "team": "Freiburg",
+          "name": "Michael Gregoritsch",
+          "team": "Augsburg",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -780,6 +780,13 @@
     "ELC": {
       "scorers": [
         {
+          "name": "Cyle Larin",
+          "team": "Southampton",
+          "goals": 6,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "William Lankshear",
           "team": "Middlesbrough",
           "goals": 5,
@@ -787,15 +794,15 @@
           "penalties": 0
         },
         {
-          "name": "Cyle Larin",
-          "team": "Southampton",
-          "goals": 5,
+          "name": "Ethan Galbraith",
+          "team": "Stoke",
+          "goals": 4,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Ethan Galbraith",
-          "team": "Stoke",
+          "name": "Mohamed Toure",
+          "team": "Norwich",
           "goals": 4,
           "assists": 0,
           "penalties": 0
@@ -812,6 +819,13 @@
           "team": "West Brom",
           "goals": 3,
           "assists": 3,
+          "penalties": 0
+        },
+        {
+          "name": "Adam Idah",
+          "team": "Swansea",
+          "goals": 3,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -834,20 +848,6 @@
           "goals": 3,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Mohamed Toure",
-          "team": "Norwich",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Konstantinos Mavropanos",
-          "team": "West Ham",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -866,6 +866,13 @@
           "penalties": 1
         },
         {
+          "name": "Adam Idah",
+          "team": "Swansea",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Fer López",
           "team": "Wolverhampton",
           "goals": 3,
@@ -873,16 +880,9 @@
           "penalties": 0
         },
         {
-          "name": "William Lankshear",
-          "team": "Middlesbrough",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Cyle Larin",
           "team": "Southampton",
-          "goals": 5,
+          "goals": 6,
           "assists": 0,
           "penalties": 0
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-12T10:00:01.684Z"
+  "generatedAt": "2026-09-12T14:55:13.181Z"
 }

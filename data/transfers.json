@@ -1,36 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Texas A&M HC Mike Elko 'doesn't care' ab",
+      "player": "Know Thine Enemy",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/09/11/texas-aggies-football-hc-mike-elko-doesnt-care-about-outside-opinions/91695940007/",
-      "publishedAt": "2026-09-11T09:45:58Z"
+      "source": "Goodbullhunting.com",
+      "url": "https://www.goodbullhunting.com/texas-am-aggie-football/40842/know-thine-enemy-arizona-state-sun-devils",
+      "publishedAt": "2026-09-11T14:49:49Z"
     },
     {
-      "player": "Iowa Hawkeyes Football",
+      "player": "Week 2 Anxiety Rankings",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Black Heart Gold Pants",
-      "url": "https://www.blackheartgoldpants.com/football/69869/iowa-hawkeyes-football-iowa-state-cyclones-game-preview",
-      "publishedAt": "2026-09-11T09:30:00Z"
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/week-2-anxiety-rankings-dabo-swinney-steve-sarkisian/",
+      "publishedAt": "2026-09-11T14:48:21Z"
     },
     {
-      "player": "Century of history says Kentucky can't b",
+      "player": "College Football Player Props for Week 2",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/09/11/kentucky-football-vs-alabama-will-stein-indiana-curt-cignetti-blueprint/91698698007/",
-      "publishedAt": "2026-09-11T09:16:12Z"
+      "source": "Covers.com",
+      "url": "https://www.covers.com/ncaaf/player-props-best-bets-week-2-2026",
+      "publishedAt": "2026-09-11T14:48:00Z"
+    },
+    {
+      "player": "Rangers defender Olwethu Makhanya has hi",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/sport/football/article-16123793/olwethu-makhanya-rangers-defender-ibrox-south-african.html",
+      "publishedAt": "2026-09-11T14:29:09Z"
     }
   ],
-  "generatedAt": "2026-09-12T09:56:28.330Z",
+  "generatedAt": "2026-09-12T14:51:33.519Z",
   "note": "Transfers derived from news headlines at launch."
 }
