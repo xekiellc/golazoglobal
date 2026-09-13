@@ -124,7 +124,7 @@
           "name": "Raphinha",
           "team": "Barça",
           "goals": 6,
-          "assists": 0,
+          "assists": 2,
           "penalties": 1
         },
         {
@@ -132,6 +132,13 @@
           "team": "Real Madrid",
           "goals": 6,
           "assists": 1,
+          "penalties": 1
+        },
+        {
+          "name": "Lamine Yamal",
+          "team": "Barça",
+          "goals": 6,
+          "assists": 0,
           "penalties": 1
         },
         {
@@ -175,16 +182,16 @@
           "goals": 4,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Lamine Yamal",
-          "team": "Barça",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Raphinha",
+          "team": "Barça",
+          "goals": 6,
+          "assists": 2,
+          "penalties": 1
+        },
         {
           "name": "Pierre-Emerick Aubameyang",
           "team": "Deportivo",
@@ -211,13 +218,6 @@
           "team": "Real Madrid",
           "goals": 6,
           "assists": 1,
-          "penalties": 1
-        },
-        {
-          "name": "Raphinha",
-          "team": "Barça",
-          "goals": 6,
-          "assists": 0,
           "penalties": 1
         }
       ]
@@ -281,15 +281,15 @@
           "penalties": 0
         },
         {
-          "name": "Alphadjo Cisse",
-          "team": "Milan",
+          "name": "Tiago Gabriel",
+          "team": "Lecce",
           "goals": 2,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Che Adams",
-          "team": "Torino",
+          "name": "Alphadjo Cisse",
+          "team": "Milan",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -392,21 +392,28 @@
           "penalties": 0
         },
         {
-          "name": "Tim Skarke",
-          "team": "Union Berlin",
+          "name": "Antonio Nusa",
+          "team": "RB Leipzig",
           "goals": 2,
-          "assists": 0,
+          "assists": 2,
           "penalties": 0
         },
         {
-          "name": "David Mokwa Ntusu",
-          "team": "Elversberg",
+          "name": "Tim Skarke",
+          "team": "Union Berlin",
           "goals": 2,
           "assists": 0,
           "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Antonio Nusa",
+          "team": "RB Leipzig",
+          "goals": 2,
+          "assists": 2,
+          "penalties": 0
+        },
         {
           "name": "Younes Ebnoutalib",
           "team": "Frankfurt",
@@ -433,13 +440,6 @@
           "team": "Stuttgart",
           "goals": 2,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Yuito Suzuki",
-          "team": "Freiburg",
-          "goals": 3,
-          "assists": 0,
           "penalties": 0
         }
       ]
@@ -496,6 +496,13 @@
           "penalties": 0
         },
         {
+          "name": "Tiago Santos",
+          "team": "Lille",
+          "goals": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Ferrán Torres",
           "team": "PSG",
           "goals": 2,
@@ -507,13 +514,6 @@
           "team": "PSG",
           "goals": 2,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Gessime Yassine",
-          "team": "Strasbourg",
-          "goals": 2,
-          "assists": 1,
           "penalties": 0
         }
       ],
@@ -533,13 +533,6 @@
           "penalties": 3
         },
         {
-          "name": "Gessime Yassine",
-          "team": "Strasbourg",
-          "goals": 2,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
           "name": "Amine Gouiri",
           "team": "Marseille",
           "goals": 4,
@@ -552,6 +545,13 @@
           "goals": 4,
           "assists": 0,
           "penalties": 2
+        },
+        {
+          "name": "Louis Mafouta",
+          "team": "Le Mans",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 1
         }
       ]
     },
@@ -570,6 +570,13 @@
           "goals": 5,
           "assists": 0,
           "penalties": 1
+        },
+        {
+          "name": "Gjivai Zechiël",
+          "team": "Feyenoord",
+          "goals": 5,
+          "assists": 3,
+          "penalties": 0
         },
         {
           "name": "Ro-Zangelo Daal",
@@ -600,13 +607,6 @@
           "penalties": 0
         },
         {
-          "name": "Gjivai Zechiël",
-          "team": "Feyenoord",
-          "goals": 4,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
           "name": "David Garden",
           "team": "Excelsior",
           "goals": 3,
@@ -632,7 +632,7 @@
         {
           "name": "Gjivai Zechiël",
           "team": "Feyenoord",
-          "goals": 4,
+          "goals": 5,
           "assists": 3,
           "penalties": 0
         },
@@ -822,6 +822,13 @@
           "penalties": 0
         },
         {
+          "name": "Raúl Jiménez",
+          "team": "Wolverhampton",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "Jimmy Morgan",
           "team": "West Brom",
           "goals": 3,
@@ -838,13 +845,6 @@
         {
           "name": "Tyreece Campbell",
           "team": "Charlton",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Amin Nabizada",
-          "team": "Watford",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -873,17 +873,17 @@
           "penalties": 0
         },
         {
+          "name": "Raúl Jiménez",
+          "team": "Wolverhampton",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "Adam Idah",
           "team": "Swansea",
           "goals": 3,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Cyle Larin",
-          "team": "Southampton",
-          "goals": 7,
-          "assists": 0,
           "penalties": 0
         }
       ]
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-13T11:02:15.228Z"
+  "generatedAt": "2026-09-13T15:32:50.330Z"
 }
