@@ -1327,13 +1327,13 @@
       {
         "position": 6,
         "team": "Excelsior",
-        "played": 5,
+        "played": 6,
         "won": 3,
         "drawn": 1,
-        "lost": 1,
+        "lost": 2,
         "goalsFor": 12,
-        "goalsAgainst": 5,
-        "goalDifference": 7,
+        "goalsAgainst": 6,
+        "goalDifference": 6,
         "points": 10,
         "form": ""
       },
@@ -1417,6 +1417,19 @@
       },
       {
         "position": 13,
+        "team": "Utrecht",
+        "played": 6,
+        "won": 1,
+        "drawn": 2,
+        "lost": 3,
+        "goalsFor": 10,
+        "goalsAgainst": 18,
+        "goalDifference": -8,
+        "points": 5,
+        "form": ""
+      },
+      {
+        "position": 14,
         "team": "Zwolle",
         "played": 5,
         "won": 1,
@@ -1429,7 +1442,7 @@
         "form": ""
       },
       {
-        "position": 14,
+        "position": 15,
         "team": "Telstar",
         "played": 5,
         "won": 1,
@@ -1442,7 +1455,7 @@
         "form": ""
       },
       {
-        "position": 15,
+        "position": 16,
         "team": "Cambuur",
         "played": 6,
         "won": 1,
@@ -1452,19 +1465,6 @@
         "goalsAgainst": 18,
         "goalDifference": -9,
         "points": 4,
-        "form": ""
-      },
-      {
-        "position": 16,
-        "team": "Utrecht",
-        "played": 5,
-        "won": 0,
-        "drawn": 2,
-        "lost": 3,
-        "goalsFor": 9,
-        "goalsAgainst": 18,
-        "goalDifference": -9,
-        "points": 2,
         "form": ""
       },
       {
@@ -2117,8 +2117,8 @@
         "won": 12,
         "drawn": 6,
         "lost": 9,
-        "goalsFor": 38,
-        "goalsAgainst": 38,
+        "goalsFor": 39,
+        "goalsAgainst": 39,
         "goalDifference": 0,
         "points": 42,
         "form": ""
@@ -2138,19 +2138,6 @@
       },
       {
         "position": 8,
-        "team": "Bragantino",
-        "played": 26,
-        "won": 11,
-        "drawn": 5,
-        "lost": 10,
-        "goalsFor": 32,
-        "goalsAgainst": 28,
-        "goalDifference": 4,
-        "points": 38,
-        "form": ""
-      },
-      {
-        "position": 9,
         "team": "Coritiba",
         "played": 27,
         "won": 10,
@@ -2163,14 +2150,27 @@
         "form": ""
       },
       {
+        "position": 9,
+        "team": "Bragantino",
+        "played": 26,
+        "won": 10,
+        "drawn": 6,
+        "lost": 10,
+        "goalsFor": 32,
+        "goalsAgainst": 29,
+        "goalDifference": 3,
+        "points": 36,
+        "form": ""
+      },
+      {
         "position": 10,
         "team": "Santos",
         "played": 26,
         "won": 9,
         "drawn": 8,
         "lost": 9,
-        "goalsFor": 38,
-        "goalsAgainst": 38,
+        "goalsFor": 39,
+        "goalsAgainst": 39,
         "goalDifference": 0,
         "points": 35,
         "form": ""
@@ -2219,12 +2219,12 @@
         "team": "Botafogo",
         "played": 26,
         "won": 8,
-        "drawn": 7,
-        "lost": 11,
-        "goalsFor": 37,
+        "drawn": 8,
+        "lost": 10,
+        "goalsFor": 38,
         "goalsAgainst": 41,
-        "goalDifference": -4,
-        "points": 31,
+        "goalDifference": -3,
+        "points": 32,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-13T00:35:45.804Z"
+  "generatedAt": "2026-09-13T11:01:09.819Z"
 }

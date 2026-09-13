@@ -565,6 +565,13 @@
           "penalties": 0
         },
         {
+          "name": "Artem Stepanov",
+          "team": "Utrecht",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Ro-Zangelo Daal",
           "team": "AZ",
           "goals": 4,
@@ -584,13 +591,6 @@
           "goals": 4,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Artem Stepanov",
-          "team": "Utrecht",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 1
         },
         {
           "name": "Rafik el Arguioui",
@@ -658,11 +658,11 @@
           "penalties": 0
         },
         {
-          "name": "Ro-Zangelo Daal",
-          "team": "AZ",
-          "goals": 4,
+          "name": "Artem Stepanov",
+          "team": "Utrecht",
+          "goals": 5,
           "assists": 0,
-          "penalties": 0
+          "penalties": 1
         }
       ]
     },
@@ -947,17 +947,17 @@
           "penalties": 1
         },
         {
+          "name": "Matheus Pereira",
+          "team": "Cruzeiro",
+          "goals": 8,
+          "assists": 4,
+          "penalties": 0
+        },
+        {
           "name": "Breno Lopes",
           "team": "Coritiba",
           "goals": 8,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Pedro Rocha",
-          "team": "Coritiba",
-          "goals": 8,
-          "assists": 1,
           "penalties": 0
         }
       ],
@@ -984,21 +984,21 @@
           "penalties": 0
         },
         {
+          "name": "Matheus Pereira",
+          "team": "Cruzeiro",
+          "goals": 8,
+          "assists": 4,
+          "penalties": 0
+        },
+        {
           "name": "Kevin Viveros",
           "team": "Paranaense",
           "goals": 18,
           "assists": 3,
           "penalties": 4
-        },
-        {
-          "name": "Gabriel Barbosa",
-          "team": "Santos",
-          "goals": 10,
-          "assists": 2,
-          "penalties": 2
         }
       ]
     }
   },
-  "generatedAt": "2026-09-13T00:36:52.226Z"
+  "generatedAt": "2026-09-13T11:02:15.228Z"
 }

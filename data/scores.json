@@ -1,22 +1,13 @@
 {
   "matches": [
     {
-      "league": "BSA",
-      "homeTeam": "Santos",
-      "awayTeam": "Cruzeiro",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-09-13T00:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Botafogo",
-      "awayTeam": "Bragantino",
+      "league": "DED",
+      "homeTeam": "Excelsior",
+      "awayTeam": "Utrecht",
       "homeScore": 0,
       "awayScore": 1,
-      "status": "PAUSED",
-      "utcDate": "2026-09-12T23:30:00Z"
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-13T10:15:00Z"
     },
     {
       "league": "PL",
@@ -442,6 +433,24 @@
       "utcDate": "2026-09-12T21:30:00Z"
     },
     {
+      "league": "BSA",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Bragantino",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-12T23:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Santos",
+      "awayTeam": "Cruzeiro",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-13T00:00:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Coventry City",
       "awayTeam": "Brighton Hove",
@@ -569,15 +578,6 @@
     },
     {
       "league": "DED",
-      "homeTeam": "Excelsior",
-      "awayTeam": "Utrecht",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-13T10:15:00Z"
-    },
-    {
-      "league": "DED",
       "homeTeam": "Heerenveen",
       "awayTeam": "Telstar",
       "homeScore": null,
@@ -658,5 +658,5 @@
       "utcDate": "2026-09-13T20:30:00Z"
     }
   ],
-  "generatedAt": "2026-09-13T00:34:44.278Z"
+  "generatedAt": "2026-09-13T11:00:06.840Z"
 }
