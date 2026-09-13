@@ -3,6 +3,13 @@
     "PL": {
       "scorers": [
         {
+          "name": "Bukayo Saka",
+          "team": "Arsenal",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Marcus Tavernier",
           "team": "Bournemouth",
           "goals": 3,
@@ -59,13 +66,6 @@
           "penalties": 0
         },
         {
-          "name": "Bukayo Saka",
-          "team": "Arsenal",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Martin Ødegaard",
           "team": "Arsenal",
           "goals": 2,
@@ -96,15 +96,15 @@
           "penalties": 1
         },
         {
-          "name": "Marcus Tavernier",
-          "team": "Bournemouth",
+          "name": "Bukayo Saka",
+          "team": "Arsenal",
           "goals": 3,
           "assists": 0,
-          "penalties": 0
+          "penalties": 1
         },
         {
-          "name": "Erling Haaland",
-          "team": "Man City",
+          "name": "Marcus Tavernier",
+          "team": "Bournemouth",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -114,10 +114,24 @@
     "PD": {
       "scorers": [
         {
+          "name": "Sergio Camello",
+          "team": "Rayo Vallecano",
+          "goals": 6,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Raphinha",
           "team": "Barça",
           "goals": 6,
           "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "goals": 6,
+          "assists": 1,
           "penalties": 1
         },
         {
@@ -126,20 +140,6 @@
           "goals": 5,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Sergio Camello",
-          "team": "Rayo Vallecano",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Kylian Mbappé",
-          "team": "Real Madrid",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 1
         },
         {
           "name": "Yassir Zabiri",
@@ -202,14 +202,14 @@
         {
           "name": "Sergio Camello",
           "team": "Rayo Vallecano",
-          "goals": 5,
+          "goals": 6,
           "assists": 1,
           "penalties": 0
         },
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
-          "goals": 5,
+          "goals": 6,
           "assists": 1,
           "penalties": 1
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-12T20:07:38.920Z"
+  "generatedAt": "2026-09-13T00:36:52.226Z"
 }
