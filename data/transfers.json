@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Michigan vs. Oklahoma odds, picks, predi",
+      "player": "Texas Tech vs. Oregon State prediction, ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/michigan-oklahoma-odds-picks-predictions-betting-preview-time-week-2-college-football-matchup/",
-      "publishedAt": "2026-09-12T15:26:29Z"
+      "url": "https://www.cbssports.com/betting/news/texas-tech-oregon-state-prediction-odds-time-2026-week-2-college-football-picks-best-bets/",
+      "publishedAt": "2026-09-12T20:01:23Z"
     },
     {
-      "player": "CERN finds gluons behaving strangely dee",
+      "player": "Aday Mara attends Oklahoma's 17",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
-      "publishedAt": "2026-09-12T15:04:06Z"
+      "source": "USA Today",
+      "url": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/09/12/aday-mara-attends-oklahoma-17-10-loss-to-michigan/91733712007/",
+      "publishedAt": "2026-09-12T20:01:04Z"
+    },
+    {
+      "player": "Oklahoma's College Football Playoff hope",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/09/12/oklahoma-college-football-playoff-hopes-michigan/91734244007/",
+      "publishedAt": "2026-09-12T19:57:45Z"
+    },
+    {
+      "player": "No. 10 Texas A&M beats Arizona State 48",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/no-10-texas-m-beats-195000574.html",
+      "publishedAt": "2026-09-12T19:50:00Z"
     }
   ],
-  "generatedAt": "2026-09-13T15:29:14.874Z",
+  "generatedAt": "2026-09-13T20:09:53.123Z",
   "note": "Transfers derived from news headlines at launch."
 }

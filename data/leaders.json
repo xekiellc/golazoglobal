@@ -3,6 +3,13 @@
     "PL": {
       "scorers": [
         {
+          "name": "Erling Haaland",
+          "team": "Man City",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Bukayo Saka",
           "team": "Arsenal",
           "goals": 3,
@@ -28,13 +35,6 @@
           "team": "Chelsea",
           "goals": 3,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Erling Haaland",
-          "team": "Man City",
-          "goals": 3,
-          "assists": 0,
           "penalties": 0
         },
         {
@@ -96,18 +96,18 @@
           "penalties": 1
         },
         {
+          "name": "Erling Haaland",
+          "team": "Man City",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Bukayo Saka",
           "team": "Arsenal",
           "goals": 3,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Marcus Tavernier",
-          "team": "Bournemouth",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
@@ -149,17 +149,17 @@
           "penalties": 0
         },
         {
+          "name": "Pierre-Emerick Aubameyang",
+          "team": "Deportivo",
+          "goals": 5,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Yassir Zabiri",
           "team": "Santander",
           "goals": 5,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Pierre-Emerick Aubameyang",
-          "team": "Deportivo",
-          "goals": 4,
-          "assists": 2,
           "penalties": 0
         },
         {
@@ -195,7 +195,7 @@
         {
           "name": "Pierre-Emerick Aubameyang",
           "team": "Deportivo",
-          "goals": 4,
+          "goals": 5,
           "assists": 2,
           "penalties": 0
         },
@@ -371,6 +371,13 @@
           "penalties": 0
         },
         {
+          "name": "Maurice Krattenmacher",
+          "team": "Elversberg",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Phillip Tietz",
           "team": "Mainz",
           "goals": 3,
@@ -396,13 +403,6 @@
           "team": "RB Leipzig",
           "goals": 2,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Tim Skarke",
-          "team": "Union Berlin",
-          "goals": 2,
-          "assists": 0,
           "penalties": 0
         }
       ],
@@ -471,7 +471,7 @@
           "name": "Florian Thauvin",
           "team": "RC Lens",
           "goals": 3,
-          "assists": 1,
+          "assists": 2,
           "penalties": 3
         },
         {
@@ -489,9 +489,23 @@
           "penalties": 1
         },
         {
+          "name": "Ferrán Torres",
+          "team": "PSG",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Paris Brunner",
           "team": "Monaco",
           "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Franjo Ivanovic",
+          "team": "RC Lens",
+          "goals": 2,
           "assists": 0,
           "penalties": 0
         },
@@ -501,36 +515,22 @@
           "goals": 2,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Ferrán Torres",
-          "team": "PSG",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Marquinhos",
-          "team": "PSG",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Florian Thauvin",
+          "team": "RC Lens",
+          "goals": 3,
+          "assists": 2,
+          "penalties": 3
+        },
         {
           "name": "Kamory Doumbia",
           "team": "Brest",
           "goals": 4,
           "assists": 1,
           "penalties": 1
-        },
-        {
-          "name": "Florian Thauvin",
-          "team": "RC Lens",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 3
         },
         {
           "name": "Amine Gouiri",
@@ -565,6 +565,13 @@
           "penalties": 0
         },
         {
+          "name": "Milan Zonneveld",
+          "team": "Sparta",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Artem Stepanov",
           "team": "Utrecht",
           "goals": 5,
@@ -593,17 +600,17 @@
           "penalties": 0
         },
         {
-          "name": "Milan Zonneveld",
-          "team": "Sparta",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
           "name": "Rafik el Arguioui",
           "team": "Cambuur",
           "goals": 4,
           "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Sven Mijnans",
+          "team": "PSV",
+          "goals": 4,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -618,13 +625,6 @@
           "team": "Willem II",
           "goals": 3,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Luciano Valente",
-          "team": "Feyenoord",
-          "goals": 3,
-          "assists": 0,
           "penalties": 0
         }
       ],
@@ -646,6 +646,13 @@
         {
           "name": "Milan Zonneveld",
           "team": "Sparta",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Sven Mijnans",
+          "team": "PSV",
           "goals": 4,
           "assists": 1,
           "penalties": 0
@@ -656,13 +663,6 @@
           "goals": 3,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Artem Stepanov",
-          "team": "Utrecht",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 1
         }
       ]
     },
@@ -671,9 +671,30 @@
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
-          "goals": 6,
+          "goals": 8,
           "assists": 2,
+          "penalties": 2
+        },
+        {
+          "name": "Gianluca Prestianni",
+          "team": "SL Benfica",
+          "goals": 5,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Gonçalo Paciência",
+          "team": "Santa Clara",
+          "goals": 5,
+          "assists": 1,
           "penalties": 1
+        },
+        {
+          "name": "Barbero",
+          "team": "Arouca",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
         },
         {
           "name": "Leandro Antonetti",
@@ -681,20 +702,6 @@
           "goals": 4,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Gianluca Prestianni",
-          "team": "SL Benfica",
-          "goals": 4,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Gonçalo Paciência",
-          "team": "Santa Clara",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 1
         },
         {
           "name": "Luis Suárez",
@@ -709,13 +716,6 @@
           "goals": 3,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Barbero",
-          "team": "Arouca",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
         },
         {
           "name": "André Silva",
@@ -750,21 +750,21 @@
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
-          "goals": 6,
+          "goals": 8,
           "assists": 2,
-          "penalties": 1
+          "penalties": 2
         },
         {
           "name": "Gianluca Prestianni",
           "team": "SL Benfica",
-          "goals": 4,
+          "goals": 5,
           "assists": 2,
           "penalties": 0
         },
         {
           "name": "Gonçalo Paciência",
           "team": "Santa Clara",
-          "goals": 4,
+          "goals": 5,
           "assists": 1,
           "penalties": 1
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-13T15:32:50.330Z"
+  "generatedAt": "2026-09-13T20:13:27.096Z"
 }
