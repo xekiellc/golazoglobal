@@ -1,86 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Alabama football freshman makes post",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Tuscaloosa News",
-      "url": "https://www.tuscaloosanews.com/story/sports/college/football/2026/09/12/alabama-football-freshman-makes-post-injury-splash-vs-kentucky/91739504007/",
-      "publishedAt": "2026-09-13T00:36:09Z"
-    },
-    {
-      "player": "Texas football fires cannon through Ohio",
+      "player": "Texas football spent years chasing this ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/12/texas-football-cannon-ohio-state-jersey/91739410007/",
-      "publishedAt": "2026-09-13T00:31:11Z"
-    },
-    {
-      "player": "Pitt holds on to beat UCF in game delaye",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Tampa Bay Times",
-      "url": "https://www.tampabay.com/sports/2026/09/12/pitt-ucf-damon-ferguson-mason-heintschel-alonza-barnett-keyone-jenkins/",
-      "publishedAt": "2026-09-13T00:24:08Z"
-    },
-    {
-      "player": "Oklahoma State football news",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/oklahoma-state-football-news-eric-morris-jokingly-ponders-retirement-after-beating-oregon",
-      "publishedAt": "2026-09-13T00:06:10Z"
-    },
-    {
-      "player": "Cam Edwards talks to the media following",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://spartanswire.usatoday.com/story/sports/college/spartans/football/2026/09/12/cam-edwards-talks-to-the-media-following-big-performance-against-emu/91739351007/",
-      "publishedAt": "2026-09-13T00:04:48Z"
-    },
-    {
-      "player": "Evan Boyd injury update, Iowa State foot",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Des Moines Register",
-      "url": "https://www.desmoinesregister.com/story/sports/college/iowa-state/football/2026/09/12/evan-boyd-injury-update-iowa-state-vs-iowa-cyhawk-football/91739335007/",
-      "publishedAt": "2026-09-13T00:03:11Z"
-    },
-    {
-      "player": "Three Takeaways From Washington Football",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/football/2026/09/12/uw-football-washington-huskies-jedd-fisch-demond-williams-alex-mclaughlin/91737531007/",
-      "publishedAt": "2026-09-13T00:03:11Z"
-    },
-    {
-      "player": "College football winners, losers of Week",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-2-oklahoma-state-oklahoma/",
-      "publishedAt": "2026-09-12T23:59:22Z"
+      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/13/texas-beats-ohio-state-historic-comeback-arch-manning-steve-sarkisian/91731929007/",
+      "publishedAt": "2026-09-13T11:32:12Z"
     }
   ],
-  "generatedAt": "2026-09-14T00:37:16.309Z",
+  "generatedAt": "2026-09-14T11:32:40.211Z",
   "note": "Transfers derived from news headlines at launch."
 }
