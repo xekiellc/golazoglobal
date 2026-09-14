@@ -1,22 +1,13 @@
 {
   "matches": [
     {
-      "league": "SA",
-      "homeTeam": "Como 1907",
-      "awayTeam": "Parma",
-      "homeScore": 1,
+      "league": "PPL",
+      "homeTeam": "Braga",
+      "awayTeam": "Estoril Praia",
+      "homeScore": 0,
       "awayScore": 0,
       "status": "IN_PLAY",
-      "utcDate": "2026-09-14T16:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Torino",
-      "awayTeam": "Roma",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-09-14T16:30:00Z"
+      "utcDate": "2026-09-14T19:45:00Z"
     },
     {
       "league": "PL",
@@ -35,6 +26,15 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-09-13T15:30:00Z"
+    },
+    {
+      "league": "PL",
+      "homeTeam": "Leeds United",
+      "awayTeam": "Newcastle",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-14T19:00:00Z"
     },
     {
       "league": "PD",
@@ -73,6 +73,15 @@
       "utcDate": "2026-09-13T19:00:00Z"
     },
     {
+      "league": "PD",
+      "homeTeam": "Villarreal",
+      "awayTeam": "Real Betis",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-09-14T19:00:00Z"
+    },
+    {
       "league": "SA",
       "homeTeam": "Lecce",
       "awayTeam": "Monza",
@@ -98,6 +107,33 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-09-13T18:45:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Como 1907",
+      "awayTeam": "Parma",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-14T16:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Torino",
+      "awayTeam": "Roma",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-09-14T16:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Inter",
+      "awayTeam": "Udinese",
+      "homeScore": 5,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-09-14T18:45:00Z"
     },
     {
       "league": "BL1",
@@ -208,6 +244,24 @@
       "utcDate": "2026-09-13T19:30:00Z"
     },
     {
+      "league": "PPL",
+      "homeTeam": "Rio Ave",
+      "awayTeam": "Amadora",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-09-14T17:45:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Moreirense",
+      "awayTeam": "Marítimo",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-14T19:15:00Z"
+    },
+    {
       "league": "ELC",
       "homeTeam": "Sheffield Utd",
       "awayTeam": "Wolverhampton",
@@ -244,68 +298,14 @@
       "utcDate": "2026-09-13T20:30:00Z"
     },
     {
-      "league": "PL",
-      "homeTeam": "Leeds United",
-      "awayTeam": "Newcastle",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-14T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Villarreal",
-      "awayTeam": "Real Betis",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-14T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Inter",
-      "awayTeam": "Udinese",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-14T18:45:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Rio Ave",
-      "awayTeam": "Amadora",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-14T17:45:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Moreirense",
-      "awayTeam": "Marítimo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-14T19:15:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Braga",
-      "awayTeam": "Estoril Praia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-14T19:45:00Z"
-    },
-    {
       "league": "BSA",
       "homeTeam": "Bahia",
       "awayTeam": "Clube do Remo",
       "homeScore": null,
       "awayScore": null,
-      "status": "2026-09-14 23:00:00Z",
+      "status": "TIMED",
       "utcDate": "2026-09-14T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-09-14T17:29:50.446Z"
+  "generatedAt": "2026-09-14T21:20:54.605Z"
 }

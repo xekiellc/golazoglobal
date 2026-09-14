@@ -281,15 +281,15 @@
           "penalties": 0
         },
         {
-          "name": "Tiago Gabriel",
-          "team": "Lecce",
+          "name": "Francesco Esposito",
+          "team": "Inter",
           "goals": 2,
-          "assists": 0,
+          "assists": 1,
           "penalties": 0
         },
         {
-          "name": "Alphadjo Cisse",
-          "team": "Milan",
+          "name": "Tiago Gabriel",
+          "team": "Lecce",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -299,6 +299,13 @@
         {
           "name": "Hassane Kamara",
           "team": "Udinese",
+          "goals": 2,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Francesco Esposito",
+          "team": "Inter",
           "goals": 2,
           "assists": 1,
           "penalties": 0
@@ -320,13 +327,6 @@
         {
           "name": "Davide Frattesi",
           "team": "Lazio",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Franco Mastantuono",
-          "team": "Fiorentina",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -707,8 +707,22 @@
           "name": "Leandro Antonetti",
           "team": "Amadora",
           "goals": 4,
-          "assists": 0,
+          "assists": 1,
           "penalties": 0
+        },
+        {
+          "name": "Abraham Marcus",
+          "team": "Amadora",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Ianis Stoica",
+          "team": "Amadora",
+          "goals": 4,
+          "assists": 2,
+          "penalties": 1
         },
         {
           "name": "Georgios Koutsias",
@@ -723,30 +737,9 @@
           "goals": 3,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Gabriel Veiga",
-          "team": "Porto",
-          "goals": 3,
-          "assists": 3,
-          "penalties": 1
-        },
-        {
-          "name": "Pau Victor Delgado",
-          "team": "Braga",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
-        {
-          "name": "Gabriel Veiga",
-          "team": "Porto",
-          "goals": 3,
-          "assists": 3,
-          "penalties": 1
-        },
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
@@ -760,6 +753,13 @@
           "goals": 5,
           "assists": 2,
           "penalties": 0
+        },
+        {
+          "name": "Ianis Stoica",
+          "team": "Amadora",
+          "goals": 4,
+          "assists": 2,
+          "penalties": 1
         },
         {
           "name": "Gonçalo Paciência",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-14T17:32:00.119Z"
+  "generatedAt": "2026-09-14T21:23:03.292Z"
 }
