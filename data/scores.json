@@ -1,6 +1,24 @@
 {
   "matches": [
     {
+      "league": "SA",
+      "homeTeam": "Como 1907",
+      "awayTeam": "Parma",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-14T16:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Torino",
+      "awayTeam": "Roma",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-14T16:30:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Coventry City",
       "awayTeam": "Brighton Hove",
@@ -245,24 +263,6 @@
     },
     {
       "league": "SA",
-      "homeTeam": "Como 1907",
-      "awayTeam": "Parma",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-14T16:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Torino",
-      "awayTeam": "Roma",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-14T16:30:00Z"
-    },
-    {
-      "league": "SA",
       "homeTeam": "Inter",
       "awayTeam": "Udinese",
       "homeScore": null,
@@ -307,5 +307,5 @@
       "utcDate": "2026-09-14T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-09-14T11:34:03.401Z"
+  "generatedAt": "2026-09-14T17:29:50.446Z"
 }

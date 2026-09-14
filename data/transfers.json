@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Texas football spent years chasing this ",
+      "player": "Five stats define LSU football's blowout",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/13/texas-beats-ohio-state-historic-comeback-arch-manning-steve-sarkisian/91731929007/",
-      "publishedAt": "2026-09-13T11:32:12Z"
+      "url": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/football/2026/09/13/lsu-football-game-recap-stats-louisiana-tech-lane-kiffin-treydez-green/91746040007/",
+      "publishedAt": "2026-09-13T17:25:16Z"
+    },
+    {
+      "player": "Penn State players stand together in com",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Reading Eagle",
+      "url": "https://www.readingeagle.com/2026/09/13/penn-state-players-stand-together-in-coming-to-defense-of-rocco-becht-opinion/",
+      "publishedAt": "2026-09-13T17:16:00Z"
+    },
+    {
+      "player": "The Gophers have a Darius Taylor conundr",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Bringmethesports.com",
+      "url": "https://bringmethesports.com/the-gophers-have-a-darius-taylor-conundrum",
+      "publishedAt": "2026-09-13T17:12:59Z"
     }
   ],
-  "generatedAt": "2026-09-14T11:32:40.211Z",
+  "generatedAt": "2026-09-14T17:28:26.309Z",
   "note": "Transfers derived from news headlines at launch."
 }

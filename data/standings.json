@@ -527,6 +527,32 @@
     "SA": [
       {
         "position": 1,
+        "team": "Roma",
+        "played": 4,
+        "won": 4,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 11,
+        "goalsAgainst": 1,
+        "goalDifference": 10,
+        "points": 12,
+        "form": ""
+      },
+      {
+        "position": 2,
+        "team": "Como 1907",
+        "played": 4,
+        "won": 3,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 8,
+        "goalsAgainst": 3,
+        "goalDifference": 5,
+        "points": 10,
+        "form": ""
+      },
+      {
+        "position": 3,
         "team": "Lazio",
         "played": 4,
         "won": 3,
@@ -539,20 +565,7 @@
         "form": ""
       },
       {
-        "position": 2,
-        "team": "Roma",
-        "played": 3,
-        "won": 3,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 10,
-        "goalsAgainst": 1,
-        "goalDifference": 9,
-        "points": 9,
-        "form": ""
-      },
-      {
-        "position": 3,
+        "position": 4,
         "team": "Inter",
         "played": 3,
         "won": 3,
@@ -565,7 +578,7 @@
         "form": ""
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "Cagliari",
         "played": 4,
         "won": 3,
@@ -578,7 +591,7 @@
         "form": ""
       },
       {
-        "position": 5,
+        "position": 6,
         "team": "Milan",
         "played": 4,
         "won": 2,
@@ -588,19 +601,6 @@
         "goalsAgainst": 4,
         "goalDifference": 3,
         "points": 8,
-        "form": ""
-      },
-      {
-        "position": 6,
-        "team": "Como 1907",
-        "played": 3,
-        "won": 2,
-        "drawn": 1,
-        "lost": 0,
-        "goalsFor": 7,
-        "goalsAgainst": 3,
-        "goalDifference": 4,
-        "points": 7,
         "form": ""
       },
       {
@@ -697,13 +697,13 @@
       {
         "position": 14,
         "team": "Torino",
-        "played": 3,
+        "played": 4,
         "won": 1,
         "drawn": 0,
-        "lost": 2,
+        "lost": 3,
         "goalsFor": 4,
-        "goalsAgainst": 5,
-        "goalDifference": -1,
+        "goalsAgainst": 6,
+        "goalDifference": -2,
         "points": 3,
         "form": ""
       },
@@ -736,13 +736,13 @@
       {
         "position": 17,
         "team": "Parma",
-        "played": 3,
+        "played": 4,
         "won": 0,
         "drawn": 1,
-        "lost": 2,
+        "lost": 3,
         "goalsFor": 1,
-        "goalsAgainst": 4,
-        "goalDifference": -3,
+        "goalsAgainst": 5,
+        "goalDifference": -4,
         "points": 1,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-14T11:35:05.496Z"
+  "generatedAt": "2026-09-14T17:30:52.823Z"
 }

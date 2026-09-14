@@ -227,7 +227,7 @@
         {
           "name": "Donyell Malen",
           "team": "Roma",
-          "goals": 5,
+          "goals": 6,
           "assists": 0,
           "penalties": 0
         },
@@ -306,7 +306,7 @@
         {
           "name": "Donyell Malen",
           "team": "Roma",
-          "goals": 5,
+          "goals": 6,
           "assists": 0,
           "penalties": 0
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-14T11:36:14.729Z"
+  "generatedAt": "2026-09-14T17:32:00.119Z"
 }
