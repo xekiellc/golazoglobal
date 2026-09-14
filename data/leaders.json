@@ -690,6 +690,13 @@
           "penalties": 1
         },
         {
+          "name": "Luis Suárez",
+          "team": "Sporting CP",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "Barbero",
           "team": "Arouca",
           "goals": 4,
@@ -702,13 +709,6 @@
           "goals": 4,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Luis Suárez",
-          "team": "Sporting CP",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 1
         },
         {
           "name": "Georgios Koutsias",
@@ -771,9 +771,9 @@
         {
           "name": "Luis Suárez",
           "team": "Sporting CP",
-          "goals": 4,
+          "goals": 5,
           "assists": 1,
-          "penalties": 1
+          "penalties": 2
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-13T20:13:27.096Z"
+  "generatedAt": "2026-09-14T00:40:48.541Z"
 }

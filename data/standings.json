@@ -304,6 +304,19 @@
       },
       {
         "position": 4,
+        "team": "Atleti",
+        "played": 5,
+        "won": 3,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 10,
+        "goalsAgainst": 6,
+        "goalDifference": 4,
+        "points": 10,
+        "form": ""
+      },
+      {
+        "position": 5,
         "team": "Sevilla FC",
         "played": 5,
         "won": 3,
@@ -316,7 +329,7 @@
         "form": ""
       },
       {
-        "position": 5,
+        "position": 6,
         "team": "Deportivo",
         "played": 5,
         "won": 2,
@@ -329,7 +342,7 @@
         "form": ""
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "Real Betis",
         "played": 4,
         "won": 3,
@@ -342,33 +355,7 @@
         "form": ""
       },
       {
-        "position": 7,
-        "team": "Atleti",
-        "played": 5,
-        "won": 2,
-        "drawn": 2,
-        "lost": 1,
-        "goalsFor": 7,
-        "goalsAgainst": 6,
-        "goalDifference": 1,
-        "points": 8,
-        "form": ""
-      },
-      {
         "position": 8,
-        "team": "Real Sociedad",
-        "played": 6,
-        "won": 2,
-        "drawn": 2,
-        "lost": 2,
-        "goalsFor": 6,
-        "goalsAgainst": 8,
-        "goalDifference": -2,
-        "points": 8,
-        "form": ""
-      },
-      {
-        "position": 9,
         "team": "Espanyol",
         "played": 5,
         "won": 2,
@@ -381,7 +368,7 @@
         "form": ""
       },
       {
-        "position": 10,
+        "position": 9,
         "team": "Athletic",
         "played": 5,
         "won": 2,
@@ -394,7 +381,7 @@
         "form": ""
       },
       {
-        "position": 11,
+        "position": 10,
         "team": "Santander",
         "played": 5,
         "won": 2,
@@ -407,7 +394,7 @@
         "form": ""
       },
       {
-        "position": 12,
+        "position": 11,
         "team": "Osasuna",
         "played": 5,
         "won": 2,
@@ -416,6 +403,19 @@
         "goalsFor": 5,
         "goalsAgainst": 8,
         "goalDifference": -3,
+        "points": 7,
+        "form": ""
+      },
+      {
+        "position": 12,
+        "team": "Real Sociedad",
+        "played": 6,
+        "won": 2,
+        "drawn": 1,
+        "lost": 3,
+        "goalsFor": 6,
+        "goalsAgainst": 11,
+        "goalDifference": -5,
         "points": 7,
         "form": ""
       },
@@ -623,8 +623,8 @@
         "won": 2,
         "drawn": 1,
         "lost": 1,
-        "goalsFor": 4,
-        "goalsAgainst": 2,
+        "goalsFor": 6,
+        "goalsAgainst": 4,
         "goalDifference": 2,
         "points": 7,
         "form": ""
@@ -636,8 +636,8 @@
         "won": 2,
         "drawn": 1,
         "lost": 1,
-        "goalsFor": 6,
-        "goalsAgainst": 5,
+        "goalsFor": 8,
+        "goalsAgainst": 7,
         "goalDifference": 1,
         "points": 7,
         "form": ""
@@ -1528,8 +1528,8 @@
         "won": 4,
         "drawn": 2,
         "lost": 0,
-        "goalsFor": 14,
-        "goalsAgainst": 5,
+        "goalsFor": 15,
+        "goalsAgainst": 6,
         "goalDifference": 9,
         "points": 14,
         "form": ""
@@ -1645,8 +1645,8 @@
         "won": 0,
         "drawn": 4,
         "lost": 2,
-        "goalsFor": 4,
-        "goalsAgainst": 6,
+        "goalsFor": 5,
+        "goalsAgainst": 7,
         "goalDifference": -2,
         "points": 4,
         "form": ""
@@ -2047,6 +2047,19 @@
     "BSA": [
       {
         "position": 1,
+        "team": "Flamengo",
+        "played": 27,
+        "won": 17,
+        "drawn": 6,
+        "lost": 4,
+        "goalsFor": 53,
+        "goalsAgainst": 22,
+        "goalDifference": 31,
+        "points": 57,
+        "form": ""
+      },
+      {
+        "position": 2,
         "team": "Palmeiras",
         "played": 27,
         "won": 16,
@@ -2056,19 +2069,6 @@
         "goalsAgainst": 21,
         "goalDifference": 26,
         "points": 56,
-        "form": ""
-      },
-      {
-        "position": 2,
-        "team": "Flamengo",
-        "played": 26,
-        "won": 16,
-        "drawn": 6,
-        "lost": 4,
-        "goalsFor": 51,
-        "goalsAgainst": 21,
-        "goalDifference": 30,
-        "points": 54,
         "form": ""
       },
       {
@@ -2164,19 +2164,6 @@
       },
       {
         "position": 10,
-        "team": "Vitória",
-        "played": 27,
-        "won": 10,
-        "drawn": 5,
-        "lost": 12,
-        "goalsFor": 27,
-        "goalsAgainst": 37,
-        "goalDifference": -10,
-        "points": 35,
-        "form": ""
-      },
-      {
-        "position": 11,
         "team": "Santos",
         "played": 26,
         "won": 9,
@@ -2189,7 +2176,7 @@
         "form": ""
       },
       {
-        "position": 12,
+        "position": 11,
         "team": "São Paulo",
         "played": 26,
         "won": 9,
@@ -2202,15 +2189,28 @@
         "form": ""
       },
       {
+        "position": 12,
+        "team": "Vitória",
+        "played": 27,
+        "won": 9,
+        "drawn": 6,
+        "lost": 12,
+        "goalsFor": 27,
+        "goalsAgainst": 39,
+        "goalDifference": -12,
+        "points": 33,
+        "form": ""
+      },
+      {
         "position": 13,
         "team": "Corinthians",
-        "played": 26,
+        "played": 27,
         "won": 8,
         "drawn": 8,
-        "lost": 10,
-        "goalsFor": 27,
-        "goalsAgainst": 27,
-        "goalDifference": 0,
+        "lost": 11,
+        "goalsFor": 28,
+        "goalsAgainst": 29,
+        "goalDifference": -1,
         "points": 32,
         "form": ""
       },
@@ -2229,6 +2229,19 @@
       },
       {
         "position": 15,
+        "team": "Mirassol",
+        "played": 27,
+        "won": 7,
+        "drawn": 8,
+        "lost": 12,
+        "goalsFor": 31,
+        "goalsAgainst": 42,
+        "goalDifference": -11,
+        "points": 29,
+        "form": ""
+      },
+      {
+        "position": 16,
         "team": "Grêmio",
         "played": 26,
         "won": 7,
@@ -2241,7 +2254,7 @@
         "form": ""
       },
       {
-        "position": 16,
+        "position": 17,
         "team": "Vasco da Gama",
         "played": 26,
         "won": 7,
@@ -2250,19 +2263,6 @@
         "goalsFor": 29,
         "goalsAgainst": 41,
         "goalDifference": -12,
-        "points": 28,
-        "form": ""
-      },
-      {
-        "position": 17,
-        "team": "Mirassol",
-        "played": 27,
-        "won": 7,
-        "drawn": 7,
-        "lost": 13,
-        "goalsFor": 29,
-        "goalsAgainst": 42,
-        "goalDifference": -13,
         "points": 28,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-13T20:12:19.050Z"
+  "generatedAt": "2026-09-14T00:39:41.707Z"
 }
