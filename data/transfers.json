@@ -1,26 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Manchester United Target Signs New Contr",
+      "player": "Top 10 transfer portal impact players of",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Utdreport.co.uk",
-      "url": "https://utdreport.co.uk/2026/09/14/manchester-united-target-signs-new-contract-at-newcastle/",
-      "publishedAt": "2026-09-14T10:45:00Z"
-    },
-    {
-      "player": "Per PFF, several Texas A&M cornerbacks s",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/09/14/texas-aggies-football-cornebrack-rotation-dezz-ricks-julio-humphrey-bravion-rogers/91749938007/",
-      "publishedAt": "2026-09-14T10:16:21Z"
+      "source": "On3.com",
+      "url": "https://www.on3.com/news/top-10-college-football-transfer-portal-impact-players-of-week-2/",
+      "publishedAt": "2026-09-14T15:58:47Z"
     }
   ],
-  "generatedAt": "2026-09-15T10:52:53.921Z",
+  "generatedAt": "2026-09-15T16:04:48.970Z",
   "note": "Transfers derived from news headlines at launch."
 }
