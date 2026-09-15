@@ -926,6 +926,13 @@
           "penalties": 0
         },
         {
+          "name": "Luciano Juba",
+          "team": "Bahia",
+          "goals": 9,
+          "assists": 1,
+          "penalties": 4
+        },
+        {
           "name": "Samuel Lino",
           "team": "Flamengo",
           "goals": 9,
@@ -951,13 +958,6 @@
           "team": "Cruzeiro",
           "goals": 8,
           "assists": 4,
-          "penalties": 0
-        },
-        {
-          "name": "Breno Lopes",
-          "team": "Coritiba",
-          "goals": 8,
-          "assists": 2,
           "penalties": 0
         }
       ],
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-14T21:23:03.292Z"
+  "generatedAt": "2026-09-15T01:11:33.456Z"
 }

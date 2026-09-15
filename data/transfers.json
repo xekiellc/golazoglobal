@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Oklahoma State Freshman and Sophomore Re",
+      "player": "J.J. Watt was steady, competent as Tony ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/oklahomastate/football/oklahoma-state-freshman-sophomore-report-cowboys-contributing-most",
-      "publishedAt": "2026-09-13T21:00:01Z"
+      "source": "Awful Announcing",
+      "url": "https://awfulannouncing.com/cbs/jj-watt-cbs-debut-jim-nantz-packers-vikings-review.html",
+      "publishedAt": "2026-09-14T01:00:03Z"
     },
     {
-      "player": "Deion Sanders evolution as a coach is st",
+      "player": "College Football Picks, Predictions",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/colorado/news/deion-sanders-evolution-as-a-coach-is-starting-to-show-with-latest-win",
-      "publishedAt": "2026-09-13T20:59:47Z"
-    },
-    {
-      "player": "What is Mike Norvell's future at Florida",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Tallahassee Democrat",
-      "url": "https://www.tallahassee.com/story/sports/college/fsu/football/2026/09/13/fsu-football-mike-norvell-what-if-scenario-fired/91715900007/",
-      "publishedAt": "2026-09-13T20:44:55Z"
+      "source": "The Action Network",
+      "url": "https://www.actionnetwork.com/ncaaf/college-football-picks-predictions-early-bet-virginia-tech-vs-maryland-week-3",
+      "publishedAt": "2026-09-14T00:20:58Z"
     }
   ],
-  "generatedAt": "2026-09-14T21:19:29.378Z",
+  "generatedAt": "2026-09-15T01:07:54.643Z",
   "note": "Transfers derived from news headlines at launch."
 }
