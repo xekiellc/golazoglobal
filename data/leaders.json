@@ -114,6 +114,20 @@
     "PD": {
       "scorers": [
         {
+          "name": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "goals": 7,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
+          "name": "Roberto Fernández",
+          "team": "Espanyol",
+          "goals": 6,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Sergio Camello",
           "team": "Rayo Vallecano",
           "goals": 6,
@@ -128,25 +142,11 @@
           "penalties": 1
         },
         {
-          "name": "Kylian Mbappé",
-          "team": "Real Madrid",
-          "goals": 6,
-          "assists": 1,
-          "penalties": 1
-        },
-        {
           "name": "Lamine Yamal",
           "team": "Barça",
           "goals": 6,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Roberto Fernández",
-          "team": "Espanyol",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 0
         },
         {
           "name": "Pierre-Emerick Aubameyang",
@@ -207,18 +207,18 @@
           "penalties": 0
         },
         {
+          "name": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "goals": 7,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Sergio Camello",
           "team": "Rayo Vallecano",
           "goals": 6,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Kylian Mbappé",
-          "team": "Real Madrid",
-          "goals": 6,
-          "assists": 1,
-          "penalties": 1
         }
       ]
     },
@@ -789,7 +789,7 @@
         {
           "name": "William Lankshear",
           "team": "Middlesbrough",
-          "goals": 5,
+          "goals": 6,
           "assists": 0,
           "penalties": 0
         },
@@ -812,6 +812,13 @@
           "team": "West Ham",
           "goals": 4,
           "assists": 2,
+          "penalties": 1
+        },
+        {
+          "name": "Lyndon Dykes",
+          "team": "Millwall",
+          "goals": 4,
+          "assists": 0,
           "penalties": 1
         },
         {
@@ -840,13 +847,6 @@
           "team": "Swansea",
           "goals": 3,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Tyreece Campbell",
-          "team": "Charlton",
-          "goals": 3,
-          "assists": 0,
           "penalties": 0
         }
       ],
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-15T16:08:23.202Z"
+  "generatedAt": "2026-09-15T20:49:53.976Z"
 }

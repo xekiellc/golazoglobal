@@ -279,14 +279,14 @@
       {
         "position": 2,
         "team": "Real Madrid",
-        "played": 5,
-        "won": 4,
+        "played": 6,
+        "won": 5,
         "drawn": 0,
         "lost": 1,
-        "goalsFor": 14,
+        "goalsFor": 16,
         "goalsAgainst": 4,
-        "goalDifference": 10,
-        "points": 12,
+        "goalDifference": 12,
+        "points": 15,
         "form": ""
       },
       {
@@ -305,13 +305,13 @@
       {
         "position": 4,
         "team": "Alavés",
-        "played": 5,
+        "played": 6,
         "won": 3,
         "drawn": 1,
-        "lost": 1,
+        "lost": 2,
         "goalsFor": 11,
-        "goalsAgainst": 5,
-        "goalDifference": 6,
+        "goalsAgainst": 6,
+        "goalDifference": 5,
         "points": 10,
         "form": ""
       },
@@ -357,13 +357,13 @@
       {
         "position": 8,
         "team": "Espanyol",
-        "played": 5,
+        "played": 6,
         "won": 2,
         "drawn": 1,
-        "lost": 2,
-        "goalsFor": 8,
-        "goalsAgainst": 5,
-        "goalDifference": 3,
+        "lost": 3,
+        "goalsFor": 9,
+        "goalsAgainst": 7,
+        "goalDifference": 2,
         "points": 7,
         "form": ""
       },
@@ -408,6 +408,19 @@
       },
       {
         "position": 12,
+        "team": "Rayo Vallecano",
+        "played": 6,
+        "won": 2,
+        "drawn": 1,
+        "lost": 3,
+        "goalsFor": 10,
+        "goalsAgainst": 15,
+        "goalDifference": -5,
+        "points": 7,
+        "form": ""
+      },
+      {
+        "position": 13,
         "team": "Real Sociedad",
         "played": 6,
         "won": 2,
@@ -420,7 +433,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Levante",
         "played": 5,
         "won": 1,
@@ -433,7 +446,7 @@
         "form": ""
       },
       {
-        "position": 14,
+        "position": 15,
         "team": "Getafe",
         "played": 5,
         "won": 1,
@@ -446,7 +459,7 @@
         "form": ""
       },
       {
-        "position": 15,
+        "position": 16,
         "team": "Celta",
         "played": 6,
         "won": 0,
@@ -459,20 +472,20 @@
         "form": ""
       },
       {
-        "position": 16,
-        "team": "Rayo Vallecano",
-        "played": 5,
+        "position": 17,
+        "team": "Valencia",
+        "played": 6,
         "won": 1,
         "drawn": 1,
-        "lost": 3,
-        "goalsFor": 8,
-        "goalsAgainst": 14,
-        "goalDifference": -6,
+        "lost": 4,
+        "goalsFor": 2,
+        "goalsAgainst": 10,
+        "goalDifference": -8,
         "points": 4,
         "form": ""
       },
       {
-        "position": 17,
+        "position": 18,
         "team": "Málaga",
         "played": 5,
         "won": 0,
@@ -485,7 +498,7 @@
         "form": ""
       },
       {
-        "position": 18,
+        "position": 19,
         "team": "Villarreal",
         "played": 5,
         "won": 0,
@@ -498,29 +511,16 @@
         "form": ""
       },
       {
-        "position": 19,
+        "position": 20,
         "team": "Elche",
-        "played": 5,
+        "played": 6,
         "won": 0,
         "drawn": 2,
-        "lost": 3,
-        "goalsFor": 6,
-        "goalsAgainst": 13,
-        "goalDifference": -7,
-        "points": 2,
-        "form": ""
-      },
-      {
-        "position": 20,
-        "team": "Valencia",
-        "played": 5,
-        "won": 0,
-        "drawn": 1,
         "lost": 4,
-        "goalsFor": 1,
-        "goalsAgainst": 10,
+        "goalsFor": 6,
+        "goalsAgainst": 15,
         "goalDifference": -9,
-        "points": 1,
+        "points": 2,
         "form": ""
       }
     ],
@@ -1300,6 +1300,19 @@
       },
       {
         "position": 4,
+        "team": "Ajax",
+        "played": 6,
+        "won": 4,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 19,
+        "goalsAgainst": 7,
+        "goalDifference": 12,
+        "points": 13,
+        "form": ""
+      },
+      {
+        "position": 5,
         "team": "Twente",
         "played": 6,
         "won": 4,
@@ -1309,19 +1322,6 @@
         "goalsAgainst": 5,
         "goalDifference": 7,
         "points": 13,
-        "form": ""
-      },
-      {
-        "position": 5,
-        "team": "Ajax",
-        "played": 5,
-        "won": 3,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 14,
-        "goalsAgainst": 6,
-        "goalDifference": 8,
-        "points": 10,
         "form": ""
       },
       {
@@ -1470,13 +1470,13 @@
       {
         "position": 17,
         "team": "Willem II",
-        "played": 5,
+        "played": 6,
         "won": 0,
         "drawn": 2,
-        "lost": 3,
-        "goalsFor": 5,
-        "goalsAgainst": 14,
-        "goalDifference": -9,
+        "lost": 4,
+        "goalsFor": 6,
+        "goalsAgainst": 19,
+        "goalDifference": -13,
         "points": 2,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-15T16:07:15.380Z"
+  "generatedAt": "2026-09-15T20:48:47.781Z"
 }

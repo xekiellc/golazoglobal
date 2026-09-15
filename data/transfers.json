@@ -1,16 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Top 10 transfer portal impact players of",
+      "player": "Emaree Winston stepped up against Ohio S",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "On3.com",
-      "url": "https://www.on3.com/news/top-10-college-football-transfer-portal-impact-players-of-week-2/",
-      "publishedAt": "2026-09-14T15:58:47Z"
+      "source": "Austin American-Statesman",
+      "url": "https://www.statesman.com/sports/longhorns/football/article/texas-football-tight-ends-emaree-winston-22430370.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "publishedAt": "2026-09-14T20:43:03Z"
+    },
+    {
+      "player": "Buy Now",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sportsnetpittsburgh.com",
+      "url": "https://sportsnetpittsburgh.com/tickets/news/tickets-pitt-vs-syracuse-sept-17-college-football-acrisure-stadium/c0dc793f8cb09e7d72032a1e",
+      "publishedAt": "2026-09-14T20:34:14Z"
+    },
+    {
+      "player": "Florida HC Jon Sumrall Reveals Challenge",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/florida/news/florida-hc-jon-sumrall-reveals-challenges-for-qb-aaron-philo-against-auburn",
+      "publishedAt": "2026-09-14T20:30:19Z"
+    },
+    {
+      "player": "Notes and Quotes from James Franklin's S",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/virginiatech/football/notes-and-quotes-from-james-franklin-s-sept-14-press-conference-01m2f2rwkz68",
+      "publishedAt": "2026-09-14T20:30:01Z"
+    },
+    {
+      "player": "Dallas Golden shakes off injuries to mak",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "South Bend Tribune",
+      "url": "https://www.southbendtribune.com/story/sports/college/football/2026/09/14/notre-dame-football-glad-to-have-dallas-golden-back-after-injuries/91707564007/",
+      "publishedAt": "2026-09-14T20:28:15Z"
     }
   ],
-  "generatedAt": "2026-09-15T16:04:48.970Z",
+  "generatedAt": "2026-09-15T20:46:23.280Z",
   "note": "Transfers derived from news headlines at launch."
 }

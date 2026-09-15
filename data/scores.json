@@ -1,6 +1,15 @@
 {
   "matches": [
     {
+      "league": "PD",
+      "homeTeam": "Elche",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-15T19:30:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Leeds United",
       "awayTeam": "Newcastle",
@@ -17,6 +26,24 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-09-14T19:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Espanyol",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-15T17:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Alavés",
+      "awayTeam": "Valencia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-15T18:00:00Z"
     },
     {
       "league": "SA",
@@ -46,6 +73,15 @@
       "utcDate": "2026-09-14T18:45:00Z"
     },
     {
+      "league": "DED",
+      "homeTeam": "Ajax",
+      "awayTeam": "Willem II",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-15T18:00:00Z"
+    },
+    {
       "league": "PPL",
       "homeTeam": "Rio Ave",
       "awayTeam": "Amadora",
@@ -73,6 +109,24 @@
       "utcDate": "2026-09-14T19:45:00Z"
     },
     {
+      "league": "ELC",
+      "homeTeam": "Middlesbrough",
+      "awayTeam": "Millwall",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-09-15T18:45:00Z"
+    },
+    {
+      "league": "ELC",
+      "homeTeam": "Bristol City",
+      "awayTeam": "Lincoln City",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-15T18:45:00Z"
+    },
+    {
       "league": "BSA",
       "homeTeam": "Bahia",
       "awayTeam": "Clube do Remo",
@@ -80,61 +134,7 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-09-14T23:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Rayo Vallecano",
-      "awayTeam": "Espanyol",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-15T17:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Alavés",
-      "awayTeam": "Valencia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-15T18:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Elche",
-      "awayTeam": "Real Madrid",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-15T19:30:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "Ajax",
-      "awayTeam": "Willem II",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-15T18:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Middlesbrough",
-      "awayTeam": "Millwall",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-15T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Bristol City",
-      "awayTeam": "Lincoln City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-15T18:45:00Z"
     }
   ],
-  "generatedAt": "2026-09-15T16:06:12.878Z"
+  "generatedAt": "2026-09-15T20:47:45.687Z"
 }
