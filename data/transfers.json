@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "After starting 2",
+      "player": "DeSean Jackson displeased with DSU's pla",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Andthevalleyshook.com",
-      "url": "https://www.andthevalleyshook.com/lsu-tigers-football/52933/after-starting-2-0-lsu-tigers-attention-shifts-to-ole-miss",
-      "publishedAt": "2026-09-15T00:29:53Z"
-    },
-    {
-      "player": "Vote. Arizona Republic's 2026 preseason ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "AZCentral",
-      "url": "https://www.azcentral.com/story/sports/high-school/2026/09/14/arizona-high-school-preseason-flag-football-teams-top-10-2026/91766908007/",
-      "publishedAt": "2026-09-14T23:45:19Z"
-    },
-    {
-      "player": "Protect College Sports Act nears Senate ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/college/2026/09/14/protect-college-sports-act-senate-vote-athletes-college-bargaining-union/91766683007/",
-      "publishedAt": "2026-09-14T23:11:42Z"
+      "source": "The News Journal",
+      "url": "https://www.delawareonline.com/story/sports/college/2026/09/15/desean-jackson-pushes-delaware-state-football-to-improve-usf-trip/91756200007/",
+      "publishedAt": "2026-09-15T10:20:33Z"
     }
   ],
-  "generatedAt": "2026-09-16T00:59:04.583Z",
+  "generatedAt": "2026-09-16T10:42:24.552Z",
   "note": "Transfers derived from news headlines at launch."
 }
