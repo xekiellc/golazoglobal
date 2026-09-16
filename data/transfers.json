@@ -1,16 +1,66 @@
 {
   "transfers": [
     {
-      "player": "Georgia transfer wide receiver scores cl",
+      "player": "Penn State Week 3 Injury Report",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/pennstate/football/penn-state-week-3-injury-report-latest-updates-whos-out-whos-up-next",
+      "publishedAt": "2026-09-15T20:45:47Z"
+    },
+    {
+      "player": "Mizzou Looks to Build on Kansas Win by C",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Rockmnation.com",
+      "url": "https://www.rockmnation.com/missouri-tigers-football/155907/mizzou-looks-to-build-on-kansas-win-by-cleaning-up-mistakes-against-troy",
+      "publishedAt": "2026-09-15T20:32:09Z"
+    },
+    {
+      "player": "Behind the Last",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Frontofficesports.com",
+      "url": "https://frontofficesports.com/article/behind-the-last-ditch-lobbying-battle-over-the-bipartisan-senate-college-sports-bill/",
+      "publishedAt": "2026-09-15T20:28:19Z"
+    },
+    {
+      "player": "Iowa football injury updates on DJ Vonna",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Hawk Central",
+      "url": "https://www.hawkcentral.com/story/sports/college/iowa/football/2026/09/15/iowa-football-dj-vonnahme-kamari-moulton-lj-phillips-tyler-brown-injuries-vs-uni/91761621007/",
+      "publishedAt": "2026-09-15T20:20:00Z"
+    },
+    {
+      "player": "'I couldn't raise my arm'",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://ugawire.usatoday.com/story/sports/college/bulldogs/football/2026/09/15/georgia-transfer-touchdown-purdue-denylon-morrissette/91773232007/",
-      "publishedAt": "2026-09-15T15:48:26Z"
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/09/15/texas-aggies-football-cb-dezz-ricks-reportedly-played-with-a-torn-labrum-in-2025/91778122007/",
+      "publishedAt": "2026-09-15T20:19:49Z"
+    },
+    {
+      "player": "Barcelona monitor Kane & Haaland",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cqzezjn3wzjpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "publishedAt": "2026-09-15T20:19:37Z"
     }
   ],
-  "generatedAt": "2026-09-16T15:58:14.565Z",
+  "generatedAt": "2026-09-16T20:46:00.905Z",
   "note": "Transfers derived from news headlines at launch."
 }

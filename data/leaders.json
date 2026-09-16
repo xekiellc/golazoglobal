@@ -114,6 +114,13 @@
     "PD": {
       "scorers": [
         {
+          "name": "Raphinha",
+          "team": "Barça",
+          "goals": 8,
+          "assists": 2,
+          "penalties": 2
+        },
+        {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
           "goals": 7,
@@ -135,17 +142,10 @@
           "penalties": 0
         },
         {
-          "name": "Raphinha",
-          "team": "Barça",
-          "goals": 6,
-          "assists": 2,
-          "penalties": 1
-        },
-        {
           "name": "Lamine Yamal",
           "team": "Barça",
           "goals": 6,
-          "assists": 0,
+          "assists": 1,
           "penalties": 1
         },
         {
@@ -163,6 +163,13 @@
           "penalties": 0
         },
         {
+          "name": "Álex Baena",
+          "team": "Atleti",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Fermín López",
           "team": "Barça",
           "goals": 4,
@@ -175,27 +182,20 @@
           "goals": 4,
           "assists": 0,
           "penalties": 3
-        },
-        {
-          "name": "Lucas Boyé",
-          "team": "Alavés",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
         {
+          "name": "Raphinha",
+          "team": "Barça",
+          "goals": 8,
+          "assists": 2,
+          "penalties": 2
+        },
+        {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
           "goals": 7,
-          "assists": 2,
-          "penalties": 1
-        },
-        {
-          "name": "Raphinha",
-          "team": "Barça",
-          "goals": 6,
           "assists": 2,
           "penalties": 1
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-16T16:01:47.510Z"
+  "generatedAt": "2026-09-16T20:49:30.992Z"
 }

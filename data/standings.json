@@ -266,14 +266,14 @@
       {
         "position": 1,
         "team": "Barça",
-        "played": 5,
-        "won": 5,
+        "played": 6,
+        "won": 6,
         "drawn": 0,
         "lost": 0,
-        "goalsFor": 21,
-        "goalsAgainst": 4,
-        "goalDifference": 17,
-        "points": 15,
+        "goalsFor": 25,
+        "goalsAgainst": 5,
+        "goalDifference": 20,
+        "points": 18,
         "form": ""
       },
       {
@@ -291,6 +291,32 @@
       },
       {
         "position": 3,
+        "team": "Atleti",
+        "played": 6,
+        "won": 4,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 14,
+        "goalsAgainst": 6,
+        "goalDifference": 8,
+        "points": 13,
+        "form": ""
+      },
+      {
+        "position": 4,
+        "team": "Sevilla FC",
+        "played": 6,
+        "won": 4,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 9,
+        "goalsAgainst": 6,
+        "goalDifference": 3,
+        "points": 13,
+        "form": ""
+      },
+      {
+        "position": 5,
         "team": "Real Betis",
         "played": 5,
         "won": 4,
@@ -303,7 +329,7 @@
         "form": ""
       },
       {
-        "position": 4,
+        "position": 6,
         "team": "Alavés",
         "played": 6,
         "won": 3,
@@ -316,46 +342,33 @@
         "form": ""
       },
       {
-        "position": 5,
-        "team": "Atleti",
-        "played": 5,
-        "won": 3,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 10,
-        "goalsAgainst": 6,
-        "goalDifference": 4,
-        "points": 10,
-        "form": ""
-      },
-      {
-        "position": 6,
-        "team": "Sevilla FC",
-        "played": 5,
-        "won": 3,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 8,
-        "goalsAgainst": 6,
-        "goalDifference": 2,
-        "points": 10,
-        "form": ""
-      },
-      {
         "position": 7,
         "team": "Deportivo",
-        "played": 5,
+        "played": 6,
         "won": 2,
         "drawn": 3,
-        "lost": 0,
+        "lost": 1,
         "goalsFor": 9,
-        "goalsAgainst": 6,
-        "goalDifference": 3,
+        "goalsAgainst": 7,
+        "goalDifference": 2,
         "points": 9,
         "form": ""
       },
       {
         "position": 8,
+        "team": "Athletic",
+        "played": 6,
+        "won": 2,
+        "drawn": 2,
+        "lost": 2,
+        "goalsFor": 7,
+        "goalsAgainst": 6,
+        "goalDifference": 1,
+        "points": 8,
+        "form": ""
+      },
+      {
+        "position": 9,
         "team": "Espanyol",
         "played": 6,
         "won": 2,
@@ -368,46 +381,20 @@
         "form": ""
       },
       {
-        "position": 9,
-        "team": "Athletic",
-        "played": 5,
-        "won": 2,
-        "drawn": 1,
-        "lost": 2,
-        "goalsFor": 7,
-        "goalsAgainst": 6,
-        "goalDifference": 1,
-        "points": 7,
-        "form": ""
-      },
-      {
         "position": 10,
         "team": "Santander",
-        "played": 5,
+        "played": 6,
         "won": 2,
         "drawn": 1,
-        "lost": 2,
-        "goalsFor": 9,
-        "goalsAgainst": 9,
-        "goalDifference": 0,
-        "points": 7,
-        "form": ""
-      },
-      {
-        "position": 11,
-        "team": "Osasuna",
-        "played": 5,
-        "won": 2,
-        "drawn": 1,
-        "lost": 2,
-        "goalsFor": 5,
-        "goalsAgainst": 8,
+        "lost": 3,
+        "goalsFor": 10,
+        "goalsAgainst": 13,
         "goalDifference": -3,
         "points": 7,
         "form": ""
       },
       {
-        "position": 12,
+        "position": 11,
         "team": "Rayo Vallecano",
         "played": 6,
         "won": 2,
@@ -420,7 +407,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 12,
         "team": "Real Sociedad",
         "played": 6,
         "won": 2,
@@ -433,16 +420,29 @@
         "form": ""
       },
       {
+        "position": 13,
+        "team": "Osasuna",
+        "played": 6,
+        "won": 2,
+        "drawn": 1,
+        "lost": 3,
+        "goalsFor": 5,
+        "goalsAgainst": 12,
+        "goalDifference": -7,
+        "points": 7,
+        "form": ""
+      },
+      {
         "position": 14,
         "team": "Levante",
-        "played": 5,
+        "played": 6,
         "won": 1,
-        "drawn": 2,
+        "drawn": 3,
         "lost": 2,
         "goalsFor": 7,
         "goalsAgainst": 9,
         "goalDifference": -2,
-        "points": 5,
+        "points": 6,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-16T16:00:41.523Z"
+  "generatedAt": "2026-09-16T20:48:24.507Z"
 }

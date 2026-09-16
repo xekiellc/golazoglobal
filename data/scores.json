@@ -2,6 +2,24 @@
   "matches": [
     {
       "league": "PD",
+      "homeTeam": "Levante",
+      "awayTeam": "Athletic",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-16T19:30:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Barça",
+      "awayTeam": "Santander",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-16T19:30:00Z"
+    },
+    {
+      "league": "PD",
       "homeTeam": "Rayo Vallecano",
       "awayTeam": "Espanyol",
       "homeScore": 2,
@@ -26,6 +44,24 @@
       "awayScore": 3,
       "status": "FINISHED",
       "utcDate": "2026-09-15T19:30:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Deportivo",
+      "awayTeam": "Sevilla FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-16T17:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Atleti",
+      "awayTeam": "Osasuna",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-09-16T17:00:00Z"
     },
     {
       "league": "DED",
@@ -55,42 +91,6 @@
       "utcDate": "2026-09-15T18:45:00Z"
     },
     {
-      "league": "PD",
-      "homeTeam": "Deportivo",
-      "awayTeam": "Sevilla FC",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-16T17:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Atleti",
-      "awayTeam": "Osasuna",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-16T17:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Levante",
-      "awayTeam": "Athletic",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-16T19:30:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Barça",
-      "awayTeam": "Santander",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-16T19:30:00Z"
-    },
-    {
       "league": "BSA",
       "homeTeam": "Botafogo",
       "awayTeam": "Grêmio",
@@ -100,5 +100,5 @@
       "utcDate": "2026-09-16T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-09-16T15:59:39.240Z"
+  "generatedAt": "2026-09-16T20:47:23.374Z"
 }
