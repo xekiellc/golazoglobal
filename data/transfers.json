@@ -1,16 +1,16 @@
 {
   "transfers": [
     {
-      "player": "DeSean Jackson displeased with DSU's pla",
+      "player": "Georgia transfer wide receiver scores cl",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The News Journal",
-      "url": "https://www.delawareonline.com/story/sports/college/2026/09/15/desean-jackson-pushes-delaware-state-football-to-improve-usf-trip/91756200007/",
-      "publishedAt": "2026-09-15T10:20:33Z"
+      "source": "USA Today",
+      "url": "https://ugawire.usatoday.com/story/sports/college/bulldogs/football/2026/09/15/georgia-transfer-touchdown-purdue-denylon-morrissette/91773232007/",
+      "publishedAt": "2026-09-15T15:48:26Z"
     }
   ],
-  "generatedAt": "2026-09-16T10:42:24.552Z",
+  "generatedAt": "2026-09-16T15:58:14.565Z",
   "note": "Transfers derived from news headlines at launch."
 }
