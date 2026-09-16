@@ -2,33 +2,6 @@
   "matches": [
     {
       "league": "PD",
-      "homeTeam": "Elche",
-      "awayTeam": "Real Madrid",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "IN_PLAY",
-      "utcDate": "2026-09-15T19:30:00Z"
-    },
-    {
-      "league": "PL",
-      "homeTeam": "Leeds United",
-      "awayTeam": "Newcastle",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-14T19:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Villarreal",
-      "awayTeam": "Real Betis",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-09-14T19:00:00Z"
-    },
-    {
-      "league": "PD",
       "homeTeam": "Rayo Vallecano",
       "awayTeam": "Espanyol",
       "homeScore": 2,
@@ -46,31 +19,13 @@
       "utcDate": "2026-09-15T18:00:00Z"
     },
     {
-      "league": "SA",
-      "homeTeam": "Como 1907",
-      "awayTeam": "Parma",
+      "league": "PD",
+      "homeTeam": "Elche",
+      "awayTeam": "Real Madrid",
       "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-14T16:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Torino",
-      "awayTeam": "Roma",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-09-14T16:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Inter",
-      "awayTeam": "Udinese",
-      "homeScore": 5,
       "awayScore": 3,
       "status": "FINISHED",
-      "utcDate": "2026-09-14T18:45:00Z"
+      "utcDate": "2026-09-15T19:30:00Z"
     },
     {
       "league": "DED",
@@ -80,33 +35,6 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-09-15T18:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Rio Ave",
-      "awayTeam": "Amadora",
-      "homeScore": 3,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-09-14T17:45:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Moreirense",
-      "awayTeam": "Marítimo",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-14T19:15:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Braga",
-      "awayTeam": "Estoril Praia",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-09-14T19:45:00Z"
     },
     {
       "league": "ELC",
@@ -127,14 +55,50 @@
       "utcDate": "2026-09-15T18:45:00Z"
     },
     {
+      "league": "PD",
+      "homeTeam": "Deportivo",
+      "awayTeam": "Sevilla FC",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-09-16T17:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Atleti",
+      "awayTeam": "Osasuna",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-09-16T17:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Levante",
+      "awayTeam": "Athletic",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-09-16T19:30:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Barça",
+      "awayTeam": "Santander",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-09-16T19:30:00Z"
+    },
+    {
       "league": "BSA",
-      "homeTeam": "Bahia",
-      "awayTeam": "Clube do Remo",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-14T23:00:00Z"
+      "homeTeam": "Botafogo",
+      "awayTeam": "Grêmio",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-09-16T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-09-15T20:47:45.687Z"
+  "generatedAt": "2026-09-16T01:00:28.769Z"
 }

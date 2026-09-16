@@ -117,7 +117,7 @@
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
           "goals": 7,
-          "assists": 1,
+          "assists": 2,
           "penalties": 1
         },
         {
@@ -186,6 +186,13 @@
       ],
       "topAssists": [
         {
+          "name": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "goals": 7,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
           "name": "Raphinha",
           "team": "Barça",
           "goals": 6,
@@ -205,13 +212,6 @@
           "goals": 4,
           "assists": 2,
           "penalties": 0
-        },
-        {
-          "name": "Kylian Mbappé",
-          "team": "Real Madrid",
-          "goals": 7,
-          "assists": 1,
-          "penalties": 1
         },
         {
           "name": "Sergio Camello",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-15T20:49:53.976Z"
+  "generatedAt": "2026-09-16T01:02:37.861Z"
 }
