@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "PD",
+      "homeTeam": "Málaga",
+      "awayTeam": "Villarreal",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-17T19:30:00Z"
+    },
+    {
+      "league": "PD",
       "homeTeam": "Deportivo",
       "awayTeam": "Sevilla FC",
       "homeScore": 0,
@@ -28,6 +37,15 @@
       "utcDate": "2026-09-16T19:30:00Z"
     },
     {
+      "league": "PD",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Getafe",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-09-17T17:00:00Z"
+    },
+    {
       "league": "BSA",
       "homeTeam": "Botafogo",
       "awayTeam": "Grêmio",
@@ -44,25 +62,7 @@
       "awayScore": 0,
       "status": "POSTPONED",
       "utcDate": "2026-09-16T00:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Real Betis",
-      "awayTeam": "Getafe",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-17T17:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Málaga",
-      "awayTeam": "Villarreal",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-17T19:30:00Z"
     }
   ],
-  "generatedAt": "2026-09-17T16:05:43.112Z"
+  "generatedAt": "2026-09-17T20:53:32.198Z"
 }

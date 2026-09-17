@@ -291,6 +291,19 @@
       },
       {
         "position": 3,
+        "team": "Real Betis",
+        "played": 6,
+        "won": 5,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 8,
+        "goalsAgainst": 6,
+        "goalDifference": 2,
+        "points": 15,
+        "form": ""
+      },
+      {
+        "position": 4,
         "team": "Atleti",
         "played": 6,
         "won": 4,
@@ -303,7 +316,7 @@
         "form": ""
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "Sevilla FC",
         "played": 6,
         "won": 4,
@@ -313,19 +326,6 @@
         "goalsAgainst": 6,
         "goalDifference": 3,
         "points": 13,
-        "form": ""
-      },
-      {
-        "position": 5,
-        "team": "Real Betis",
-        "played": 5,
-        "won": 4,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 7,
-        "goalsAgainst": 6,
-        "goalDifference": 1,
-        "points": 12,
         "form": ""
       },
       {
@@ -434,6 +434,19 @@
       },
       {
         "position": 14,
+        "team": "Villarreal",
+        "played": 6,
+        "won": 1,
+        "drawn": 2,
+        "lost": 3,
+        "goalsFor": 9,
+        "goalsAgainst": 11,
+        "goalDifference": -2,
+        "points": 5,
+        "form": ""
+      },
+      {
+        "position": 15,
         "team": "Levante",
         "played": 5,
         "won": 1,
@@ -446,20 +459,20 @@
         "form": ""
       },
       {
-        "position": 15,
+        "position": 16,
         "team": "Getafe",
-        "played": 5,
+        "played": 6,
         "won": 1,
         "drawn": 2,
-        "lost": 2,
+        "lost": 3,
         "goalsFor": 3,
-        "goalsAgainst": 6,
-        "goalDifference": -3,
+        "goalsAgainst": 7,
+        "goalDifference": -4,
         "points": 5,
         "form": ""
       },
       {
-        "position": 16,
+        "position": 17,
         "team": "Celta",
         "played": 6,
         "won": 0,
@@ -472,7 +485,7 @@
         "form": ""
       },
       {
-        "position": 17,
+        "position": 18,
         "team": "Valencia",
         "played": 6,
         "won": 1,
@@ -485,29 +498,16 @@
         "form": ""
       },
       {
-        "position": 18,
+        "position": 19,
         "team": "Málaga",
-        "played": 5,
+        "played": 6,
         "won": 0,
         "drawn": 3,
-        "lost": 2,
-        "goalsFor": 2,
-        "goalsAgainst": 8,
-        "goalDifference": -6,
-        "points": 3,
-        "form": ""
-      },
-      {
-        "position": 19,
-        "team": "Villarreal",
-        "played": 5,
-        "won": 0,
-        "drawn": 2,
         "lost": 3,
-        "goalsFor": 7,
+        "goalsFor": 3,
         "goalsAgainst": 10,
-        "goalDifference": -3,
-        "points": 2,
+        "goalDifference": -7,
+        "points": 3,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-17T16:06:44.610Z"
+  "generatedAt": "2026-09-17T20:54:35.729Z"
 }

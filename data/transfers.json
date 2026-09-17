@@ -1,46 +1,36 @@
 {
   "transfers": [
     {
-      "player": "2026 Week 3 Victory Bell Preview",
+      "player": "LSU",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Underdogdynasty.com",
-      "url": "https://www.underdogdynasty.com/big-12/45833/2026-week-3-victory-bell-preview-cincinnati-bearcats-vs-miami-oh-redhawks",
-      "publishedAt": "2026-09-16T16:00:00Z"
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/lsu-ole-miss-showdown-intensifies-tigers-star-served-lawsuit-papers-outside-football-facility",
+      "publishedAt": "2026-09-16T20:44:11Z"
     },
     {
-      "player": "LSU player served court papers related O",
+      "player": "College Football Week 3 Odds, Sleeper Ga",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/us/ncaa-football/news/lsu-player-served-court-papers-ole-miss-lawsuit/ad5949c6cee257cb1e32cd94",
-      "publishedAt": "2026-09-16T15:57:50Z"
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/betting/college-football-week-3-odds-sleeper-games-watch",
+      "publishedAt": "2026-09-16T20:40:49Z"
     },
     {
-      "player": "LSU sack leader Princewill Umanmielen se",
+      "player": "Five Portland State Vikings for Ducks fa",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/lsu-sack-leader-princewill-umanmielen-155216292.html",
-      "publishedAt": "2026-09-16T15:52:16Z"
-    },
-    {
-      "player": "College football score predictions for W",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/college-football-score-predictions-odds-picks-for-week-3-2026/",
-      "publishedAt": "2026-09-16T15:45:40Z"
+      "source": "USA Today",
+      "url": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2026/09/16/oregon-football-portland-state-vikings-to-know/91783496007/",
+      "publishedAt": "2026-09-16T20:27:27Z"
     }
   ],
-  "generatedAt": "2026-09-17T16:04:21.155Z",
+  "generatedAt": "2026-09-17T20:52:06.660Z",
   "note": "Transfers derived from news headlines at launch."
 }
