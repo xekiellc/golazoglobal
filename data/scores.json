@@ -2,15 +2,6 @@
   "matches": [
     {
       "league": "PD",
-      "homeTeam": "Levante",
-      "awayTeam": "Athletic",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-09-16T19:30:00Z"
-    },
-    {
-      "league": "PD",
       "homeTeam": "Deportivo",
       "awayTeam": "Sevilla FC",
       "homeScore": 0,
@@ -47,6 +38,15 @@
     },
     {
       "league": "PD",
+      "homeTeam": "Levante",
+      "awayTeam": "Athletic",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "POSTPONED",
+      "utcDate": "2026-09-16T00:00:00Z"
+    },
+    {
+      "league": "PD",
       "homeTeam": "Real Betis",
       "awayTeam": "Getafe",
       "homeScore": null,
@@ -64,5 +64,5 @@
       "utcDate": "2026-09-17T19:30:00Z"
     }
   ],
-  "generatedAt": "2026-09-17T01:03:37.102Z"
+  "generatedAt": "2026-09-17T10:51:29.917Z"
 }
