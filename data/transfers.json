@@ -1,16 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Oklahoma football news",
+      "player": "2026 Week 3 Victory Bell Preview",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/oklahoma-football-news-sooners-land-big-commitment-from-4-star-te-after-michigan-loss",
-      "publishedAt": "2026-09-16T10:27:14Z"
+      "source": "Underdogdynasty.com",
+      "url": "https://www.underdogdynasty.com/big-12/45833/2026-week-3-victory-bell-preview-cincinnati-bearcats-vs-miami-oh-redhawks",
+      "publishedAt": "2026-09-16T16:00:00Z"
+    },
+    {
+      "player": "LSU player served court papers related O",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/ncaa-football/news/lsu-player-served-court-papers-ole-miss-lawsuit/ad5949c6cee257cb1e32cd94",
+      "publishedAt": "2026-09-16T15:57:50Z"
+    },
+    {
+      "player": "LSU sack leader Princewill Umanmielen se",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/lsu-sack-leader-princewill-umanmielen-155216292.html",
+      "publishedAt": "2026-09-16T15:52:16Z"
+    },
+    {
+      "player": "College football score predictions for W",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/college-football-score-predictions-odds-picks-for-week-3-2026/",
+      "publishedAt": "2026-09-16T15:45:40Z"
     }
   ],
-  "generatedAt": "2026-09-17T10:50:03.185Z",
+  "generatedAt": "2026-09-17T16:04:21.155Z",
   "note": "Transfers derived from news headlines at launch."
 }
