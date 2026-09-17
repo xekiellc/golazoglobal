@@ -270,9 +270,9 @@
         "won": 6,
         "drawn": 0,
         "lost": 0,
-        "goalsFor": 25,
-        "goalsAgainst": 5,
-        "goalDifference": 20,
+        "goalsFor": 28,
+        "goalsAgainst": 6,
+        "goalDifference": 22,
         "points": 18,
         "form": ""
       },
@@ -387,9 +387,9 @@
         "won": 2,
         "drawn": 1,
         "lost": 3,
-        "goalsFor": 10,
-        "goalsAgainst": 13,
-        "goalDifference": -3,
+        "goalsFor": 11,
+        "goalsAgainst": 16,
+        "goalDifference": -5,
         "points": 7,
         "form": ""
       },
@@ -2177,6 +2177,19 @@
       },
       {
         "position": 11,
+        "team": "Botafogo",
+        "played": 27,
+        "won": 9,
+        "drawn": 8,
+        "lost": 10,
+        "goalsFor": 41,
+        "goalsAgainst": 43,
+        "goalDifference": -2,
+        "points": 35,
+        "form": ""
+      },
+      {
+        "position": 12,
         "team": "São Paulo",
         "played": 26,
         "won": 9,
@@ -2189,7 +2202,7 @@
         "form": ""
       },
       {
-        "position": 12,
+        "position": 13,
         "team": "Vitória",
         "played": 27,
         "won": 9,
@@ -2202,7 +2215,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Corinthians",
         "played": 27,
         "won": 8,
@@ -2211,19 +2224,6 @@
         "goalsFor": 28,
         "goalsAgainst": 29,
         "goalDifference": -1,
-        "points": 32,
-        "form": ""
-      },
-      {
-        "position": 14,
-        "team": "Botafogo",
-        "played": 26,
-        "won": 8,
-        "drawn": 8,
-        "lost": 10,
-        "goalsFor": 38,
-        "goalsAgainst": 41,
-        "goalDifference": -3,
         "points": 32,
         "form": ""
       },
@@ -2243,13 +2243,13 @@
       {
         "position": 16,
         "team": "Grêmio",
-        "played": 26,
+        "played": 27,
         "won": 7,
         "drawn": 7,
-        "lost": 12,
-        "goalsFor": 28,
-        "goalsAgainst": 35,
-        "goalDifference": -7,
+        "lost": 13,
+        "goalsFor": 30,
+        "goalsAgainst": 38,
+        "goalDifference": -8,
         "points": 28,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-16T20:48:24.507Z"
+  "generatedAt": "2026-09-17T01:04:38.597Z"
 }

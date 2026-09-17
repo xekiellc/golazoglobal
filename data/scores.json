@@ -11,42 +11,6 @@
     },
     {
       "league": "PD",
-      "homeTeam": "Barça",
-      "awayTeam": "Santander",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-09-16T19:30:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Rayo Vallecano",
-      "awayTeam": "Espanyol",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-15T17:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Alavés",
-      "awayTeam": "Valencia",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-15T18:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Elche",
-      "awayTeam": "Real Madrid",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-09-15T19:30:00Z"
-    },
-    {
-      "league": "PD",
       "homeTeam": "Deportivo",
       "awayTeam": "Sevilla FC",
       "homeScore": 0,
@@ -64,41 +28,41 @@
       "utcDate": "2026-09-16T17:00:00Z"
     },
     {
-      "league": "DED",
-      "homeTeam": "Ajax",
-      "awayTeam": "Willem II",
-      "homeScore": 5,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-15T18:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Middlesbrough",
-      "awayTeam": "Millwall",
-      "homeScore": 2,
+      "league": "PD",
+      "homeTeam": "Barça",
+      "awayTeam": "Santander",
+      "homeScore": 7,
       "awayScore": 2,
       "status": "FINISHED",
-      "utcDate": "2026-09-15T18:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Bristol City",
-      "awayTeam": "Lincoln City",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-09-15T18:45:00Z"
+      "utcDate": "2026-09-16T19:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Botafogo",
       "awayTeam": "Grêmio",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-09-16T22:30:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Getafe",
       "homeScore": null,
       "awayScore": null,
       "status": "TIMED",
-      "utcDate": "2026-09-16T22:30:00Z"
+      "utcDate": "2026-09-17T17:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Málaga",
+      "awayTeam": "Villarreal",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-09-17T19:30:00Z"
     }
   ],
-  "generatedAt": "2026-09-16T20:47:23.374Z"
+  "generatedAt": "2026-09-17T01:03:37.102Z"
 }

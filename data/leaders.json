@@ -116,13 +116,20 @@
         {
           "name": "Raphinha",
           "team": "Barça",
-          "goals": 8,
+          "goals": 9,
           "assists": 2,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
+          "goals": 7,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
+          "name": "Lamine Yamal",
+          "team": "Barça",
           "goals": 7,
           "assists": 2,
           "penalties": 1
@@ -142,24 +149,17 @@
           "penalties": 0
         },
         {
-          "name": "Lamine Yamal",
-          "team": "Barça",
+          "name": "Yassir Zabiri",
+          "team": "Santander",
           "goals": 6,
-          "assists": 1,
-          "penalties": 1
+          "assists": 0,
+          "penalties": 0
         },
         {
           "name": "Pierre-Emerick Aubameyang",
           "team": "Deportivo",
           "goals": 5,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Yassir Zabiri",
-          "team": "Santander",
-          "goals": 5,
-          "assists": 0,
           "penalties": 0
         },
         {
@@ -188,13 +188,20 @@
         {
           "name": "Raphinha",
           "team": "Barça",
-          "goals": 8,
+          "goals": 9,
           "assists": 2,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
+          "goals": 7,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
+          "name": "Lamine Yamal",
+          "team": "Barça",
           "goals": 7,
           "assists": 2,
           "penalties": 1
@@ -211,13 +218,6 @@
           "team": "Barça",
           "goals": 4,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Sergio Camello",
-          "team": "Rayo Vallecano",
-          "goals": 6,
-          "assists": 1,
           "penalties": 0
         }
       ]
@@ -919,6 +919,13 @@
           "penalties": 2
         },
         {
+          "name": "Danilo dos Santos de Oliveira",
+          "team": "Botafogo",
+          "goals": 9,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "John Kennedy",
           "team": "Fluminense",
           "goals": 9,
@@ -952,13 +959,6 @@
           "goals": 8,
           "assists": 1,
           "penalties": 1
-        },
-        {
-          "name": "Matheus Pereira",
-          "team": "Cruzeiro",
-          "goals": 8,
-          "assists": 4,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -984,21 +984,21 @@
           "penalties": 0
         },
         {
-          "name": "Matheus Pereira",
-          "team": "Cruzeiro",
-          "goals": 8,
-          "assists": 4,
-          "penalties": 0
-        },
-        {
           "name": "Kevin Viveros",
           "team": "Paranaense",
           "goals": 18,
           "assists": 3,
           "penalties": 4
+        },
+        {
+          "name": "Gabriel Barbosa",
+          "team": "Santos",
+          "goals": 10,
+          "assists": 2,
+          "penalties": 2
         }
       ]
     }
   },
-  "generatedAt": "2026-09-16T20:49:30.992Z"
+  "generatedAt": "2026-09-17T01:05:43.049Z"
 }

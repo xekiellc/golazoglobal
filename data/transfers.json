@@ -1,66 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Penn State Week 3 Injury Report",
+      "player": "Heisman Trophy race takes a major turn a",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "KXAN.com",
+      "url": "https://www.kxan.com/sports-general/horns-report/heisman-trophy-race-takes-a-major-turn-after-week-2/",
+      "publishedAt": "2026-09-16T00:59:05Z"
+    },
+    {
+      "player": "What We Know, and What We Don't, About P",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/pennstate/football/penn-state-week-3-injury-report-latest-updates-whos-out-whos-up-next",
-      "publishedAt": "2026-09-15T20:45:47Z"
+      "url": "https://www.si.com/college/pennstate/football/what-we-know-and-what-we-dont-about-penn-state-football-after-2-games",
+      "publishedAt": "2026-09-16T00:41:36Z"
     },
     {
-      "player": "Mizzou Looks to Build on Kansas Win by C",
+      "player": "Maryland Football vs. Virginia Tech",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Rockmnation.com",
-      "url": "https://www.rockmnation.com/missouri-tigers-football/155907/mizzou-looks-to-build-on-kansas-win-by-cleaning-up-mistakes-against-troy",
-      "publishedAt": "2026-09-15T20:32:09Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/maryland/maryland-football-vs-virginia-tech-key-storylines-and-what-s-at-stake-01m2ks08fsqa",
+      "publishedAt": "2026-09-16T00:36:11Z"
     },
     {
-      "player": "Behind the Last",
+      "player": "Ryan Day points to missed chances in Ohi",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Frontofficesports.com",
-      "url": "https://frontofficesports.com/article/behind-the-last-ditch-lobbying-battle-over-the-bipartisan-senate-college-sports-bill/",
-      "publishedAt": "2026-09-15T20:28:19Z"
+      "source": "Fci Academy",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/15/ohio-state-football-news-ryan-day-loss-texas-arch-manning/91783727007/",
+      "publishedAt": "2026-09-16T00:33:31Z"
     },
     {
-      "player": "Iowa football injury updates on DJ Vonna",
+      "player": "Oklahoma Lands Class of 2028 In",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Hawk Central",
-      "url": "https://www.hawkcentral.com/story/sports/college/iowa/football/2026/09/15/iowa-football-dj-vonnahme-kamari-moulton-lj-phillips-tyler-brown-injuries-vs-uni/91761621007/",
-      "publishedAt": "2026-09-15T20:20:00Z"
-    },
-    {
-      "player": "'I couldn't raise my arm'",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/09/15/texas-aggies-football-cb-dezz-ricks-reportedly-played-with-a-torn-labrum-in-2025/91778122007/",
-      "publishedAt": "2026-09-15T20:19:49Z"
-    },
-    {
-      "player": "Barcelona monitor Kane & Haaland",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cqzezjn3wzjpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "publishedAt": "2026-09-15T20:19:37Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/oklahoma/football/oklahoma-lands-class-of-2028-in-state-star-01m2kq7zv8z6",
+      "publishedAt": "2026-09-15T23:47:06Z"
     }
   ],
-  "generatedAt": "2026-09-16T20:46:00.905Z",
+  "generatedAt": "2026-09-17T01:02:14.713Z",
   "note": "Transfers derived from news headlines at launch."
 }
