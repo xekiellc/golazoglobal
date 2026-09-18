@@ -163,6 +163,13 @@
           "penalties": 0
         },
         {
+          "name": "Fer Niño",
+          "team": "Elche",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Álex Baena",
           "team": "Atleti",
           "goals": 4,
@@ -175,13 +182,6 @@
           "goals": 4,
           "assists": 2,
           "penalties": 0
-        },
-        {
-          "name": "Ante Budimir",
-          "team": "Osasuna",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 3
         }
       ],
       "topAssists": [
@@ -232,6 +232,13 @@
           "penalties": 0
         },
         {
+          "name": "Gustavo Varela",
+          "team": "Monza",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Antonio Raimondo",
           "team": "Frosinone",
           "goals": 4,
@@ -274,13 +281,6 @@
           "penalties": 0
         },
         {
-          "name": "Gustavo Varela",
-          "team": "Monza",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Francesco Esposito",
           "team": "Inter",
           "goals": 2,
@@ -318,16 +318,16 @@
           "penalties": 0
         },
         {
+          "name": "Gustavo Varela",
+          "team": "Monza",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Antonio Raimondo",
           "team": "Frosinone",
           "goals": 4,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Davide Frattesi",
-          "team": "Lazio",
-          "goals": 3,
           "assists": 0,
           "penalties": 0
         }
@@ -335,6 +335,13 @@
     },
     "BL1": {
       "scorers": [
+        {
+          "name": "Michael Olise",
+          "team": "Bayern",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
         {
           "name": "Younes Ebnoutalib",
           "team": "Frankfurt",
@@ -385,33 +392,26 @@
           "penalties": 0
         },
         {
+          "name": "Harry Kane",
+          "team": "Bayern",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Josha Vagnoman",
           "team": "Stuttgart",
           "goals": 2,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Ridle Baku",
-          "team": "RB Leipzig",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Antonio Nusa",
-          "team": "RB Leipzig",
-          "goals": 2,
-          "assists": 2,
-          "penalties": 0
         }
       ],
       "topAssists": [
         {
-          "name": "Antonio Nusa",
-          "team": "RB Leipzig",
-          "goals": 2,
-          "assists": 2,
+          "name": "Michael Olise",
+          "team": "Bayern",
+          "goals": 4,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -468,10 +468,17 @@
           "penalties": 2
         },
         {
+          "name": "Paris Brunner",
+          "team": "Monaco",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Florian Thauvin",
           "team": "RC Lens",
           "goals": 3,
-          "assists": 2,
+          "assists": 3,
           "penalties": 3
         },
         {
@@ -496,13 +503,6 @@
           "penalties": 0
         },
         {
-          "name": "Paris Brunner",
-          "team": "Monaco",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Franjo Ivanovic",
           "team": "RC Lens",
           "goals": 2,
@@ -522,7 +522,7 @@
           "name": "Florian Thauvin",
           "team": "RC Lens",
           "goals": 3,
-          "assists": 2,
+          "assists": 3,
           "penalties": 3
         },
         {
@@ -547,11 +547,11 @@
           "penalties": 2
         },
         {
-          "name": "Louis Mafouta",
-          "team": "Le Mans",
-          "goals": 3,
+          "name": "Paris Brunner",
+          "team": "Monaco",
+          "goals": 4,
           "assists": 0,
-          "penalties": 1
+          "penalties": 0
         }
       ]
     },
@@ -600,6 +600,13 @@
           "penalties": 0
         },
         {
+          "name": "Thom van Bergen",
+          "team": "Groningen",
+          "goals": 4,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Rafik el Arguioui",
           "team": "Cambuur",
           "goals": 4,
@@ -619,13 +626,6 @@
           "goals": 3,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Devin Haen",
-          "team": "Willem II",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -644,6 +644,13 @@
           "penalties": 0
         },
         {
+          "name": "Thom van Bergen",
+          "team": "Groningen",
+          "goals": 4,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Milan Zonneveld",
           "team": "Sparta",
           "goals": 5,
@@ -654,13 +661,6 @@
           "name": "Sven Mijnans",
           "team": "PSV",
           "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Devin Haen",
-          "team": "Willem II",
-          "goals": 3,
           "assists": 1,
           "penalties": 0
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-18T15:43:56.772Z"
+  "generatedAt": "2026-09-18T20:21:13.269Z"
 }

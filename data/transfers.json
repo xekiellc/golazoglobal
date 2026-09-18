@@ -1,36 +1,66 @@
 {
   "transfers": [
     {
-      "player": "TENNESSEE VOLS FOOTBALL",
+      "player": "LSU Dealt More Concerning Sam Leavitt In",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/tennessee/news/tennessee-vols-football-heupel-quick-to-dismiss-kennesaw-state-as-tune-up-game",
-      "publishedAt": "2026-09-17T15:37:12Z"
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/college-football/lsu-tigers/sam-leavitt-injury-news-update-playing-ole-miss-lsu/",
+      "publishedAt": "2026-09-17T20:13:01Z"
     },
     {
-      "player": "There's little upside if LSU and Lane Ki",
+      "player": "Lane Kiffin’s return to Ole Miss comes w",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/college-football/article/theres-little-upside-if-lsu-and-lane-kiffin-are-playing-games-with-sam-leavitts-inclusion-on-the-pre-ole-miss-injury-report-153149318.html",
-      "publishedAt": "2026-09-17T15:31:49Z"
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/lane-kiffin-return-ole-miss-betrayal-lawsuits-memories-trying-burn-down",
+      "publishedAt": "2026-09-17T20:10:37Z"
     },
     {
-      "player": "LSU vs. Ole Miss prediction, odds, time",
+      "player": "Lamar Jackson WVU Photo Resurfaces, Has ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/lsu-ole-miss-prediction-odds-time-spread-week-3-college-football-picks-for-lane-kiffin-return/",
-      "publishedAt": "2026-09-17T15:29:06Z"
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/college-football/wvu-lamar-jackson-photo-resurfaces-what-if/",
+      "publishedAt": "2026-09-17T20:06:43Z"
+    },
+    {
+      "player": "Ravens Week 1 film study",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Baltimore Beatdown",
+      "url": "https://www.baltimorebeatdown.com/baltimore-ravens-analysis/85108/ravens-week-1-film-study-hendrickson-robinson-form-powerful-edge-duo",
+      "publishedAt": "2026-09-17T20:05:35Z"
+    },
+    {
+      "player": "Purdue Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Hammer and Rails",
+      "url": "https://www.hammerandrails.com/purdue-football/61191/purdue-football-ucla-preview",
+      "publishedAt": "2026-09-17T20:02:53Z"
+    },
+    {
+      "player": "How to Watch",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Maize n Brew",
+      "url": "https://www.maizenbrew.com/football/122939/how-to-watch-michigan-football-vs-utep-miners-bryce-underwood-kyle-whittingham",
+      "publishedAt": "2026-09-17T20:00:00Z"
     }
   ],
-  "generatedAt": "2026-09-18T15:40:26.999Z",
+  "generatedAt": "2026-09-18T20:17:32.107Z",
   "note": "Transfers derived from news headlines at launch."
 }
