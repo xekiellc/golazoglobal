@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "'So proud of that kid'",
+      "player": "TENNESSEE VOLS FOOTBALL",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/09/17/bravion-rogers-texas-aggies-football-mike-elko/91803957007/",
-      "publishedAt": "2026-09-17T10:09:39Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/tennessee/news/tennessee-vols-football-heupel-quick-to-dismiss-kennesaw-state-as-tune-up-game",
+      "publishedAt": "2026-09-17T15:37:12Z"
+    },
+    {
+      "player": "There's little upside if LSU and Lane Ki",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/college-football/article/theres-little-upside-if-lsu-and-lane-kiffin-are-playing-games-with-sam-leavitts-inclusion-on-the-pre-ole-miss-injury-report-153149318.html",
+      "publishedAt": "2026-09-17T15:31:49Z"
+    },
+    {
+      "player": "LSU vs. Ole Miss prediction, odds, time",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/lsu-ole-miss-prediction-odds-time-spread-week-3-college-football-picks-for-lane-kiffin-return/",
+      "publishedAt": "2026-09-17T15:29:06Z"
     }
   ],
-  "generatedAt": "2026-09-18T10:25:30.787Z",
+  "generatedAt": "2026-09-18T15:40:26.999Z",
   "note": "Transfers derived from news headlines at launch."
 }
