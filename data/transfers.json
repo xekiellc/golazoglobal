@@ -1,66 +1,16 @@
 {
   "transfers": [
     {
-      "player": "LSU surprisingly lists QB Sam Leavitt as",
+      "player": "'So proud of that kid'",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/college-football/article/lsu-surprisingly-lists-qb-sam-leavitt-as-doubtful-for-highly-anticipated-clash-against-ole-miss-saturday-004708516.html",
-      "publishedAt": "2026-09-17T00:47:08Z"
-    },
-    {
-      "player": "No. 7 LSU surprisingly lists QB Sam Leav",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/college-football/article/no-7-lsu-surprisingly-lists-qb-sam-leavitt-as-doubtful-for-highly-anticipated-clash-against-no-8-ole-miss-004708516.html",
-      "publishedAt": "2026-09-17T00:47:08Z"
-    },
-    {
-      "player": "LSU football QB Sam Leavitt on injury re",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Clarion Ledger",
-      "url": "https://www.clarionledger.com/story/sports/college/ole-miss/2026/09/16/ole-miss-injury-report-lsu-sam-leavitt-lane-kiffin/91781389007/",
-      "publishedAt": "2026-09-17T00:42:09Z"
-    },
-    {
-      "player": "Dylan Stewart, Jacarrius Peak on injury ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Greenville News",
-      "url": "https://www.greenvilleonline.com/story/sports/college/usc/2026/09/16/south-carolina-football-injury-report-mississippi-state-dylan-stewart/91750941007/",
-      "publishedAt": "2026-09-17T00:35:34Z"
-    },
-    {
-      "player": "Illinois Football Gets Pledge From 3",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/illinois/news/illinois-football-gets-pledge-from-3-star-midwestern-quarterback",
-      "publishedAt": "2026-09-17T00:33:52Z"
-    },
-    {
-      "player": "This Week in the ACC",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/cal/football/this-week-in-the-acc-how-many-incompletions-will-darian-mensah-throw-01m2nnddsmj5",
-      "publishedAt": "2026-09-17T00:30:44Z"
+      "source": "USA Today",
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/09/17/bravion-rogers-texas-aggies-football-mike-elko/91803957007/",
+      "publishedAt": "2026-09-17T10:09:39Z"
     }
   ],
-  "generatedAt": "2026-09-18T00:57:27.870Z",
+  "generatedAt": "2026-09-18T10:25:30.787Z",
   "note": "Transfers derived from news headlines at launch."
 }
