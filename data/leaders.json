@@ -48,7 +48,7 @@
           "name": "Pascal Groß",
           "team": "Brighton Hove",
           "goals": 3,
-          "assists": 2,
+          "assists": 3,
           "penalties": 1
         },
         {
@@ -85,7 +85,7 @@
           "name": "Pascal Groß",
           "team": "Brighton Hove",
           "goals": 3,
-          "assists": 2,
+          "assists": 3,
           "penalties": 1
         },
         {
@@ -116,7 +116,7 @@
         {
           "name": "Raphinha",
           "team": "Barça",
-          "goals": 9,
+          "goals": 10,
           "assists": 2,
           "penalties": 3
         },
@@ -188,7 +188,7 @@
         {
           "name": "Raphinha",
           "team": "Barça",
-          "goals": 9,
+          "goals": 10,
           "assists": 2,
           "penalties": 3
         },
@@ -246,6 +246,13 @@
           "penalties": 0
         },
         {
+          "name": "Lautaro Martínez",
+          "team": "Inter",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Davide Frattesi",
           "team": "Lazio",
           "goals": 3,
@@ -283,13 +290,6 @@
         {
           "name": "Anastasios Douvikas",
           "team": "Como 1907",
-          "goals": 2,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Hakan Çalhanoğlu",
-          "team": "Inter",
           "goals": 2,
           "assists": 0,
           "penalties": 0
@@ -385,6 +385,13 @@
           "penalties": 0
         },
         {
+          "name": "Niclas Füllkrug",
+          "team": "Bremen",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Maurice Krattenmacher",
           "team": "Elversberg",
           "goals": 3,
@@ -397,13 +404,6 @@
           "goals": 3,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Harry Kane",
-          "team": "Bayern",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -464,7 +464,7 @@
           "name": "Lassine Sinayoko",
           "team": "Paris FC",
           "goals": 4,
-          "assists": 0,
+          "assists": 1,
           "penalties": 2
         },
         {
@@ -503,17 +503,17 @@
           "penalties": 0
         },
         {
-          "name": "Franjo Ivanovic",
-          "team": "RC Lens",
-          "goals": 2,
-          "assists": 0,
+          "name": "Ernest Nuamah",
+          "team": "Olympique Lyon",
+          "goals": 3,
+          "assists": 1,
           "penalties": 0
         },
         {
-          "name": "Tiago Santos",
-          "team": "Lille",
-          "goals": 2,
-          "assists": 0,
+          "name": "Adil Bourabaa",
+          "team": "Le Mans",
+          "goals": 3,
+          "assists": 2,
           "penalties": 0
         }
       ],
@@ -526,6 +526,13 @@
           "penalties": 3
         },
         {
+          "name": "Adil Bourabaa",
+          "team": "Le Mans",
+          "goals": 3,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Kamory Doumbia",
           "team": "Brest",
           "goals": 4,
@@ -533,24 +540,17 @@
           "penalties": 1
         },
         {
-          "name": "Amine Gouiri",
-          "team": "Marseille",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
           "name": "Lassine Sinayoko",
           "team": "Paris FC",
           "goals": 4,
-          "assists": 0,
+          "assists": 1,
           "penalties": 2
         },
         {
-          "name": "Paris Brunner",
-          "team": "Monaco",
-          "goals": 4,
-          "assists": 0,
+          "name": "Ernest Nuamah",
+          "team": "Olympique Lyon",
+          "goals": 3,
+          "assists": 1,
           "penalties": 0
         }
       ]
@@ -607,6 +607,13 @@
           "penalties": 0
         },
         {
+          "name": "Julian Brandt",
+          "team": "Ajax",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Rafik el Arguioui",
           "team": "Cambuur",
           "goals": 4,
@@ -618,13 +625,6 @@
           "team": "PSV",
           "goals": 4,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "David Garden",
-          "team": "Excelsior",
-          "goals": 3,
-          "assists": 0,
           "penalties": 0
         }
       ],
@@ -676,6 +676,13 @@
           "penalties": 2
         },
         {
+          "name": "Luis Suárez",
+          "team": "Sporting CP",
+          "goals": 6,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "Georgios Koutsias",
           "team": "Famalicão",
           "goals": 5,
@@ -695,13 +702,6 @@
           "goals": 5,
           "assists": 1,
           "penalties": 1
-        },
-        {
-          "name": "Luis Suárez",
-          "team": "Sporting CP",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 2
         },
         {
           "name": "Barbero",
@@ -762,18 +762,18 @@
           "penalties": 1
         },
         {
+          "name": "Luis Suárez",
+          "team": "Sporting CP",
+          "goals": 6,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "Gonçalo Paciência",
           "team": "Santa Clara",
           "goals": 5,
           "assists": 1,
           "penalties": 1
-        },
-        {
-          "name": "Luis Suárez",
-          "team": "Sporting CP",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 2
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-19T15:16:29.845Z"
+  "generatedAt": "2026-09-19T19:59:16.052Z"
 }
