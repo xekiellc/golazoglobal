@@ -1,66 +1,36 @@
 {
   "transfers": [
     {
-      "player": "LSU Dealt More Concerning Sam Leavitt In",
+      "player": "LSU QB Sam Leavitt upgraded to 'question",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Heavy.com",
-      "url": "https://heavy.com/sports/college-football/lsu-tigers/sam-leavitt-injury-news-update-playing-ole-miss-lsu/",
-      "publishedAt": "2026-09-17T20:13:01Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/lsu-qb-sam-leavitt-upgraded-002703825.html",
+      "publishedAt": "2026-09-18T00:27:03Z"
     },
     {
-      "player": "Lane Kiffin’s return to Ole Miss comes w",
+      "player": "Sam Leavitt Injury Status Receives Major",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/outkick-sports/lane-kiffin-return-ole-miss-betrayal-lawsuits-memories-trying-burn-down",
-      "publishedAt": "2026-09-17T20:10:37Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/lsu/football/sam-leavitt-injury-status-receives-major-update-before-lsu-ole-miss-game",
+      "publishedAt": "2026-09-18T00:22:01Z"
     },
     {
-      "player": "Lamar Jackson WVU Photo Resurfaces, Has ",
+      "player": "Sam Leavitt latest injury update for LSU",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Heavy.com",
-      "url": "https://heavy.com/sports/college-football/wvu-lamar-jackson-photo-resurfaces-what-if/",
-      "publishedAt": "2026-09-17T20:06:43Z"
-    },
-    {
-      "player": "Ravens Week 1 film study",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Baltimore Beatdown",
-      "url": "https://www.baltimorebeatdown.com/baltimore-ravens-analysis/85108/ravens-week-1-film-study-hendrickson-robinson-form-powerful-edge-duo",
-      "publishedAt": "2026-09-17T20:05:35Z"
-    },
-    {
-      "player": "Purdue Football",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Hammer and Rails",
-      "url": "https://www.hammerandrails.com/purdue-football/61191/purdue-football-ucla-preview",
-      "publishedAt": "2026-09-17T20:02:53Z"
-    },
-    {
-      "player": "How to Watch",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Maize n Brew",
-      "url": "https://www.maizenbrew.com/football/122939/how-to-watch-michigan-football-vs-utep-miners-bryce-underwood-kyle-whittingham",
-      "publishedAt": "2026-09-17T20:00:00Z"
+      "source": "Clarion Ledger",
+      "url": "https://www.clarionledger.com/story/sports/college/ole-miss/2026/09/17/ole-miss-lsu-injury-report-sam-leavitt-lane-kiffin/91816426007/",
+      "publishedAt": "2026-09-18T00:13:58Z"
     }
   ],
-  "generatedAt": "2026-09-18T20:17:32.107Z",
+  "generatedAt": "2026-09-19T00:53:46.242Z",
   "note": "Transfers derived from news headlines at launch."
 }
