@@ -116,7 +116,7 @@
         {
           "name": "Raphinha",
           "team": "Barça",
-          "goals": 10,
+          "goals": 12,
           "assists": 2,
           "penalties": 3
         },
@@ -138,7 +138,7 @@
           "name": "Lamine Yamal",
           "team": "Barça",
           "goals": 7,
-          "assists": 2,
+          "assists": 4,
           "penalties": 1
         },
         {
@@ -186,22 +186,22 @@
       ],
       "topAssists": [
         {
+          "name": "Lamine Yamal",
+          "team": "Barça",
+          "goals": 7,
+          "assists": 4,
+          "penalties": 1
+        },
+        {
           "name": "Raphinha",
           "team": "Barça",
-          "goals": 10,
+          "goals": 12,
           "assists": 2,
           "penalties": 3
         },
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
-          "goals": 7,
-          "assists": 2,
-          "penalties": 1
-        },
-        {
-          "name": "Lamine Yamal",
-          "team": "Barça",
           "goals": 7,
           "assists": 2,
           "penalties": 1
@@ -905,18 +905,18 @@
           "penalties": 0
         },
         {
+          "name": "Gabriel Barbosa",
+          "team": "Santos",
+          "goals": 11,
+          "assists": 3,
+          "penalties": 2
+        },
+        {
           "name": "Carlos Vinícius",
           "team": "Grêmio",
           "goals": 10,
           "assists": 1,
           "penalties": 1
-        },
-        {
-          "name": "Gabriel Barbosa",
-          "team": "Santos",
-          "goals": 10,
-          "assists": 2,
-          "penalties": 2
         },
         {
           "name": "Danilo dos Santos de Oliveira",
@@ -993,12 +993,12 @@
         {
           "name": "Gabriel Barbosa",
           "team": "Santos",
-          "goals": 10,
-          "assists": 2,
+          "goals": 11,
+          "assists": 3,
           "penalties": 2
         }
       ]
     }
   },
-  "generatedAt": "2026-09-19T19:59:16.052Z"
+  "generatedAt": "2026-09-20T00:37:56.263Z"
 }

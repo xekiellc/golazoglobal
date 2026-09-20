@@ -1,56 +1,26 @@
 {
   "transfers": [
     {
-      "player": "The Preview",
+      "player": "Sam Leavitt latest injury news for LSU v",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/football/article-16142941/tawanda-maswanhise-motherwell.html",
-      "publishedAt": "2026-09-18T19:47:25Z"
+      "source": "Clarion Ledger",
+      "url": "https://www.clarionledger.com/story/sports/college/ole-miss/2026/09/18/ole-miss-lsu-injury-report-sam-leavitt-lane-kiffin/91833631007/",
+      "publishedAt": "2026-09-19T00:13:27Z"
     },
     {
-      "player": "Pete Golding not buying Sam Leavitt inju",
+      "player": "Kennedy scion demands Hyannis Port caret",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/18/pete-golding-lane-kiffin-sam-leavitt-injury-ole-miss-lsu/91830451007/",
-      "publishedAt": "2026-09-18T19:45:07Z"
-    },
-    {
-      "player": "Five things to watch for Oklahoma vs. Ne",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/us/ncaa-football/news/five-things-watch-oklahoma-vs-new-mexico-sooners-prepare-no-2-georgia-no-1-texas/efe8479d3bf5af5cfd16ddb8",
-      "publishedAt": "2026-09-18T19:34:58Z"
-    },
-    {
-      "player": "3 & Out",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-football/121994/ohio-state-buckeyes-kent-state-golden-flashes-3-and-out-score-prediction-key-players-college-football",
-      "publishedAt": "2026-09-18T19:31:00Z"
-    },
-    {
-      "player": "Today's top games to watch, best bets, o",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-no-22-houston-at-no-13-texas-tech-miami-at-wake-forest-more/",
-      "publishedAt": "2026-09-18T19:30:50Z"
+      "source": "Page Six",
+      "url": "https://pagesix.com/2026/09/18/society/kennedy-scion-demands-hyannis-port-caretakers-be-fired-for-hosting-ex-cons-birthday-blowout/",
+      "publishedAt": "2026-09-19T00:10:43Z"
     }
   ],
-  "generatedAt": "2026-09-19T19:55:38.147Z",
+  "generatedAt": "2026-09-20T00:34:25.560Z",
   "note": "Transfers derived from news headlines at launch."
 }
