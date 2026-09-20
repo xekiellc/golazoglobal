@@ -1,46 +1,46 @@
 {
   "transfers": [
     {
-      "player": "College Football Parlay",
+      "player": "FAMU football vs Tennessee State live up",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Action Network",
-      "url": "https://www.actionnetwork.com/ncaaf/college-football-parlay-picks-lsu-vs-ole-miss-sept-19",
-      "publishedAt": "2026-09-19T15:02:45Z"
+      "source": "Tallahassee Democrat",
+      "url": "https://www.tallahassee.com/story/sports/college/famu/2026/09/19/famu-tennessee-state-score-college-football-game-updates--live/91690212007/",
+      "publishedAt": "2026-09-19T20:01:13Z"
     },
     {
-      "player": "45 days till Iowa Hoops",
+      "player": "LSU QB Sam Leavitt to start vs Ole Miss ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Black Heart Gold Pants",
-      "url": "https://www.blackheartgoldpants.com/basketball/70174/45-days-till-iowa-hawkeyes-basketball-andrew-mckeever-ben-mccollum-bhgp",
-      "publishedAt": "2026-09-19T15:01:00Z"
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/ncaa-football/lsu/news/lsu-qb-sam-leavitt-start-vs-ole-miss-after-scare-week-lane-kiffin-says/8858fea592f9fe1f8d9d81b1",
+      "publishedAt": "2026-09-19T19:56:45Z"
     },
     {
-      "player": "Key Illinois Football Transfer Ruled Out",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/illinois/news/key-illinois-football-transfer-ruled-out-for-saturday-vs-southern-illinois",
-      "publishedAt": "2026-09-19T15:00:37Z"
-    },
-    {
-      "player": "What Wake Forest Said After the Miami Lo",
+      "player": "Smith sets Ohio State career receiving m",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/wake-forest-said-miami-loss-150018398.html",
-      "publishedAt": "2026-09-19T15:00:18Z"
+      "url": "https://sports.yahoo.com/articles/smith-sets-ohio-state-career-195057142.html",
+      "publishedAt": "2026-09-19T19:50:57Z"
+    },
+    {
+      "player": "Ohio State football takeaways from win o",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fci Academy",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/19/ohio-state-kent-state-college-football-highlights-recap/91773456007/",
+      "publishedAt": "2026-09-19T19:47:48Z"
     }
   ],
-  "generatedAt": "2026-09-20T15:17:18.676Z",
+  "generatedAt": "2026-09-20T20:10:46.060Z",
   "note": "Transfers derived from news headlines at launch."
 }

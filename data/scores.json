@@ -2,57 +2,57 @@
   "matches": [
     {
       "league": "PD",
-      "homeTeam": "Atleti",
-      "awayTeam": "Real Madrid",
+      "homeTeam": "Valencia",
+      "awayTeam": "Real Sociedad",
       "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-09-20T14:15:00Z"
-    },
-    {
-      "league": "BL1",
-      "homeTeam": "Leverkusen",
-      "awayTeam": "RB Leipzig",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-09-20T13:30:00Z"
-    },
-    {
-      "league": "DED",
-      "homeTeam": "NEC",
-      "awayTeam": "Go Ahead",
-      "homeScore": 1,
       "awayScore": 1,
       "status": "IN_PLAY",
-      "utcDate": "2026-09-20T14:45:00Z"
+      "utcDate": "2026-09-20T19:00:00Z"
     },
     {
-      "league": "PPL",
-      "homeTeam": "Vitória SC",
-      "awayTeam": "Moreirense",
+      "league": "SA",
+      "homeTeam": "Milan",
+      "awayTeam": "Lecce",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-20T18:45:00Z"
+    },
+    {
+      "league": "FL1",
+      "homeTeam": "Marseille",
+      "awayTeam": "PSG",
       "homeScore": 0,
       "awayScore": 0,
       "status": "IN_PLAY",
-      "utcDate": "2026-09-20T14:30:00Z"
+      "utcDate": "2026-09-20T18:45:00Z"
     },
     {
       "league": "PPL",
-      "homeTeam": "Amadora",
-      "awayTeam": "Acad. Viseu",
-      "homeScore": 0,
-      "awayScore": 2,
+      "homeTeam": "Porto",
+      "awayTeam": "SL Benfica",
+      "homeScore": 1,
+      "awayScore": 0,
       "status": "IN_PLAY",
-      "utcDate": "2026-09-20T14:30:00Z"
+      "utcDate": "2026-09-20T19:30:00Z"
     },
     {
       "league": "BSA",
-      "homeTeam": "Grêmio",
-      "awayTeam": "Palmeiras",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Fluminense",
       "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-09-20T19:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Vitória",
+      "awayTeam": "Cruzeiro",
+      "homeScore": 1,
       "awayScore": 0,
       "status": "IN_PLAY",
-      "utcDate": "2026-09-20T14:00:00Z"
+      "utcDate": "2026-09-20T19:00:00Z"
     },
     {
       "league": "PL",
@@ -127,6 +127,15 @@
       "utcDate": "2026-09-20T13:00:00Z"
     },
     {
+      "league": "PL",
+      "homeTeam": "Fulham",
+      "awayTeam": "Man United",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T15:30:00Z"
+    },
+    {
       "league": "PD",
       "homeTeam": "Osasuna",
       "awayTeam": "Rayo Vallecano",
@@ -170,6 +179,33 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-09-20T12:00:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Atleti",
+      "awayTeam": "Real Madrid",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T14:15:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Deportivo",
+      "awayTeam": "Real Betis",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T16:30:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Villarreal",
+      "awayTeam": "Levante",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T16:30:00Z"
     },
     {
       "league": "SA",
@@ -235,6 +271,15 @@
       "utcDate": "2026-09-20T13:00:00Z"
     },
     {
+      "league": "SA",
+      "homeTeam": "Juventus",
+      "awayTeam": "Atalanta",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T16:00:00Z"
+    },
+    {
       "league": "BL1",
       "homeTeam": "HSV",
       "awayTeam": "1. FC Köln",
@@ -278,6 +323,33 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-09-19T16:30:00Z"
+    },
+    {
+      "league": "BL1",
+      "homeTeam": "Leverkusen",
+      "awayTeam": "RB Leipzig",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T13:30:00Z"
+    },
+    {
+      "league": "BL1",
+      "homeTeam": "Schalke",
+      "awayTeam": "Elversberg",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T15:30:00Z"
+    },
+    {
+      "league": "BL1",
+      "homeTeam": "SC Paderborn",
+      "awayTeam": "Hoffenheim",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T17:30:00Z"
     },
     {
       "league": "FL1",
@@ -332,6 +404,15 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-09-20T13:00:00Z"
+    },
+    {
+      "league": "FL1",
+      "homeTeam": "Nice",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T15:15:00Z"
     },
     {
       "league": "DED",
@@ -391,10 +472,19 @@
       "league": "DED",
       "homeTeam": "AZ",
       "awayTeam": "Telstar",
-      "homeScore": 2,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-09-20T12:30:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "NEC",
+      "awayTeam": "Go Ahead",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T14:45:00Z"
     },
     {
       "league": "PPL",
@@ -431,6 +521,42 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-09-19T19:30:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Vitória SC",
+      "awayTeam": "Moreirense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T14:30:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Amadora",
+      "awayTeam": "Acad. Viseu",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T14:30:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Santa Clara",
+      "awayTeam": "Braga",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T17:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Estoril Praia",
+      "awayTeam": "Casa Pia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T17:00:00Z"
     },
     {
       "league": "ELC",
@@ -577,139 +703,13 @@
       "utcDate": "2026-09-20T00:00:00Z"
     },
     {
-      "league": "PL",
-      "homeTeam": "Fulham",
-      "awayTeam": "Man United",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T15:30:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Deportivo",
-      "awayTeam": "Real Betis",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T16:30:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Villarreal",
-      "awayTeam": "Levante",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T16:30:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Valencia",
-      "awayTeam": "Real Sociedad",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T19:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Juventus",
-      "awayTeam": "Atalanta",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T16:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Milan",
-      "awayTeam": "Lecce",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T18:45:00Z"
-    },
-    {
-      "league": "BL1",
-      "homeTeam": "Schalke",
-      "awayTeam": "Elversberg",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T15:30:00Z"
-    },
-    {
-      "league": "BL1",
-      "homeTeam": "SC Paderborn",
-      "awayTeam": "Hoffenheim",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T17:30:00Z"
-    },
-    {
-      "league": "FL1",
-      "homeTeam": "Nice",
-      "awayTeam": "Lille",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T15:15:00Z"
-    },
-    {
-      "league": "FL1",
-      "homeTeam": "Marseille",
-      "awayTeam": "PSG",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T18:45:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Santa Clara",
-      "awayTeam": "Braga",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T17:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Estoril Praia",
-      "awayTeam": "Casa Pia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T17:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Porto",
-      "awayTeam": "SL Benfica",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T19:30:00Z"
-    },
-    {
       "league": "BSA",
-      "homeTeam": "Corinthians",
-      "awayTeam": "Fluminense",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T19:00:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Vitória",
-      "awayTeam": "Cruzeiro",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T19:00:00Z"
+      "homeTeam": "Grêmio",
+      "awayTeam": "Palmeiras",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T14:00:00Z"
     },
     {
       "league": "BSA",
@@ -730,5 +730,5 @@
       "utcDate": "2026-09-20T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-09-20T15:18:41.069Z"
+  "generatedAt": "2026-09-20T20:12:10.277Z"
 }
