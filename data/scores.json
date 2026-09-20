@@ -1,22 +1,13 @@
 {
   "matches": [
     {
-      "league": "BSA",
-      "homeTeam": "Vasco da Gama",
-      "awayTeam": "Coritiba",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-09-19T23:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "São Paulo",
-      "awayTeam": "Internacional",
+      "league": "DED",
+      "homeTeam": "Feyenoord",
+      "awayTeam": "Utrecht",
       "homeScore": 1,
       "awayScore": 0,
       "status": "IN_PLAY",
-      "utcDate": "2026-09-20T00:00:00Z"
+      "utcDate": "2026-09-20T10:15:00Z"
     },
     {
       "league": "PL",
@@ -406,6 +397,24 @@
       "utcDate": "2026-09-19T21:30:00Z"
     },
     {
+      "league": "BSA",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Coritiba",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-09-19T23:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "São Paulo",
+      "awayTeam": "Internacional",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-09-20T00:00:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Bournemouth",
       "awayTeam": "Liverpool",
@@ -587,15 +596,6 @@
     },
     {
       "league": "DED",
-      "homeTeam": "Feyenoord",
-      "awayTeam": "Utrecht",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-09-20T10:15:00Z"
-    },
-    {
-      "league": "DED",
       "homeTeam": "Twente",
       "awayTeam": "PSV",
       "homeScore": null,
@@ -730,5 +730,5 @@
       "utcDate": "2026-09-20T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-09-20T00:35:47.596Z"
+  "generatedAt": "2026-09-20T10:29:57.465Z"
 }

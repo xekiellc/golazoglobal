@@ -1,26 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Sam Leavitt latest injury news for LSU v",
+      "player": "Kennesaw State vs Tennessee Prediction, ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Clarion Ledger",
-      "url": "https://www.clarionledger.com/story/sports/college/ole-miss/2026/09/18/ole-miss-lsu-injury-report-sam-leavitt-lane-kiffin/91833631007/",
-      "publishedAt": "2026-09-19T00:13:27Z"
+      "source": "The Action Network",
+      "url": "https://www.actionnetwork.com/ncaaf/kennesaw-state-owls-vs-tennessee-volunteers-prediction-pick-odds-college-football-saturday-september-19",
+      "publishedAt": "2026-09-19T10:25:42Z"
     },
     {
-      "player": "Kennedy scion demands Hyannis Port caret",
+      "player": "Virginia Tech vs Maryland Prediction, Pi",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Page Six",
-      "url": "https://pagesix.com/2026/09/18/society/kennedy-scion-demands-hyannis-port-caretakers-be-fired-for-hosting-ex-cons-birthday-blowout/",
-      "publishedAt": "2026-09-19T00:10:43Z"
+      "source": "The Action Network",
+      "url": "https://www.actionnetwork.com/ncaaf/virginia-tech-hokies-vs-maryland-terrapins-prediction-pick-odds-college-football-saturday-september-19",
+      "publishedAt": "2026-09-19T10:23:02Z"
+    },
+    {
+      "player": "New Mexico vs Oklahoma Prediction, Pick,",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Action Network",
+      "url": "https://www.actionnetwork.com/ncaaf/new-mexico-lobos-vs-oklahoma-sooners-prediction-pick-odds-college-football-saturday-september-19",
+      "publishedAt": "2026-09-19T10:21:45Z"
+    },
+    {
+      "player": "Purdue vs UCLA Prediction, Pick, College",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Action Network",
+      "url": "https://www.actionnetwork.com/ncaaf/purdue-boilermakers-vs-ucla-bruins-prediction-pick-odds-college-football-saturday-september-19",
+      "publishedAt": "2026-09-19T10:18:07Z"
+    },
+    {
+      "player": "NCAAF Picks, Week 3 Predictions",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Action Network",
+      "url": "https://www.actionnetwork.com/ncaaf/ncaaf-picks-week-3-predictions-4-college-football-evening-spots-saturday-september-19",
+      "publishedAt": "2026-09-19T10:10:19Z"
     }
   ],
-  "generatedAt": "2026-09-20T00:34:25.560Z",
+  "generatedAt": "2026-09-20T10:28:33.099Z",
   "note": "Transfers derived from news headlines at launch."
 }
