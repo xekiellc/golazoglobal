@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Week 3 overreactions",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-week-3-scores-analysis-ole-miss-rankings-after-lsu/",
-      "publishedAt": "2026-09-20T11:32:17Z"
-    },
-    {
-      "player": "Buffalo coach Pete Lembo praises Penn St",
+      "player": "Trinidad Chambliss jabs Lane Kiffin with",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://nittanylionswire.usatoday.com/story/sports/college/nittany-lions/football/2026/09/20/penn-state-buffalo-pete-lembo-postgame-comments/91857833007/",
-      "publishedAt": "2026-09-20T11:02:46Z"
+      "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/09/20/trinidad-chambliss-lane-kiffin-ole-miss-lsu-just-different/91861513007/",
+      "publishedAt": "2026-09-20T17:41:12Z"
+    },
+    {
+      "player": "College Fantasy Football Week 4 Waiver W",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/fantasy/article/college-fantasy-football-week-4-waiver-wire-pickups-keelon-russell-jamal-rule-among-players-to-add-173723994.html",
+      "publishedAt": "2026-09-20T17:37:23Z"
+    },
+    {
+      "player": "Fans losing faith in South Carolina afte",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://collegesportswire.usatoday.com/story/sports/college/sec/2026/09/20/south-carolina-football-fans-losing-faith-mississippi-state-loss/91860144007/",
+      "publishedAt": "2026-09-20T17:36:14Z"
     }
   ],
-  "generatedAt": "2026-09-21T11:46:29.360Z",
+  "generatedAt": "2026-09-21T17:42:10.848Z",
   "note": "Transfers derived from news headlines at launch."
 }
