@@ -288,10 +288,10 @@
           "penalties": 0
         },
         {
-          "name": "Hassane Kamara",
-          "team": "Udinese",
-          "goals": 2,
-          "assists": 1,
+          "name": "Diego Moreira",
+          "team": "Milan",
+          "goals": 3,
+          "assists": 0,
           "penalties": 0
         }
       ],
@@ -311,13 +311,6 @@
           "penalties": 0
         },
         {
-          "name": "Hassane Kamara",
-          "team": "Udinese",
-          "goals": 2,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
           "name": "Donyell Malen",
           "team": "Roma",
           "goals": 6,
@@ -330,6 +323,13 @@
           "goals": 4,
           "assists": 0,
           "penalties": 1
+        },
+        {
+          "name": "Antonio Raimondo",
+          "team": "Frosinone",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
         }
       ]
     },
@@ -450,7 +450,7 @@
           "name": "Amine Gouiri",
           "team": "Marseille",
           "goals": 4,
-          "assists": 0,
+          "assists": 1,
           "penalties": 1
         },
         {
@@ -503,17 +503,17 @@
           "penalties": 1
         },
         {
-          "name": "Cameron Archer",
-          "team": "Auxerre",
+          "name": "Marquinhos",
+          "team": "PSG",
           "goals": 3,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Ernest Nuamah",
-          "team": "Olympique Lyon",
+          "name": "Cameron Archer",
+          "team": "Auxerre",
           "goals": 3,
-          "assists": 1,
+          "assists": 0,
           "penalties": 0
         }
       ],
@@ -524,6 +524,13 @@
           "goals": 3,
           "assists": 3,
           "penalties": 3
+        },
+        {
+          "name": "Amine Gouiri",
+          "team": "Marseille",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 1
         },
         {
           "name": "Kamory Doumbia",
@@ -540,18 +547,11 @@
           "penalties": 2
         },
         {
-          "name": "Ernest Nuamah",
-          "team": "Olympique Lyon",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Amine Gouiri",
-          "team": "Marseille",
+          "name": "Ferrán Torres",
+          "team": "PSG",
           "goals": 4,
           "assists": 0,
-          "penalties": 1
+          "penalties": 0
         }
       ]
     },
@@ -693,7 +693,7 @@
           "name": "Gianluca Prestianni",
           "team": "SL Benfica",
           "goals": 5,
-          "assists": 2,
+          "assists": 3,
           "penalties": 0
         },
         {
@@ -741,6 +741,13 @@
       ],
       "topAssists": [
         {
+          "name": "Gianluca Prestianni",
+          "team": "SL Benfica",
+          "goals": 5,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
           "name": "Gabriel Veiga",
           "team": "Porto",
           "goals": 4,
@@ -753,13 +760,6 @@
           "goals": 8,
           "assists": 2,
           "penalties": 2
-        },
-        {
-          "name": "Gianluca Prestianni",
-          "team": "SL Benfica",
-          "goals": 5,
-          "assists": 2,
-          "penalties": 0
         },
         {
           "name": "Luis Suárez",
@@ -900,7 +900,7 @@
         {
           "name": "Pedro",
           "team": "Flamengo",
-          "goals": 15,
+          "goals": 16,
           "assists": 6,
           "penalties": 0
         },
@@ -933,6 +933,13 @@
           "penalties": 0
         },
         {
+          "name": "Matheus Pereira",
+          "team": "Cruzeiro",
+          "goals": 9,
+          "assists": 4,
+          "penalties": 0
+        },
+        {
           "name": "Luciano Juba",
           "team": "Bahia",
           "goals": 9,
@@ -952,13 +959,6 @@
           "goals": 8,
           "assists": 4,
           "penalties": 0
-        },
-        {
-          "name": "Luciano",
-          "team": "São Paulo",
-          "goals": 8,
-          "assists": 1,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -972,8 +972,15 @@
         {
           "name": "Pedro",
           "team": "Flamengo",
-          "goals": 15,
+          "goals": 16,
           "assists": 6,
+          "penalties": 0
+        },
+        {
+          "name": "Matheus Pereira",
+          "team": "Cruzeiro",
+          "goals": 9,
+          "assists": 4,
           "penalties": 0
         },
         {
@@ -989,16 +996,9 @@
           "goals": 18,
           "assists": 3,
           "penalties": 4
-        },
-        {
-          "name": "Gabriel Barbosa",
-          "team": "Santos",
-          "goals": 11,
-          "assists": 3,
-          "penalties": 2
         }
       ]
     }
   },
-  "generatedAt": "2026-09-20T20:14:23.270Z"
+  "generatedAt": "2026-09-21T00:49:59.829Z"
 }

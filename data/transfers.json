@@ -1,46 +1,76 @@
 {
   "transfers": [
     {
-      "player": "FAMU football vs Tennessee State live up",
+      "player": "Cal has won back",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Tallahassee Democrat",
-      "url": "https://www.tallahassee.com/story/sports/college/famu/2026/09/19/famu-tennessee-state-score-college-football-game-updates--live/91690212007/",
-      "publishedAt": "2026-09-19T20:01:13Z"
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/acc/2026/09/19/cal-football-winning-streak-clemson-matchup/91852136007/",
+      "publishedAt": "2026-09-20T00:40:14Z"
     },
     {
-      "player": "LSU QB Sam Leavitt to start vs Ole Miss ",
+      "player": "Georgia football news",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/us/ncaa-football/lsu/news/lsu-qb-sam-leavitt-start-vs-ole-miss-after-scare-week-lane-kiffin-says/8858fea592f9fe1f8d9d81b1",
-      "publishedAt": "2026-09-19T19:56:45Z"
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/georgia-football-news-kirby-smart-drops-encouraging-nate-frazier-isiah-canion-injury-updates",
+      "publishedAt": "2026-09-20T00:36:28Z"
     },
     {
-      "player": "Smith sets Ohio State career receiving m",
+      "player": "UCF Names Jenkins as Starting QB Against",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/ucf/news/ucf-names-jenkins-as-starting-qb-against-georgia-state",
+      "publishedAt": "2026-09-20T00:25:12Z"
+    },
+    {
+      "player": "Cal's Jaron",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "San Francisco Chronicle",
+      "url": "https://www.sfchronicle.com/sports/college/article/cal-s-sagapolutele-mohammed-set-career-highs-22439846.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "publishedAt": "2026-09-20T00:12:27Z"
+    },
+    {
+      "player": "No. 3 St. Joseph shuts down defending Cl",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Ctinsider.com",
+      "url": "https://www.ctinsider.com/gametimect/football/article/st-joseph-trumbull-windsor-ciac-score-alliance-22439670.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "publishedAt": "2026-09-20T00:09:29Z"
+    },
+    {
+      "player": "Highlights, MVP, and Twitter reactions t",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "A Sea Of Blue",
+      "url": "https://www.aseaofblue.com/kentucky-wildcats-news/180833/highlights-mvp-recap-twitter-reactions-texas-a-m-football-uk",
+      "publishedAt": "2026-09-19T23:47:28Z"
+    },
+    {
+      "player": "Bennett scores 4 TDs in 36",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/smith-sets-ohio-state-career-195057142.html",
-      "publishedAt": "2026-09-19T19:50:57Z"
-    },
-    {
-      "player": "Ohio State football takeaways from win o",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Fci Academy",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/09/19/ohio-state-kent-state-college-football-highlights-recap/91773456007/",
-      "publishedAt": "2026-09-19T19:47:48Z"
+      "url": "https://sports.yahoo.com/articles/bennett-scores-4-tds-36-233809502.html",
+      "publishedAt": "2026-09-19T23:38:09Z"
     }
   ],
-  "generatedAt": "2026-09-20T20:10:46.060Z",
+  "generatedAt": "2026-09-21T00:46:27.014Z",
   "note": "Transfers derived from news headlines at launch."
 }
