@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Trinidad Chambliss jabs Lane Kiffin with",
+      "player": "Everton Tipped To Reject £0 Striker Move",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/09/20/trinidad-chambliss-lane-kiffin-ole-miss-lsu-just-different/91861513007/",
-      "publishedAt": "2026-09-20T17:41:12Z"
+      "source": "The4thofficial.net",
+      "url": "https://the4thofficial.net/2026/09/everton-tipped-to-reject-0-striker-move-as-january-plan-emerges-right-decision/",
+      "publishedAt": "2026-09-20T21:35:00Z"
     },
     {
-      "player": "College Fantasy Football Week 4 Waiver W",
+      "player": "Northwestern Football Receives Votes in ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/fantasy/article/college-fantasy-football-week-4-waiver-wire-pickups-keelon-russell-jamal-rule-among-players-to-add-173723994.html",
-      "publishedAt": "2026-09-20T17:37:23Z"
-    },
-    {
-      "player": "Fans losing faith in South Carolina afte",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://collegesportswire.usatoday.com/story/sports/college/sec/2026/09/20/south-carolina-football-fans-losing-faith-mississippi-state-loss/91860144007/",
-      "publishedAt": "2026-09-20T17:36:14Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/northwestern/news/northwestern-football-receives-votes-in-coaches-poll",
+      "publishedAt": "2026-09-20T21:12:24Z"
     }
   ],
-  "generatedAt": "2026-09-21T17:42:10.848Z",
+  "generatedAt": "2026-09-21T21:35:33.724Z",
   "note": "Transfers derived from news headlines at launch."
 }
