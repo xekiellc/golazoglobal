@@ -1759,6 +1759,19 @@
       },
       {
         "position": 3,
+        "team": "Middlesbrough",
+        "played": 8,
+        "won": 4,
+        "drawn": 3,
+        "lost": 1,
+        "goalsFor": 16,
+        "goalsAgainst": 12,
+        "goalDifference": 4,
+        "points": 15,
+        "form": ""
+      },
+      {
+        "position": 4,
         "team": "Wolverhampton",
         "played": 7,
         "won": 4,
@@ -1767,19 +1780,6 @@
         "goalsFor": 15,
         "goalsAgainst": 10,
         "goalDifference": 5,
-        "points": 14,
-        "form": ""
-      },
-      {
-        "position": 4,
-        "team": "Middlesbrough",
-        "played": 7,
-        "won": 4,
-        "drawn": 2,
-        "lost": 1,
-        "goalsFor": 14,
-        "goalsAgainst": 10,
-        "goalDifference": 4,
         "points": 14,
         "form": ""
       },
@@ -1825,13 +1825,13 @@
       {
         "position": 8,
         "team": "Bristol City",
-        "played": 7,
+        "played": 8,
         "won": 4,
         "drawn": 1,
-        "lost": 2,
+        "lost": 3,
         "goalsFor": 11,
-        "goalsAgainst": 11,
-        "goalDifference": 0,
+        "goalsAgainst": 12,
+        "goalDifference": -1,
         "points": 13,
         "form": ""
       },
@@ -1863,6 +1863,32 @@
       },
       {
         "position": 11,
+        "team": "Millwall",
+        "played": 8,
+        "won": 3,
+        "drawn": 2,
+        "lost": 3,
+        "goalsFor": 15,
+        "goalsAgainst": 15,
+        "goalDifference": 0,
+        "points": 11,
+        "form": ""
+      },
+      {
+        "position": 12,
+        "team": "Lincoln City",
+        "played": 8,
+        "won": 3,
+        "drawn": 2,
+        "lost": 3,
+        "goalsFor": 7,
+        "goalsAgainst": 8,
+        "goalDifference": -1,
+        "points": 11,
+        "form": ""
+      },
+      {
+        "position": 13,
         "team": "Southampton",
         "played": 8,
         "won": 4,
@@ -1875,20 +1901,7 @@
         "form": ""
       },
       {
-        "position": 12,
-        "team": "Millwall",
-        "played": 7,
-        "won": 3,
-        "drawn": 1,
-        "lost": 3,
-        "goalsFor": 13,
-        "goalsAgainst": 13,
-        "goalDifference": 0,
-        "points": 10,
-        "form": ""
-      },
-      {
-        "position": 13,
+        "position": 14,
         "team": "Wrexham",
         "played": 8,
         "won": 2,
@@ -1901,7 +1914,7 @@
         "form": ""
       },
       {
-        "position": 14,
+        "position": 15,
         "team": "Bolton",
         "played": 8,
         "won": 3,
@@ -1914,7 +1927,7 @@
         "form": ""
       },
       {
-        "position": 15,
+        "position": 16,
         "team": "Blackburn",
         "played": 8,
         "won": 2,
@@ -1927,7 +1940,7 @@
         "form": ""
       },
       {
-        "position": 16,
+        "position": 17,
         "team": "Norwich",
         "played": 8,
         "won": 3,
@@ -1940,7 +1953,7 @@
         "form": ""
       },
       {
-        "position": 17,
+        "position": 18,
         "team": "Sheffield Utd",
         "played": 8,
         "won": 2,
@@ -1953,7 +1966,7 @@
         "form": ""
       },
       {
-        "position": 18,
+        "position": 19,
         "team": "Portsmouth",
         "played": 7,
         "won": 2,
@@ -1962,19 +1975,6 @@
         "goalsFor": 9,
         "goalsAgainst": 10,
         "goalDifference": -1,
-        "points": 8,
-        "form": ""
-      },
-      {
-        "position": 19,
-        "team": "Lincoln City",
-        "played": 7,
-        "won": 2,
-        "drawn": 2,
-        "lost": 3,
-        "goalsFor": 6,
-        "goalsAgainst": 8,
-        "goalDifference": -2,
         "points": 8,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-09-21T00:48:53.784Z"
+  "generatedAt": "2026-09-21T11:48:53.632Z"
 }
