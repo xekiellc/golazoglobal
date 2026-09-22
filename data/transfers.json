@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Everton Tipped To Reject £0 Striker Move",
+      "player": "Wisconsin Football Report Card",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The4thofficial.net",
-      "url": "https://the4thofficial.net/2026/09/everton-tipped-to-reject-0-striker-move-as-january-plan-emerges-right-decision/",
-      "publishedAt": "2026-09-20T21:35:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/wisconsin/football/wisconsin-football-report-card-grading-every-defensive-position-after-eastern-michigan-win-01m30jft00s4",
+      "publishedAt": "2026-09-20T23:47:30Z"
     },
     {
-      "player": "Northwestern Football Receives Votes in ",
+      "player": "LSU Loses Two Players to Season",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/northwestern/news/northwestern-football-receives-votes-in-coaches-poll",
-      "publishedAt": "2026-09-20T21:12:24Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/lsu/football/lsu-loses-two-players-to-season-ending-injuries",
+      "publishedAt": "2026-09-20T23:15:19Z"
+    },
+    {
+      "player": "What the Snap Counts Told Us About Penn ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/pennstate/football/what-the-snap-counts-told-us-about-penn-state-football-in-week-3",
+      "publishedAt": "2026-09-20T23:01:00Z"
     }
   ],
-  "generatedAt": "2026-09-21T21:35:33.724Z",
+  "generatedAt": "2026-09-22T01:23:26.860Z",
   "note": "Transfers derived from news headlines at launch."
 }
