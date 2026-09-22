@@ -1,36 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Wisconsin Football Report Card",
+      "player": "Confirmed",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/wisconsin/football/wisconsin-football-report-card-grading-every-defensive-position-after-eastern-michigan-win-01m30jft00s4",
-      "publishedAt": "2026-09-20T23:47:30Z"
+      "source": "Barcauniversal.com",
+      "url": "https://barcauniversal.com/confirmed-barcelona-loanee-marc-casado-undergoes-surgery-for-collarbone-fracture-faces-2-3-months-out/",
+      "publishedAt": "2026-09-21T10:45:00Z"
     },
     {
-      "player": "LSU Loses Two Players to Season",
+      "player": "NFL Week 2 winners and losers led by Cha",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/lsu/football/lsu-loses-two-players-to-season-ending-injuries",
-      "publishedAt": "2026-09-20T23:15:19Z"
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/nfl/2026/09/21/nfl-week-2-winners-losers-chargers-falcons-browns/91864399007/",
+      "publishedAt": "2026-09-21T10:33:27Z"
     },
     {
-      "player": "What the Snap Counts Told Us About Penn ",
+      "player": "NFL star Charles Leno Jr. gave $450,000 ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/pennstate/football/what-the-snap-counts-told-us-about-penn-state-football-in-week-3",
-      "publishedAt": "2026-09-20T23:01:00Z"
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/nfl-star-charles-leno-jr-gave-450000-to-his-california-high-school-his-donation-helped-fund-a-nearly-1-million-athletic-renovation/articleshow/134386112.cms",
+      "publishedAt": "2026-09-21T10:12:18Z"
     }
   ],
-  "generatedAt": "2026-09-22T01:23:26.860Z",
+  "generatedAt": "2026-09-22T10:48:47.329Z",
   "note": "Transfers derived from news headlines at launch."
 }
