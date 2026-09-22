@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Confirmed",
+      "player": "Mike Norvell",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Barcauniversal.com",
-      "url": "https://barcauniversal.com/confirmed-barcelona-loanee-marc-casado-undergoes-surgery-for-collarbone-fracture-faces-2-3-months-out/",
-      "publishedAt": "2026-09-21T10:45:00Z"
-    },
-    {
-      "player": "NFL Week 2 winners and losers led by Cha",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/nfl/2026/09/21/nfl-week-2-winners-losers-chargers-falcons-browns/91864399007/",
-      "publishedAt": "2026-09-21T10:33:27Z"
-    },
-    {
-      "player": "NFL star Charles Leno Jr. gave $450,000 ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/nfl-star-charles-leno-jr-gave-450000-to-his-california-high-school-his-donation-helped-fund-a-nearly-1-million-athletic-renovation/articleshow/134386112.cms",
-      "publishedAt": "2026-09-21T10:12:18Z"
+      "source": "Tallahassee Democrat",
+      "url": "https://www.tallahassee.com/story/sports/college/fsu/football/2026/09/21/fsu-football-samuel-singleton-injury-alabama/91870002007/",
+      "publishedAt": "2026-09-21T15:49:52Z"
     }
   ],
-  "generatedAt": "2026-09-22T10:48:47.329Z",
+  "generatedAt": "2026-09-22T16:07:26.355Z",
   "note": "Transfers derived from news headlines at launch."
 }
