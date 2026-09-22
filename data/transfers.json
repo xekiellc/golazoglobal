@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Mike Norvell",
+      "player": "Pat Fitzgerald",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Tallahassee Democrat",
-      "url": "https://www.tallahassee.com/story/sports/college/fsu/football/2026/09/21/fsu-football-samuel-singleton-injury-alabama/91870002007/",
-      "publishedAt": "2026-09-21T15:49:52Z"
+      "source": "Lansing State Journal",
+      "url": "https://www.lansingstatejournal.com/story/sports/college/msu/football/2026/09/21/pat-fitzgerald-michigan-state-spartans-football-nebraska-cornhuskers-matt-rhule-notre-dame-recap/91879315007/",
+      "publishedAt": "2026-09-21T20:26:30Z"
+    },
+    {
+      "player": "The Ten Best Players in College Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "College Football News",
+      "url": "https://collegefootballnews.com/college-football/college-football-best-players-week-4-2026",
+      "publishedAt": "2026-09-21T20:26:27Z"
+    },
+    {
+      "player": "Pat Fitzgerald",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Detroit Free Press",
+      "url": "https://www.freep.com/story/sports/college/michigan-state/spartans/2026/09/21/pat-fitzgerald-michigan-state-spartans-football-nebraska-cornhuskers-matt-rhule-notre-dame-recap/91878463007/",
+      "publishedAt": "2026-09-21T20:19:49Z"
     }
   ],
-  "generatedAt": "2026-09-22T16:07:26.355Z",
+  "generatedAt": "2026-09-22T20:46:37.560Z",
   "note": "Transfers derived from news headlines at launch."
 }
