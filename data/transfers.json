@@ -1,16 +1,66 @@
 {
   "transfers": [
     {
-      "player": "Chelsea want to repeat Marc Guiu trick w",
+      "player": "Journalist",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Talk Chelsea",
-      "url": "https://www.talkchelsea.net/transfers/chelsea-marc-guiu-trick-18-year-old/",
-      "publishedAt": "2026-09-22T10:35:00Z"
+      "source": "English Premier League Index - Opta Stats",
+      "url": "https://eplindex.com/150717/journalist-record-breaking-man-city-star-wanted-by-european-giants.html",
+      "publishedAt": "2026-09-22T15:50:00Z"
+    },
+    {
+      "player": "How footballers so often find that belie",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Untold-arsenal.com",
+      "url": "https://untold-arsenal.com/archives/123182",
+      "publishedAt": "2026-09-22T15:42:25Z"
+    },
+    {
+      "player": "'The sky is the limit!'",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/football/video/13590759/transfer-talk-jeremy-jacquets-flying-start-to-life-liverpool",
+      "publishedAt": "2026-09-22T15:41:00Z"
+    },
+    {
+      "player": "Texas Football Coach Condemns Dirty Tack",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "BroBible",
+      "url": "https://brobible.com/sports/article/gerard-edimo-stephen-f-austin-dirty-tackle-injury-colby-carthel-tremaine-jackson/",
+      "publishedAt": "2026-09-22T15:37:28Z"
+    },
+    {
+      "player": "2026 College Football Playoff bracket pr",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/2026-college-football-playoff-bracket-projection-ole-miss-lsu/",
+      "publishedAt": "2026-09-22T15:31:04Z"
+    },
+    {
+      "player": "The ultimate Lane Kiffin what",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/college-football/article/the-ultimate-lane-kiffin-what-if-did-he-leave-ole-miss-just-before-it-reaches-the-pinnacle-hes-been-chasing-152700156.html",
+      "publishedAt": "2026-09-22T15:27:00Z"
     }
   ],
-  "generatedAt": "2026-09-23T10:38:09.133Z",
+  "generatedAt": "2026-09-23T15:57:20.465Z",
   "note": "Transfers derived from news headlines at launch."
 }
