@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Pat Fitzgerald",
+      "player": "4 Takeaways From Curt Cignetti's Week Fo",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Lansing State Journal",
-      "url": "https://www.lansingstatejournal.com/story/sports/college/msu/football/2026/09/21/pat-fitzgerald-michigan-state-spartans-football-nebraska-cornhuskers-matt-rhule-notre-dame-recap/91879315007/",
-      "publishedAt": "2026-09-21T20:26:30Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/indiana/football/4-takeaways-from-curt-cignetti-week-four-press-conference",
+      "publishedAt": "2026-09-22T01:02:12Z"
     },
     {
-      "player": "The Ten Best Players in College Football",
+      "player": "Trenches teetering after South Carolina ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "College Football News",
-      "url": "https://collegefootballnews.com/college-football/college-football-best-players-week-4-2026",
-      "publishedAt": "2026-09-21T20:26:27Z"
-    },
-    {
-      "player": "Pat Fitzgerald",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Detroit Free Press",
-      "url": "https://www.freep.com/story/sports/college/michigan-state/spartans/2026/09/21/pat-fitzgerald-michigan-state-spartans-football-nebraska-cornhuskers-matt-rhule-notre-dame-recap/91878463007/",
-      "publishedAt": "2026-09-21T20:19:49Z"
+      "source": "Northeast Mississippi Daily Journal",
+      "url": "https://www.djournal.com/sports/college/mississippi-state/trenches-teetering-after-south-carolina-comeback/article_85709e5f-0fa1-43c9-b809-bede0bfb7828.html",
+      "publishedAt": "2026-09-22T01:02:00Z"
     }
   ],
-  "generatedAt": "2026-09-22T20:46:37.560Z",
+  "generatedAt": "2026-09-23T01:10:10.783Z",
   "note": "Transfers derived from news headlines at launch."
 }
