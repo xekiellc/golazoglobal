@@ -1,66 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Journalist",
+      "player": "Oklahoma State football coach Eric Morri",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "English Premier League Index - Opta Stats",
-      "url": "https://eplindex.com/150717/journalist-record-breaking-man-city-star-wanted-by-european-giants.html",
-      "publishedAt": "2026-09-22T15:50:00Z"
+      "source": "Oklahoman.com",
+      "url": "https://www.oklahoman.com/story/sports/college/cowboys/2026/09/22/oklahoma-state-football-vs-west-virginia-big-12-opener-eric-morris-osu-cowboys/91892912007/",
+      "publishedAt": "2026-09-22T20:53:28Z"
     },
     {
-      "player": "How footballers so often find that belie",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Untold-arsenal.com",
-      "url": "https://untold-arsenal.com/archives/123182",
-      "publishedAt": "2026-09-22T15:42:25Z"
-    },
-    {
-      "player": "'The sky is the limit!'",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/football/video/13590759/transfer-talk-jeremy-jacquets-flying-start-to-life-liverpool",
-      "publishedAt": "2026-09-22T15:41:00Z"
-    },
-    {
-      "player": "Texas Football Coach Condemns Dirty Tack",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "BroBible",
-      "url": "https://brobible.com/sports/article/gerard-edimo-stephen-f-austin-dirty-tackle-injury-colby-carthel-tremaine-jackson/",
-      "publishedAt": "2026-09-22T15:37:28Z"
-    },
-    {
-      "player": "2026 College Football Playoff bracket pr",
+      "player": "College football odds, picks, prediction",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/2026-college-football-playoff-bracket-projection-ole-miss-lsu/",
-      "publishedAt": "2026-09-22T15:31:04Z"
-    },
-    {
-      "player": "The ultimate Lane Kiffin what",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/college-football/article/the-ultimate-lane-kiffin-what-if-did-he-leave-ole-miss-just-before-it-reaches-the-pinnacle-hes-been-chasing-152700156.html",
-      "publishedAt": "2026-09-22T15:27:00Z"
+      "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-best-bets-week-4-2026/",
+      "publishedAt": "2026-09-22T20:45:42Z"
     }
   ],
-  "generatedAt": "2026-09-23T15:57:20.465Z",
+  "generatedAt": "2026-09-23T20:58:22.391Z",
   "note": "Transfers derived from news headlines at launch."
 }
