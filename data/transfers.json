@@ -1,56 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Report",
+      "player": "Tale of the Tape",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "English Premier League Index - Opta Stats",
-      "url": "https://eplindex.com/150736/report-chelsea-face-european-giants-in-battle-for-african-wonderkid.html",
-      "publishedAt": "2026-09-23T10:50:00Z"
-    },
-    {
-      "player": "Revealed",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "RomaPress",
-      "url": "https://romapress.net/revealed-balerdi-turned-down-boca-juniors-to-join-roma/",
-      "publishedAt": "2026-09-23T10:40:00Z"
-    },
-    {
-      "player": "Texas A&M compared to a Big Ten team aft",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/09/23/texas-aggies-football-compared-to-oregon-after-early-season-struggles/91899523007/",
-      "publishedAt": "2026-09-23T10:31:40Z"
-    },
-    {
-      "player": "Notre Dame RB Jadarian Price admits he t",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2026/09/23/notre-dame-football-news-update-jadarian-price-transfer-nil-texas-tech-seattle-seahawks/91894533007/",
-      "publishedAt": "2026-09-23T10:31:32Z"
-    },
-    {
-      "player": "Off",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-football/122397/off-script-ohio-illinois-preview-and-the-start-of-big-ten-play",
-      "publishedAt": "2026-09-23T10:31:00Z"
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/jayden-maiava-dante-moore-nfl-draft-usc-oregon-tale-of-the-tape/",
+      "publishedAt": "2026-09-23T16:07:08Z"
     }
   ],
-  "generatedAt": "2026-09-24T10:58:04.631Z",
+  "generatedAt": "2026-09-24T16:20:40.218Z",
   "note": "Transfers derived from news headlines at launch."
 }
