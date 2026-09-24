@@ -1,16 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Tale of the Tape",
+      "player": "One Penn State Position Group to Watch v",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/jayden-maiava-dante-moore-nfl-draft-usc-oregon-tale-of-the-tape/",
-      "publishedAt": "2026-09-23T16:07:08Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/one-penn-state-position-group-210235581.html",
+      "publishedAt": "2026-09-23T21:02:35Z"
+    },
+    {
+      "player": "California HC Tosh Lupoi Breaks Down Cle",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/clemson/football/california-tosh-lupoi-breaks-down-clemson-offense-praises-tait-reynolds-ahead-of-matchup-",
+      "publishedAt": "2026-09-23T20:55:04Z"
+    },
+    {
+      "player": "WVU’s Unbeaten Start Gets Another Huge L",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/college-football/west-virginia-mountaineers/wvu-jacorey-thomas-eligibility-news/",
+      "publishedAt": "2026-09-23T20:46:24Z"
+    },
+    {
+      "player": "Clemson Writer Answers Our 5 Questions A",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/cal/football/clemson-writer-answers-our-5-questions-about-the-tigers-01m35vrefd7s",
+      "publishedAt": "2026-09-23T20:40:18Z"
     }
   ],
-  "generatedAt": "2026-09-24T16:20:40.218Z",
+  "generatedAt": "2026-09-24T21:03:05.834Z",
   "note": "Transfers derived from news headlines at launch."
 }
