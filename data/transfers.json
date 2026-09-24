@@ -1,46 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Everything Deion Sanders Said Before Fac",
+      "player": "Report",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/colorado/football/everything-deion-sanders-said-before-baylor-bears",
-      "publishedAt": "2026-09-23T00:30:00Z"
+      "source": "English Premier League Index - Opta Stats",
+      "url": "https://eplindex.com/150736/report-chelsea-face-european-giants-in-battle-for-african-wonderkid.html",
+      "publishedAt": "2026-09-23T10:50:00Z"
     },
     {
-      "player": "This One Player Could Be A Game Changer ",
+      "player": "Revealed",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/georgiatech/football/this-one-player-could-be-a-game-changer-for-the-yellow-jackets-01m3538m475c",
-      "publishedAt": "2026-09-23T00:00:02Z"
+      "source": "RomaPress",
+      "url": "https://romapress.net/revealed-balerdi-turned-down-boca-juniors-to-join-roma/",
+      "publishedAt": "2026-09-23T10:40:00Z"
     },
     {
-      "player": "Notre Dame football kicker Spencer Porat",
+      "player": "Texas A&M compared to a Big Ten team aft",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "South Bend Tribune",
-      "url": "https://www.southbendtribune.com/story/sports/college/football/2026/09/22/notre-dame-football-kicker-spencer-porath-returns-to-purdue-this-week/91826610007/",
-      "publishedAt": "2026-09-22T23:51:35Z"
+      "source": "USA Today",
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/09/23/texas-aggies-football-compared-to-oregon-after-early-season-struggles/91899523007/",
+      "publishedAt": "2026-09-23T10:31:40Z"
     },
     {
-      "player": "Disruptive defense keys quick start for ",
+      "player": "Notre Dame RB Jadarian Price admits he t",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Mitchellrepublic.com",
-      "url": "https://www.mitchellrepublic.com/sports/college/disruptive-defense-keys-quick-start-for-dwu-football",
-      "publishedAt": "2026-09-22T23:47:00Z"
+      "source": "USA Today",
+      "url": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2026/09/23/notre-dame-football-news-update-jadarian-price-transfer-nil-texas-tech-seattle-seahawks/91894533007/",
+      "publishedAt": "2026-09-23T10:31:32Z"
+    },
+    {
+      "player": "Off",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-football/122397/off-script-ohio-illinois-preview-and-the-start-of-big-ten-play",
+      "publishedAt": "2026-09-23T10:31:00Z"
     }
   ],
-  "generatedAt": "2026-09-24T01:00:05.558Z",
+  "generatedAt": "2026-09-24T10:58:04.631Z",
   "note": "Transfers derived from news headlines at launch."
 }
