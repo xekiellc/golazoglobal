@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Oklahoma State football coach Eric Morri",
+      "player": "Everything Deion Sanders Said Before Fac",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Oklahoman.com",
-      "url": "https://www.oklahoman.com/story/sports/college/cowboys/2026/09/22/oklahoma-state-football-vs-west-virginia-big-12-opener-eric-morris-osu-cowboys/91892912007/",
-      "publishedAt": "2026-09-22T20:53:28Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/colorado/football/everything-deion-sanders-said-before-baylor-bears",
+      "publishedAt": "2026-09-23T00:30:00Z"
     },
     {
-      "player": "College football odds, picks, prediction",
+      "player": "This One Player Could Be A Game Changer ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-best-bets-week-4-2026/",
-      "publishedAt": "2026-09-22T20:45:42Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/georgiatech/football/this-one-player-could-be-a-game-changer-for-the-yellow-jackets-01m3538m475c",
+      "publishedAt": "2026-09-23T00:00:02Z"
+    },
+    {
+      "player": "Notre Dame football kicker Spencer Porat",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "South Bend Tribune",
+      "url": "https://www.southbendtribune.com/story/sports/college/football/2026/09/22/notre-dame-football-kicker-spencer-porath-returns-to-purdue-this-week/91826610007/",
+      "publishedAt": "2026-09-22T23:51:35Z"
+    },
+    {
+      "player": "Disruptive defense keys quick start for ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Mitchellrepublic.com",
+      "url": "https://www.mitchellrepublic.com/sports/college/disruptive-defense-keys-quick-start-for-dwu-football",
+      "publishedAt": "2026-09-22T23:47:00Z"
     }
   ],
-  "generatedAt": "2026-09-23T20:58:22.391Z",
+  "generatedAt": "2026-09-24T01:00:05.558Z",
   "note": "Transfers derived from news headlines at launch."
 }
