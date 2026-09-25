@@ -1,86 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Florida football injury update",
+      "player": "How to watch as winless Towson visits De",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Gainesville Sun",
-      "url": "https://www.gainesville.com/story/sports/college/football/2026/09/23/florida-football-wr-ole-miss-rb-questionable-for-matchup/91913441007/",
-      "publishedAt": "2026-09-24T01:04:50Z"
+      "source": "The News Journal",
+      "url": "https://www.delawareonline.com/story/sports/college/2026/09/24/how-to-watch-as-towson-visits-delaware-state-in-football/91870463007/",
+      "publishedAt": "2026-09-24T10:43:42Z"
     },
     {
-      "player": "Will Simmons, Smothers play for Texas ag",
+      "player": "Baylor QB DJ Lagway expected to return v",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "KXAN.com",
-      "url": "https://www.kxan.com/sports-general/horns-report/will-simmons-smothers-play-for-texas-against-volunteers/",
-      "publishedAt": "2026-09-24T01:04:26Z"
-    },
-    {
-      "player": "Oregon football releases injury report. ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Register-Guard",
-      "url": "https://www.registerguard.com/story/sports/college/football/2026/09/23/oregon-ducks-vs-usc-trojans-injury-report/91900207007/",
-      "publishedAt": "2026-09-24T01:00:52Z"
-    },
-    {
-      "player": "4 important things to know about the Ohi",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/09/23/ohio-state-football-vs-illinois-preview-4-things-to-know/91904283007/",
-      "publishedAt": "2026-09-24T00:56:03Z"
-    },
-    {
-      "player": "8 things to know about UND's opponent In",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Grand Forks Herald",
-      "url": "https://www.grandforksherald.com/sports/college/8-things-to-know-about-unds-opponent-indiana-state-1",
-      "publishedAt": "2026-09-24T00:33:00Z"
-    },
-    {
-      "player": "Florida basketball guard Denzel Aberdeen",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Gainesville Sun",
-      "url": "https://www.gainesville.com/story/sports/college/basketball/2026/09/23/denzel-aberdeens-ncaa-eligibility-case-set-for-hearing-as-florida-basketball-season-nears/91812945007/",
-      "publishedAt": "2026-09-24T00:32:08Z"
-    },
-    {
-      "player": "David Stone injury update",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Oklahoman.com",
-      "url": "https://www.oklahoman.com/story/sports/college/sooners/2026/09/23/david-stone-injury-update-ou-football-dl-questionable-vs-georgia-oklahoma-sooners/91906838007/",
-      "publishedAt": "2026-09-24T00:25:19Z"
-    },
-    {
-      "player": "Analyzing MSU's Initial Availability Rep",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/michiganstate/football/analyzing-msu-spartans-availability-report-game-vs-nebraska",
-      "publishedAt": "2026-09-24T00:22:55Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/colorado/news/baylor-qb-dj-lagway-expected-to-return-vs-colorado-on-saturday",
+      "publishedAt": "2026-09-24T10:30:08Z"
     }
   ],
-  "generatedAt": "2026-09-25T01:06:07.355Z",
+  "generatedAt": "2026-09-25T10:58:41.035Z",
   "note": "Transfers derived from news headlines at launch."
 }
