@@ -1,46 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Brooke Wyckoff looks to rebuild FSU bask",
+      "player": "Virginia Tech football",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Tallahassee Democrat",
-      "url": "https://www.tallahassee.com/story/sports/college/fsu/2026/09/24/brooke-wyckoff-fsu-womens-basketball-winning-tradition-seminole-sound/91870158007/",
-      "publishedAt": "2026-09-24T16:05:25Z"
+      "source": "Gobblercountry.com",
+      "url": "https://www.gobblercountry.com/virginia-tech-football/31585/virginia-tech-football-a-look-at-boston-college-by-the-numbers",
+      "publishedAt": "2026-09-24T20:40:57Z"
     },
     {
-      "player": "Prep football preview",
+      "player": "LSU athletics projects $26 million defic",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Honolulu Star-Advertiser",
-      "url": "https://www.staradvertiser.com/2026/09/24/sports/hawaii-prep-world/prep-football-preview-mustang-pride-has-returned-to-kalaheo/",
-      "publishedAt": "2026-09-24T16:04:00Z"
-    },
-    {
-      "player": "Olvera",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Honolulu Star-Advertiser",
-      "url": "https://www.staradvertiser.com/2026/09/24/sports/olvera-harle-finding-his-footing-as-the-warriors-place-kicker/",
-      "publishedAt": "2026-09-24T16:03:00Z"
-    },
-    {
-      "player": "Louisville",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Card Chronicle",
-      "url": "https://www.cardchronicle.com/football/104613/louisville-wake-forest-a-complete-timeline-of-college-footballs-dumbest-rivalry",
-      "publishedAt": "2026-09-24T16:00:27Z"
+      "source": "On3.com",
+      "url": "https://www.on3.com/news/lsu-athletics-projects-26-million-deficit-after-44-million-shortfall-in-2025-26/",
+      "publishedAt": "2026-09-24T20:30:40Z"
     }
   ],
-  "generatedAt": "2026-09-25T16:20:53.129Z",
+  "generatedAt": "2026-09-25T21:00:30.237Z",
   "note": "Transfers derived from news headlines at launch."
 }
