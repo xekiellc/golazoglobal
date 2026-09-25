@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "How to watch as winless Towson visits De",
+      "player": "Brooke Wyckoff looks to rebuild FSU bask",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The News Journal",
-      "url": "https://www.delawareonline.com/story/sports/college/2026/09/24/how-to-watch-as-towson-visits-delaware-state-in-football/91870463007/",
-      "publishedAt": "2026-09-24T10:43:42Z"
+      "source": "Tallahassee Democrat",
+      "url": "https://www.tallahassee.com/story/sports/college/fsu/2026/09/24/brooke-wyckoff-fsu-womens-basketball-winning-tradition-seminole-sound/91870158007/",
+      "publishedAt": "2026-09-24T16:05:25Z"
     },
     {
-      "player": "Baylor QB DJ Lagway expected to return v",
+      "player": "Prep football preview",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/colorado/news/baylor-qb-dj-lagway-expected-to-return-vs-colorado-on-saturday",
-      "publishedAt": "2026-09-24T10:30:08Z"
+      "source": "Honolulu Star-Advertiser",
+      "url": "https://www.staradvertiser.com/2026/09/24/sports/hawaii-prep-world/prep-football-preview-mustang-pride-has-returned-to-kalaheo/",
+      "publishedAt": "2026-09-24T16:04:00Z"
+    },
+    {
+      "player": "Olvera",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Honolulu Star-Advertiser",
+      "url": "https://www.staradvertiser.com/2026/09/24/sports/olvera-harle-finding-his-footing-as-the-warriors-place-kicker/",
+      "publishedAt": "2026-09-24T16:03:00Z"
+    },
+    {
+      "player": "Louisville",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Card Chronicle",
+      "url": "https://www.cardchronicle.com/football/104613/louisville-wake-forest-a-complete-timeline-of-college-footballs-dumbest-rivalry",
+      "publishedAt": "2026-09-24T16:00:27Z"
     }
   ],
-  "generatedAt": "2026-09-25T10:58:41.035Z",
+  "generatedAt": "2026-09-25T16:20:53.129Z",
   "note": "Transfers derived from news headlines at launch."
 }
