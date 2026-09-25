@@ -1,46 +1,86 @@
 {
   "transfers": [
     {
-      "player": "One Penn State Position Group to Watch v",
+      "player": "Florida football injury update",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/one-penn-state-position-group-210235581.html",
-      "publishedAt": "2026-09-23T21:02:35Z"
+      "source": "Gainesville Sun",
+      "url": "https://www.gainesville.com/story/sports/college/football/2026/09/23/florida-football-wr-ole-miss-rb-questionable-for-matchup/91913441007/",
+      "publishedAt": "2026-09-24T01:04:50Z"
     },
     {
-      "player": "California HC Tosh Lupoi Breaks Down Cle",
+      "player": "Will Simmons, Smothers play for Texas ag",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "KXAN.com",
+      "url": "https://www.kxan.com/sports-general/horns-report/will-simmons-smothers-play-for-texas-against-volunteers/",
+      "publishedAt": "2026-09-24T01:04:26Z"
+    },
+    {
+      "player": "Oregon football releases injury report. ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Register-Guard",
+      "url": "https://www.registerguard.com/story/sports/college/football/2026/09/23/oregon-ducks-vs-usc-trojans-injury-report/91900207007/",
+      "publishedAt": "2026-09-24T01:00:52Z"
+    },
+    {
+      "player": "4 important things to know about the Ohi",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/09/23/ohio-state-football-vs-illinois-preview-4-things-to-know/91904283007/",
+      "publishedAt": "2026-09-24T00:56:03Z"
+    },
+    {
+      "player": "8 things to know about UND's opponent In",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Grand Forks Herald",
+      "url": "https://www.grandforksherald.com/sports/college/8-things-to-know-about-unds-opponent-indiana-state-1",
+      "publishedAt": "2026-09-24T00:33:00Z"
+    },
+    {
+      "player": "Florida basketball guard Denzel Aberdeen",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Gainesville Sun",
+      "url": "https://www.gainesville.com/story/sports/college/basketball/2026/09/23/denzel-aberdeens-ncaa-eligibility-case-set-for-hearing-as-florida-basketball-season-nears/91812945007/",
+      "publishedAt": "2026-09-24T00:32:08Z"
+    },
+    {
+      "player": "David Stone injury update",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Oklahoman.com",
+      "url": "https://www.oklahoman.com/story/sports/college/sooners/2026/09/23/david-stone-injury-update-ou-football-dl-questionable-vs-georgia-oklahoma-sooners/91906838007/",
+      "publishedAt": "2026-09-24T00:25:19Z"
+    },
+    {
+      "player": "Analyzing MSU's Initial Availability Rep",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/clemson/football/california-tosh-lupoi-breaks-down-clemson-offense-praises-tait-reynolds-ahead-of-matchup-",
-      "publishedAt": "2026-09-23T20:55:04Z"
-    },
-    {
-      "player": "WVU’s Unbeaten Start Gets Another Huge L",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Heavy.com",
-      "url": "https://heavy.com/sports/college-football/west-virginia-mountaineers/wvu-jacorey-thomas-eligibility-news/",
-      "publishedAt": "2026-09-23T20:46:24Z"
-    },
-    {
-      "player": "Clemson Writer Answers Our 5 Questions A",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/cal/football/clemson-writer-answers-our-5-questions-about-the-tigers-01m35vrefd7s",
-      "publishedAt": "2026-09-23T20:40:18Z"
+      "url": "https://www.si.com/college/michiganstate/football/analyzing-msu-spartans-availability-report-game-vs-nebraska",
+      "publishedAt": "2026-09-24T00:22:55Z"
     }
   ],
-  "generatedAt": "2026-09-24T21:03:05.834Z",
+  "generatedAt": "2026-09-25T01:06:07.355Z",
   "note": "Transfers derived from news headlines at launch."
 }
