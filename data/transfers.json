@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Virginia Tech football",
+      "player": "Vikings QB Kyler Murray Laughs Off Weird",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Gobblercountry.com",
-      "url": "https://www.gobblercountry.com/virginia-tech-football/31585/virginia-tech-football-a-look-at-boston-college-by-the-numbers",
-      "publishedAt": "2026-09-24T20:40:57Z"
+      "source": "Minnesotasportsfan.com",
+      "url": "https://www.minnesotasportsfan.com/minnesota-vikings/kyler-murray-baker-mayfield-comments-vikings-bucs/",
+      "publishedAt": "2026-09-25T00:59:34Z"
     },
     {
-      "player": "LSU athletics projects $26 million defic",
+      "player": "The athletic tail is wagging the academi",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "On3.com",
-      "url": "https://www.on3.com/news/lsu-athletics-projects-26-million-deficit-after-44-million-shortfall-in-2025-26/",
-      "publishedAt": "2026-09-24T20:30:40Z"
+      "source": "Ncspin.com",
+      "url": "https://www.ncspin.com/the-athletic-tail-is-wagging-the-academic-dog",
+      "publishedAt": "2026-09-25T00:18:00Z"
+    },
+    {
+      "player": "Penn State vs. Wisconsin Predictions",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/pennstate/football/penn-state-vs-wisconsin-predictions-where-the-nittany-lions-have-the-edge-in-week-4",
+      "publishedAt": "2026-09-25T00:17:40Z"
     }
   ],
-  "generatedAt": "2026-09-25T21:00:30.237Z",
+  "generatedAt": "2026-09-26T01:07:16.738Z",
   "note": "Transfers derived from news headlines at launch."
 }
