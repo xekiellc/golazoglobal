@@ -1,46 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Maryland football vs. UCLA preview",
+      "player": "Lawsuit Looms As Confusing Transfer Rule",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Testudo Times",
-      "url": "https://www.testudotimes.com/maryland-terps-football/93486/maryland-football-vs-ucla-preview",
-      "publishedAt": "2026-09-25T10:40:00Z"
-    },
-    {
-      "player": "Kentucky Wildcats News",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "A Sea Of Blue",
-      "url": "https://www.aseaofblue.com/kentucky-wildcats-news/181499/kentucky-wildcats-news-momentum-for-uk-football-under-will-stein",
-      "publishedAt": "2026-09-25T10:40:00Z"
-    },
-    {
-      "player": "Ohio State vs. Illinois",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-football/122488/ohio-state-buckeyes-illinois-fighting-illini-2026-game-preview-prediction-big-ten-ryan-day",
-      "publishedAt": "2026-09-25T10:31:00Z"
-    },
-    {
-      "player": "College Football Picks, Predictions",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Action Network",
-      "url": "https://www.actionnetwork.com/ncaaf/college-football-picks-predictions-bets-indiana-vs-northwestern-cal-vs-clemson-more-friday-sept-25",
-      "publishedAt": "2026-09-25T10:30:55Z"
+      "source": "BroBible",
+      "url": "https://brobible.com/sports/article/andrew-lyman-ineligible-elder-lawsuit-high-school-football-ohio-rules/",
+      "publishedAt": "2026-09-25T15:14:02Z"
     }
   ],
-  "generatedAt": "2026-09-26T10:40:21.456Z",
+  "generatedAt": "2026-09-26T15:35:14.566Z",
   "note": "Transfers derived from news headlines at launch."
 }
