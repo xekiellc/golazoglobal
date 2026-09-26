@@ -1,36 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Vikings QB Kyler Murray Laughs Off Weird",
+      "player": "Maryland football vs. UCLA preview",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Minnesotasportsfan.com",
-      "url": "https://www.minnesotasportsfan.com/minnesota-vikings/kyler-murray-baker-mayfield-comments-vikings-bucs/",
-      "publishedAt": "2026-09-25T00:59:34Z"
+      "source": "Testudo Times",
+      "url": "https://www.testudotimes.com/maryland-terps-football/93486/maryland-football-vs-ucla-preview",
+      "publishedAt": "2026-09-25T10:40:00Z"
     },
     {
-      "player": "The athletic tail is wagging the academi",
+      "player": "Kentucky Wildcats News",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Ncspin.com",
-      "url": "https://www.ncspin.com/the-athletic-tail-is-wagging-the-academic-dog",
-      "publishedAt": "2026-09-25T00:18:00Z"
+      "source": "A Sea Of Blue",
+      "url": "https://www.aseaofblue.com/kentucky-wildcats-news/181499/kentucky-wildcats-news-momentum-for-uk-football-under-will-stein",
+      "publishedAt": "2026-09-25T10:40:00Z"
     },
     {
-      "player": "Penn State vs. Wisconsin Predictions",
+      "player": "Ohio State vs. Illinois",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/pennstate/football/penn-state-vs-wisconsin-predictions-where-the-nittany-lions-have-the-edge-in-week-4",
-      "publishedAt": "2026-09-25T00:17:40Z"
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-football/122488/ohio-state-buckeyes-illinois-fighting-illini-2026-game-preview-prediction-big-ten-ryan-day",
+      "publishedAt": "2026-09-25T10:31:00Z"
+    },
+    {
+      "player": "College Football Picks, Predictions",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Action Network",
+      "url": "https://www.actionnetwork.com/ncaaf/college-football-picks-predictions-bets-indiana-vs-northwestern-cal-vs-clemson-more-friday-sept-25",
+      "publishedAt": "2026-09-25T10:30:55Z"
     }
   ],
-  "generatedAt": "2026-09-26T01:07:16.738Z",
+  "generatedAt": "2026-09-26T10:40:21.456Z",
   "note": "Transfers derived from news headlines at launch."
 }
