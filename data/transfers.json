@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Lawsuit Looms As Confusing Transfer Rule",
+      "player": "Iowa football Week 4 bowl projections",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "BroBible",
-      "url": "https://brobible.com/sports/article/andrew-lyman-ineligible-elder-lawsuit-high-school-football-ohio-rules/",
-      "publishedAt": "2026-09-25T15:14:02Z"
+      "source": "USA Today",
+      "url": "https://hawkeyeswire.usatoday.com/story/sports/college/hawkeyes/football/2026/09/25/iowa-football-bowl-game-predictions-week-4/91915413007/",
+      "publishedAt": "2026-09-25T20:30:45Z"
+    },
+    {
+      "player": "Iowa State will provide a tough test for",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Deseret News",
+      "url": "https://www.deseret.com/sports/2026/09/25/utah-iowa-state-preview/",
+      "publishedAt": "2026-09-25T20:09:30Z"
+    },
+    {
+      "player": "Ranked Texas high school football team f",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "San Antonio Express-News",
+      "url": "https://www.expressnews.com/sports/high-school/article/lewisville-laykon-brassfield-ineligible-forfeit-22449351.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "publishedAt": "2026-09-25T20:07:19Z"
     }
   ],
-  "generatedAt": "2026-09-26T15:35:14.566Z",
+  "generatedAt": "2026-09-26T20:33:30.496Z",
   "note": "Transfers derived from news headlines at launch."
 }
