@@ -1,5 +1,86 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-09-27T16:14:51.993Z",
+  "transfers": [
+    {
+      "player": "Austin Romaine cuts loose for career day",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "LubbockOnline.com",
+      "url": "https://www.lubbockonline.com/story/sports/college/red-raiders/2026/09/26/texas-tech-football-austin-romain-pick-6-sam-houston/91820691007/",
+      "publishedAt": "2026-09-26T20:41:09Z"
+    },
+    {
+      "player": "Missouri vs Mississippi State Prediction",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Action Network",
+      "url": "https://www.actionnetwork.com/ncaaf/missouri-tigers-vs-mississippi-state-bulldogs-prediction-pick-odds-college-football-saturday-september-26",
+      "publishedAt": "2026-09-26T20:38:36Z"
+    },
+    {
+      "player": "Jeremiah Smith makes Ohio State history ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/ncaa-football/news/jeremiah-smith-ohio-state-history/727bebe9e34bac673cfb910f",
+      "publishedAt": "2026-09-26T20:38:18Z"
+    },
+    {
+      "player": "Texas defense, Tennessee offensive line ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/26/texas-tennessee-winners-losers-score-sec/91960950007/",
+      "publishedAt": "2026-09-26T20:33:21Z"
+    },
+    {
+      "player": "Alabama vs. South Carolina prediction, o",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/alabama-south-carolina-prediction-odds-time-2026-week-4-college-football-picks-best-bets/",
+      "publishedAt": "2026-09-26T20:33:09Z"
+    },
+    {
+      "player": "Lagway throws 2 touchdown passes to help",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/lagway-throws-2-touchdown-passes-202325085.html",
+      "publishedAt": "2026-09-26T20:23:25Z"
+    },
+    {
+      "player": "Kentucky Football runs past South Alabam",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "A Sea Of Blue",
+      "url": "https://www.aseaofblue.com/kentucky-wildcats-football/181592/south-alabama-final-score-recap-3-things-to-know-uk",
+      "publishedAt": "2026-09-26T20:15:14Z"
+    },
+    {
+      "player": "\"Scared\"",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Essentially Sports",
+      "url": "https://www.essentiallysports.com/ncaa-college-football-news-scared-colorado-coachs-message-goes-viral-before-deion-sanders-benches-qb-one-julian-lewis/",
+      "publishedAt": "2026-09-26T20:14:18Z"
+    }
+  ],
+  "generatedAt": "2026-09-27T20:43:46.045Z",
   "note": "Transfers derived from news headlines at launch."
 }
