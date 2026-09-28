@@ -1,16 +1,46 @@
 {
   "transfers": [
     {
-      "player": "As Congress debates college sports, athl",
+      "player": "Overreactions, report card from UC Bearc",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5978973/protect-college-sports-act-senators-athletes",
-      "publishedAt": "2026-09-27T12:06:24Z"
+      "source": "The Cincinnati Enquirer",
+      "url": "https://www.cincinnati.com/story/sports/college/university-of-cincinnati/2026/09/27/overreactions-grades-big-12-uc-bearcats-kansas-state/91938996007/",
+      "publishedAt": "2026-09-27T22:37:28Z"
+    },
+    {
+      "player": "Oregon Backup Quarterback Dylan Raiola T",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/oregon/football/oregon-ducks-quarterback-dylan-raiola-takes-advantage-usc-trojans",
+      "publishedAt": "2026-09-27T22:22:27Z"
+    },
+    {
+      "player": "Longhorns of the Week",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://longhornswire.usatoday.com/story/sports/college/longhorns/football/2026/09/27/texas-longhorns-of-the-week-top-performers-in-win-over-tennessee/91976332007/",
+      "publishedAt": "2026-09-27T22:16:56Z"
+    },
+    {
+      "player": "Papers",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/football/transfer-paper-talk/13593048/real-madrid-defender-raul-asencio-rejected-transfer-interest-from-liverpool-and-chelsea-this-summer-paper-talk",
+      "publishedAt": "2026-09-27T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-09-28T12:41:35.351Z",
+  "generatedAt": "2026-09-28T22:52:11.785Z",
   "note": "Transfers derived from news headlines at launch."
 }
