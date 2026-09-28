@@ -1,86 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Top NFL prospect Dante Moore knocked out",
+      "player": "As Congress debates college sports, athl",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/college-football/article-16163443/dante-moore-oregon-hit-nfl-prospect.html",
-      "publishedAt": "2026-09-27T01:17:39Z"
-    },
-    {
-      "player": "Couch",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Detroit News",
-      "url": "https://www.detroitnews.com/story/sports/college/michigan-state-university/2026/09/26/three-quick-takes-on-michigan-states-31-13-loss-to-nebraska/91966485007/",
-      "publishedAt": "2026-09-27T01:11:27Z"
-    },
-    {
-      "player": "Couch",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Lansing State Journal",
-      "url": "https://www.lansingstatejournal.com/story/sports/columnists/graham-couch/2026/09/26/msu-football-falls-to-nebraska-three-quick-takes/91961817007/",
-      "publishedAt": "2026-09-27T00:47:06Z"
-    },
-    {
-      "player": "Oregon star QB Dante Moore carted off vs",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/dante-moore-injury-oregon-usc-late-hit/",
-      "publishedAt": "2026-09-27T00:40:51Z"
-    },
-    {
-      "player": "Analyzing stunning Penn State football l",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "York Daily Record",
-      "url": "https://www.ydr.com/story/sports/college/penn-state/football/2026/09/26/stunning-penn-state-football-report-card-after-collapse-to-wisconsin/91898956007/",
-      "publishedAt": "2026-09-27T00:38:00Z"
-    },
-    {
-      "player": "No. 25 UH avoids a scare, pulls away fro",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Houston Chronicle",
-      "url": "https://www.houstonchronicle.com/sports/college/cougars/article/uh-football-georgia-southern-score-22450118.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-      "publishedAt": "2026-09-27T00:35:29Z"
-    },
-    {
-      "player": "UND holds off Indiana State comeback to ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Grand Forks Herald",
-      "url": "https://www.grandforksherald.com/sports/college/und-holds-off-indiana-state-comeback-to-win-42-35",
-      "publishedAt": "2026-09-27T00:31:00Z"
-    },
-    {
-      "player": "5 things you might've missed in UND's 42",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Grand Forks Herald",
-      "url": "https://www.grandforksherald.com/sports/college/5-things-you-mightve-missed-in-unds-42-35-win-over-indiana-state",
-      "publishedAt": "2026-09-27T00:31:00Z"
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5978973/protect-college-sports-act-senators-athletes",
+      "publishedAt": "2026-09-27T12:06:24Z"
     }
   ],
-  "generatedAt": "2026-09-28T01:20:58.165Z",
+  "generatedAt": "2026-09-28T12:41:35.351Z",
   "note": "Transfers derived from news headlines at launch."
 }
