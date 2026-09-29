@@ -1,46 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Overreactions, report card from UC Bearc",
+      "player": "South Korea accuses Ukraine of breaching",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Cincinnati Enquirer",
-      "url": "https://www.cincinnati.com/story/sports/college/university-of-cincinnati/2026/09/27/overreactions-grades-big-12-uc-bearcats-kansas-state/91938996007/",
-      "publishedAt": "2026-09-27T22:37:28Z"
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/south-korea-accuses-ukraine-of-breaching-secrecy-over-north-korean-pow-transfer/articleshow/134529824.cms",
+      "publishedAt": "2026-09-28T02:09:17Z"
     },
     {
-      "player": "Oregon Backup Quarterback Dylan Raiola T",
+      "player": "Lanterns Recap",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/oregon/football/oregon-ducks-quarterback-dylan-raiola-takes-advantage-usc-trojans",
-      "publishedAt": "2026-09-27T22:22:27Z"
-    },
-    {
-      "player": "Longhorns of the Week",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://longhornswire.usatoday.com/story/sports/college/longhorns/football/2026/09/27/texas-longhorns-of-the-week-top-performers-in-win-over-tennessee/91976332007/",
-      "publishedAt": "2026-09-27T22:16:56Z"
-    },
-    {
-      "player": "Papers",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/football/transfer-paper-talk/13593048/real-madrid-defender-raul-asencio-rejected-transfer-interest-from-liverpool-and-chelsea-this-summer-paper-talk",
-      "publishedAt": "2026-09-27T22:00:00Z"
+      "source": "Vulture",
+      "url": "http://www.vulture.com/article/lanterns-recap-season-1-episode-7-hbo.html",
+      "publishedAt": "2026-09-28T02:00:12Z"
     }
   ],
-  "generatedAt": "2026-09-28T22:52:11.785Z",
+  "generatedAt": "2026-09-29T02:27:06.329Z",
   "note": "Transfers derived from news headlines at launch."
 }
