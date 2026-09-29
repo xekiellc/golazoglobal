@@ -1,36 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Report",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Anfieldindex.com",
-      "url": "https://anfieldindex.com/101022/report-liverpool-still-in-contact-over-move-for-real-madrid-star.html",
-      "publishedAt": "2026-09-28T17:50:00Z"
-    },
-    {
-      "player": "Senate tees up college sports bill aimed",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
-      "publishedAt": "2026-09-28T17:17:43Z"
-    },
-    {
-      "player": "Houston high school football",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Houston Chronicle",
-      "url": "https://www.houstonchronicle.com/sports/high-school/football/article/houston-high-school-football-top-performers-22452693.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-      "publishedAt": "2026-09-28T17:16:28Z"
-    }
-  ],
-  "generatedAt": "2026-09-29T17:55:40.690Z",
+  "transfers": [],
+  "generatedAt": "2026-09-29T21:47:33.655Z",
   "note": "Transfers derived from news headlines at launch."
 }
