@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "South Korea accuses Ukraine of breaching",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/south-korea-accuses-ukraine-of-breaching-secrecy-over-north-korean-pow-transfer/articleshow/134529824.cms",
-      "publishedAt": "2026-09-28T02:09:17Z"
-    },
-    {
-      "player": "Lanterns Recap",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Vulture",
-      "url": "http://www.vulture.com/article/lanterns-recap-season-1-episode-7-hbo.html",
-      "publishedAt": "2026-09-28T02:00:12Z"
-    }
-  ],
-  "generatedAt": "2026-09-29T02:27:06.329Z",
+  "transfers": [],
+  "generatedAt": "2026-09-29T11:59:03.442Z",
   "note": "Transfers derived from news headlines at launch."
 }
