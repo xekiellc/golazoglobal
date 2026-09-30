@@ -1,5 +1,46 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-09-30T17:28:23.222Z",
+  "transfers": [
+    {
+      "player": "Arsenal among clubs sharing $36 million ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Alloutsoccer.com",
+      "url": "https://www.alloutsoccer.com/news/arsenal-uefa-fund-transfer-boost-2045773",
+      "publishedAt": "2026-09-29T21:45:55Z"
+    },
+    {
+      "player": "Who is Don Julio? Meet the Ex",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/fannation/college/cfb-hq/recruiting/auburn-football-don-julio-arrested",
+      "publishedAt": "2026-09-29T21:40:07Z"
+    },
+    {
+      "player": "Seminoles Pass Defense Must Stop Cavalie",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/fsu/news/seminoles-pass-defense-must-stop-cavaliers-qb-beau-pribula",
+      "publishedAt": "2026-09-29T21:28:50Z"
+    },
+    {
+      "player": "UTSA vs. Rice",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "San Antonio Express-News",
+      "url": "https://www.expressnews.com/sports/colleges/utsa/article/utsa-vs-rice-5-key-players-watch-american-22455111.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "publishedAt": "2026-09-29T21:24:35Z"
+    }
+  ],
+  "generatedAt": "2026-09-30T21:46:49.113Z",
   "note": "Transfers derived from news headlines at launch."
 }
