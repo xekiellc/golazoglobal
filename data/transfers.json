@@ -1,36 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "What's next for Michigan State after los",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://spartanswire.usatoday.com/story/sports/college/spartans/football/2026/09/29/whats-next-for-michigan-state-after-losing-cam-edwards-to-injury/91998818007/",
-      "publishedAt": "2026-09-29T11:46:19Z"
-    },
-    {
-      "player": "Pac",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/pac12/2026/09/29/pac-12-football-rankings-boise-state-oregon-state/91991503007/",
-      "publishedAt": "2026-09-29T11:38:59Z"
-    },
-    {
-      "player": "Protect College Sports Act passed the Se",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/29/protect-college-sports-act-senate-vote-breakdown-house-nil-bill/91999339007/",
-      "publishedAt": "2026-09-29T11:27:40Z"
-    }
-  ],
-  "generatedAt": "2026-09-30T11:47:15.550Z",
+  "transfers": [],
+  "generatedAt": "2026-09-30T17:28:23.222Z",
   "note": "Transfers derived from news headlines at launch."
 }
