@@ -1,66 +1,36 @@
 {
   "transfers": [
     {
-      "player": "One Thing We've Learned About Each Arkan",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/arkansas/football/one-thing-we-ve-learned-about-each-arkansas-position-group-after-first-four-games",
-      "publishedAt": "2026-09-29T01:20:40Z"
-    },
-    {
-      "player": "Buccaneers news",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/nfl/tampa-bay-buccaneers/buccaneers-news-baker-mayfield-backup-jalon-daniels-drought-1987",
-      "publishedAt": "2026-09-29T00:58:24Z"
-    },
-    {
-      "player": "Nebraska Finally Has the Jimmys and Joes",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/nebraska/football/huskes-finally-have-the-jimmys-and-joes-01m3mrqkryq5",
-      "publishedAt": "2026-09-29T00:52:09Z"
-    },
-    {
-      "player": "Top",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/top-10-cfb-showstoppers-from-week-4",
-      "publishedAt": "2026-09-29T00:42:06Z"
-    },
-    {
-      "player": "PFN’s 2026 College Football Power Rankin",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Pro Football Network",
-      "url": "https://www.profootballnetwork.com/cfb/pfns-2026-college-football-power-rankings-georgia-florida-climb-after-electric-week-4/",
-      "publishedAt": "2026-09-29T00:30:16Z"
-    },
-    {
-      "player": "Oregon emerges as double",
+      "player": "What's next for Michigan State after los",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2026/09/28/oregon-football-early-betting-preview-ucla-bruins/91996519007/",
-      "publishedAt": "2026-09-29T00:27:24Z"
+      "url": "https://spartanswire.usatoday.com/story/sports/college/spartans/football/2026/09/29/whats-next-for-michigan-state-after-losing-cam-edwards-to-injury/91998818007/",
+      "publishedAt": "2026-09-29T11:46:19Z"
+    },
+    {
+      "player": "Pac",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/pac12/2026/09/29/pac-12-football-rankings-boise-state-oregon-state/91991503007/",
+      "publishedAt": "2026-09-29T11:38:59Z"
+    },
+    {
+      "player": "Protect College Sports Act passed the Se",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/29/protect-college-sports-act-senate-vote-breakdown-house-nil-bill/91999339007/",
+      "publishedAt": "2026-09-29T11:27:40Z"
     }
   ],
-  "generatedAt": "2026-09-30T01:47:26.987Z",
+  "generatedAt": "2026-09-30T11:47:15.550Z",
   "note": "Transfers derived from news headlines at launch."
 }

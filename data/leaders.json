@@ -333,117 +333,6 @@
         }
       ]
     },
-    "BL1": {
-      "scorers": [
-        {
-          "name": "Michael Olise",
-          "team": "Bayern",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Younes Ebnoutalib",
-          "team": "Frankfurt",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Patrik Schick",
-          "team": "Leverkusen",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Yuito Suzuki",
-          "team": "Freiburg",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Phillip Tietz",
-          "team": "Mainz",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Igor Matanovic",
-          "team": "Freiburg",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Michael Gregoritsch",
-          "team": "Augsburg",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Niclas Füllkrug",
-          "team": "Bremen",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Maurice Krattenmacher",
-          "team": "Elversberg",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Jonathan Burkardt",
-          "team": "Frankfurt",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        }
-      ],
-      "topAssists": [
-        {
-          "name": "Michael Olise",
-          "team": "Bayern",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Younes Ebnoutalib",
-          "team": "Frankfurt",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Patrik Schick",
-          "team": "Leverkusen",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Igor Matanovic",
-          "team": "Freiburg",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Jonathan Burkardt",
-          "team": "Frankfurt",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        }
-      ]
-    },
     "FL1": {
       "scorers": [
         {
@@ -1000,5 +889,5 @@
       ]
     }
   },
-  "generatedAt": "2026-09-30T01:51:01.965Z"
+  "generatedAt": "2026-09-30T11:50:51.968Z"
 }
