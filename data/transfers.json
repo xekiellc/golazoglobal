@@ -1,36 +1,66 @@
 {
   "transfers": [
     {
-      "player": "Protect College Sports Act explained",
+      "player": "NFL Draft QB Rankings",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/nfl/nfl-stories/nfl-draft-qb-rankings-austin-simmons-drew-mestemaker-week-4",
+      "publishedAt": "2026-09-30T22:07:37Z"
+    },
+    {
+      "player": "Penn State labeled \"frauds\" by USA today",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://golfweek.usatoday.com/story/sports/golf/college/2026/09/30/what-does-the-protect-college-sports-act-do-senate-vote-bill-explained/92018633007/",
-      "publishedAt": "2026-09-30T12:02:59Z"
+      "url": "https://nittanylionswire.usatoday.com/story/sports/college/nittany-lions/football/2026/09/30/penn-state-football-faces-fraud-label-after-loss/92019301007/",
+      "publishedAt": "2026-09-30T22:00:16Z"
     },
     {
-      "player": "Notre Dame Defense Will Have Big Time Ma",
+      "player": "Three Biggest Questions for Virginia Tec",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/virginiatech/football/three-biggest-questions-for-virginia-tech-this-friday-vs-pittsburgh-01m3smch98g0",
+      "publishedAt": "2026-09-30T22:00:03Z"
+    },
+    {
+      "player": "How Darian Mensah can guarantee top 5 pi",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/how-darian-mensah-can-guarantee-top-5-pick-status-vs-clemson",
+      "publishedAt": "2026-09-30T22:00:02Z"
+    },
+    {
+      "player": "Opinion",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Deseret News",
+      "url": "https://www.deseret.com/opinion/2026/09/30/college-football-problems-span-more-than-a-century/",
+      "publishedAt": "2026-09-30T21:44:49Z"
+    },
+    {
+      "player": "Illinois QB Coach Sitkowski Shares What ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/notre-dame/opinion/notre-dame-defense-will-have-big-time-matchups-against-the-tarheel-offense",
-      "publishedAt": "2026-09-30T12:00:47Z"
-    },
-    {
-      "player": "Washington Basketball Hosts 2028 4",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/recruiting/2026/09/30/parker-mcdaniel-uw-basketball-danny-sprinkle-andy-hill-washington-huskies/91994760007/",
-      "publishedAt": "2026-09-30T12:00:29Z"
+      "url": "https://roundtable.io/sports/ncaa/illinois/news/illinois-qb-coach-shares-what-makes-illini-offense-successful",
+      "publishedAt": "2026-09-30T21:39:15Z"
     }
   ],
-  "generatedAt": "2026-10-01T12:16:23.364Z",
+  "generatedAt": "2026-10-01T22:14:44.051Z",
   "note": "Transfers derived from news headlines at launch."
 }
