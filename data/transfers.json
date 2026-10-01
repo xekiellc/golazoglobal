@@ -1,46 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Arsenal among clubs sharing $36 million ",
+      "player": "‘Colorado Is an Unmitigated Disaster,’ ‘",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Alloutsoccer.com",
-      "url": "https://www.alloutsoccer.com/news/arsenal-uefa-fund-transfer-boost-2045773",
-      "publishedAt": "2026-09-29T21:45:55Z"
+      "source": "Pro Football Network",
+      "url": "https://www.profootballnetwork.com/cfb/colorado-julian-lewis-cfb-fans-bash-deion-sanders-qb-controversy/",
+      "publishedAt": "2026-09-30T01:27:45Z"
     },
     {
-      "player": "Who is Don Julio? Meet the Ex",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/fannation/college/cfb-hq/recruiting/auburn-football-don-julio-arrested",
-      "publishedAt": "2026-09-29T21:40:07Z"
-    },
-    {
-      "player": "Seminoles Pass Defense Must Stop Cavalie",
+      "player": "Colorado QB Isaac Wilson to start agains",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/fsu/news/seminoles-pass-defense-must-stop-cavaliers-qb-beau-pribula",
-      "publishedAt": "2026-09-29T21:28:50Z"
+      "url": "https://roundtable.io/sports/ncaa/colorado/news/colorado-qb-isaac-wilson-to-start-against-texas-tech",
+      "publishedAt": "2026-09-30T01:08:18Z"
     },
     {
-      "player": "UTSA vs. Rice",
+      "player": "Where Does Eli Gillman Belong Among Big ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "San Antonio Express-News",
-      "url": "https://www.expressnews.com/sports/colleges/utsa/article/utsa-vs-rice-5-key-players-watch-american-22455111.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-      "publishedAt": "2026-09-29T21:24:35Z"
+      "source": "Underdogdynasty.com",
+      "url": "https://www.underdogdynasty.com/fcs-football/46308/where-does-eli-gillman-belong-among-big-sky-fcs-greats",
+      "publishedAt": "2026-09-30T01:04:26Z"
+    },
+    {
+      "player": "High School Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Hamilton Journal News",
+      "url": "https://www.journal-news.com/sports/high-school-football-emergency-tro-motion-denied-for-middletown-senior/article_684edce8-79ab-5528-ac46-029ed902fee3.html",
+      "publishedAt": "2026-09-30T01:04:00Z"
+    },
+    {
+      "player": "High School Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Dayton Daily News",
+      "url": "https://www.daytondailynews.com/sports/high-school-football-emergency-tro-motion-denied-for-middletown-senior/article_21c3b387-7cba-5e7a-a298-71af08e56a09.html",
+      "publishedAt": "2026-09-30T01:03:00Z"
     }
   ],
-  "generatedAt": "2026-09-30T21:46:49.113Z",
+  "generatedAt": "2026-10-01T01:45:01.946Z",
   "note": "Transfers derived from news headlines at launch."
 }
