@@ -1,66 +1,36 @@
 {
   "transfers": [
     {
-      "player": "NFL Draft QB Rankings",
+      "player": "Yorba Linda football to forfeit all vict",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/nfl/nfl-stories/nfl-draft-qb-rankings-austin-simmons-drew-mestemaker-week-4",
-      "publishedAt": "2026-09-30T22:07:37Z"
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/30/sports/yorba-linda-football-to-forfeit-all-victories-due-to-cif-rule-violations/",
+      "publishedAt": "2026-10-01T01:51:20Z"
     },
     {
-      "player": "Penn State labeled \"frauds\" by USA today",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://nittanylionswire.usatoday.com/story/sports/college/nittany-lions/football/2026/09/30/penn-state-football-faces-fraud-label-after-loss/92019301007/",
-      "publishedAt": "2026-09-30T22:00:16Z"
-    },
-    {
-      "player": "Three Biggest Questions for Virginia Tec",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/virginiatech/football/three-biggest-questions-for-virginia-tech-this-friday-vs-pittsburgh-01m3smch98g0",
-      "publishedAt": "2026-09-30T22:00:03Z"
-    },
-    {
-      "player": "How Darian Mensah can guarantee top 5 pi",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/how-darian-mensah-can-guarantee-top-5-pick-status-vs-clemson",
-      "publishedAt": "2026-09-30T22:00:02Z"
-    },
-    {
-      "player": "Opinion",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Deseret News",
-      "url": "https://www.deseret.com/opinion/2026/09/30/college-football-problems-span-more-than-a-century/",
-      "publishedAt": "2026-09-30T21:44:49Z"
-    },
-    {
-      "player": "Illinois QB Coach Sitkowski Shares What ",
+      "player": "Burning Questions",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/illinois/news/illinois-qb-coach-shares-what-makes-illini-offense-successful",
-      "publishedAt": "2026-09-30T21:39:15Z"
+      "url": "https://roundtable.io/sports/ncaa/indiana/game-day/burning-questions-indiana-ready-for-first-road-game-at-rutgers",
+      "publishedAt": "2026-10-01T01:26:44Z"
+    },
+    {
+      "player": "How Dylan Raiola Prepared For A Moment H",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/how-dylan-raiola-prepared-moment-he-didnt-know-coming",
+      "publishedAt": "2026-10-01T00:26:11Z"
     }
   ],
-  "generatedAt": "2026-10-01T22:14:44.051Z",
+  "generatedAt": "2026-10-02T01:55:55.932Z",
   "note": "Transfers derived from news headlines at launch."
 }
