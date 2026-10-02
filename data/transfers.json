@@ -1,26 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Delbarton quarterback announces surprisi",
+      "player": "3 Oregon State Football Players to Watch",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Dailyrecord.com",
-      "url": "https://www.dailyrecord.com/story/sports/high-school/football/2026/10/01/gavin-gilardi-transferimmaculata-nj-football-delbarton/92039387007/",
-      "publishedAt": "2026-10-01T17:05:58Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/oregon-state/football/3-oregon-state-football-players-to-watch-against-colorado-state",
+      "publishedAt": "2026-10-01T21:41:50Z"
     },
     {
-      "player": "College Football Week 5 Expert Picks, Pr",
+      "player": "Mike Elko Sticking With Marcel Reed as T",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/week-5-expert-picks-spread-ohio-state-iowa-alabama-florida",
-      "publishedAt": "2026-10-01T17:03:34Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/tamu/football/mike-elko-sticking-with-marcel-reed-as-texas-am-searches-for-answers",
+      "publishedAt": "2026-10-01T21:40:00Z"
+    },
+    {
+      "player": "Texas isn’t paying Cam Coleman millions ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Burnt Orange Nation",
+      "url": "https://www.burntorangenation.com/texas-longhorns-football/105390/cam-coleman-analysis-texas-longhorns-arch-manning",
+      "publishedAt": "2026-10-01T21:37:02Z"
+    },
+    {
+      "player": "For the Record",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Underdogdynasty.com",
+      "url": "https://www.underdogdynasty.com/conference-usa/46437/for-the-record-cusa-has-pregame-skittles-a-tight-end-with-a-camera-and-a-spooky-halloween-connection",
+      "publishedAt": "2026-10-01T21:35:30Z"
+    },
+    {
+      "player": "Ole Miss Secondary Faces Its Most Import",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/olemiss/football/ole-miss-secondary-faces-its-most-important-stretch-of-the-season",
+      "publishedAt": "2026-10-01T21:22:40Z"
     }
   ],
-  "generatedAt": "2026-10-02T17:17:42.019Z",
+  "generatedAt": "2026-10-02T21:43:25.652Z",
   "note": "Transfers derived from news headlines at launch."
 }
