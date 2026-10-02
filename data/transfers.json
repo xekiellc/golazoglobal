@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Yorba Linda football to forfeit all vict",
+      "player": "2027 NFL Draft stock watch features 11 p",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/30/sports/yorba-linda-football-to-forfeit-all-victories-due-to-cif-rule-violations/",
-      "publishedAt": "2026-10-01T01:51:20Z"
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/nfl/draft/2026/10/01/nfl-draft-stock-watch-risers-trinidad-chambliss-darian-mensah/92021733007/",
+      "publishedAt": "2026-10-01T11:42:47Z"
     },
     {
-      "player": "Burning Questions",
+      "player": "A mumps outbreak? What to know about San",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/indiana/game-day/burning-questions-indiana-ready-for-first-road-game-at-rutgers",
-      "publishedAt": "2026-10-01T01:26:44Z"
-    },
-    {
-      "player": "How Dylan Raiola Prepared For A Moment H",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/how-dylan-raiola-prepared-moment-he-didnt-know-coming",
-      "publishedAt": "2026-10-01T00:26:11Z"
+      "source": "Austin American-Statesman",
+      "url": "https://www.statesman.com/sports/texas-state/football/article/texas-state-football-san-diego-state-pac-12-22452715.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "publishedAt": "2026-10-01T11:30:00Z"
     }
   ],
-  "generatedAt": "2026-10-02T01:55:55.932Z",
+  "generatedAt": "2026-10-02T11:45:17.907Z",
   "note": "Transfers derived from news headlines at launch."
 }
