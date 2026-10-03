@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "How freakish QB Kamario Taylor became a ",
+      "player": "Nick Saban Compares $44M First",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/college-football/article-16177127/kamario-taylor-mississippi-state-nfl-prospect.html",
-      "publishedAt": "2026-10-02T14:54:53Z"
+      "source": "Essentially Sports",
+      "url": "https://www.essentiallysports.com/ncaa-college-football-news-nick-saban-compares-forty-four-m-first-year-sec-head-coachs-team-to-kirby-smarts-georgia-very-impressed-jon-sumrall-florida/",
+      "publishedAt": "2026-10-02T20:15:16Z"
+    },
+    {
+      "player": "College football preview",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "San Francisco Chronicle",
+      "url": "https://www.sfchronicle.com/sports/college/article/college-football-preview-cal-shuffle-aims-get-22458405.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "publishedAt": "2026-10-02T20:12:53Z"
+    },
+    {
+      "player": "Changing face of international soccer",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/soccer/news/international-soccer-european-talent-beyond-borders/",
+      "publishedAt": "2026-10-02T20:01:17Z"
     }
   ],
-  "generatedAt": "2026-10-03T15:35:25.884Z",
+  "generatedAt": "2026-10-03T20:29:38.353Z",
   "note": "Transfers derived from news headlines at launch."
 }
