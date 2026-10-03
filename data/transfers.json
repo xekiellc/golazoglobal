@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "How A Family's Leap Of Faith Helped Lead",
+      "player": "Big East coaches get real on NIL",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/hank-brown-iowa-auburn-michigan-upset",
-      "publishedAt": "2026-10-02T00:05:04Z"
+      "source": "nj.com",
+      "url": "https://www.nj.com/sports/2026/10/whats-the-magic-nil-number-for-a-deep-ncaa-tournament-run-big-east-coaches-get-real.html",
+      "publishedAt": "2026-10-02T10:41:42Z"
+    },
+    {
+      "player": "Ohio State vs. Iowa",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-football/122844/ohio-state-buckeyes-iowa-hawkeyes-2026-game-preview-prediction-big-ten-jeremiah-smith-julian-sayin-hank-brown",
+      "publishedAt": "2026-10-02T10:31:00Z"
+    },
+    {
+      "player": "From court to campout, Tom Izzo gets ear",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Lansing State Journal",
+      "url": "https://www.lansingstatejournal.com/story/sports/college/msu/mens-basketball/2026/10/02/tom-izzo-michigan-state-spartans-basketball-exhibition-game-incarnate-word-izzone-campout/92052853007/",
+      "publishedAt": "2026-10-02T10:29:53Z"
     }
   ],
-  "generatedAt": "2026-10-03T01:39:22.489Z",
+  "generatedAt": "2026-10-03T10:58:33.744Z",
   "note": "Transfers derived from news headlines at launch."
 }
