@@ -2125,6 +2125,19 @@
       },
       {
         "position": 7,
+        "team": "Santos",
+        "played": 28,
+        "won": 11,
+        "drawn": 8,
+        "lost": 9,
+        "goalsFor": 43,
+        "goalsAgainst": 41,
+        "goalDifference": 2,
+        "points": 41,
+        "form": ""
+      },
+      {
+        "position": 8,
         "team": "Mineiro",
         "played": 27,
         "won": 11,
@@ -2134,19 +2147,6 @@
         "goalsAgainst": 32,
         "goalDifference": 4,
         "points": 40,
-        "form": ""
-      },
-      {
-        "position": 8,
-        "team": "Santos",
-        "played": 27,
-        "won": 10,
-        "drawn": 8,
-        "lost": 9,
-        "goalsFor": 41,
-        "goalsAgainst": 40,
-        "goalDifference": 1,
-        "points": 38,
         "form": ""
       },
       {
@@ -2178,13 +2178,13 @@
       {
         "position": 11,
         "team": "São Paulo",
-        "played": 27,
+        "played": 28,
         "won": 10,
         "drawn": 6,
-        "lost": 11,
-        "goalsFor": 32,
-        "goalsAgainst": 30,
-        "goalDifference": 2,
+        "lost": 12,
+        "goalsFor": 33,
+        "goalsAgainst": 32,
+        "goalDifference": 1,
         "points": 36,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-10-02T21:45:55.116Z"
+  "generatedAt": "2026-10-03T01:41:53.120Z"
 }

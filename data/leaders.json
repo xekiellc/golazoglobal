@@ -907,7 +907,7 @@
         {
           "name": "Gabriel Barbosa",
           "team": "Santos",
-          "goals": 11,
+          "goals": 13,
           "assists": 3,
           "penalties": 2
         },
@@ -917,6 +917,13 @@
           "goals": 10,
           "assists": 1,
           "penalties": 1
+        },
+        {
+          "name": "Luciano",
+          "team": "São Paulo",
+          "goals": 9,
+          "assists": 1,
+          "penalties": 2
         },
         {
           "name": "Danilo dos Santos de Oliveira",
@@ -952,13 +959,6 @@
           "goals": 9,
           "assists": 7,
           "penalties": 0
-        },
-        {
-          "name": "José Manuel López",
-          "team": "Palmeiras",
-          "goals": 8,
-          "assists": 4,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -984,21 +984,21 @@
           "penalties": 0
         },
         {
-          "name": "José Manuel López",
-          "team": "Palmeiras",
-          "goals": 8,
-          "assists": 4,
-          "penalties": 0
-        },
-        {
           "name": "Kevin Viveros",
           "team": "Paranaense",
           "goals": 18,
           "assists": 3,
           "penalties": 4
+        },
+        {
+          "name": "Gabriel Barbosa",
+          "team": "Santos",
+          "goals": 13,
+          "assists": 3,
+          "penalties": 2
         }
       ]
     }
   },
-  "generatedAt": "2026-10-02T21:47:04.265Z"
+  "generatedAt": "2026-10-03T01:43:02.924Z"
 }

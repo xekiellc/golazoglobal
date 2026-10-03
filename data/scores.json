@@ -4,11 +4,20 @@
       "league": "BSA",
       "homeTeam": "São Paulo",
       "awayTeam": "Santos",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-10-02T23:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Mineiro",
+      "awayTeam": "Bragantino",
       "homeScore": null,
       "awayScore": null,
       "status": "TIMED",
-      "utcDate": "2026-10-02T23:00:00Z"
+      "utcDate": "2026-10-03T21:30:00Z"
     }
   ],
-  "generatedAt": "2026-10-02T21:44:51.711Z"
+  "generatedAt": "2026-10-03T01:40:48.887Z"
 }

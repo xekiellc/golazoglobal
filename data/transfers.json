@@ -1,56 +1,16 @@
 {
   "transfers": [
     {
-      "player": "3 Oregon State Football Players to Watch",
+      "player": "How A Family's Leap Of Faith Helped Lead",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/oregon-state/football/3-oregon-state-football-players-to-watch-against-colorado-state",
-      "publishedAt": "2026-10-01T21:41:50Z"
-    },
-    {
-      "player": "Mike Elko Sticking With Marcel Reed as T",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/tamu/football/mike-elko-sticking-with-marcel-reed-as-texas-am-searches-for-answers",
-      "publishedAt": "2026-10-01T21:40:00Z"
-    },
-    {
-      "player": "Texas isn’t paying Cam Coleman millions ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Burnt Orange Nation",
-      "url": "https://www.burntorangenation.com/texas-longhorns-football/105390/cam-coleman-analysis-texas-longhorns-arch-manning",
-      "publishedAt": "2026-10-01T21:37:02Z"
-    },
-    {
-      "player": "For the Record",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Underdogdynasty.com",
-      "url": "https://www.underdogdynasty.com/conference-usa/46437/for-the-record-cusa-has-pregame-skittles-a-tight-end-with-a-camera-and-a-spooky-halloween-connection",
-      "publishedAt": "2026-10-01T21:35:30Z"
-    },
-    {
-      "player": "Ole Miss Secondary Faces Its Most Import",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/olemiss/football/ole-miss-secondary-faces-its-most-important-stretch-of-the-season",
-      "publishedAt": "2026-10-01T21:22:40Z"
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/hank-brown-iowa-auburn-michigan-upset",
+      "publishedAt": "2026-10-02T00:05:04Z"
     }
   ],
-  "generatedAt": "2026-10-02T21:43:25.652Z",
+  "generatedAt": "2026-10-03T01:39:22.489Z",
   "note": "Transfers derived from news headlines at launch."
 }
