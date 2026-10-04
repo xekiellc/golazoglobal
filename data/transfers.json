@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Nick Saban Compares $44M First",
+      "player": "Why EWU needs complete performance from ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Essentially Sports",
-      "url": "https://www.essentiallysports.com/ncaa-college-football-news-nick-saban-compares-forty-four-m-first-year-sec-head-coachs-team-to-kirby-smarts-georgia-very-impressed-jon-sumrall-florida/",
-      "publishedAt": "2026-10-02T20:15:16Z"
+      "source": "The Spokesman-Review",
+      "url": "http://www.spokesman.com/stories/2026/oct/02/why-ewu-needs-complete-performance-from-nate-bell-/",
+      "publishedAt": "2026-10-03T02:03:00Z"
     },
     {
-      "player": "College football preview",
+      "player": "Texas Tech quarterback Thomas Castellano",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "San Francisco Chronicle",
-      "url": "https://www.sfchronicle.com/sports/college/article/college-football-preview-cal-shuffle-aims-get-22458405.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-      "publishedAt": "2026-10-02T20:12:53Z"
-    },
-    {
-      "player": "Changing face of international soccer",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/international-soccer-european-talent-beyond-borders/",
-      "publishedAt": "2026-10-02T20:01:17Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/colorado/news/texas-tech-quarterback-thomas-castellanos-ruled-ineligible-before-facing-colorado",
+      "publishedAt": "2026-10-03T01:25:50Z"
     }
   ],
-  "generatedAt": "2026-10-03T20:29:38.353Z",
+  "generatedAt": "2026-10-04T02:20:20.125Z",
   "note": "Transfers derived from news headlines at launch."
 }
