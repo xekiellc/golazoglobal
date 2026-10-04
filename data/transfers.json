@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Former Notre Dame, Raiders legend Tim Br",
+      "player": "Photo Essay",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/2026/10/03/tim-brown-heisman-notre-dame-raiders-career-lou-holtz-leadership/92062601007/",
-      "publishedAt": "2026-10-03T11:03:22Z"
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/photo-essay-northwestern-opens-new-stadium-statement-win-over-penn-state",
+      "publishedAt": "2026-10-03T16:02:19Z"
     },
     {
-      "player": "Auburn vs Tennessee Prediction, Pick, Co",
+      "player": "College football game day",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Turf Show Times",
+      "url": "https://www.turfshowtimes.com/los-angeles-rams-discussion/150599/college-football-game-day",
+      "publishedAt": "2026-10-03T15:58:00Z"
+    },
+    {
+      "player": "West Virginia vs Iowa State Predictions,",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "The Action Network",
-      "url": "https://www.actionnetwork.com/ncaaf/auburn-tigers-vs-tennessee-volunteers-prediction-pick-odds-college-football-saturday-october-3",
-      "publishedAt": "2026-10-03T11:03:14Z"
+      "url": "https://www.actionnetwork.com/ncaaf/west-virginia-mountaineers-vs-iowa-state-cyclones-prediction-pick-odds-college-football-saturday-october-3",
+      "publishedAt": "2026-10-03T15:31:45Z"
     }
   ],
-  "generatedAt": "2026-10-04T11:40:48.079Z",
+  "generatedAt": "2026-10-04T16:19:26.187Z",
   "note": "Transfers derived from news headlines at launch."
 }
