@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Photo Essay",
+      "player": "Miami, FSU among ACC teams asking Congre",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/photo-essay-northwestern-opens-new-stadium-statement-win-over-penn-state",
-      "publishedAt": "2026-10-03T16:02:19Z"
-    },
-    {
-      "player": "College football game day",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Turf Show Times",
-      "url": "https://www.turfshowtimes.com/los-angeles-rams-discussion/150599/college-football-game-day",
-      "publishedAt": "2026-10-03T15:58:00Z"
-    },
-    {
-      "player": "West Virginia vs Iowa State Predictions,",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Action Network",
-      "url": "https://www.actionnetwork.com/ncaaf/west-virginia-mountaineers-vs-iowa-state-cyclones-prediction-pick-odds-college-football-saturday-october-3",
-      "publishedAt": "2026-10-03T15:31:45Z"
+      "source": "Palm Beach Post",
+      "url": "https://www.palmbeachpost.com/story/sports/college/hurricanes/2026/10/03/miami-fsu-protect-college-sports-act-changes/92079068007/",
+      "publishedAt": "2026-10-03T20:03:32Z"
     }
   ],
-  "generatedAt": "2026-10-04T16:19:26.187Z",
+  "generatedAt": "2026-10-04T20:46:46.692Z",
   "note": "Transfers derived from news headlines at launch."
 }
