@@ -1,16 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Miami, FSU among ACC teams asking Congre",
+      "player": "Highlights, MVP, and Twitter celebration",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Palm Beach Post",
-      "url": "https://www.palmbeachpost.com/story/sports/college/hurricanes/2026/10/03/miami-fsu-protect-college-sports-act-changes/92079068007/",
-      "publishedAt": "2026-10-03T20:03:32Z"
+      "source": "A Sea Of Blue",
+      "url": "https://www.aseaofblue.com/kentucky-wildcats-news/182452/highlights-mvp-twitter-reaction-south-carolina-uk-football-social-media",
+      "publishedAt": "2026-10-04T00:48:17Z"
+    },
+    {
+      "player": "Florida's reality check",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/florida-reality-check-missouri-exposed-flaws-sec-race/",
+      "publishedAt": "2026-10-04T00:43:50Z"
+    },
+    {
+      "player": "Pitt QB Mason Heintschel's season is ove",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/pitt-qb-mason-heintschels-season-003127464.html",
+      "publishedAt": "2026-10-04T00:31:27Z"
+    },
+    {
+      "player": "Deion Sanders goes with Isaac Wilson at ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/deion-sanders-goes-isaac-wilson-001803779.html",
+      "publishedAt": "2026-10-04T00:18:03Z"
+    },
+    {
+      "player": "Josh Heupel made the hard call benching ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/josh-heupel-benches-5-star-faizon-brandon-tennessee/",
+      "publishedAt": "2026-10-04T00:10:03Z"
     }
   ],
-  "generatedAt": "2026-10-04T20:46:46.692Z",
+  "generatedAt": "2026-10-05T01:30:12.538Z",
   "note": "Transfers derived from news headlines at launch."
 }

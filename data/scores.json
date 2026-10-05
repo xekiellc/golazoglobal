@@ -1,14 +1,4 @@
 {
-  "matches": [
-    {
-      "league": "BSA",
-      "homeTeam": "Mineiro",
-      "awayTeam": "Bragantino",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-10-03T21:30:00Z"
-    }
-  ],
-  "generatedAt": "2026-10-04T20:48:10.639Z"
+  "matches": [],
+  "generatedAt": "2026-10-05T01:31:37.434Z"
 }
