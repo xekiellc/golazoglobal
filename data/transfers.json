@@ -1,56 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Highlights, MVP, and Twitter celebration",
+      "player": "Trump celebrates major Senate win on col",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "A Sea Of Blue",
-      "url": "https://www.aseaofblue.com/kentucky-wildcats-news/182452/highlights-mvp-twitter-reaction-south-carolina-uk-football-social-media",
-      "publishedAt": "2026-10-04T00:48:17Z"
+      "source": "Gamedaychatter.com",
+      "url": "https://gamedaychatter.com/trump-celebrates-major-senate-win-on-college-sports-reform/",
+      "publishedAt": "2026-10-04T13:15:00Z"
     },
     {
-      "player": "Florida's reality check",
+      "player": "Newcastle Makes Joelinton Transfer Decis",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/florida-reality-check-missouri-exposed-flaws-sec-race/",
-      "publishedAt": "2026-10-04T00:43:50Z"
+      "source": "SB Nation",
+      "url": "https://cominghomenewcastle.sbnation.com/newcastle-united-transfer-news-rumors/26236/newcastle-makes-joelinton-transfer-decision-after-summer-exit-rumors",
+      "publishedAt": "2026-10-04T13:00:00Z"
     },
     {
-      "player": "Pitt QB Mason Heintschel's season is ove",
+      "player": "AC Milan ready to re",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/pitt-qb-mason-heintschels-season-003127464.html",
-      "publishedAt": "2026-10-04T00:31:27Z"
-    },
-    {
-      "player": "Deion Sanders goes with Isaac Wilson at ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/deion-sanders-goes-isaac-wilson-001803779.html",
-      "publishedAt": "2026-10-04T00:18:03Z"
-    },
-    {
-      "player": "Josh Heupel made the hard call benching ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/josh-heupel-benches-5-star-faizon-brandon-tennessee/",
-      "publishedAt": "2026-10-04T00:10:03Z"
+      "source": "Madriduniversal.com",
+      "url": "https://madriduniversal.com/ac-milan-ready-to-re-ignite-pursuit-for-struggling-real-madrid-youngster-in-january-report/",
+      "publishedAt": "2026-10-04T12:40:00Z"
     }
   ],
-  "generatedAt": "2026-10-05T01:30:12.538Z",
+  "generatedAt": "2026-10-05T13:22:36.486Z",
   "note": "Transfers derived from news headlines at launch."
 }
