@@ -1,26 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Everything Important Dabo Swinney Said A",
+      "player": "How Juventus plans to sign Giovanni Leon",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/clemson/football/everything-important-dabo-swinney-said-after-clemson-s-loss-to-no-4-miami-hurricanes-",
-      "publishedAt": "2026-10-04T22:43:59Z"
-    },
-    {
-      "player": "What Shane Beamer said about Dylan Stewa",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Greenville News",
-      "url": "https://www.greenvilleonline.com/story/sports/college/usc/2026/10/04/shane-beamer-south-carolina-football-dylan-stewart/91973660007/",
-      "publishedAt": "2026-10-04T22:16:28Z"
+      "source": "Talkjuve.com",
+      "url": "https://talkjuve.com/2026/10/05/how-juventus-plans-to-sign-giovanni-leoni-amidst-inter-milan-competition/",
+      "publishedAt": "2026-10-05T12:35:00Z"
     }
   ],
-  "generatedAt": "2026-10-05T23:36:53.542Z",
+  "generatedAt": "2026-10-06T12:37:20.884Z",
   "note": "Transfers derived from news headlines at launch."
 }
