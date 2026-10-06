@@ -1,16 +1,46 @@
 {
   "transfers": [
     {
-      "player": "How Juventus plans to sign Giovanni Leon",
+      "player": "Arkansas, Texas Tech boosters exchange j",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Talkjuve.com",
-      "url": "https://talkjuve.com/2026/10/05/how-juventus-plans-to-sign-giovanni-leoni-amidst-inter-milan-competition/",
-      "publishedAt": "2026-10-05T12:35:00Z"
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/arkansas-texas-tech-boosters-jab-nil-funding-oil-chickens/",
+      "publishedAt": "2026-10-05T22:09:29Z"
+    },
+    {
+      "player": "Dabo Swinney Will Be Assessed at Clemson",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/clemson/news/dabo-swinney-will-be-assessed-at-clemson-at-end-of-season-josh-pate",
+      "publishedAt": "2026-10-05T22:01:52Z"
+    },
+    {
+      "player": "Buyscenicsd.com Steps and Methods",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Blogdoandroid.com",
+      "url": "https://blogdoandroid.com/buyscenicsd-com-steps-and-methods/",
+      "publishedAt": "2026-10-05T22:01:31Z"
+    },
+    {
+      "player": "Montella",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Football Italia",
+      "url": "https://football-italia.net/montella-a-new-level-for-turkiye-better-italy/",
+      "publishedAt": "2026-10-05T21:42:07Z"
     }
   ],
-  "generatedAt": "2026-10-06T12:37:20.884Z",
+  "generatedAt": "2026-10-06T22:11:01.852Z",
   "note": "Transfers derived from news headlines at launch."
 }
