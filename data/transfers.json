@@ -1,5 +1,46 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-10-07T12:30:22.851Z",
+  "transfers": [
+    {
+      "player": "OPINION",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://clemsonwire.usatoday.com/story/sports/college/clemson/football/2026/10/06/clemson-did-not-pursue-offensive-line-help-hard-enough/92125158007/",
+      "publishedAt": "2026-10-06T22:23:14Z"
+    },
+    {
+      "player": "Miami Hurricanes coach comes out in favo",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/miami-hurricanes-coach-comes-out-favor-ending-preseason-college-football-polls-blasts-sec",
+      "publishedAt": "2026-10-06T22:12:49Z"
+    },
+    {
+      "player": "Cal coach admits he changed play callers",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "SFGate",
+      "url": "https://www.sfgate.com/collegesports/article/cal-football-play-calling-lupoi-22465392.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "publishedAt": "2026-10-06T22:11:33Z"
+    },
+    {
+      "player": "Ohio State football coach Ryan Day unsat",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fci Academy",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/06/ryan-day-ohio-state-football-special-teams-need-improvement/92119727007/",
+      "publishedAt": "2026-10-06T22:06:09Z"
+    }
+  ],
+  "generatedAt": "2026-10-07T22:32:59.477Z",
   "note": "Transfers derived from news headlines at launch."
 }
