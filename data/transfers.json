@@ -1,46 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Arkansas, Texas Tech boosters exchange j",
+      "player": "Baylor’s back and Flora flourishes",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/arkansas-texas-tech-boosters-jab-nil-funding-oil-chickens/",
-      "publishedAt": "2026-10-05T22:09:29Z"
+      "source": "Underdogdynasty.com",
+      "url": "https://www.underdogdynasty.com/big-12/46595/baylors-back-and-flora-flourishes-five-big-12-takeaways-from-week-5",
+      "publishedAt": "2026-10-06T01:52:41Z"
     },
     {
-      "player": "Dabo Swinney Will Be Assessed at Clemson",
+      "player": "‘The Bills Don’t Put This Much Weight on",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/clemson/news/dabo-swinney-will-be-assessed-at-clemson-at-end-of-season-josh-pate",
-      "publishedAt": "2026-10-05T22:01:52Z"
+      "source": "Pro Football Network",
+      "url": "https://www.profootballnetwork.com/cfb/jason-whitlock-takes-shot-deion-sanders-colorado-isaac-wilson/",
+      "publishedAt": "2026-10-06T01:25:59Z"
     },
     {
-      "player": "Buyscenicsd.com Steps and Methods",
+      "player": "Vote for Arizona Republic's Top 10 flag ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Blogdoandroid.com",
-      "url": "https://blogdoandroid.com/buyscenicsd-com-steps-and-methods/",
-      "publishedAt": "2026-10-05T22:01:31Z"
-    },
-    {
-      "player": "Montella",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Football Italia",
-      "url": "https://football-italia.net/montella-a-new-level-for-turkiye-better-italy/",
-      "publishedAt": "2026-10-05T21:42:07Z"
+      "source": "AZCentral",
+      "url": "https://www.azcentral.com/story/sports/high-school/2026/10/05/arizona-high-school-flag-football-teams-top-10-poll-oct-5/92064671007/",
+      "publishedAt": "2026-10-06T00:39:42Z"
     }
   ],
-  "generatedAt": "2026-10-06T22:11:01.852Z",
+  "generatedAt": "2026-10-07T01:59:18.149Z",
   "note": "Transfers derived from news headlines at launch."
 }

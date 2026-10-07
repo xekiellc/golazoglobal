@@ -1,4 +1,50 @@
 {
-  "matches": [],
-  "generatedAt": "2026-10-06T22:12:25.104Z"
+  "matches": [
+    {
+      "league": "BSA",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Mirassol",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-07T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Internacional",
+      "awayTeam": "Corinthians",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-07T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Clube do Remo",
+      "awayTeam": "Grêmio",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-07T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Vitória",
+      "awayTeam": "Chapecoense",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-07T23:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Vasco da Gama",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-07T23:30:00Z"
+    }
+  ],
+  "generatedAt": "2026-10-07T02:00:43.405Z"
 }
