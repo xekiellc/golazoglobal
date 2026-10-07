@@ -1,36 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Baylor’s back and Flora flourishes",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Underdogdynasty.com",
-      "url": "https://www.underdogdynasty.com/big-12/46595/baylors-back-and-flora-flourishes-five-big-12-takeaways-from-week-5",
-      "publishedAt": "2026-10-06T01:52:41Z"
-    },
-    {
-      "player": "‘The Bills Don’t Put This Much Weight on",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Pro Football Network",
-      "url": "https://www.profootballnetwork.com/cfb/jason-whitlock-takes-shot-deion-sanders-colorado-isaac-wilson/",
-      "publishedAt": "2026-10-06T01:25:59Z"
-    },
-    {
-      "player": "Vote for Arizona Republic's Top 10 flag ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "AZCentral",
-      "url": "https://www.azcentral.com/story/sports/high-school/2026/10/05/arizona-high-school-flag-football-teams-top-10-poll-oct-5/92064671007/",
-      "publishedAt": "2026-10-06T00:39:42Z"
-    }
-  ],
-  "generatedAt": "2026-10-07T01:59:18.149Z",
+  "transfers": [],
+  "generatedAt": "2026-10-07T12:30:22.851Z",
   "note": "Transfers derived from news headlines at launch."
 }
