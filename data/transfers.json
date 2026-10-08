@@ -1,46 +1,26 @@
 {
   "transfers": [
     {
-      "player": "How Florida Can Rise Back Up AP Poll Aft",
+      "player": "Florida Gators Drop To No. 16 After Crus",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/florida/opinion/how-florida-can-rise-back-up-ap-poll-after-loss-to-missouri",
-      "publishedAt": "2026-10-07T02:18:57Z"
+      "source": "Gamedaytimes.com",
+      "url": "https://gamedaytimes.com/florida-gators-drop-to-no-16-after-crushing-defeat-to-missouri/",
+      "publishedAt": "2026-10-07T12:35:00Z"
     },
     {
-      "player": "Will WSU make a change at QB? The case f",
+      "player": "The Midweek Roundabout",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Spokesman-Review",
-      "url": "http://www.spokesman.com/stories/2026/oct/06/will-wsu-make-a-change-at-qb-the-case-for-and-agai/",
-      "publishedAt": "2026-10-07T02:02:00Z"
-    },
-    {
-      "player": "Oregon Ducks vs. UCLA Ticket Prices Show",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/oregon/football/oregon-ducks-ucla-bruins-ticket-prices-show-how-much-game-matters",
-      "publishedAt": "2026-10-07T01:30:01Z"
-    },
-    {
-      "player": "Iowa State Football Earns Bold Bowl Game",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/iowa-state/football/iowa-state-football-earns-bold-bowl-game-prediction-with-big-ten-foe",
-      "publishedAt": "2026-10-07T01:00:01Z"
+      "source": "Red Cup Rebellion",
+      "url": "https://www.redcuprebellion.com/ole-miss-rebels-football/41715/the-midweek-roundabout-setting-sail-for-nashville-again",
+      "publishedAt": "2026-10-07T12:30:00Z"
     }
   ],
-  "generatedAt": "2026-10-08T02:24:09.022Z",
+  "generatedAt": "2026-10-08T12:39:58.768Z",
   "note": "Transfers derived from news headlines at launch."
 }
