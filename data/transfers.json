@@ -1,46 +1,46 @@
 {
   "transfers": [
     {
-      "player": "OPINION",
+      "player": "How Florida Can Rise Back Up AP Poll Aft",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://clemsonwire.usatoday.com/story/sports/college/clemson/football/2026/10/06/clemson-did-not-pursue-offensive-line-help-hard-enough/92125158007/",
-      "publishedAt": "2026-10-06T22:23:14Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/florida/opinion/how-florida-can-rise-back-up-ap-poll-after-loss-to-missouri",
+      "publishedAt": "2026-10-07T02:18:57Z"
     },
     {
-      "player": "Miami Hurricanes coach comes out in favo",
+      "player": "Will WSU make a change at QB? The case f",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/outkick-sports/miami-hurricanes-coach-comes-out-favor-ending-preseason-college-football-polls-blasts-sec",
-      "publishedAt": "2026-10-06T22:12:49Z"
+      "source": "The Spokesman-Review",
+      "url": "http://www.spokesman.com/stories/2026/oct/06/will-wsu-make-a-change-at-qb-the-case-for-and-agai/",
+      "publishedAt": "2026-10-07T02:02:00Z"
     },
     {
-      "player": "Cal coach admits he changed play callers",
+      "player": "Oregon Ducks vs. UCLA Ticket Prices Show",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "SFGate",
-      "url": "https://www.sfgate.com/collegesports/article/cal-football-play-calling-lupoi-22465392.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-      "publishedAt": "2026-10-06T22:11:33Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/oregon/football/oregon-ducks-ucla-bruins-ticket-prices-show-how-much-game-matters",
+      "publishedAt": "2026-10-07T01:30:01Z"
     },
     {
-      "player": "Ohio State football coach Ryan Day unsat",
+      "player": "Iowa State Football Earns Bold Bowl Game",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fci Academy",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/06/ryan-day-ohio-state-football-special-teams-need-improvement/92119727007/",
-      "publishedAt": "2026-10-06T22:06:09Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/iowa-state/football/iowa-state-football-earns-bold-bowl-game-prediction-with-big-ten-foe",
+      "publishedAt": "2026-10-07T01:00:01Z"
     }
   ],
-  "generatedAt": "2026-10-07T22:32:59.477Z",
+  "generatedAt": "2026-10-08T02:24:09.022Z",
   "note": "Transfers derived from news headlines at launch."
 }

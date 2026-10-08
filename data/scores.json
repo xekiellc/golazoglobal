@@ -2,49 +2,76 @@
   "matches": [
     {
       "league": "BSA",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "São Paulo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-08T00:30:00Z"
+    },
+    {
+      "league": "BSA",
       "homeTeam": "Bragantino",
       "awayTeam": "Mirassol",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-10-07T22:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Internacional",
       "awayTeam": "Corinthians",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-10-07T22:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Clube do Remo",
       "awayTeam": "Grêmio",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-10-07T22:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Vitória",
       "awayTeam": "Chapecoense",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-10-07T23:00:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Botafogo",
       "awayTeam": "Vasco da Gama",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-10-07T23:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Santos",
+      "awayTeam": "Flamengo",
       "homeScore": null,
       "awayScore": null,
       "status": "TIMED",
-      "utcDate": "2026-10-07T23:30:00Z"
+      "utcDate": "2026-10-08T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Paranaense",
+      "awayTeam": "Mineiro",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-08T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-07T22:34:24.137Z"
+  "generatedAt": "2026-10-08T02:25:33.265Z"
 }
