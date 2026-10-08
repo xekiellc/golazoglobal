@@ -2048,14 +2048,14 @@
       {
         "position": 1,
         "team": "Flamengo",
-        "played": 28,
+        "played": 29,
         "won": 18,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 4,
         "goalsFor": 55,
         "goalsAgainst": 23,
         "goalDifference": 32,
-        "points": 60,
+        "points": 61,
         "form": ""
       },
       {
@@ -2139,14 +2139,14 @@
       {
         "position": 8,
         "team": "Santos",
-        "played": 28,
+        "played": 29,
         "won": 11,
-        "drawn": 8,
+        "drawn": 9,
         "lost": 9,
         "goalsFor": 43,
         "goalsAgainst": 41,
         "goalDifference": 2,
-        "points": 41,
+        "points": 42,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-10-08T12:42:27.966Z"
+  "generatedAt": "2026-10-08T22:48:00.561Z"
 }

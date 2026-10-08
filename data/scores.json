@@ -2,6 +2,15 @@
   "matches": [
     {
       "league": "BSA",
+      "homeTeam": "Santos",
+      "awayTeam": "Flamengo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-08T22:30:00Z"
+    },
+    {
+      "league": "BSA",
       "homeTeam": "Bragantino",
       "awayTeam": "Mirassol",
       "homeScore": 1,
@@ -56,15 +65,6 @@
     },
     {
       "league": "BSA",
-      "homeTeam": "Santos",
-      "awayTeam": "Flamengo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-08T22:30:00Z"
-    },
-    {
-      "league": "BSA",
       "homeTeam": "Paranaense",
       "awayTeam": "Mineiro",
       "homeScore": null,
@@ -73,5 +73,5 @@
       "utcDate": "2026-10-08T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-08T12:41:25.240Z"
+  "generatedAt": "2026-10-08T22:46:57.658Z"
 }

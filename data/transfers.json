@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Florida Gators Drop To No. 16 After Crus",
+      "player": "Dana Altman ends nearly four decade coac",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Gamedaytimes.com",
-      "url": "https://gamedaytimes.com/florida-gators-drop-to-no-16-after-crushing-defeat-to-missouri/",
-      "publishedAt": "2026-10-07T12:35:00Z"
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/dana-altman-ends-nearly-four-decade-coaching-career-oregon-stepping-away-truly-painful",
+      "publishedAt": "2026-10-07T22:08:09Z"
     },
     {
-      "player": "The Midweek Roundabout",
+      "player": "LSU Has Already Built One of the Best De",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Red Cup Rebellion",
-      "url": "https://www.redcuprebellion.com/ole-miss-rebels-football/41715/the-midweek-roundabout-setting-sail-for-nashville-again",
-      "publishedAt": "2026-10-07T12:30:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/lsu/football/lsu-has-already-built-one-of-the-best-defenses-in-college-football",
+      "publishedAt": "2026-10-07T22:00:13Z"
+    },
+    {
+      "player": "How to watch Jacksonville State vs Kenne",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/how-to-watch-jacksonville-state-vs-kennesaw-state-live-stream-ncaa-college-football-tv-channel/",
+      "publishedAt": "2026-10-07T22:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-08T12:39:58.768Z",
+  "generatedAt": "2026-10-08T22:45:31.692Z",
   "note": "Transfers derived from news headlines at launch."
 }
