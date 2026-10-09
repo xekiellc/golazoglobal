@@ -1,36 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Dana Altman ends nearly four decade coac",
+      "player": "Opponent Offense Preview",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/outkick-sports/dana-altman-ends-nearly-four-decade-coaching-career-oregon-stepping-away-truly-painful",
-      "publishedAt": "2026-10-07T22:08:09Z"
+      "source": "UW Dawg Pound",
+      "url": "https://www.uwdawgpound.com/big-ten-conference-news/77788/opponent-offense-preview-iowa-hawkeyes",
+      "publishedAt": "2026-10-08T01:46:51Z"
     },
     {
-      "player": "LSU Has Already Built One of the Best De",
+      "player": "A quick glance at USC head coach Lincoln",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://nittanylionswire.usatoday.com/story/sports/college/2026/10/07/opponent-coach-spotlight-lincoln-riley/92133559007/",
+      "publishedAt": "2026-10-08T01:30:50Z"
+    },
+    {
+      "player": "San Diego State gets an inside look at O",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/lsu/football/lsu-has-already-built-one-of-the-best-defenses-in-college-football",
-      "publishedAt": "2026-10-07T22:00:13Z"
+      "url": "https://www.si.com/college/san-diego-state/football/san-diego-state-gets-inside-look-oregon-state-ahead-of-pac-12-showdown",
+      "publishedAt": "2026-10-08T01:29:39Z"
     },
     {
-      "player": "How to watch Jacksonville State vs Kenne",
+      "player": "'I'm so grateful.' Oregon men's basketba",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/how-to-watch-jacksonville-state-vs-kennesaw-state-live-stream-ncaa-college-football-tv-channel/",
-      "publishedAt": "2026-10-07T22:00:00Z"
+      "source": "The Register-Guard",
+      "url": "https://www.registerguard.com/story/sports/college/basketball/2026/10/07/dana-altman-explains-decision-to-retire/92143492007/",
+      "publishedAt": "2026-10-08T01:12:33Z"
     }
   ],
-  "generatedAt": "2026-10-08T22:45:31.692Z",
+  "generatedAt": "2026-10-09T02:42:15.520Z",
   "note": "Transfers derived from news headlines at launch."
 }

@@ -893,7 +893,7 @@
         {
           "name": "Kevin Viveros",
           "team": "Paranaense",
-          "goals": 18,
+          "goals": 19,
           "assists": 3,
           "penalties": 4
         },
@@ -901,7 +901,7 @@
           "name": "Pedro",
           "team": "Flamengo",
           "goals": 16,
-          "assists": 6,
+          "assists": 7,
           "penalties": 0
         },
         {
@@ -917,6 +917,13 @@
           "goals": 10,
           "assists": 1,
           "penalties": 1
+        },
+        {
+          "name": "José Manuel López",
+          "team": "Palmeiras",
+          "goals": 9,
+          "assists": 4,
+          "penalties": 0
         },
         {
           "name": "Luciano",
@@ -952,28 +959,14 @@
           "goals": 9,
           "assists": 1,
           "penalties": 4
-        },
-        {
-          "name": "Samuel Lino",
-          "team": "Flamengo",
-          "goals": 9,
-          "assists": 7,
-          "penalties": 0
         }
       ],
       "topAssists": [
         {
-          "name": "Samuel Lino",
-          "team": "Flamengo",
-          "goals": 9,
-          "assists": 7,
-          "penalties": 0
-        },
-        {
           "name": "Pedro",
           "team": "Flamengo",
           "goals": 16,
-          "assists": 6,
+          "assists": 7,
           "penalties": 0
         },
         {
@@ -984,9 +977,16 @@
           "penalties": 0
         },
         {
+          "name": "José Manuel López",
+          "team": "Palmeiras",
+          "goals": 9,
+          "assists": 4,
+          "penalties": 0
+        },
+        {
           "name": "Kevin Viveros",
           "team": "Paranaense",
-          "goals": 18,
+          "goals": 19,
           "assists": 3,
           "penalties": 4
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-08T22:49:10.279Z"
+  "generatedAt": "2026-10-09T02:45:51.424Z"
 }
