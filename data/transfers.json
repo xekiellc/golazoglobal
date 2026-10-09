@@ -1,46 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Opponent Offense Preview",
+      "player": "Penn State is College Football’s biggest",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "UW Dawg Pound",
-      "url": "https://www.uwdawgpound.com/big-ten-conference-news/77788/opponent-offense-preview-iowa-hawkeyes",
-      "publishedAt": "2026-10-08T01:46:51Z"
+      "source": "The Big Lead",
+      "url": "https://www.thebiglead.com/penn-state-college-footballs-biggest-disappointment-notre-dame/",
+      "publishedAt": "2026-10-08T12:15:00Z"
     },
     {
-      "player": "A quick glance at USC head coach Lincoln",
+      "player": "College football analyst believes Dabo S",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://nittanylionswire.usatoday.com/story/sports/college/2026/10/07/opponent-coach-spotlight-lincoln-riley/92133559007/",
-      "publishedAt": "2026-10-08T01:30:50Z"
+      "url": "https://clemsonwire.usatoday.com/story/sports/college/clemson/football/2026/10/08/clemson-football-dabo-swinney-lost-magic-college-football-analyst/92150004007/",
+      "publishedAt": "2026-10-08T12:10:23Z"
     },
     {
-      "player": "San Diego State gets an inside look at O",
+      "player": "Peyton Manning's freshman son gets rocke",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/san-diego-state/football/san-diego-state-gets-inside-look-oregon-state-ahead-of-pac-12-showdown",
-      "publishedAt": "2026-10-08T01:29:39Z"
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/peyton-mannings-freshman-son-gets-rocked-fans-stunned-scholarship-offers",
+      "publishedAt": "2026-10-08T12:03:18Z"
     },
     {
-      "player": "'I'm so grateful.' Oregon men's basketba",
+      "player": "Duke Football",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Register-Guard",
-      "url": "https://www.registerguard.com/story/sports/college/basketball/2026/10/07/dana-altman-explains-decision-to-retire/92143492007/",
-      "publishedAt": "2026-10-08T01:12:33Z"
+      "source": "Duke Basketball Report",
+      "url": "https://www.dukebasketballreport.com/duke-football/95891/duke-football-georgia-tech-preview",
+      "publishedAt": "2026-10-08T12:00:00Z"
+    },
+    {
+      "player": "Texas A&M's David Olano has quirky ritua",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Houston Chronicle",
+      "url": "https://www.houstonchronicle.com/sports/college/aggies/article/texas-am-kicker-david-olano-22464480.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "publishedAt": "2026-10-08T11:59:00Z"
     }
   ],
-  "generatedAt": "2026-10-09T02:42:15.520Z",
+  "generatedAt": "2026-10-09T12:26:55.785Z",
   "note": "Transfers derived from news headlines at launch."
 }
