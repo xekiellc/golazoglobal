@@ -364,6 +364,13 @@
           "penalties": 0
         },
         {
+          "name": "Niclas Füllkrug",
+          "team": "Bremen",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Phillip Tietz",
           "team": "Mainz",
           "goals": 4,
@@ -380,13 +387,6 @@
         {
           "name": "Michael Gregoritsch",
           "team": "Augsburg",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Niclas Füllkrug",
-          "team": "Bremen",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -485,7 +485,7 @@
           "name": "Florian Thauvin",
           "team": "RC Lens",
           "goals": 3,
-          "assists": 3,
+          "assists": 5,
           "penalties": 3
         },
         {
@@ -522,7 +522,7 @@
           "name": "Florian Thauvin",
           "team": "RC Lens",
           "goals": 3,
-          "assists": 3,
+          "assists": 5,
           "penalties": 3
         },
         {
@@ -586,6 +586,13 @@
           "penalties": 0
         },
         {
+          "name": "Guus Til",
+          "team": "PSV",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Anis Moussa",
           "team": "Feyenoord",
           "goals": 5,
@@ -618,13 +625,6 @@
           "team": "Groningen",
           "goals": 4,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Julian Brandt",
-          "team": "Ajax",
-          "goals": 4,
-          "assists": 0,
           "penalties": 0
         }
       ],
@@ -678,7 +678,7 @@
         {
           "name": "Luis Suárez",
           "team": "Sporting CP",
-          "goals": 6,
+          "goals": 7,
           "assists": 1,
           "penalties": 2
         },
@@ -764,7 +764,7 @@
         {
           "name": "Luis Suárez",
           "team": "Sporting CP",
-          "goals": 6,
+          "goals": 7,
           "assists": 1,
           "penalties": 2
         },
@@ -801,6 +801,13 @@
           "penalties": 0
         },
         {
+          "name": "Jarrod Bowen",
+          "team": "West Ham",
+          "goals": 5,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
           "name": "Tyreece Campbell",
           "team": "Charlton",
           "goals": 4,
@@ -820,13 +827,6 @@
           "goals": 4,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Jarrod Bowen",
-          "team": "West Ham",
-          "goals": 4,
-          "assists": 2,
-          "penalties": 1
         },
         {
           "name": "Konstantinos Mavropanos",
@@ -854,7 +854,7 @@
         {
           "name": "Jarrod Bowen",
           "team": "West Ham",
-          "goals": 4,
+          "goals": 5,
           "assists": 2,
           "penalties": 1
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-09T12:30:39.890Z"
+  "generatedAt": "2026-10-09T22:12:11.454Z"
 }

@@ -395,6 +395,19 @@
       },
       {
         "position": 11,
+        "team": "Espanyol",
+        "played": 8,
+        "won": 2,
+        "drawn": 2,
+        "lost": 4,
+        "goalsFor": 11,
+        "goalsAgainst": 11,
+        "goalDifference": 0,
+        "points": 8,
+        "form": ""
+      },
+      {
+        "position": 12,
         "team": "Getafe",
         "played": 7,
         "won": 2,
@@ -407,7 +420,7 @@
         "form": ""
       },
       {
-        "position": 12,
+        "position": 13,
         "team": "Rayo Vallecano",
         "played": 7,
         "won": 2,
@@ -420,7 +433,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Osasuna",
         "played": 7,
         "won": 2,
@@ -433,7 +446,7 @@
         "form": ""
       },
       {
-        "position": 14,
+        "position": 15,
         "team": "Celta",
         "played": 7,
         "won": 1,
@@ -442,19 +455,6 @@
         "goalsFor": 8,
         "goalsAgainst": 6,
         "goalDifference": 2,
-        "points": 7,
-        "form": ""
-      },
-      {
-        "position": 15,
-        "team": "Espanyol",
-        "played": 7,
-        "won": 2,
-        "drawn": 1,
-        "lost": 4,
-        "goalsFor": 10,
-        "goalsAgainst": 10,
-        "goalDifference": 0,
         "points": 7,
         "form": ""
       },
@@ -499,6 +499,19 @@
       },
       {
         "position": 19,
+        "team": "Málaga",
+        "played": 8,
+        "won": 0,
+        "drawn": 4,
+        "lost": 4,
+        "goalsFor": 4,
+        "goalsAgainst": 13,
+        "goalDifference": -9,
+        "points": 4,
+        "form": ""
+      },
+      {
+        "position": 19,
         "team": "Valencia",
         "played": 7,
         "won": 1,
@@ -508,19 +521,6 @@
         "goalsAgainst": 13,
         "goalDifference": -9,
         "points": 4,
-        "form": ""
-      },
-      {
-        "position": 20,
-        "team": "Málaga",
-        "played": 7,
-        "won": 0,
-        "drawn": 3,
-        "lost": 4,
-        "goalsFor": 3,
-        "goalsAgainst": 12,
-        "goalDifference": -9,
-        "points": 3,
         "form": ""
       }
     ],
@@ -790,14 +790,14 @@
       {
         "position": 1,
         "team": "Dortmund",
-        "played": 4,
+        "played": 5,
         "won": 4,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
-        "goalsFor": 9,
-        "goalsAgainst": 2,
+        "goalsFor": 11,
+        "goalsAgainst": 4,
         "goalDifference": 7,
-        "points": 12,
+        "points": 13,
         "form": ""
       },
       {
@@ -828,6 +828,19 @@
       },
       {
         "position": 4,
+        "team": "Bremen",
+        "played": 5,
+        "won": 2,
+        "drawn": 2,
+        "lost": 1,
+        "goalsFor": 10,
+        "goalsAgainst": 10,
+        "goalDifference": 0,
+        "points": 8,
+        "form": ""
+      },
+      {
+        "position": 5,
         "team": "Augsburg",
         "played": 4,
         "won": 2,
@@ -840,7 +853,7 @@
         "form": ""
       },
       {
-        "position": 5,
+        "position": 6,
         "team": "Leverkusen",
         "played": 4,
         "won": 2,
@@ -853,7 +866,7 @@
         "form": ""
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "Mainz",
         "played": 4,
         "won": 2,
@@ -866,7 +879,7 @@
         "form": ""
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "Elversberg",
         "played": 4,
         "won": 2,
@@ -875,19 +888,6 @@
         "goalsFor": 8,
         "goalsAgainst": 7,
         "goalDifference": 1,
-        "points": 7,
-        "form": ""
-      },
-      {
-        "position": 8,
-        "team": "Bremen",
-        "played": 4,
-        "won": 2,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 8,
-        "goalsAgainst": 8,
-        "goalDifference": 0,
         "points": 7,
         "form": ""
       },
@@ -1039,13 +1039,13 @@
       {
         "position": 2,
         "team": "Olympique Lyon",
-        "played": 5,
+        "played": 6,
         "won": 3,
         "drawn": 2,
-        "lost": 0,
-        "goalsFor": 10,
-        "goalsAgainst": 2,
-        "goalDifference": 8,
+        "lost": 1,
+        "goalsFor": 11,
+        "goalsAgainst": 4,
+        "goalDifference": 7,
         "points": 11,
         "form": ""
       },
@@ -1103,6 +1103,19 @@
       },
       {
         "position": 7,
+        "team": "RC Lens",
+        "played": 6,
+        "won": 2,
+        "drawn": 1,
+        "lost": 3,
+        "goalsFor": 11,
+        "goalsAgainst": 10,
+        "goalDifference": 1,
+        "points": 7,
+        "form": ""
+      },
+      {
+        "position": 8,
         "team": "Angers SCO",
         "played": 5,
         "won": 2,
@@ -1115,7 +1128,7 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "Strasbourg",
         "played": 5,
         "won": 2,
@@ -1128,7 +1141,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "Le Mans",
         "played": 5,
         "won": 1,
@@ -1141,7 +1154,7 @@
         "form": ""
       },
       {
-        "position": 10,
+        "position": 11,
         "team": "Auxerre",
         "played": 5,
         "won": 2,
@@ -1154,7 +1167,7 @@
         "form": ""
       },
       {
-        "position": 11,
+        "position": 12,
         "team": "Brest",
         "played": 5,
         "won": 1,
@@ -1167,7 +1180,7 @@
         "form": ""
       },
       {
-        "position": 12,
+        "position": 13,
         "team": "Lorient",
         "played": 5,
         "won": 1,
@@ -1180,7 +1193,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Toulouse",
         "played": 5,
         "won": 1,
@@ -1193,7 +1206,7 @@
         "form": ""
       },
       {
-        "position": 14,
+        "position": 15,
         "team": "Nice",
         "played": 5,
         "won": 1,
@@ -1203,19 +1216,6 @@
         "goalsAgainst": 6,
         "goalDifference": -3,
         "points": 5,
-        "form": ""
-      },
-      {
-        "position": 15,
-        "team": "RC Lens",
-        "played": 5,
-        "won": 1,
-        "drawn": 1,
-        "lost": 3,
-        "goalsFor": 9,
-        "goalsAgainst": 9,
-        "goalDifference": 0,
-        "points": 4,
         "form": ""
       },
       {
@@ -1261,6 +1261,19 @@
     "DED": [
       {
         "position": 1,
+        "team": "PSV",
+        "played": 8,
+        "won": 6,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 26,
+        "goalsAgainst": 10,
+        "goalDifference": 16,
+        "points": 19,
+        "form": ""
+      },
+      {
+        "position": 2,
         "team": "AZ",
         "played": 7,
         "won": 6,
@@ -1273,7 +1286,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Feyenoord",
         "played": 7,
         "won": 5,
@@ -1283,19 +1296,6 @@
         "goalsAgainst": 7,
         "goalDifference": 18,
         "points": 17,
-        "form": ""
-      },
-      {
-        "position": 3,
-        "team": "PSV",
-        "played": 7,
-        "won": 5,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 24,
-        "goalsAgainst": 10,
-        "goalDifference": 14,
-        "points": 16,
         "form": ""
       },
       {
@@ -1379,13 +1379,13 @@
       {
         "position": 10,
         "team": "Heerenveen",
-        "played": 7,
+        "played": 8,
         "won": 2,
         "drawn": 3,
-        "lost": 2,
+        "lost": 3,
         "goalsFor": 11,
-        "goalsAgainst": 9,
-        "goalDifference": 2,
+        "goalsAgainst": 11,
+        "goalDifference": 0,
         "points": 9,
         "form": ""
       },
@@ -1510,6 +1510,19 @@
       },
       {
         "position": 2,
+        "team": "Sporting CP",
+        "played": 8,
+        "won": 5,
+        "drawn": 3,
+        "lost": 0,
+        "goalsFor": 20,
+        "goalsAgainst": 9,
+        "goalDifference": 11,
+        "points": 18,
+        "form": ""
+      },
+      {
+        "position": 3,
         "team": "SL Benfica",
         "played": 7,
         "won": 5,
@@ -1519,19 +1532,6 @@
         "goalsAgainst": 7,
         "goalDifference": 15,
         "points": 16,
-        "form": ""
-      },
-      {
-        "position": 3,
-        "team": "Sporting CP",
-        "played": 7,
-        "won": 4,
-        "drawn": 3,
-        "lost": 0,
-        "goalsFor": 17,
-        "goalsAgainst": 8,
-        "goalDifference": 9,
-        "points": 15,
         "form": ""
       },
       {
@@ -1562,14 +1562,14 @@
       },
       {
         "position": 6,
-        "team": "Braga",
-        "played": 6,
+        "team": "Gil Vicente",
+        "played": 7,
         "won": 3,
         "drawn": 2,
-        "lost": 1,
-        "goalsFor": 7,
+        "lost": 2,
+        "goalsFor": 6,
         "goalsAgainst": 5,
-        "goalDifference": 2,
+        "goalDifference": 1,
         "points": 11,
         "form": ""
       },
@@ -1588,6 +1588,19 @@
       },
       {
         "position": 8,
+        "team": "Braga",
+        "played": 7,
+        "won": 3,
+        "drawn": 2,
+        "lost": 2,
+        "goalsFor": 8,
+        "goalsAgainst": 8,
+        "goalDifference": 0,
+        "points": 11,
+        "form": ""
+      },
+      {
+        "position": 9,
         "team": "Amadora",
         "played": 7,
         "won": 2,
@@ -1597,19 +1610,6 @@
         "goalsAgainst": 14,
         "goalDifference": 0,
         "points": 10,
-        "form": ""
-      },
-      {
-        "position": 9,
-        "team": "Gil Vicente",
-        "played": 6,
-        "won": 2,
-        "drawn": 2,
-        "lost": 2,
-        "goalsFor": 5,
-        "goalsAgainst": 5,
-        "goalDifference": 0,
-        "points": 8,
         "form": ""
       },
       {
@@ -1641,13 +1641,13 @@
       {
         "position": 12,
         "team": "Moreirense",
-        "played": 7,
+        "played": 8,
         "won": 2,
         "drawn": 2,
-        "lost": 3,
+        "lost": 4,
         "goalsFor": 8,
-        "goalsAgainst": 14,
-        "goalDifference": -6,
+        "goalsAgainst": 15,
+        "goalDifference": -7,
         "points": 8,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-10-09T12:29:21.865Z"
+  "generatedAt": "2026-10-09T22:11:00.183Z"
 }
