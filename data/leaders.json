@@ -138,7 +138,7 @@
           "name": "Lamine Yamal",
           "team": "Barça",
           "goals": 7,
-          "assists": 4,
+          "assists": 5,
           "penalties": 1
         },
         {
@@ -189,7 +189,7 @@
           "name": "Lamine Yamal",
           "team": "Barça",
           "goals": 7,
-          "assists": 4,
+          "assists": 5,
           "penalties": 1
         },
         {
@@ -260,6 +260,13 @@
           "penalties": 1
         },
         {
+          "name": "Kevin De Bruyne",
+          "team": "Napoli",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Davide Frattesi",
           "team": "Lazio",
           "goals": 3,
@@ -286,13 +293,6 @@
           "goals": 3,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Vasilije Adzic",
-          "team": "Sassuolo",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -304,6 +304,13 @@
           "penalties": 0
         },
         {
+          "name": "Kevin De Bruyne",
+          "team": "Napoli",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Milutin Osmajić",
           "team": "Genoa",
           "goals": 3,
@@ -313,13 +320,6 @@
         {
           "name": "Giorgi Kvernadze",
           "team": "Frosinone",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Vasilije Adzic",
-          "team": "Sassuolo",
           "goals": 3,
           "assists": 1,
           "penalties": 0
@@ -378,6 +378,20 @@
           "penalties": 0
         },
         {
+          "name": "Christopher Nkunku",
+          "team": "RB Leipzig",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Antonio Nusa",
+          "team": "RB Leipzig",
+          "goals": 3,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
           "name": "Igor Matanovic",
           "team": "Freiburg",
           "goals": 3,
@@ -390,23 +404,16 @@
           "goals": 3,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Maurice Krattenmacher",
-          "team": "Elversberg",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Jonathan Burkardt",
-          "team": "Frankfurt",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Antonio Nusa",
+          "team": "RB Leipzig",
+          "goals": 3,
+          "assists": 3,
+          "penalties": 0
+        },
         {
           "name": "Patrik Schick",
           "team": "Leverkusen",
@@ -429,16 +436,9 @@
           "penalties": 0
         },
         {
-          "name": "Igor Matanovic",
-          "team": "Freiburg",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Jonathan Burkardt",
-          "team": "Frankfurt",
-          "goals": 3,
+          "name": "Christopher Nkunku",
+          "team": "RB Leipzig",
+          "goals": 4,
           "assists": 1,
           "penalties": 0
         }
@@ -451,6 +451,13 @@
           "team": "Marseille",
           "goals": 4,
           "assists": 1,
+          "penalties": 1
+        },
+        {
+          "name": "Louis Mafouta",
+          "team": "Le Mans",
+          "goals": 4,
+          "assists": 0,
           "penalties": 1
         },
         {
@@ -482,18 +489,18 @@
           "penalties": 0
         },
         {
+          "name": "Casper Tengstedt",
+          "team": "Toulouse",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "Florian Thauvin",
           "team": "RC Lens",
           "goals": 3,
           "assists": 5,
           "penalties": 3
-        },
-        {
-          "name": "Louis Mafouta",
-          "team": "Le Mans",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 1
         },
         {
           "name": "Esteban Lepaul",
@@ -505,13 +512,6 @@
         {
           "name": "Marquinhos",
           "team": "PSG",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Cameron Archer",
-          "team": "Auxerre",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -547,11 +547,11 @@
           "penalties": 2
         },
         {
-          "name": "Ferrán Torres",
-          "team": "PSG",
+          "name": "Casper Tengstedt",
+          "team": "Toulouse",
           "goals": 4,
-          "assists": 0,
-          "penalties": 0
+          "assists": 1,
+          "penalties": 2
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-10T16:52:52.499Z"
+  "generatedAt": "2026-10-10T21:05:33.832Z"
 }
