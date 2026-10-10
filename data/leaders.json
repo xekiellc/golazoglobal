@@ -811,7 +811,7 @@
           "name": "Tyreece Campbell",
           "team": "Charlton",
           "goals": 4,
-          "assists": 0,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -859,6 +859,13 @@
           "penalties": 1
         },
         {
+          "name": "Tyreece Campbell",
+          "team": "Charlton",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Fer López",
           "team": "Wolverhampton",
           "goals": 4,
@@ -878,13 +885,6 @@
           "goals": 4,
           "assists": 1,
           "penalties": 1
-        },
-        {
-          "name": "Andri Guðjohnsen",
-          "team": "Blackburn",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-10T02:05:16.804Z"
+  "generatedAt": "2026-10-10T11:49:50.248Z"
 }

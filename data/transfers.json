@@ -1,26 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Ohio State football lists two more start",
+      "player": "Lane Kiffin Gives Up on SEC’s New Rule D",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fci Academy",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/08/two-more-ohio-state-football-starters-are-questionable-for-maryland/92162545007/",
-      "publishedAt": "2026-10-09T01:19:17Z"
-    },
-    {
-      "player": "UConn's Basketball, Football Coaches Fac",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/uconn/news/uconns-basketball-football-coaches-face-new-ncaa-rule",
-      "publishedAt": "2026-10-09T00:32:17Z"
+      "source": "Essentially Sports",
+      "url": "https://www.essentiallysports.com/ncaa-college-football-news-lane-kiffin-gives-up-on-secs-new-rule-decisions-warns-consequences-limiting-them/",
+      "publishedAt": "2026-10-09T11:45:00Z"
     }
   ],
-  "generatedAt": "2026-10-10T02:01:35.732Z",
+  "generatedAt": "2026-10-10T11:46:12.719Z",
   "note": "Transfers derived from news headlines at launch."
 }
