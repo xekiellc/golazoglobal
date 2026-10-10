@@ -3,10 +3,24 @@
     "PL": {
       "scorers": [
         {
+          "name": "João Pedro",
+          "team": "Chelsea",
+          "goals": 5,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
           "name": "Erling Haaland",
           "team": "Man City",
           "goals": 5,
           "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Morgan Rogers",
+          "team": "Chelsea",
+          "goals": 4,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -31,20 +45,6 @@
           "penalties": 0
         },
         {
-          "name": "João Pedro",
-          "team": "Chelsea",
-          "goals": 3,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
-          "name": "Morgan Rogers",
-          "team": "Chelsea",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
           "name": "Rayan Cherki",
           "team": "Man City",
           "goals": 3,
@@ -55,7 +55,7 @@
           "name": "Pascal Groß",
           "team": "Brighton Hove",
           "goals": 3,
-          "assists": 3,
+          "assists": 4,
           "penalties": 1
         },
         {
@@ -75,18 +75,18 @@
       ],
       "topAssists": [
         {
-          "name": "João Pedro",
-          "team": "Chelsea",
-          "goals": 3,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
           "name": "Pascal Groß",
           "team": "Brighton Hove",
           "goals": 3,
-          "assists": 3,
+          "assists": 4,
           "penalties": 1
+        },
+        {
+          "name": "João Pedro",
+          "team": "Chelsea",
+          "goals": 5,
+          "assists": 3,
+          "penalties": 0
         },
         {
           "name": "Rayan Cherki",
@@ -98,7 +98,7 @@
         {
           "name": "Morgan Rogers",
           "team": "Chelsea",
-          "goals": 3,
+          "goals": 4,
           "assists": 1,
           "penalties": 0
         },
@@ -177,11 +177,11 @@
           "penalties": 0
         },
         {
-          "name": "Álex Baena",
-          "team": "Atleti",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
+          "name": "Lucas Boyé",
+          "team": "Alavés",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 1
         }
       ],
       "topAssists": [
@@ -253,10 +253,31 @@
           "penalties": 0
         },
         {
+          "name": "Hakan Çalhanoğlu",
+          "team": "Inter",
+          "goals": 3,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Davide Frattesi",
           "team": "Lazio",
           "goals": 3,
           "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Milutin Osmajić",
+          "team": "Genoa",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Marcus Thuram-Ulien",
+          "team": "Inter",
+          "goals": 3,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -272,30 +293,23 @@
           "goals": 3,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Daniel Maldini",
-          "team": "Cagliari",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
-          "name": "Franco Mastantuono",
-          "team": "Fiorentina",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Diego Moreira",
-          "team": "Milan",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Marcus Thuram-Ulien",
+          "team": "Inter",
+          "goals": 3,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Milutin Osmajić",
+          "team": "Genoa",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
         {
           "name": "Giorgi Kvernadze",
           "team": "Frosinone",
@@ -316,25 +330,18 @@
           "goals": 6,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Gustavo Varela",
-          "team": "Monza",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
-          "name": "Antonio Raimondo",
-          "team": "Frosinone",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
     "BL1": {
       "scorers": [
+        {
+          "name": "Patrik Schick",
+          "team": "Leverkusen",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
         {
           "name": "Michael Olise",
           "team": "Bayern",
@@ -345,13 +352,6 @@
         {
           "name": "Younes Ebnoutalib",
           "team": "Frankfurt",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Patrik Schick",
-          "team": "Leverkusen",
           "goals": 4,
           "assists": 1,
           "penalties": 0
@@ -408,6 +408,13 @@
       ],
       "topAssists": [
         {
+          "name": "Patrik Schick",
+          "team": "Leverkusen",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Michael Olise",
           "team": "Bayern",
           "goals": 4,
@@ -417,13 +424,6 @@
         {
           "name": "Younes Ebnoutalib",
           "team": "Frankfurt",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Patrik Schick",
-          "team": "Leverkusen",
           "goals": 4,
           "assists": 1,
           "penalties": 0
@@ -560,14 +560,14 @@
         {
           "name": "Søren Tengstedt",
           "team": "Go Ahead",
-          "goals": 5,
+          "goals": 6,
           "assists": 2,
           "penalties": 0
         },
         {
           "name": "Milan Zonneveld",
           "team": "Sparta",
-          "goals": 5,
+          "goals": 6,
           "assists": 1,
           "penalties": 0
         },
@@ -639,7 +639,7 @@
         {
           "name": "Søren Tengstedt",
           "team": "Go Ahead",
-          "goals": 5,
+          "goals": 6,
           "assists": 2,
           "penalties": 0
         },
@@ -653,7 +653,7 @@
         {
           "name": "Milan Zonneveld",
           "team": "Sparta",
-          "goals": 5,
+          "goals": 6,
           "assists": 1,
           "penalties": 0
         },
@@ -780,16 +780,16 @@
     "ELC": {
       "scorers": [
         {
-          "name": "Cyle Larin",
-          "team": "Southampton",
+          "name": "William Lankshear",
+          "team": "Middlesbrough",
           "goals": 7,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "William Lankshear",
-          "team": "Middlesbrough",
-          "goals": 6,
+          "name": "Cyle Larin",
+          "team": "Southampton",
+          "goals": 7,
           "assists": 0,
           "penalties": 0
         },
@@ -808,6 +808,20 @@
           "penalties": 1
         },
         {
+          "name": "Andri Guðjohnsen",
+          "team": "Blackburn",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Adam Idah",
+          "team": "Swansea",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Tyreece Campbell",
           "team": "Charlton",
           "goals": 4,
@@ -825,7 +839,7 @@
           "name": "Ethan Galbraith",
           "team": "Stoke",
           "goals": 4,
-          "assists": 1,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -833,20 +847,6 @@
           "team": "West Ham",
           "goals": 4,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Lyndon Dykes",
-          "team": "Millwall",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 1
-        },
-        {
-          "name": "Andri Guðjohnsen",
-          "team": "Blackburn",
-          "goals": 3,
-          "assists": 1,
           "penalties": 0
         }
       ],
@@ -859,32 +859,32 @@
           "penalties": 1
         },
         {
+          "name": "Ethan Galbraith",
+          "team": "Stoke",
+          "goals": 4,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Andri Guðjohnsen",
+          "team": "Blackburn",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Adam Idah",
+          "team": "Swansea",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Tyreece Campbell",
           "team": "Charlton",
           "goals": 4,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Fer López",
-          "team": "Wolverhampton",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Ethan Galbraith",
-          "team": "Stoke",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Lyndon Dykes",
-          "team": "Millwall",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 1
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-10T11:49:50.248Z"
+  "generatedAt": "2026-10-10T16:52:52.499Z"
 }

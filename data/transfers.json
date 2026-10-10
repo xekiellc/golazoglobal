@@ -1,16 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Lane Kiffin Gives Up on SEC’s New Rule D",
+      "player": "Three players, two matchups, and one pre",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Streaking The Lawn",
+      "url": "https://www.streakingthelawn.com/football/54082/virginia-cavaliers-virginia-football-uva-football-syracuse-orange-preview",
+      "publishedAt": "2026-10-09T16:46:36Z"
+    },
+    {
+      "player": "Game Day",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Card Chronicle",
+      "url": "https://www.cardchronicle.com/football/105030/game-day-louisville-vs-florida-state",
+      "publishedAt": "2026-10-09T16:30:16Z"
+    },
+    {
+      "player": "Chicago Fire sign Maren Haile",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "MLSsoccer.com",
+      "url": "https://www.mlssoccer.com/news/chicago-fire-sign-maren-haile-selassie-to-contract-extension",
+      "publishedAt": "2026-10-09T16:30:00Z"
+    },
+    {
+      "player": "All is Not Well at Oklahoma as HC Brent ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Essentially Sports",
-      "url": "https://www.essentiallysports.com/ncaa-college-football-news-lane-kiffin-gives-up-on-secs-new-rule-decisions-warns-consequences-limiting-them/",
-      "publishedAt": "2026-10-09T11:45:00Z"
+      "url": "https://www.essentiallysports.com/ncaa-college-football-news-all-is-not-well-at-oklahoma-as-hc-brent-venables-takes-dig-at-his-own-staff-bill-bedenbaugh/",
+      "publishedAt": "2026-10-09T16:26:08Z"
     }
   ],
-  "generatedAt": "2026-10-10T11:46:12.719Z",
+  "generatedAt": "2026-10-10T16:49:09.601Z",
   "note": "Transfers derived from news headlines at launch."
 }
