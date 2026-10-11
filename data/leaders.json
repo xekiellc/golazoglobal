@@ -135,6 +135,13 @@
           "penalties": 1
         },
         {
+          "name": "Yassir Zabiri",
+          "team": "Santander",
+          "goals": 7,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Lamine Yamal",
           "team": "Barça",
           "goals": 7,
@@ -149,11 +156,11 @@
           "penalties": 0
         },
         {
-          "name": "Yassir Zabiri",
-          "team": "Santander",
+          "name": "Ante Budimir",
+          "team": "Osasuna",
           "goals": 6,
           "assists": 0,
-          "penalties": 0
+          "penalties": 3
         },
         {
           "name": "Pierre-Emerick Aubameyang",
@@ -161,13 +168,6 @@
           "goals": 5,
           "assists": 2,
           "penalties": 0
-        },
-        {
-          "name": "Ante Budimir",
-          "team": "Osasuna",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 3
         },
         {
           "name": "Fer Niño",
@@ -253,6 +253,13 @@
           "penalties": 0
         },
         {
+          "name": "Daniel Maldini",
+          "team": "Cagliari",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Hakan Çalhanoğlu",
           "team": "Inter",
           "goals": 3,
@@ -286,26 +293,12 @@
           "goals": 3,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Marcus Thuram-Ulien",
-          "team": "Inter",
-          "goals": 3,
-          "assists": 2,
-          "penalties": 0
         }
       ],
       "topAssists": [
         {
           "name": "Adrien Rabiot",
           "team": "Milan",
-          "goals": 3,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Marcus Thuram-Ulien",
-          "team": "Inter",
           "goals": 3,
           "assists": 2,
           "penalties": 0
@@ -330,6 +323,13 @@
           "goals": 6,
           "assists": 0,
           "penalties": 0
+        },
+        {
+          "name": "Gustavo Varela",
+          "team": "Monza",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 1
         }
       ]
     },
@@ -690,6 +690,13 @@
           "penalties": 1
         },
         {
+          "name": "Barbero",
+          "team": "Arouca",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Gianluca Prestianni",
           "team": "SL Benfica",
           "goals": 5,
@@ -702,13 +709,6 @@
           "goals": 5,
           "assists": 1,
           "penalties": 1
-        },
-        {
-          "name": "Barbero",
-          "team": "Arouca",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
         },
         {
           "name": "Leandro Antonetti",
@@ -907,7 +907,7 @@
         {
           "name": "Gabriel Barbosa",
           "team": "Santos",
-          "goals": 13,
+          "goals": 14,
           "assists": 3,
           "penalties": 2
         },
@@ -993,12 +993,12 @@
         {
           "name": "Gabriel Barbosa",
           "team": "Santos",
-          "goals": 13,
+          "goals": 14,
           "assists": 3,
           "penalties": 2
         }
       ]
     }
   },
-  "generatedAt": "2026-10-11T17:34:53.353Z"
+  "generatedAt": "2026-10-11T21:26:28.587Z"
 }

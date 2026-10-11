@@ -1,5 +1,46 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-10-11T17:31:10.891Z",
+  "transfers": [
+    {
+      "player": "Michigan’s Bryce Underwood Problem Could",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Detroit Sports Nation",
+      "url": "https://detroitsportsnation.com/michigan-bryce-underwood-quarterback-problem-2027/ddrysdale/college-sports/u-of-m-news/10/10/2026/499323/",
+      "publishedAt": "2026-10-10T21:17:07Z"
+    },
+    {
+      "player": "Everything we learned after Texas A&M's ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/10/10/five-takeaways-from-texas-aggies-football-27-6-road-loss-to-missouri/92193063007/",
+      "publishedAt": "2026-10-10T21:15:42Z"
+    },
+    {
+      "player": "‘6 More Total Touchdowns in Half a Seaso",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Pro Football Network",
+      "url": "https://www.profootballnetwork.com/cfb/belichick-unc-pitt-lopez-wake-forest/",
+      "publishedAt": "2026-10-10T21:00:09Z"
+    },
+    {
+      "player": "Belichick, UNC Score Biggest Win Yet Aft",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Frontofficesports.com",
+      "url": "https://frontofficesports.com/article/belichick-unc-score-biggest-win-yet-after-rocky-offseason/",
+      "publishedAt": "2026-10-10T20:58:12Z"
+    }
+  ],
+  "generatedAt": "2026-10-11T21:22:52.153Z",
   "note": "Transfers derived from news headlines at launch."
 }
