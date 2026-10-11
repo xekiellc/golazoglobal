@@ -940,6 +940,13 @@
           "penalties": 0
         },
         {
+          "name": "Jonathan Calleri",
+          "team": "São Paulo",
+          "goals": 9,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "John Kennedy",
           "team": "Fluminense",
           "goals": 9,
@@ -952,13 +959,6 @@
           "goals": 9,
           "assists": 5,
           "penalties": 0
-        },
-        {
-          "name": "Luciano Juba",
-          "team": "Bahia",
-          "goals": 9,
-          "assists": 1,
-          "penalties": 4
         }
       ],
       "topAssists": [
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-10T21:05:33.832Z"
+  "generatedAt": "2026-10-11T01:33:30.220Z"
 }

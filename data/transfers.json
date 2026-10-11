@@ -1,16 +1,66 @@
 {
   "transfers": [
     {
-      "player": "Conner Weigman Can Take Houston to Anoth",
+      "player": "Indiana Football",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/houston/football/conner-weigman-can-take-houston-to-another-level-in-big-12-race",
-      "publishedAt": "2026-10-09T20:44:20Z"
+      "url": "https://www.si.com/college/indiana/football/indiana-football-confidence-concerns-against-nebraska",
+      "publishedAt": "2026-10-10T01:27:53Z"
+    },
+    {
+      "player": "Syracuse football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Troy Nunes Is An Absolute Magician",
+      "url": "https://www.nunesmagician.com/syracuse-orange-football-fran/113988/syracuse-football-qb-malachi-nelson-expected-to-start-at-virgina",
+      "publishedAt": "2026-10-10T01:27:21Z"
+    },
+    {
+      "player": "Oregon cross country stars sweep Delling",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Register-Guard",
+      "url": "https://www.registerguard.com/story/sports/college/cross-country/2026/10/09/oregon-ducks-cross-country-dellinger-invitational-simeon-birnbaum-diana-cherotich/92164810007/",
+      "publishedAt": "2026-10-10T01:25:32Z"
+    },
+    {
+      "player": "Syracuse Football Set to Make Surprising",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/syracuse/news/syracuse-football-set-to-make-surprising-change-at-quarterback-position",
+      "publishedAt": "2026-10-10T01:19:32Z"
+    },
+    {
+      "player": "High School Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Hamilton Journal News",
+      "url": "https://www.journal-news.com/sports/high-school-football-ohsaa-cites-texts-social-media-posts-in-response-to-morgerson-lawsuit/article_61ae8944-b373-5e3c-af13-b4dbbfd05bf8.html",
+      "publishedAt": "2026-10-10T01:02:00Z"
+    },
+    {
+      "player": "Louisville running back Keyjuan Brown of",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/louisville-football-news-keyjuan-brown-ruled-out-for-florida-state-clash",
+      "publishedAt": "2026-10-10T00:28:02Z"
     }
   ],
-  "generatedAt": "2026-10-10T21:01:54.006Z",
+  "generatedAt": "2026-10-11T01:29:44.643Z",
   "note": "Transfers derived from news headlines at launch."
 }
