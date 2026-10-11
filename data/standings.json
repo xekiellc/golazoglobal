@@ -541,14 +541,14 @@
       {
         "position": 2,
         "team": "Roma",
-        "played": 5,
+        "played": 6,
         "won": 4,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
         "goalsFor": 14,
         "goalsAgainst": 3,
         "goalDifference": 11,
-        "points": 13,
+        "points": 14,
         "form": ""
       },
       {
@@ -592,6 +592,19 @@
       },
       {
         "position": 6,
+        "team": "Como 1907",
+        "played": 6,
+        "won": 3,
+        "drawn": 2,
+        "lost": 1,
+        "goalsFor": 9,
+        "goalsAgainst": 6,
+        "goalDifference": 3,
+        "points": 11,
+        "form": ""
+      },
+      {
+        "position": 7,
         "team": "Napoli",
         "played": 6,
         "won": 3,
@@ -604,7 +617,7 @@
         "form": ""
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "Juventus",
         "played": 5,
         "won": 3,
@@ -613,19 +626,6 @@
         "goalsFor": 8,
         "goalsAgainst": 4,
         "goalDifference": 4,
-        "points": 10,
-        "form": ""
-      },
-      {
-        "position": 8,
-        "team": "Como 1907",
-        "played": 5,
-        "won": 3,
-        "drawn": 1,
-        "lost": 1,
-        "goalsFor": 9,
-        "goalsAgainst": 6,
-        "goalDifference": 3,
         "points": 10,
         "form": ""
       },
@@ -1404,6 +1404,19 @@
       },
       {
         "position": 12,
+        "team": "Utrecht",
+        "played": 8,
+        "won": 2,
+        "drawn": 2,
+        "lost": 4,
+        "goalsFor": 13,
+        "goalsAgainst": 25,
+        "goalDifference": -12,
+        "points": 8,
+        "form": ""
+      },
+      {
+        "position": 13,
         "team": "Sparta",
         "played": 8,
         "won": 1,
@@ -1416,7 +1429,7 @@
         "form": ""
       },
       {
-        "position": 13,
+        "position": 14,
         "team": "Telstar",
         "played": 7,
         "won": 1,
@@ -1429,7 +1442,7 @@
         "form": ""
       },
       {
-        "position": 14,
+        "position": 15,
         "team": "Cambuur",
         "played": 7,
         "won": 1,
@@ -1438,19 +1451,6 @@
         "goalsFor": 10,
         "goalsAgainst": 19,
         "goalDifference": -9,
-        "points": 5,
-        "form": ""
-      },
-      {
-        "position": 15,
-        "team": "Utrecht",
-        "played": 7,
-        "won": 1,
-        "drawn": 2,
-        "lost": 4,
-        "goalsFor": 11,
-        "goalsAgainst": 24,
-        "goalDifference": -13,
         "points": 5,
         "form": ""
       },
@@ -1483,13 +1483,13 @@
       {
         "position": 18,
         "team": "Willem II",
-        "played": 7,
+        "played": 8,
         "won": 0,
         "drawn": 2,
-        "lost": 5,
-        "goalsFor": 6,
-        "goalsAgainst": 20,
-        "goalDifference": -14,
+        "lost": 6,
+        "goalsFor": 7,
+        "goalsAgainst": 22,
+        "goalDifference": -15,
         "points": 2,
         "form": ""
       }
@@ -2151,6 +2151,19 @@
       },
       {
         "position": 9,
+        "team": "São Paulo",
+        "played": 30,
+        "won": 11,
+        "drawn": 6,
+        "lost": 13,
+        "goalsFor": 35,
+        "goalsAgainst": 35,
+        "goalDifference": 0,
+        "points": 39,
+        "form": ""
+      },
+      {
+        "position": 10,
         "team": "Coritiba",
         "played": 29,
         "won": 10,
@@ -2163,7 +2176,7 @@
         "form": ""
       },
       {
-        "position": 10,
+        "position": 11,
         "team": "Bragantino",
         "played": 29,
         "won": 10,
@@ -2176,29 +2189,16 @@
         "form": ""
       },
       {
-        "position": 11,
-        "team": "São Paulo",
-        "played": 30,
-        "won": 10,
-        "drawn": 7,
-        "lost": 13,
-        "goalsFor": 34,
-        "goalsAgainst": 35,
-        "goalDifference": -1,
-        "points": 37,
-        "form": ""
-      },
-      {
         "position": 12,
         "team": "Vitória",
         "played": 30,
         "won": 10,
-        "drawn": 7,
-        "lost": 13,
+        "drawn": 6,
+        "lost": 14,
         "goalsFor": 33,
-        "goalsAgainst": 43,
-        "goalDifference": -10,
-        "points": 37,
+        "goalsAgainst": 44,
+        "goalDifference": -11,
+        "points": 36,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-10-11T01:32:14.848Z"
+  "generatedAt": "2026-10-11T12:00:52.756Z"
 }

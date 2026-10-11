@@ -919,6 +919,13 @@
           "penalties": 1
         },
         {
+          "name": "Jonathan Calleri",
+          "team": "São Paulo",
+          "goals": 10,
+          "assists": 1,
+          "penalties": 2
+        },
+        {
           "name": "José Manuel López",
           "team": "Palmeiras",
           "goals": 9,
@@ -938,13 +945,6 @@
           "goals": 9,
           "assists": 2,
           "penalties": 0
-        },
-        {
-          "name": "Jonathan Calleri",
-          "team": "São Paulo",
-          "goals": 9,
-          "assists": 1,
-          "penalties": 2
         },
         {
           "name": "John Kennedy",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-11T01:33:30.220Z"
+  "generatedAt": "2026-10-11T12:02:34.468Z"
 }
