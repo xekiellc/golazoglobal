@@ -3,6 +3,13 @@
     "PL": {
       "scorers": [
         {
+          "name": "Erling Haaland",
+          "team": "Man City",
+          "goals": 6,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "João Pedro",
           "team": "Chelsea",
           "goals": 5,
@@ -10,17 +17,17 @@
           "penalties": 0
         },
         {
-          "name": "Erling Haaland",
-          "team": "Man City",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Morgan Rogers",
           "team": "Chelsea",
           "goals": 4,
           "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Rayan Cherki",
+          "team": "Man City",
+          "goals": 4,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -38,17 +45,17 @@
           "penalties": 1
         },
         {
-          "name": "Marcus Tavernier",
-          "team": "Bournemouth",
+          "name": "Thierno Barry",
+          "team": "Everton",
           "goals": 3,
           "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Rayan Cherki",
-          "team": "Man City",
+          "name": "Marcus Tavernier",
+          "team": "Bournemouth",
           "goals": 3,
-          "assists": 2,
+          "assists": 0,
           "penalties": 0
         },
         {
@@ -64,13 +71,6 @@
           "goals": 3,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Bruno Fernandes",
-          "team": "Man United",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -91,7 +91,7 @@
         {
           "name": "Rayan Cherki",
           "team": "Man City",
-          "goals": 3,
+          "goals": 4,
           "assists": 2,
           "penalties": 0
         },
@@ -103,11 +103,11 @@
           "penalties": 0
         },
         {
-          "name": "Bruno Fernandes",
-          "team": "Man United",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 1
+          "name": "Erling Haaland",
+          "team": "Man City",
+          "goals": 6,
+          "assists": 0,
+          "penalties": 0
         }
       ]
     },
@@ -267,6 +267,13 @@
           "penalties": 1
         },
         {
+          "name": "Adrien Rabiot",
+          "team": "Milan",
+          "goals": 3,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Davide Frattesi",
           "team": "Lazio",
           "goals": 3,
@@ -286,16 +293,16 @@
           "goals": 3,
           "assists": 2,
           "penalties": 0
-        },
-        {
-          "name": "Giorgi Kvernadze",
-          "team": "Frosinone",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Adrien Rabiot",
+          "team": "Milan",
+          "goals": 3,
+          "assists": 2,
+          "penalties": 0
+        },
         {
           "name": "Marcus Thuram-Ulien",
           "team": "Inter",
@@ -313,13 +320,6 @@
         {
           "name": "Milutin Osmajić",
           "team": "Genoa",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Giorgi Kvernadze",
-          "team": "Frosinone",
           "goals": 3,
           "assists": 1,
           "penalties": 0
@@ -468,6 +468,13 @@
           "penalties": 1
         },
         {
+          "name": "Esteban Lepaul",
+          "team": "Stade Rennais",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Ferrán Torres",
           "team": "PSG",
           "goals": 4,
@@ -489,6 +496,13 @@
           "penalties": 0
         },
         {
+          "name": "Cameron Archer",
+          "team": "Auxerre",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Casper Tengstedt",
           "team": "Toulouse",
           "goals": 4,
@@ -501,20 +515,6 @@
           "goals": 3,
           "assists": 5,
           "penalties": 3
-        },
-        {
-          "name": "Esteban Lepaul",
-          "team": "Stade Rennais",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
-          "name": "Marquinhos",
-          "team": "PSG",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -572,6 +572,20 @@
           "penalties": 0
         },
         {
+          "name": "Brynjolfur Darri Willumsson",
+          "team": "Groningen",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Thom van Bergen",
+          "team": "Groningen",
+          "goals": 5,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
           "name": "Artem Stepanov",
           "team": "Utrecht",
           "goals": 5,
@@ -612,20 +626,6 @@
           "goals": 4,
           "assists": 1,
           "penalties": 1
-        },
-        {
-          "name": "Brynjolfur Darri Willumsson",
-          "team": "Groningen",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Thom van Bergen",
-          "team": "Groningen",
-          "goals": 4,
-          "assists": 2,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -646,9 +646,9 @@
         {
           "name": "Thom van Bergen",
           "team": "Groningen",
-          "goals": 4,
+          "goals": 5,
           "assists": 2,
-          "penalties": 0
+          "penalties": 1
         },
         {
           "name": "Milan Zonneveld",
@@ -672,7 +672,7 @@
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
           "goals": 8,
-          "assists": 2,
+          "assists": 3,
           "penalties": 2
         },
         {
@@ -741,6 +741,13 @@
       ],
       "topAssists": [
         {
+          "name": "Vangelis Pavlidis",
+          "team": "SL Benfica",
+          "goals": 8,
+          "assists": 3,
+          "penalties": 2
+        },
+        {
           "name": "Gianluca Prestianni",
           "team": "SL Benfica",
           "goals": 5,
@@ -753,13 +760,6 @@
           "goals": 4,
           "assists": 3,
           "penalties": 1
-        },
-        {
-          "name": "Vangelis Pavlidis",
-          "team": "SL Benfica",
-          "goals": 8,
-          "assists": 2,
-          "penalties": 2
         },
         {
           "name": "Luis Suárez",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-11T12:02:34.468Z"
+  "generatedAt": "2026-10-11T17:34:53.353Z"
 }

@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Funding Pat Fitzgerald's MSU football pr",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Detroit Free Press",
-      "url": "https://www.freep.com/story/sports/college/michigan-state/spartans/2026/10/10/dan-bartholomae-michigan-state-spartans-football-pat-fitzgerald-nil-tom-izzo-kevin-guskiewicz/92178226007/",
-      "publishedAt": "2026-10-10T11:15:38Z"
-    }
-  ],
-  "generatedAt": "2026-10-11T11:58:24.849Z",
+  "transfers": [],
+  "generatedAt": "2026-10-11T17:31:10.891Z",
   "note": "Transfers derived from news headlines at launch."
 }
