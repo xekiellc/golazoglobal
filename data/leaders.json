@@ -926,6 +926,13 @@
           "penalties": 2
         },
         {
+          "name": "Luciano Juba",
+          "team": "Bahia",
+          "goals": 10,
+          "assists": 1,
+          "penalties": 5
+        },
+        {
           "name": "José Manuel López",
           "team": "Palmeiras",
           "goals": 9,
@@ -952,13 +959,6 @@
           "goals": 9,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Matheus Pereira",
-          "team": "Cruzeiro",
-          "goals": 9,
-          "assists": 5,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -967,13 +967,6 @@
           "team": "Flamengo",
           "goals": 16,
           "assists": 7,
-          "penalties": 0
-        },
-        {
-          "name": "Matheus Pereira",
-          "team": "Cruzeiro",
-          "goals": 9,
-          "assists": 5,
           "penalties": 0
         },
         {
@@ -996,9 +989,16 @@
           "goals": 14,
           "assists": 3,
           "penalties": 2
+        },
+        {
+          "name": "Danilo dos Santos de Oliveira",
+          "team": "Botafogo",
+          "goals": 9,
+          "assists": 2,
+          "penalties": 0
         }
       ]
     }
   },
-  "generatedAt": "2026-10-11T21:26:28.587Z"
+  "generatedAt": "2026-10-12T02:03:44.008Z"
 }

@@ -1,46 +1,86 @@
 {
   "transfers": [
     {
-      "player": "Michigan’s Bryce Underwood Problem Could",
+      "player": "Ohio State football held out 5 starters ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Detroit Sports Nation",
-      "url": "https://detroitsportsnation.com/michigan-bryce-underwood-quarterback-problem-2027/ddrysdale/college-sports/u-of-m-news/10/10/2026/499323/",
-      "publishedAt": "2026-10-10T21:17:07Z"
+      "source": "Fci Academy",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/10/ohio-state-football-holds-out-5-starters-in-maryland-win/92120176007/",
+      "publishedAt": "2026-10-11T01:57:03Z"
     },
     {
-      "player": "Everything we learned after Texas A&M's ",
+      "player": "Five heroes for UCLA football in their 1",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/10/10/five-takeaways-from-texas-aggies-football-27-6-road-loss-to-missouri/92193063007/",
-      "publishedAt": "2026-10-10T21:15:42Z"
+      "url": "https://uclawire.usatoday.com/story/sports/college/ucla/football/2026/10/10/who-are-the-heroes-for-ucla-after-their-17-15-week-6-win-over-oregon-bruins-ducks-big-ten-college/92199624007/",
+      "publishedAt": "2026-10-11T01:56:21Z"
     },
     {
-      "player": "‘6 More Total Touchdowns in Half a Seaso",
+      "player": "Texas spent weeks escaping its flaws, an",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/texas-flaws-oklahoma-exposed-red-river/",
+      "publishedAt": "2026-10-11T01:52:40Z"
+    },
+    {
+      "player": "UCLA QB Ty Dieffenbach, former 3rd",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/10/sports/ucla-backup-qb-ty-dieffenbach-oregon/",
+      "publishedAt": "2026-10-11T01:30:53Z"
+    },
+    {
+      "player": "How turnovers, lack of run game are caus",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Tennessean",
+      "url": "https://www.tennessean.com/story/sports/college/tsu/2026/10/10/tennessee-state-ut-martin-reggie-barlow-turnovers-run-game/92049348007/",
+      "publishedAt": "2026-10-11T01:17:44Z"
+    },
+    {
+      "player": "Winners, Losers from College Football Ga",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sportsnaut",
+      "url": "https://sportsnaut.com/college-football/winners-losers-college-football-games-today-week-6",
+      "publishedAt": "2026-10-11T01:03:21Z"
+    },
+    {
+      "player": "‘There’s No Ceiling for Him,’ ‘Take Over",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Pro Football Network",
-      "url": "https://www.profootballnetwork.com/cfb/belichick-unc-pitt-lopez-wake-forest/",
-      "publishedAt": "2026-10-10T21:00:09Z"
+      "url": "https://www.profootballnetwork.com/cfb/bob-chesney-ucla-oregon-unbeaten/?utm_medium=rss&amp;utm_source=nordot",
+      "publishedAt": "2026-10-11T00:55:52Z"
     },
     {
-      "player": "Belichick, UNC Score Biggest Win Yet Aft",
+      "player": "The Good, the Bad, and the Ugly",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Frontofficesports.com",
-      "url": "https://frontofficesports.com/article/belichick-unc-score-biggest-win-yet-after-rocky-offseason/",
-      "publishedAt": "2026-10-10T20:58:12Z"
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-football/123538/ohio-state-buckeyes-football-maryland-terrapins-game-recap-analysis-breakdown-2026",
+      "publishedAt": "2026-10-11T00:54:03Z"
     }
   ],
-  "generatedAt": "2026-10-11T21:22:52.153Z",
+  "generatedAt": "2026-10-12T01:59:58.439Z",
   "note": "Transfers derived from news headlines at launch."
 }
