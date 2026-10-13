@@ -2078,8 +2078,8 @@
         "won": 15,
         "drawn": 8,
         "lost": 7,
-        "goalsFor": 48,
-        "goalsAgainst": 34,
+        "goalsFor": 49,
+        "goalsAgainst": 35,
         "goalDifference": 14,
         "points": 53,
         "form": ""
@@ -2099,19 +2099,6 @@
       },
       {
         "position": 5,
-        "team": "Cruzeiro",
-        "played": 30,
-        "won": 14,
-        "drawn": 7,
-        "lost": 9,
-        "goalsFor": 44,
-        "goalsAgainst": 40,
-        "goalDifference": 4,
-        "points": 49,
-        "form": ""
-      },
-      {
-        "position": 6,
         "team": "Bahia",
         "played": 30,
         "won": 13,
@@ -2121,6 +2108,19 @@
         "goalsAgainst": 36,
         "goalDifference": 8,
         "points": 49,
+        "form": ""
+      },
+      {
+        "position": 6,
+        "team": "Cruzeiro",
+        "played": 30,
+        "won": 14,
+        "drawn": 6,
+        "lost": 10,
+        "goalsFor": 46,
+        "goalsAgainst": 44,
+        "goalDifference": 2,
+        "points": 48,
         "form": ""
       },
       {
@@ -2151,6 +2151,19 @@
       },
       {
         "position": 9,
+        "team": "Bragantino",
+        "played": 30,
+        "won": 11,
+        "drawn": 7,
+        "lost": 12,
+        "goalsFor": 38,
+        "goalsAgainst": 35,
+        "goalDifference": 3,
+        "points": 40,
+        "form": ""
+      },
+      {
+        "position": 10,
         "team": "São Paulo",
         "played": 30,
         "won": 11,
@@ -2163,7 +2176,7 @@
         "form": ""
       },
       {
-        "position": 10,
+        "position": 11,
         "team": "Coritiba",
         "played": 30,
         "won": 10,
@@ -2173,19 +2186,6 @@
         "goalsAgainst": 48,
         "goalDifference": -10,
         "points": 39,
-        "form": ""
-      },
-      {
-        "position": 11,
-        "team": "Bragantino",
-        "played": 30,
-        "won": 10,
-        "drawn": 8,
-        "lost": 12,
-        "goalsFor": 34,
-        "goalsAgainst": 33,
-        "goalDifference": 1,
-        "points": 38,
         "form": ""
       },
       {
@@ -2299,13 +2299,13 @@
         "won": 3,
         "drawn": 9,
         "lost": 17,
-        "goalsFor": 29,
-        "goalsAgainst": 60,
+        "goalsFor": 30,
+        "goalsAgainst": 61,
         "goalDifference": -31,
         "points": 18,
         "form": ""
       }
     ]
   },
-  "generatedAt": "2026-10-13T00:05:34.741Z"
+  "generatedAt": "2026-10-13T13:25:11.822Z"
 }

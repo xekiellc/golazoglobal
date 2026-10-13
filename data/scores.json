@@ -1,15 +1,6 @@
 {
   "matches": [
     {
-      "league": "BSA",
-      "homeTeam": "Chapecoense",
-      "awayTeam": "Paranaense",
-      "homeScore": 0,
-      "awayScore": 3,
-      "status": "IN_PLAY",
-      "utcDate": "2026-10-12T22:30:00Z"
-    },
-    {
       "league": "PL",
       "homeTeam": "Coventry City",
       "awayTeam": "Newcastle",
@@ -28,24 +19,6 @@
       "utcDate": "2026-10-12T19:00:00Z"
     },
     {
-      "league": "SA",
-      "homeTeam": "Atalanta",
-      "awayTeam": "Venezia FC",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-10-12T16:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Torino",
-      "awayTeam": "Udinese",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-10-12T18:45:00Z"
-    },
-    {
       "league": "PPL",
       "homeTeam": "Famalicão",
       "awayTeam": "Alverca",
@@ -56,12 +29,39 @@
     },
     {
       "league": "BSA",
-      "homeTeam": "Coritiba",
-      "awayTeam": "Botafogo",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeTeam": "Chapecoense",
+      "awayTeam": "Paranaense",
+      "homeScore": null,
+      "awayScore": null,
       "status": "FINISHED",
-      "utcDate": "2026-10-12T19:00:00Z"
+      "utcDate": "2026-10-12T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Cruzeiro",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-10-13T00:00:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Atalanta",
+      "awayTeam": "Venezia FC",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-12T16:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Torino",
+      "awayTeam": "Udinese",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-12T18:45:00Z"
     },
     {
       "league": "CL",
@@ -218,13 +218,13 @@
     },
     {
       "league": "BSA",
-      "homeTeam": "Bragantino",
-      "awayTeam": "Cruzeiro",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Botafogo",
       "homeScore": null,
       "awayScore": null,
       "status": "TIMED",
-      "utcDate": "2026-10-13T00:00:00Z"
+      "utcDate": "2026-10-12T19:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-13T00:04:32.885Z"
+  "generatedAt": "2026-10-13T13:24:09.780Z"
 }
