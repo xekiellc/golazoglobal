@@ -782,7 +782,7 @@
         {
           "name": "William Lankshear",
           "team": "Middlesbrough",
-          "goals": 7,
+          "goals": 8,
           "assists": 0,
           "penalties": 0
         },
@@ -801,6 +801,13 @@
           "penalties": 0
         },
         {
+          "name": "Jack Moylan",
+          "team": "Cardiff",
+          "goals": 5,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
           "name": "Jarrod Bowen",
           "team": "West Ham",
           "goals": 5,
@@ -812,6 +819,13 @@
           "team": "Blackburn",
           "goals": 4,
           "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Sam Dalby",
+          "team": "Bolton",
+          "goals": 4,
+          "assists": 0,
           "penalties": 0
         },
         {
@@ -829,29 +843,22 @@
           "penalties": 0
         },
         {
-          "name": "Fer López",
-          "team": "Wolverhampton",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Ethan Galbraith",
-          "team": "Stoke",
+          "name": "Kieffer Moore",
+          "team": "Wrexham",
           "goals": 4,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Konstantinos Mavropanos",
-          "team": "West Ham",
-          "goals": 4,
-          "assists": 0,
           "penalties": 0
         }
       ],
       "topAssists": [
         {
+          "name": "Jack Moylan",
+          "team": "Cardiff",
+          "goals": 5,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
           "name": "Jarrod Bowen",
           "team": "West Ham",
           "goals": 5,
@@ -859,8 +866,8 @@
           "penalties": 1
         },
         {
-          "name": "Ethan Galbraith",
-          "team": "Stoke",
+          "name": "Kieffer Moore",
+          "team": "Wrexham",
           "goals": 4,
           "assists": 2,
           "penalties": 0
@@ -875,13 +882,6 @@
         {
           "name": "Adam Idah",
           "team": "Swansea",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Tyreece Campbell",
-          "team": "Charlton",
           "goals": 4,
           "assists": 1,
           "penalties": 0
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-13T13:26:22.660Z"
+  "generatedAt": "2026-10-13T22:15:46.059Z"
 }

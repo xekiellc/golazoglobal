@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "College football overreactions after Wee",
+      "player": "Ole Miss football player injury concerns",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/college-football-overreactions-week-6-2026-texas-georgia-ucla/",
-      "publishedAt": "2026-10-12T13:07:10Z"
-    },
-    {
-      "player": "Arsenal transfer rivals get boost to bea",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Just Arsenal News",
-      "url": "https://www.justarsenal.com/arsenal-transfer-rivals-get-boost-to-beat-them-to-real-madrid-star/423673",
-      "publishedAt": "2026-10-12T13:00:47Z"
-    },
-    {
-      "player": "Drake Maye has found his mojo again",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Pats Pulpit",
-      "url": "https://www.patspulpit.com/new-england-patriots-news/140322/drake-maye-found-his-rhythm-again-patriots-vs-raiders",
-      "publishedAt": "2026-10-12T13:00:00Z"
+      "source": "Clarion Ledger",
+      "url": "https://www.clarionledger.com/story/sports/college/ole-miss/2026/10/12/kewan-lacy-injury-update-ole-miss-football-edwin-joseph/92047466007/",
+      "publishedAt": "2026-10-12T21:44:11Z"
     }
   ],
-  "generatedAt": "2026-10-13T13:22:45.689Z",
+  "generatedAt": "2026-10-13T22:12:06.096Z",
   "note": "Transfers derived from news headlines at launch."
 }
