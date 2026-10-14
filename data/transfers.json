@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Mike Pettine Hire Gives Cowboys Help and",
+      "player": "Future Hogs Week 6",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/mike-pettine-hire-gives-cowboys-012445037.html",
-      "publishedAt": "2026-10-13T01:24:45Z"
+      "source": "Hogs Haven",
+      "url": "https://www.hogshaven.com/washington-commanders-draft/448620/future-hogs-week-6-college-football-players-could-help-commanders",
+      "publishedAt": "2026-10-13T11:00:00Z"
     },
     {
-      "player": "UCF HC Johnny Dawkins Talks Navigating t",
+      "player": "Juventus could get chance to sign Real M",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/ucf/players/ucf-hc-johnny-dawkins-talks-navigating-the-nil-era",
-      "publishedAt": "2026-10-13T01:24:38Z"
+      "source": "Talkjuve.com",
+      "url": "https://talkjuve.com/2026/10/13/juventus-could-get-chance-to-sign-real-madrid-man-as-he-suffers-from-lack-of-use/",
+      "publishedAt": "2026-10-13T11:00:00Z"
+    },
+    {
+      "player": "Kentucky Wildcat News",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "A Sea Of Blue",
+      "url": "https://www.aseaofblue.com/kentucky-wildcats-news/183684/sec-transfer-rules-player-contracts-policy",
+      "publishedAt": "2026-10-13T10:45:00Z"
+    },
+    {
+      "player": "Canadian PM (and Former Central Banker) ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/10/canadian-pm-and-former-gs-banker-and-central-banker-mark-carney-is-pressuring-uk-to-abandon-its-water-nationalisation-plans.html",
+      "publishedAt": "2026-10-13T10:44:09Z"
     }
   ],
-  "generatedAt": "2026-10-14T01:32:37.781Z",
+  "generatedAt": "2026-10-14T11:01:10.560Z",
   "note": "Transfers derived from news headlines at launch."
 }
