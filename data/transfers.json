@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-10-14T16:21:44.587Z",
+  "transfers": [
+    {
+      "player": "Julian Sayin vs. Josh Hoover",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/julian-sayin-vs-josh-hoover-two-different-paths-same-championship-ambitions",
+      "publishedAt": "2026-10-13T21:06:07Z"
+    }
+  ],
+  "generatedAt": "2026-10-14T21:12:45.434Z",
   "note": "Transfers derived from news headlines at launch."
 }

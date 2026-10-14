@@ -794,6 +794,13 @@
           "penalties": 0
         },
         {
+          "name": "Jarrod Bowen",
+          "team": "West Ham",
+          "goals": 6,
+          "assists": 4,
+          "penalties": 1
+        },
+        {
           "name": "Mohamed Toure",
           "team": "Norwich",
           "goals": 5,
@@ -808,11 +815,11 @@
           "penalties": 1
         },
         {
-          "name": "Jarrod Bowen",
+          "name": "Konstantinos Mavropanos",
           "team": "West Ham",
           "goals": 5,
-          "assists": 2,
-          "penalties": 1
+          "assists": 0,
+          "penalties": 0
         },
         {
           "name": "Andri Guðjohnsen",
@@ -841,36 +848,22 @@
           "goals": 4,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Kieffer Moore",
-          "team": "Wrexham",
-          "goals": 4,
-          "assists": 2,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Jarrod Bowen",
+          "team": "West Ham",
+          "goals": 6,
+          "assists": 4,
+          "penalties": 1
+        },
         {
           "name": "Jack Moylan",
           "team": "Cardiff",
           "goals": 5,
           "assists": 2,
           "penalties": 1
-        },
-        {
-          "name": "Jarrod Bowen",
-          "team": "West Ham",
-          "goals": 5,
-          "assists": 2,
-          "penalties": 1
-        },
-        {
-          "name": "Kieffer Moore",
-          "team": "Wrexham",
-          "goals": 4,
-          "assists": 2,
-          "penalties": 0
         },
         {
           "name": "Andri Guðjohnsen",
@@ -882,6 +875,13 @@
         {
           "name": "Adam Idah",
           "team": "Swansea",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Tyreece Campbell",
+          "team": "Charlton",
           "goals": 4,
           "assists": 1,
           "penalties": 0
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-14T16:25:23.347Z"
+  "generatedAt": "2026-10-14T21:16:23.178Z"
 }
