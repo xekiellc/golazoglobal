@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Ole Miss football player injury concerns",
+      "player": "Mike Pettine Hire Gives Cowboys Help and",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Clarion Ledger",
-      "url": "https://www.clarionledger.com/story/sports/college/ole-miss/2026/10/12/kewan-lacy-injury-update-ole-miss-football-edwin-joseph/92047466007/",
-      "publishedAt": "2026-10-12T21:44:11Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/mike-pettine-hire-gives-cowboys-012445037.html",
+      "publishedAt": "2026-10-13T01:24:45Z"
+    },
+    {
+      "player": "UCF HC Johnny Dawkins Talks Navigating t",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/ucf/players/ucf-hc-johnny-dawkins-talks-navigating-the-nil-era",
+      "publishedAt": "2026-10-13T01:24:38Z"
     }
   ],
-  "generatedAt": "2026-10-13T22:12:06.096Z",
+  "generatedAt": "2026-10-14T01:32:37.781Z",
   "note": "Transfers derived from news headlines at launch."
 }
