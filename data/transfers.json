@@ -1,16 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Julian Sayin vs. Josh Hoover",
+      "player": "Josh Pate decries college football ‘lead",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/julian-sayin-vs-josh-hoover-two-different-paths-same-championship-ambitions",
-      "publishedAt": "2026-10-13T21:06:07Z"
+      "source": "Awful Announcing",
+      "url": "https://awfulannouncing.com/college-football/josh-pate-cfp-expansion-viewership-discussion.html",
+      "publishedAt": "2026-10-14T01:00:34Z"
+    },
+    {
+      "player": "Julian Lewis done at Colorado? The lates",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/colorado/news/julian-lewis-done-at-colorado-the-latest-on-the-five-star-quarterback-before-utah",
+      "publishedAt": "2026-10-14T00:51:12Z"
+    },
+    {
+      "player": "Surprise, Some Still See Bowl Game for U",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/washington/football/surprise-some-still-see-bowl-game-for-uw-01m4txf3s71r",
+      "publishedAt": "2026-10-14T00:49:17Z"
+    },
+    {
+      "player": "Ohio State’s reshuffled right side to me",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/ohio-state-reshuffled-side-meet-004656832.html",
+      "publishedAt": "2026-10-14T00:46:56Z"
+    },
+    {
+      "player": "National CFB Personality Likes Badgers' ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/wisconsin/football/national-cfb-personality-likes-badgers-chances-at-12-ucla-good-matchup-for-them",
+      "publishedAt": "2026-10-14T00:00:02Z"
     }
   ],
-  "generatedAt": "2026-10-14T21:12:45.434Z",
+  "generatedAt": "2026-10-15T01:10:32.764Z",
   "note": "Transfers derived from news headlines at launch."
 }
