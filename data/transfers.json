@@ -1,56 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Former Boise State DB Jeremiah Earby com",
+      "player": "Oregon State’s Jesse Legree Gets Huge He",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "On3.com",
-      "url": "https://www.on3.com/news/former-boise-state-db-jeremiah-earby-commits-to-michigan/",
-      "publishedAt": "2026-10-14T16:09:38Z"
-    },
-    {
-      "player": "Michigan football lined up to add former",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Detroit Free Press",
-      "url": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2026/10/14/michigan-football-jeremiah-earby-transfer-portal/92248595007/",
-      "publishedAt": "2026-10-14T16:07:37Z"
-    },
-    {
-      "player": "Michigan Football set to add 2 players f",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Maize n Brew",
-      "url": "https://www.maizenbrew.com/football/125137/michigan-football-transfer-portal-alex-bauman-jeremiah-earby-2026-season",
-      "publishedAt": "2026-10-14T16:05:40Z"
-    },
-    {
-      "player": "Michigan football rumors",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/michigan-football-rumors-wolverines-poised-land-miami-boise-state-transfers-help-save-season",
-      "publishedAt": "2026-10-14T16:05:00Z"
-    },
-    {
-      "player": "4 bold predictions as Oregon football lo",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Register-Guard",
-      "url": "https://www.registerguard.com/story/sports/college/football/2026/10/14/oregon-ducks-football-nebraska-cornhuskers-predictions-analysis/92235892007/",
-      "publishedAt": "2026-10-14T16:01:55Z"
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/college-football/oregon-state-jesse-legree-heisman-update/",
+      "publishedAt": "2026-10-14T20:41:22Z"
     }
   ],
-  "generatedAt": "2026-10-15T16:10:57.219Z",
+  "generatedAt": "2026-10-15T20:50:39.771Z",
   "note": "Transfers derived from news headlines at launch."
 }
