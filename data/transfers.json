@@ -1,26 +1,56 @@
 {
   "transfers": [
     {
-      "player": "A California high school football booste",
+      "player": "Former Boise State DB Jeremiah Earby com",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-california-high-school-football-booster-club-treasurer-is-accused-of-diverting-411761-from-money-raised-for-the-team-including-a-131523-transfer-prosecutors-say-went-toward-her-overdue-home-mortgage/articleshow/134939465.cms",
-      "publishedAt": "2026-10-14T10:41:00Z"
+      "source": "On3.com",
+      "url": "https://www.on3.com/news/former-boise-state-db-jeremiah-earby-commits-to-michigan/",
+      "publishedAt": "2026-10-14T16:09:38Z"
     },
     {
-      "player": "Adam Zouagui and Wilson Berry will start",
+      "player": "Michigan football lined up to add former",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "A Sea Of Blue",
-      "url": "https://www.aseaofblue.com/kentucky-wildcats-football/183792/adam-zouagui-wilson-berry-start-oklahoma-sooners",
-      "publishedAt": "2026-10-14T10:30:00Z"
+      "source": "Detroit Free Press",
+      "url": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2026/10/14/michigan-football-jeremiah-earby-transfer-portal/92248595007/",
+      "publishedAt": "2026-10-14T16:07:37Z"
+    },
+    {
+      "player": "Michigan Football set to add 2 players f",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Maize n Brew",
+      "url": "https://www.maizenbrew.com/football/125137/michigan-football-transfer-portal-alex-bauman-jeremiah-earby-2026-season",
+      "publishedAt": "2026-10-14T16:05:40Z"
+    },
+    {
+      "player": "Michigan football rumors",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/michigan-football-rumors-wolverines-poised-land-miami-boise-state-transfers-help-save-season",
+      "publishedAt": "2026-10-14T16:05:00Z"
+    },
+    {
+      "player": "4 bold predictions as Oregon football lo",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Register-Guard",
+      "url": "https://www.registerguard.com/story/sports/college/football/2026/10/14/oregon-ducks-football-nebraska-cornhuskers-predictions-analysis/92235892007/",
+      "publishedAt": "2026-10-14T16:01:55Z"
     }
   ],
-  "generatedAt": "2026-10-15T10:44:20.333Z",
+  "generatedAt": "2026-10-15T16:10:57.219Z",
   "note": "Transfers derived from news headlines at launch."
 }
