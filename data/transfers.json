@@ -1,5 +1,26 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-10-16T15:56:41.851Z",
+  "transfers": [
+    {
+      "player": "Clemson’s Football Program Needs Urgent ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/college-football/clemson-tigers/clemsons-football-program-needs-reassessment/",
+      "publishedAt": "2026-10-15T20:20:17Z"
+    },
+    {
+      "player": "College Football Playoff expanding to 24",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Lindyssports.com",
+      "url": "https://lindyssports.com/college-football/college-football-playoff-expanding-to-24-teams-is-all-for-money-not-for-quality",
+      "publishedAt": "2026-10-15T20:03:00Z"
+    }
+  ],
+  "generatedAt": "2026-10-16T20:24:32.530Z",
   "note": "Transfers derived from news headlines at launch."
 }

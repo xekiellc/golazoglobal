@@ -225,6 +225,13 @@
     "SA": {
       "scorers": [
         {
+          "name": "Antonio Raimondo",
+          "team": "Frosinone",
+          "goals": 7,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Donyell Malen",
           "team": "Roma",
           "goals": 6,
@@ -237,13 +244,6 @@
           "goals": 4,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Antonio Raimondo",
-          "team": "Frosinone",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
         },
         {
           "name": "Lautaro Martínez",
@@ -318,23 +318,30 @@
           "penalties": 0
         },
         {
+          "name": "Antonio Raimondo",
+          "team": "Frosinone",
+          "goals": 7,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Donyell Malen",
           "team": "Roma",
           "goals": 6,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Gustavo Varela",
-          "team": "Monza",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 1
         }
       ]
     },
     "BL1": {
       "scorers": [
+        {
+          "name": "Younes Ebnoutalib",
+          "team": "Frankfurt",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
         {
           "name": "Patrik Schick",
           "team": "Leverkusen",
@@ -345,13 +352,6 @@
         {
           "name": "Michael Olise",
           "team": "Bayern",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Younes Ebnoutalib",
-          "team": "Frankfurt",
           "goals": 4,
           "assists": 1,
           "penalties": 0
@@ -415,6 +415,13 @@
           "penalties": 0
         },
         {
+          "name": "Younes Ebnoutalib",
+          "team": "Frankfurt",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Patrik Schick",
           "team": "Leverkusen",
           "goals": 5,
@@ -424,13 +431,6 @@
         {
           "name": "Michael Olise",
           "team": "Bayern",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Younes Ebnoutalib",
-          "team": "Frankfurt",
           "goals": 4,
           "assists": 1,
           "penalties": 0
@@ -801,6 +801,13 @@
           "penalties": 1
         },
         {
+          "name": "Fer López",
+          "team": "Wolverhampton",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Mohamed Toure",
           "team": "Norwich",
           "goals": 5,
@@ -841,13 +848,6 @@
           "goals": 4,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Tyreece Campbell",
-          "team": "Charlton",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -866,6 +866,13 @@
           "penalties": 1
         },
         {
+          "name": "Fer López",
+          "team": "Wolverhampton",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Andri Guðjohnsen",
           "team": "Blackburn",
           "goals": 4,
@@ -875,13 +882,6 @@
         {
           "name": "Adam Idah",
           "team": "Swansea",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Tyreece Campbell",
-          "team": "Charlton",
           "goals": 4,
           "assists": 1,
           "penalties": 0
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-16T16:00:45.388Z"
+  "generatedAt": "2026-10-16T20:28:15.824Z"
 }
