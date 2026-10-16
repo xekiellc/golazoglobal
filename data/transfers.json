@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Comparing Trinidad Chambliss, Austin Sim",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Clarion Ledger",
-      "url": "https://www.clarionledger.com/story/sports/college/ole-miss/2026/10/15/trinidad-chambliss-austin-simmons-ole-miss-missouri-stats/92254498007/",
-      "publishedAt": "2026-10-15T10:07:53Z"
-    },
-    {
-      "player": "10 unheralded transfers impacting colleg",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/10/15/transfer-portal-impact-players-college-football-2026/92250868007/",
-      "publishedAt": "2026-10-15T10:07:04Z"
-    }
-  ],
-  "generatedAt": "2026-10-16T10:31:40.965Z",
+  "transfers": [],
+  "generatedAt": "2026-10-16T15:56:41.851Z",
   "note": "Transfers derived from news headlines at launch."
 }
