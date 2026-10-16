@@ -1,16 +1,76 @@
 {
   "transfers": [
     {
-      "player": "Oregon State’s Jesse Legree Gets Huge He",
+      "player": "Oregon weighing quarterback options as N",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Heavy.com",
-      "url": "https://heavy.com/sports/college-football/oregon-state-jesse-legree-heisman-update/",
-      "publishedAt": "2026-10-14T20:41:22Z"
+      "source": "The Register-Guard",
+      "url": "https://www.registerguard.com/story/sports/college/football/2026/10/14/oregon-ducks-football-quarterback-options-nebraska/92255535007/",
+      "publishedAt": "2026-10-15T00:49:23Z"
+    },
+    {
+      "player": "Injury Report",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/georgia/injury-report-kirby-smart-is-right-to-be-concerned-about-banged-up-georgia-football-01m4yg28gnw4",
+      "publishedAt": "2026-10-15T00:48:11Z"
+    },
+    {
+      "player": "Will Dante Moore play vs. Nebraska? Oreg",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Register-Guard",
+      "url": "https://www.registerguard.com/story/sports/college/football/2026/10/14/oregon-ducks-quarterback-dante-moore-injury-report/92249623007/",
+      "publishedAt": "2026-10-15T00:38:28Z"
+    },
+    {
+      "player": "Pat Kelsey tells court to 'end the chaos",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Courier Journal",
+      "url": "https://www.courier-journal.com/story/sports/college/louisville/2026/10/14/pat-kelsey-end-chaos-ncaa-eligibility-case-seth-trimble/91580360007/",
+      "publishedAt": "2026-10-15T00:33:15Z"
+    },
+    {
+      "player": "Tar Heel trio amongst ACC football's sta",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/football/2026/10/14/unc-football-acc-2026-week-6-statistical-leaders-derek-mcdonald-xavier-lewis-greg-smith/92255578007/",
+      "publishedAt": "2026-10-15T00:30:42Z"
+    },
+    {
+      "player": "UCLA Notebook",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Thesportingtribune.com",
+      "url": "https://www.thesportingtribune.com/2026/10/14/ucla-notebook-bruins-aim-for-6-0-start-with-new-quarterback-under-center",
+      "publishedAt": "2026-10-15T00:00:00Z"
+    },
+    {
+      "player": "SDSU football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Mitchellrepublic.com",
+      "url": "https://www.mitchellrepublic.com/sports/college/sdsu-football-jacks-return-to-alerus-center-to-face-wounded-hawks",
+      "publishedAt": "2026-10-14T23:54:00Z"
     }
   ],
-  "generatedAt": "2026-10-15T20:50:39.771Z",
+  "generatedAt": "2026-10-16T00:57:36.203Z",
   "note": "Transfers derived from news headlines at launch."
 }
