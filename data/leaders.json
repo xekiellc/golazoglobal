@@ -5,7 +5,7 @@
         {
           "name": "Erling Haaland",
           "team": "Man City",
-          "goals": 6,
+          "goals": 7,
           "assists": 0,
           "penalties": 0
         },
@@ -59,18 +59,18 @@
           "penalties": 0
         },
         {
+          "name": "Pedro Neto",
+          "team": "Chelsea",
+          "goals": 3,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Pascal Groß",
           "team": "Brighton Hove",
           "goals": 3,
           "assists": 4,
           "penalties": 1
-        },
-        {
-          "name": "Kevin Schade",
-          "team": "Brentford",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -103,10 +103,10 @@
           "penalties": 0
         },
         {
-          "name": "Erling Haaland",
-          "team": "Man City",
-          "goals": 6,
-          "assists": 0,
+          "name": "Pedro Neto",
+          "team": "Chelsea",
+          "goals": 3,
+          "assists": 1,
           "penalties": 0
         }
       ]
@@ -170,18 +170,18 @@
           "penalties": 0
         },
         {
+          "name": "Álex Baena",
+          "team": "Atleti",
+          "goals": 5,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Fer Niño",
           "team": "Elche",
           "goals": 5,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Lucas Boyé",
-          "team": "Alavés",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -214,10 +214,10 @@
           "penalties": 0
         },
         {
-          "name": "Sergio Camello",
-          "team": "Rayo Vallecano",
-          "goals": 7,
-          "assists": 1,
+          "name": "Álex Baena",
+          "team": "Atleti",
+          "goals": 5,
+          "assists": 2,
           "penalties": 0
         }
       ]
@@ -350,6 +350,20 @@
           "penalties": 0
         },
         {
+          "name": "Niclas Füllkrug",
+          "team": "Bremen",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Phillip Tietz",
+          "team": "Mainz",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Michael Olise",
           "team": "Bayern",
           "goals": 4,
@@ -359,20 +373,6 @@
         {
           "name": "Yuito Suzuki",
           "team": "Freiburg",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Niclas Füllkrug",
-          "team": "Bremen",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Phillip Tietz",
-          "team": "Mainz",
           "goals": 4,
           "assists": 0,
           "penalties": 0
@@ -603,7 +603,14 @@
           "name": "Guus Til",
           "team": "PSV",
           "goals": 5,
-          "assists": 0,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Sven Mijnans",
+          "team": "PSV",
+          "goals": 5,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -619,13 +626,6 @@
           "goals": 4,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Luciano Valente",
-          "team": "Feyenoord",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -658,8 +658,8 @@
           "penalties": 0
         },
         {
-          "name": "Anis Moussa",
-          "team": "Feyenoord",
+          "name": "Guus Til",
+          "team": "PSV",
           "goals": 5,
           "assists": 1,
           "penalties": 0
@@ -782,7 +782,7 @@
         {
           "name": "William Lankshear",
           "team": "Middlesbrough",
-          "goals": 8,
+          "goals": 9,
           "assists": 0,
           "penalties": 0
         },
@@ -792,6 +792,20 @@
           "goals": 7,
           "assists": 0,
           "penalties": 0
+        },
+        {
+          "name": "Andri Guðjohnsen",
+          "team": "Blackburn",
+          "goals": 6,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Jack Moylan",
+          "team": "Cardiff",
+          "goals": 6,
+          "assists": 3,
+          "penalties": 1
         },
         {
           "name": "Jarrod Bowen",
@@ -808,24 +822,10 @@
           "penalties": 0
         },
         {
-          "name": "Jack Moylan",
-          "team": "Cardiff",
-          "goals": 5,
-          "assists": 2,
-          "penalties": 1
-        },
-        {
           "name": "Konstantinos Mavropanos",
           "team": "West Ham",
           "goals": 5,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Andri Guðjohnsen",
-          "team": "Blackburn",
-          "goals": 4,
-          "assists": 1,
           "penalties": 0
         },
         {
@@ -861,14 +861,14 @@
         {
           "name": "Jack Moylan",
           "team": "Cardiff",
-          "goals": 5,
-          "assists": 2,
+          "goals": 6,
+          "assists": 3,
           "penalties": 1
         },
         {
           "name": "Andri Guðjohnsen",
           "team": "Blackburn",
-          "goals": 4,
+          "goals": 6,
           "assists": 1,
           "penalties": 0
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-17T10:05:03.171Z"
+  "generatedAt": "2026-10-17T14:53:45.026Z"
 }
