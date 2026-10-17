@@ -1,26 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Clemson’s Football Program Needs Urgent ",
+      "player": "One Colorado Linebacker on Transfer Port",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Heavy.com",
-      "url": "https://heavy.com/sports/college-football/clemson-tigers/clemsons-football-program-needs-reassessment/",
-      "publishedAt": "2026-10-15T20:20:17Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/colorado/football/colorado-buffaloes-linebacker-carson-crawford-transfer-portal-watch-limited-playing-time",
+      "publishedAt": "2026-10-16T00:37:53Z"
     },
     {
-      "player": "College Football Playoff expanding to 24",
+      "player": "Steve Sarkisian takes issue with pass",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Lindyssports.com",
-      "url": "https://lindyssports.com/college-football/college-football-playoff-expanding-to-24-teams-is-all-for-money-not-for-quality",
-      "publishedAt": "2026-10-15T20:03:00Z"
+      "source": "Burnt Orange Nation",
+      "url": "https://www.burntorangenation.com/texas-longhorns-football/105870/texas-longhorns-penalties-pass-interference",
+      "publishedAt": "2026-10-15T23:59:08Z"
     }
   ],
-  "generatedAt": "2026-10-16T20:24:32.530Z",
+  "generatedAt": "2026-10-17T00:58:19.916Z",
   "note": "Transfers derived from news headlines at launch."
 }
