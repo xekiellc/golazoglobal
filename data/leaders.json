@@ -5,7 +5,7 @@
         {
           "name": "Erling Haaland",
           "team": "Man City",
-          "goals": 7,
+          "goals": 8,
           "assists": 0,
           "penalties": 0
         },
@@ -14,6 +14,13 @@
           "team": "Chelsea",
           "goals": 5,
           "assists": 3,
+          "penalties": 0
+        },
+        {
+          "name": "Alexander Isak",
+          "team": "Liverpool",
+          "goals": 5,
+          "assists": 0,
           "penalties": 0
         },
         {
@@ -28,13 +35,6 @@
           "team": "Man City",
           "goals": 4,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Alexander Isak",
-          "team": "Liverpool",
-          "goals": 4,
-          "assists": 0,
           "penalties": 0
         },
         {
@@ -121,6 +121,13 @@
           "penalties": 3
         },
         {
+          "name": "Lamine Yamal",
+          "team": "Barça",
+          "goals": 8,
+          "assists": 6,
+          "penalties": 1
+        },
+        {
           "name": "Sergio Camello",
           "team": "Rayo Vallecano",
           "goals": 7,
@@ -140,13 +147,6 @@
           "goals": 7,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Lamine Yamal",
-          "team": "Barça",
-          "goals": 7,
-          "assists": 5,
-          "penalties": 1
         },
         {
           "name": "Roberto Fernández",
@@ -188,8 +188,8 @@
         {
           "name": "Lamine Yamal",
           "team": "Barça",
-          "goals": 7,
-          "assists": 5,
+          "goals": 8,
+          "assists": 6,
           "penalties": 1
         },
         {
@@ -253,6 +253,13 @@
           "penalties": 0
         },
         {
+          "name": "Marcus Thuram-Ulien",
+          "team": "Inter",
+          "goals": 4,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Daniel Maldini",
           "team": "Cagliari",
           "goals": 4,
@@ -286,16 +293,16 @@
           "goals": 3,
           "assists": 2,
           "penalties": 0
-        },
-        {
-          "name": "Davide Frattesi",
-          "team": "Lazio",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Marcus Thuram-Ulien",
+          "team": "Inter",
+          "goals": 4,
+          "assists": 2,
+          "penalties": 0
+        },
         {
           "name": "Adrien Rabiot",
           "team": "Milan",
@@ -323,18 +330,25 @@
           "goals": 7,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Donyell Malen",
-          "team": "Roma",
-          "goals": 6,
-          "assists": 0,
-          "penalties": 0
         }
       ]
     },
     "BL1": {
       "scorers": [
+        {
+          "name": "Niclas Füllkrug",
+          "team": "Bremen",
+          "goals": 6,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Michael Olise",
+          "team": "Bayern",
+          "goals": 5,
+          "assists": 2,
+          "penalties": 0
+        },
         {
           "name": "Younes Ebnoutalib",
           "team": "Frankfurt",
@@ -350,13 +364,6 @@
           "penalties": 0
         },
         {
-          "name": "Niclas Füllkrug",
-          "team": "Bremen",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Phillip Tietz",
           "team": "Mainz",
           "goals": 5,
@@ -364,7 +371,7 @@
           "penalties": 0
         },
         {
-          "name": "Michael Olise",
+          "name": "Luis Díaz",
           "team": "Bayern",
           "goals": 4,
           "assists": 1,
@@ -378,6 +385,13 @@
           "penalties": 0
         },
         {
+          "name": "Michael Gregoritsch",
+          "team": "Augsburg",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Christopher Nkunku",
           "team": "RB Leipzig",
           "goals": 4,
@@ -385,33 +399,26 @@
           "penalties": 0
         },
         {
-          "name": "Antonio Nusa",
-          "team": "RB Leipzig",
-          "goals": 3,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
-          "name": "Igor Matanovic",
-          "team": "Freiburg",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Michael Gregoritsch",
-          "team": "Augsburg",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
+          "name": "Harry Kane",
+          "team": "Bayern",
+          "goals": 4,
+          "assists": 4,
+          "penalties": 1
         }
       ],
       "topAssists": [
         {
-          "name": "Antonio Nusa",
-          "team": "RB Leipzig",
-          "goals": 3,
-          "assists": 3,
+          "name": "Harry Kane",
+          "team": "Bayern",
+          "goals": 4,
+          "assists": 4,
+          "penalties": 1
+        },
+        {
+          "name": "Michael Olise",
+          "team": "Bayern",
+          "goals": 5,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -429,15 +436,8 @@
           "penalties": 0
         },
         {
-          "name": "Michael Olise",
+          "name": "Luis Díaz",
           "team": "Bayern",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Christopher Nkunku",
-          "team": "RB Leipzig",
           "goals": 4,
           "assists": 1,
           "penalties": 0
@@ -485,7 +485,7 @@
           "name": "Ferrán Torres",
           "team": "PSG",
           "goals": 4,
-          "assists": 0,
+          "assists": 1,
           "penalties": 0
         },
         {
@@ -513,7 +513,7 @@
           "name": "Florian Thauvin",
           "team": "RC Lens",
           "goals": 3,
-          "assists": 5,
+          "assists": 6,
           "penalties": 3
         }
       ],
@@ -522,7 +522,7 @@
           "name": "Florian Thauvin",
           "team": "RC Lens",
           "goals": 3,
-          "assists": 5,
+          "assists": 6,
           "penalties": 3
         },
         {
@@ -547,11 +547,11 @@
           "penalties": 1
         },
         {
-          "name": "Lassine Sinayoko",
-          "team": "Paris FC",
+          "name": "Ferrán Torres",
+          "team": "PSG",
           "goals": 4,
           "assists": 1,
-          "penalties": 2
+          "penalties": 0
         }
       ]
     },
@@ -621,10 +621,10 @@
           "penalties": 0
         },
         {
-          "name": "Ro-Zangelo Daal",
-          "team": "AZ",
-          "goals": 4,
-          "assists": 0,
+          "name": "Nacho Ferri",
+          "team": "Feyenoord",
+          "goals": 5,
+          "assists": 1,
           "penalties": 0
         }
       ],
@@ -815,6 +815,13 @@
           "penalties": 1
         },
         {
+          "name": "Kieffer Moore",
+          "team": "Wrexham",
+          "goals": 5,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Mohamed Toure",
           "team": "Norwich",
           "goals": 5,
@@ -841,13 +848,6 @@
           "goals": 4,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Tyreece Campbell",
-          "team": "Charlton",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -866,6 +866,13 @@
           "penalties": 1
         },
         {
+          "name": "Kieffer Moore",
+          "team": "Wrexham",
+          "goals": 5,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Andri Guðjohnsen",
           "team": "Blackburn",
           "goals": 6,
@@ -875,13 +882,6 @@
         {
           "name": "Adam Idah",
           "team": "Swansea",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Tyreece Campbell",
-          "team": "Charlton",
           "goals": 4,
           "assists": 1,
           "penalties": 0
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-17T14:53:45.026Z"
+  "generatedAt": "2026-10-17T20:02:44.562Z"
 }

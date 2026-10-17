@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "College football schedule 2026",
+      "player": "3 & Out",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-schedule-2026-what-to-watch-week-7-tv-channels-streaming/",
-      "publishedAt": "2026-10-16T14:43:47Z"
+      "source": "Land-Grant Holy Land",
+      "url": "https://www.landgrantholyland.com/ohio-state-football/123902/3-and-out-ohio-state-buckeyes-indiana-hoosiers-big-ten-2026-players-to-watch-keys-to-game-score-prediction",
+      "publishedAt": "2026-10-16T19:31:00Z"
     },
     {
-      "player": "From SEC softball to Summit hoops, Abby ",
+      "player": "Nebraska’s Youth Can Wait",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Grand Forks Herald",
-      "url": "https://www.grandforksherald.com/sports/college/from-sec-softball-to-summit-hoops-abby-duchscherer-looks-to-make-her-mark-at-und",
-      "publishedAt": "2026-10-16T14:37:00Z"
+      "source": "Corn Nation",
+      "url": "https://www.cornnation.com/nebraska-football-recruiting/103580/nebraskas-youth-can-wait-experience-could-be-the-difference-against-oregon",
+      "publishedAt": "2026-10-16T19:15:00Z"
+    },
+    {
+      "player": "Oregon commit Brayton Feister, brother g",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/high-school/football/2026/10/16/oregon-commit-brayton-feister-brydon-eligibility-massillon-football-ohsaa/92285453007/",
+      "publishedAt": "2026-10-16T19:06:03Z"
     }
   ],
-  "generatedAt": "2026-10-17T14:50:03.212Z",
+  "generatedAt": "2026-10-17T19:59:07.480Z",
   "note": "Transfers derived from news headlines at launch."
 }
