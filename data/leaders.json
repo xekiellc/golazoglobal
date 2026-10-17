@@ -801,13 +801,6 @@
           "penalties": 1
         },
         {
-          "name": "Fer López",
-          "team": "Wolverhampton",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
           "name": "Mohamed Toure",
           "team": "Norwich",
           "goals": 5,
@@ -848,6 +841,13 @@
           "goals": 4,
           "assists": 1,
           "penalties": 0
+        },
+        {
+          "name": "Tyreece Campbell",
+          "team": "Charlton",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
         }
       ],
       "topAssists": [
@@ -866,13 +866,6 @@
           "penalties": 1
         },
         {
-          "name": "Fer López",
-          "team": "Wolverhampton",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
           "name": "Andri Guðjohnsen",
           "team": "Blackburn",
           "goals": 4,
@@ -882,6 +875,13 @@
         {
           "name": "Adam Idah",
           "team": "Swansea",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Tyreece Campbell",
+          "team": "Charlton",
           "goals": 4,
           "assists": 1,
           "penalties": 0
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-17T01:02:01.766Z"
+  "generatedAt": "2026-10-17T10:05:03.171Z"
 }

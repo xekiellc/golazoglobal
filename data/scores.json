@@ -1,15 +1,6 @@
 {
   "matches": [
     {
-      "league": "BSA",
-      "homeTeam": "Mirassol",
-      "awayTeam": "Internacional",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "PAUSED",
-      "utcDate": "2026-10-16T23:00:00Z"
-    },
-    {
       "league": "SA",
       "homeTeam": "Frosinone",
       "awayTeam": "Sassuolo",
@@ -44,6 +35,15 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-10-16T18:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Internacional",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-10-16T23:00:00Z"
     },
     {
       "league": "PL",
@@ -415,5 +415,5 @@
       "utcDate": "2026-10-18T00:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-17T00:59:46.470Z"
+  "generatedAt": "2026-10-17T10:02:49.371Z"
 }

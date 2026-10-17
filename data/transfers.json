@@ -1,26 +1,26 @@
 {
   "transfers": [
     {
-      "player": "One Colorado Linebacker on Transfer Port",
+      "player": "Michigan State basketball ditches ego in",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/colorado/football/colorado-buffaloes-linebacker-carson-crawford-transfer-portal-watch-limited-playing-time",
-      "publishedAt": "2026-10-16T00:37:53Z"
+      "source": "Lansing State Journal",
+      "url": "https://www.lansingstatejournal.com/story/sports/college/msu/mens-basketball/2026/10/16/tom-izzo-michigan-state-spartans-basketball-media-day-final-four-detroit/92278530007/",
+      "publishedAt": "2026-10-16T09:54:54Z"
     },
     {
-      "player": "Steve Sarkisian takes issue with pass",
+      "player": "Rutgers football vs. Maryland preview",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Burnt Orange Nation",
-      "url": "https://www.burntorangenation.com/texas-longhorns-football/105870/texas-longhorns-penalties-pass-interference",
-      "publishedAt": "2026-10-15T23:59:08Z"
+      "source": "Asbury Park Press",
+      "url": "https://www.app.com/story/sports/college/rutgers/2026/10/16/rutgers-football-vs-maryland-preview-3-keys-for-the-scarlet-knights/92240431007/",
+      "publishedAt": "2026-10-16T09:22:11Z"
     }
   ],
-  "generatedAt": "2026-10-17T00:58:19.916Z",
+  "generatedAt": "2026-10-17T10:01:24.484Z",
   "note": "Transfers derived from news headlines at launch."
 }
