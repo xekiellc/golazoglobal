@@ -513,7 +513,7 @@
           "name": "Florian Thauvin",
           "team": "RC Lens",
           "goals": 3,
-          "assists": 6,
+          "assists": 7,
           "penalties": 3
         }
       ],
@@ -522,7 +522,7 @@
           "name": "Florian Thauvin",
           "team": "RC Lens",
           "goals": 3,
-          "assists": 6,
+          "assists": 7,
           "penalties": 3
         },
         {
@@ -558,17 +558,17 @@
     "DED": {
       "scorers": [
         {
+          "name": "Milan Zonneveld",
+          "team": "Sparta",
+          "goals": 7,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Søren Tengstedt",
           "team": "Go Ahead",
           "goals": 6,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Milan Zonneveld",
-          "team": "Sparta",
-          "goals": 6,
-          "assists": 1,
           "penalties": 0
         },
         {
@@ -653,7 +653,7 @@
         {
           "name": "Milan Zonneveld",
           "team": "Sparta",
-          "goals": 6,
+          "goals": 7,
           "assists": 1,
           "penalties": 0
         },
@@ -943,7 +943,7 @@
           "name": "José Manuel López",
           "team": "Palmeiras",
           "goals": 9,
-          "assists": 4,
+          "assists": 5,
           "penalties": 0
         },
         {
@@ -973,7 +973,7 @@
           "name": "José Manuel López",
           "team": "Palmeiras",
           "goals": 9,
-          "assists": 4,
+          "assists": 5,
           "penalties": 0
         },
         {
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-17T20:02:44.562Z"
+  "generatedAt": "2026-10-18T00:37:01.433Z"
 }

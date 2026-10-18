@@ -1,36 +1,46 @@
 {
   "transfers": [
     {
-      "player": "3 & Out",
+      "player": "Evan Stewart Headlines Oregon Injury Rep",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Land-Grant Holy Land",
-      "url": "https://www.landgrantholyland.com/ohio-state-football/123902/3-and-out-ohio-state-buckeyes-indiana-hoosiers-big-ten-2026-players-to-watch-keys-to-game-score-prediction",
-      "publishedAt": "2026-10-16T19:31:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/oregon/football/evan-stewart-headlines-oregon-ducks-injury-report-nebraska-cornhuskers-game-looms",
+      "publishedAt": "2026-10-17T00:03:30Z"
     },
     {
-      "player": "Nebraska’s Youth Can Wait",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Corn Nation",
-      "url": "https://www.cornnation.com/nebraska-football-recruiting/103580/nebraskas-youth-can-wait-experience-could-be-the-difference-against-oregon",
-      "publishedAt": "2026-10-16T19:15:00Z"
-    },
-    {
-      "player": "Oregon commit Brayton Feister, brother g",
+      "player": "Report",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/high-school/football/2026/10/16/oregon-commit-brayton-feister-brydon-eligibility-massillon-football-ohsaa/92285453007/",
-      "publishedAt": "2026-10-16T19:06:03Z"
+      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/10/16/florida-football-tramell-jones-starting-quarterback-texas/92289805007/",
+      "publishedAt": "2026-10-17T00:02:34Z"
+    },
+    {
+      "player": "Ohio State vs. Indiana prediction, odds,",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/ohio-state-indiana-prediction-odds-start-time-2026-week-7-college-football-picks/",
+      "publishedAt": "2026-10-16T23:42:58Z"
+    },
+    {
+      "player": "Washington football injury report for Fr",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/football/2026/10/16/uw-huskies-football-injury-report-purdue-boilermakers-demond-williams-jr-xeree-alexander/92277621007/",
+      "publishedAt": "2026-10-16T23:30:34Z"
     }
   ],
-  "generatedAt": "2026-10-17T19:59:07.480Z",
+  "generatedAt": "2026-10-18T00:33:23.314Z",
   "note": "Transfers derived from news headlines at launch."
 }
