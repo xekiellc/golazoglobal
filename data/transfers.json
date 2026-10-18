@@ -1,46 +1,66 @@
 {
   "transfers": [
     {
-      "player": "Evan Stewart Headlines Oregon Injury Rep",
+      "player": "Wisconsin vs UCLA Prediction, Pick, Coll",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/oregon/football/evan-stewart-headlines-oregon-ducks-injury-report-nebraska-cornhuskers-game-looms",
-      "publishedAt": "2026-10-17T00:03:30Z"
+      "source": "The Action Network",
+      "url": "https://www.actionnetwork.com/ncaaf/wisconsin-badgers-vs-ucla-bruins-prediction-pick-odds-college-football-saturday-october-17",
+      "publishedAt": "2026-10-17T10:12:03Z"
     },
     {
-      "player": "Report",
+      "player": "Does UCF play today? Football schedule f",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Daytona Beach News-Journal",
+      "url": "https://www.news-journalonline.com/story/sports/college/ucf/2026/10/17/ucf-football-schedule-bye-week-7/92268315007/",
+      "publishedAt": "2026-10-17T10:05:42Z"
+    },
+    {
+      "player": "Last",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Peoples Person",
+      "url": "https://thepeoplesperson.com/2026/10/17/jadon-sancho-mulls-arabian-falcons-sokoor-al-arab-getafe-319399/",
+      "publishedAt": "2026-10-17T10:05:00Z"
+    },
+    {
+      "player": "Revenge game? Northwestern QB Aidan Chil",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/10/16/florida-football-tramell-jones-starting-quarterback-texas/92289805007/",
-      "publishedAt": "2026-10-17T00:02:34Z"
+      "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/10/17/aidan-chiles-transfer-northwestern-michigan-state/92236897007/",
+      "publishedAt": "2026-10-17T10:02:26Z"
     },
     {
-      "player": "Ohio State vs. Indiana prediction, odds,",
+      "player": "Why Austin Simmons transferred from Ole ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/ohio-state-indiana-prediction-odds-start-time-2026-week-7-college-football-picks/",
-      "publishedAt": "2026-10-16T23:42:58Z"
+      "source": "Clarion Ledger",
+      "url": "https://www.clarionledger.com/story/sports/college/ole-miss/2026/10/17/austin-simmons-missouri-transfer-ole-miss-trinidad-chambliss/92269274007/",
+      "publishedAt": "2026-10-17T10:02:25Z"
     },
     {
-      "player": "Washington football injury report for Fr",
+      "player": "TENNESSEE VOLS FOOTBALL",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/football/2026/10/16/uw-huskies-football-injury-report-purdue-boilermakers-demond-williams-jr-xeree-alexander/92277621007/",
-      "publishedAt": "2026-10-16T23:30:34Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/tennessee/game-day/tennessee-vols-football-five-keys-as-ut-hosts-alabama",
+      "publishedAt": "2026-10-17T10:00:32Z"
     }
   ],
-  "generatedAt": "2026-10-18T00:33:23.314Z",
+  "generatedAt": "2026-10-18T10:14:50.112Z",
   "note": "Transfers derived from news headlines at launch."
 }

@@ -2138,6 +2138,19 @@
       },
       {
         "position": 8,
+        "team": "São Paulo",
+        "played": 31,
+        "won": 12,
+        "drawn": 6,
+        "lost": 13,
+        "goalsFor": 36,
+        "goalsAgainst": 35,
+        "goalDifference": 1,
+        "points": 42,
+        "form": ""
+      },
+      {
+        "position": 9,
         "team": "Santos",
         "played": 30,
         "won": 11,
@@ -2150,7 +2163,7 @@
         "form": ""
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "Bragantino",
         "played": 30,
         "won": 11,
@@ -2159,19 +2172,6 @@
         "goalsFor": 38,
         "goalsAgainst": 35,
         "goalDifference": 3,
-        "points": 40,
-        "form": ""
-      },
-      {
-        "position": 10,
-        "team": "São Paulo",
-        "played": 31,
-        "won": 11,
-        "drawn": 7,
-        "lost": 13,
-        "goalsFor": 35,
-        "goalsAgainst": 35,
-        "goalDifference": 0,
         "points": 40,
         "form": ""
       },
@@ -2216,19 +2216,6 @@
       },
       {
         "position": 14,
-        "team": "Vasco da Gama",
-        "played": 30,
-        "won": 9,
-        "drawn": 9,
-        "lost": 12,
-        "goalsFor": 36,
-        "goalsAgainst": 42,
-        "goalDifference": -6,
-        "points": 36,
-        "form": ""
-      },
-      {
-        "position": 15,
         "team": "Mirassol",
         "played": 31,
         "won": 9,
@@ -2238,6 +2225,19 @@
         "goalsAgainst": 44,
         "goalDifference": -8,
         "points": 36,
+        "form": ""
+      },
+      {
+        "position": 15,
+        "team": "Vasco da Gama",
+        "played": 30,
+        "won": 9,
+        "drawn": 8,
+        "lost": 13,
+        "goalsFor": 36,
+        "goalsAgainst": 43,
+        "goalDifference": -7,
+        "points": 35,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-10-18T00:35:49.760Z"
+  "generatedAt": "2026-10-18T10:17:20.050Z"
 }
