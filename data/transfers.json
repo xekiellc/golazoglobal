@@ -1,5 +1,26 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-10-18T15:15:23.568Z",
+  "transfers": [
+    {
+      "player": "ALL",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/high-school/football/2026/10/17/chandler-centennial-jai-jones-torrin-hill-arizona-football-recap/92300903007/",
+      "publishedAt": "2026-10-17T19:36:33Z"
+    },
+    {
+      "player": "Florida 27, No. 7 Texas 24",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Burnt Orange Nation",
+      "url": "https://www.burntorangenation.com/general/105969/florida-27-no-7-texas-24-three-things-we-learned",
+      "publishedAt": "2026-10-17T19:31:40Z"
+    }
+  ],
+  "generatedAt": "2026-10-18T19:58:14.158Z",
   "note": "Transfers derived from news headlines at launch."
 }

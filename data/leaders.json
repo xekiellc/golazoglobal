@@ -121,6 +121,13 @@
           "penalties": 3
         },
         {
+          "name": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "goals": 8,
+          "assists": 2,
+          "penalties": 1
+        },
+        {
           "name": "Lamine Yamal",
           "team": "Barça",
           "goals": 8,
@@ -133,13 +140,6 @@
           "goals": 7,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Kylian Mbappé",
-          "team": "Real Madrid",
-          "goals": 7,
-          "assists": 2,
-          "penalties": 1
         },
         {
           "name": "Ante Budimir",
@@ -202,7 +202,7 @@
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
-          "goals": 7,
+          "goals": 8,
           "assists": 2,
           "penalties": 1
         },
@@ -246,6 +246,20 @@
           "penalties": 1
         },
         {
+          "name": "Nikola Krstović",
+          "team": "Atalanta",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Adrien Rabiot",
+          "team": "Milan",
+          "goals": 4,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
           "name": "Lautaro Martínez",
           "team": "Inter",
           "goals": 4,
@@ -279,23 +293,16 @@
           "goals": 3,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Kevin De Bruyne",
-          "team": "Napoli",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 1
-        },
-        {
-          "name": "Nikola Krstović",
-          "team": "Atalanta",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Adrien Rabiot",
+          "team": "Milan",
+          "goals": 4,
+          "assists": 3,
+          "penalties": 0
+        },
         {
           "name": "Marcus Thuram-Ulien",
           "team": "Inter",
@@ -304,16 +311,9 @@
           "penalties": 0
         },
         {
-          "name": "Kevin De Bruyne",
-          "team": "Napoli",
-          "goals": 3,
-          "assists": 1,
-          "penalties": 1
-        },
-        {
           "name": "Nikola Krstović",
           "team": "Atalanta",
-          "goals": 3,
+          "goals": 4,
           "assists": 1,
           "penalties": 0
         },
@@ -447,6 +447,20 @@
     "FL1": {
       "scorers": [
         {
+          "name": "Esteban Lepaul",
+          "team": "Stade Rennais",
+          "goals": 7,
+          "assists": 0,
+          "penalties": 4
+        },
+        {
+          "name": "Lassine Sinayoko",
+          "team": "Paris FC",
+          "goals": 6,
+          "assists": 3,
+          "penalties": 3
+        },
+        {
           "name": "Amine Gouiri",
           "team": "Marseille",
           "goals": 5,
@@ -475,25 +489,11 @@
           "penalties": 1
         },
         {
-          "name": "Esteban Lepaul",
-          "team": "Stade Rennais",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
           "name": "Ferrán Torres",
           "team": "PSG",
           "goals": 4,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Lassine Sinayoko",
-          "team": "Paris FC",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 2
         },
         {
           "name": "Paris Brunner",
@@ -526,6 +526,13 @@
           "penalties": 3
         },
         {
+          "name": "Lassine Sinayoko",
+          "team": "Paris FC",
+          "goals": 6,
+          "assists": 3,
+          "penalties": 3
+        },
+        {
           "name": "Amine Gouiri",
           "team": "Marseille",
           "goals": 5,
@@ -545,13 +552,6 @@
           "goals": 4,
           "assists": 1,
           "penalties": 1
-        },
-        {
-          "name": "Ferrán Torres",
-          "team": "PSG",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
         }
       ]
     },
@@ -572,29 +572,29 @@
           "penalties": 0
         },
         {
-          "name": "Ro-Zangelo Daal",
-          "team": "AZ",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Brynjolfur Darri Willumsson",
           "team": "Groningen",
-          "goals": 5,
+          "goals": 6,
           "assists": 0,
           "penalties": 0
         },
         {
           "name": "Thom van Bergen",
           "team": "Groningen",
-          "goals": 5,
+          "goals": 6,
           "assists": 2,
           "penalties": 1
         },
         {
           "name": "Julian Brandt",
           "team": "Ajax",
+          "goals": 6,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Ro-Zangelo Daal",
+          "team": "AZ",
           "goals": 5,
           "assists": 0,
           "penalties": 0
@@ -614,14 +614,14 @@
           "penalties": 0
         },
         {
-          "name": "Guus Til",
-          "team": "PSV",
+          "name": "Anthony Descotte",
+          "team": "Sittard",
           "goals": 5,
-          "assists": 1,
+          "assists": 0,
           "penalties": 0
         },
         {
-          "name": "Sven Mijnans",
+          "name": "Guus Til",
           "team": "PSV",
           "goals": 5,
           "assists": 1,
@@ -646,7 +646,7 @@
         {
           "name": "Thom van Bergen",
           "team": "Groningen",
-          "goals": 5,
+          "goals": 6,
           "assists": 2,
           "penalties": 1
         },
@@ -914,9 +914,9 @@
         {
           "name": "Carlos Vinícius",
           "team": "Grêmio",
-          "goals": 10,
+          "goals": 11,
           "assists": 1,
-          "penalties": 1
+          "penalties": 2
         },
         {
           "name": "Danilo dos Santos de Oliveira",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-18T15:19:09.916Z"
+  "generatedAt": "2026-10-18T20:01:48.726Z"
 }
