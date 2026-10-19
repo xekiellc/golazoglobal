@@ -1,26 +1,26 @@
 {
   "transfers": [
     {
-      "player": "ALL",
+      "player": "UAlbany football rips Golden Apple Troph",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/high-school/football/2026/10/17/chandler-centennial-jai-jones-torrin-hill-arizona-football-recap/92300903007/",
-      "publishedAt": "2026-10-17T19:36:33Z"
+      "source": "Albany Times Union",
+      "url": "https://www.timesunion.com/sports/article/ualbany-football-wins-stony-brook-caa-golden-apple-22477211.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "publishedAt": "2026-10-18T00:32:43Z"
     },
     {
-      "player": "Florida 27, No. 7 Texas 24",
+      "player": "How Jim Knowles turned Tennessee's defen",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Burnt Orange Nation",
-      "url": "https://www.burntorangenation.com/general/105969/florida-27-no-7-texas-24-three-things-we-learned",
-      "publishedAt": "2026-10-17T19:31:40Z"
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/jim-knowles-tennessees-defense-cfp-caliber/",
+      "publishedAt": "2026-10-18T00:07:18Z"
     }
   ],
-  "generatedAt": "2026-10-18T19:58:14.158Z",
+  "generatedAt": "2026-10-19T00:42:12.114Z",
   "note": "Transfers derived from news headlines at launch."
 }

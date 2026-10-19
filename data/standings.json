@@ -296,9 +296,9 @@
         "won": 7,
         "drawn": 0,
         "lost": 2,
-        "goalsFor": 21,
-        "goalsAgainst": 8,
-        "goalDifference": 13,
+        "goalsFor": 23,
+        "goalsAgainst": 9,
+        "goalDifference": 14,
         "points": 21,
         "form": ""
       },
@@ -335,9 +335,9 @@
         "won": 4,
         "drawn": 2,
         "lost": 3,
-        "goalsFor": 13,
-        "goalsAgainst": 14,
-        "goalDifference": -1,
+        "goalsFor": 14,
+        "goalsAgainst": 16,
+        "goalDifference": -2,
         "points": 14,
         "form": ""
       },
@@ -545,9 +545,9 @@
         "won": 6,
         "drawn": 1,
         "lost": 0,
-        "goalsFor": 12,
+        "goalsFor": 14,
         "goalsAgainst": 4,
-        "goalDifference": 8,
+        "goalDifference": 10,
         "points": 19,
         "form": ""
       },
@@ -624,8 +624,8 @@
         "drawn": 2,
         "lost": 2,
         "goalsFor": 9,
-        "goalsAgainst": 6,
-        "goalDifference": 3,
+        "goalsAgainst": 8,
+        "goalDifference": 1,
         "points": 11,
         "form": ""
       },
@@ -2047,6 +2047,19 @@
     "BSA": [
       {
         "position": 1,
+        "team": "Flamengo",
+        "played": 31,
+        "won": 20,
+        "drawn": 7,
+        "lost": 4,
+        "goalsFor": 61,
+        "goalsAgainst": 25,
+        "goalDifference": 36,
+        "points": 67,
+        "form": ""
+      },
+      {
+        "position": 2,
         "team": "Palmeiras",
         "played": 31,
         "won": 19,
@@ -2059,33 +2072,7 @@
         "form": ""
       },
       {
-        "position": 2,
-        "team": "Flamengo",
-        "played": 30,
-        "won": 19,
-        "drawn": 7,
-        "lost": 4,
-        "goalsFor": 58,
-        "goalsAgainst": 25,
-        "goalDifference": 33,
-        "points": 64,
-        "form": ""
-      },
-      {
         "position": 3,
-        "team": "Fluminense",
-        "played": 31,
-        "won": 15,
-        "drawn": 9,
-        "lost": 7,
-        "goalsFor": 49,
-        "goalsAgainst": 37,
-        "goalDifference": 12,
-        "points": 54,
-        "form": ""
-      },
-      {
-        "position": 4,
         "team": "Paranaense",
         "played": 31,
         "won": 15,
@@ -2098,7 +2085,33 @@
         "form": ""
       },
       {
+        "position": 4,
+        "team": "Cruzeiro",
+        "played": 31,
+        "won": 15,
+        "drawn": 6,
+        "lost": 10,
+        "goalsFor": 50,
+        "goalsAgainst": 46,
+        "goalDifference": 4,
+        "points": 51,
+        "form": ""
+      },
+      {
         "position": 5,
+        "team": "Fluminense",
+        "played": 31,
+        "won": 14,
+        "drawn": 9,
+        "lost": 8,
+        "goalsFor": 49,
+        "goalsAgainst": 39,
+        "goalDifference": 10,
+        "points": 51,
+        "form": ""
+      },
+      {
+        "position": 6,
         "team": "Mineiro",
         "played": 31,
         "won": 14,
@@ -2111,33 +2124,33 @@
         "form": ""
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "Bahia",
-        "played": 30,
+        "played": 31,
         "won": 13,
         "drawn": 10,
-        "lost": 7,
+        "lost": 8,
         "goalsFor": 44,
-        "goalsAgainst": 36,
-        "goalDifference": 8,
+        "goalsAgainst": 39,
+        "goalDifference": 5,
         "points": 49,
         "form": ""
       },
       {
-        "position": 7,
-        "team": "Cruzeiro",
+        "position": 8,
+        "team": "Santos",
         "played": 31,
-        "won": 14,
-        "drawn": 6,
-        "lost": 11,
-        "goalsFor": 47,
+        "won": 12,
+        "drawn": 9,
+        "lost": 10,
+        "goalsFor": 48,
         "goalsAgainst": 46,
-        "goalDifference": 1,
-        "points": 48,
+        "goalDifference": 2,
+        "points": 45,
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "São Paulo",
         "played": 31,
         "won": 12,
@@ -2150,29 +2163,16 @@
         "form": ""
       },
       {
-        "position": 9,
-        "team": "Santos",
-        "played": 31,
-        "won": 11,
-        "drawn": 9,
-        "lost": 11,
-        "goalsFor": 46,
-        "goalsAgainst": 46,
-        "goalDifference": 0,
-        "points": 42,
-        "form": ""
-      },
-      {
         "position": 10,
         "team": "Bragantino",
-        "played": 30,
+        "played": 31,
         "won": 11,
-        "drawn": 7,
+        "drawn": 8,
         "lost": 12,
-        "goalsFor": 38,
-        "goalsAgainst": 35,
+        "goalsFor": 39,
+        "goalsAgainst": 36,
         "goalDifference": 3,
-        "points": 40,
+        "points": 41,
         "form": ""
       },
       {
@@ -2242,19 +2242,6 @@
       },
       {
         "position": 16,
-        "team": "Grêmio",
-        "played": 31,
-        "won": 8,
-        "drawn": 10,
-        "lost": 13,
-        "goalsFor": 34,
-        "goalsAgainst": 41,
-        "goalDifference": -7,
-        "points": 34,
-        "form": ""
-      },
-      {
-        "position": 17,
         "team": "Corinthians",
         "played": 30,
         "won": 8,
@@ -2267,7 +2254,7 @@
         "form": ""
       },
       {
-        "position": 18,
+        "position": 17,
         "team": "Internacional",
         "played": 31,
         "won": 7,
@@ -2280,16 +2267,29 @@
         "form": ""
       },
       {
+        "position": 18,
+        "team": "Grêmio",
+        "played": 31,
+        "won": 7,
+        "drawn": 10,
+        "lost": 14,
+        "goalsFor": 34,
+        "goalsAgainst": 44,
+        "goalDifference": -10,
+        "points": 31,
+        "form": ""
+      },
+      {
         "position": 19,
         "team": "Clube do Remo",
-        "played": 30,
+        "played": 31,
         "won": 5,
-        "drawn": 10,
+        "drawn": 11,
         "lost": 15,
-        "goalsFor": 33,
-        "goalsAgainst": 48,
+        "goalsFor": 34,
+        "goalsAgainst": 49,
         "goalDifference": -15,
-        "points": 25,
+        "points": 26,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-10-18T20:00:39.215Z"
+  "generatedAt": "2026-10-19T00:44:38.610Z"
 }

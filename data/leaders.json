@@ -123,9 +123,9 @@
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
-          "goals": 8,
+          "goals": 9,
           "assists": 2,
-          "penalties": 1
+          "penalties": 2
         },
         {
           "name": "Lamine Yamal",
@@ -202,9 +202,9 @@
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
-          "goals": 8,
+          "goals": 9,
           "assists": 2,
-          "penalties": 1
+          "penalties": 2
         },
         {
           "name": "Pierre-Emerick Aubameyang",
@@ -907,7 +907,7 @@
         {
           "name": "Gabriel Barbosa",
           "team": "Santos",
-          "goals": 14,
+          "goals": 15,
           "assists": 3,
           "penalties": 2
         },
@@ -917,6 +917,13 @@
           "goals": 11,
           "assists": 1,
           "penalties": 2
+        },
+        {
+          "name": "Kaio Jorge",
+          "team": "Cruzeiro",
+          "goals": 11,
+          "assists": 2,
+          "penalties": 4
         },
         {
           "name": "Danilo dos Santos de Oliveira",
@@ -952,13 +959,6 @@
           "goals": 9,
           "assists": 1,
           "penalties": 2
-        },
-        {
-          "name": "John Kennedy",
-          "team": "Fluminense",
-          "goals": 9,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -986,19 +986,19 @@
         {
           "name": "Gabriel Barbosa",
           "team": "Santos",
-          "goals": 14,
+          "goals": 15,
           "assists": 3,
           "penalties": 2
         },
         {
-          "name": "Danilo dos Santos de Oliveira",
-          "team": "Botafogo",
-          "goals": 10,
+          "name": "Kaio Jorge",
+          "team": "Cruzeiro",
+          "goals": 11,
           "assists": 2,
-          "penalties": 0
+          "penalties": 4
         }
       ]
     }
   },
-  "generatedAt": "2026-10-18T20:01:48.726Z"
+  "generatedAt": "2026-10-19T00:45:52.378Z"
 }
