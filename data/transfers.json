@@ -1,26 +1,16 @@
 {
   "transfers": [
     {
-      "player": "UAlbany football rips Golden Apple Troph",
+      "player": "‘There’s no salvaging it now’",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Albany Times Union",
-      "url": "https://www.timesunion.com/sports/article/ualbany-football-wins-stony-brook-caa-golden-apple-22477211.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-      "publishedAt": "2026-10-18T00:32:43Z"
-    },
-    {
-      "player": "How Jim Knowles turned Tennessee's defen",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/jim-knowles-tennessees-defense-cfp-caliber/",
-      "publishedAt": "2026-10-18T00:07:18Z"
+      "source": "The Comeback",
+      "url": "https://thecomeback.com/college-football/theres-no-salvaging-it-now-analyst-thinks-arch-manning-is-done-at-texas.html",
+      "publishedAt": "2026-10-18T11:50:32Z"
     }
   ],
-  "generatedAt": "2026-10-19T00:42:12.114Z",
+  "generatedAt": "2026-10-19T11:52:43.012Z",
   "note": "Transfers derived from news headlines at launch."
 }
