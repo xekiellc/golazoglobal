@@ -1,6 +1,15 @@
 {
   "matches": [
     {
+      "league": "SA",
+      "homeTeam": "Monza",
+      "awayTeam": "Cagliari",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-19T16:30:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Bournemouth",
       "awayTeam": "Sunderland",
@@ -281,15 +290,6 @@
     },
     {
       "league": "SA",
-      "homeTeam": "Monza",
-      "awayTeam": "Cagliari",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-19T16:30:00Z"
-    },
-    {
-      "league": "SA",
       "homeTeam": "Parma",
       "awayTeam": "Torino",
       "homeScore": null,
@@ -316,5 +316,5 @@
       "utcDate": "2026-10-19T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-19T11:54:07.273Z"
+  "generatedAt": "2026-10-19T18:14:04.199Z"
 }

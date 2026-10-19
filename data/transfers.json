@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "‘There’s no salvaging it now’",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Comeback",
-      "url": "https://thecomeback.com/college-football/theres-no-salvaging-it-now-analyst-thinks-arch-manning-is-done-at-texas.html",
-      "publishedAt": "2026-10-18T11:50:32Z"
-    }
-  ],
-  "generatedAt": "2026-10-19T11:52:43.012Z",
+  "transfers": [],
+  "generatedAt": "2026-10-19T18:12:41.129Z",
   "note": "Transfers derived from news headlines at launch."
 }
