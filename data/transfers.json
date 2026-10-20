@@ -1,5 +1,26 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-10-20T16:12:53.509Z",
+  "transfers": [
+    {
+      "player": "SEC's crazy, history",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/secs-crazy-history-making-week-seven-weekend-latest-example-college-footballs-new-era",
+      "publishedAt": "2026-10-19T20:48:38Z"
+    },
+    {
+      "player": "Penn State Running Back’s Dad Went Scorc",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "BroBible",
+      "url": "https://brobible.com/sports/article/quinton-martin-dad-penn-state-running-back-social-media-post-rant-criticism-rocco-becht-matt-campbell/",
+      "publishedAt": "2026-10-19T20:44:23Z"
+    }
+  ],
+  "generatedAt": "2026-10-20T21:09:00.884Z",
   "note": "Transfers derived from news headlines at launch."
 }

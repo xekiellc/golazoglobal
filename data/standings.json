@@ -1811,6 +1811,19 @@
       },
       {
         "position": 7,
+        "team": "Wolverhampton",
+        "played": 11,
+        "won": 5,
+        "drawn": 3,
+        "lost": 3,
+        "goalsFor": 19,
+        "goalsAgainst": 16,
+        "goalDifference": 3,
+        "points": 18,
+        "form": ""
+      },
+      {
+        "position": 8,
         "team": "Southampton",
         "played": 11,
         "won": 6,
@@ -1819,19 +1832,6 @@
         "goalsFor": 21,
         "goalsAgainst": 10,
         "goalDifference": 11,
-        "points": 17,
-        "form": ""
-      },
-      {
-        "position": 8,
-        "team": "Wolverhampton",
-        "played": 10,
-        "won": 5,
-        "drawn": 2,
-        "lost": 3,
-        "goalsFor": 18,
-        "goalsAgainst": 15,
-        "goalDifference": 3,
         "points": 17,
         "form": ""
       },
@@ -1890,14 +1890,14 @@
       {
         "position": 13,
         "team": "Portsmouth",
-        "played": 10,
+        "played": 11,
         "won": 4,
-        "drawn": 2,
+        "drawn": 3,
         "lost": 4,
-        "goalsFor": 13,
-        "goalsAgainst": 13,
+        "goalsFor": 14,
+        "goalsAgainst": 14,
         "goalDifference": 0,
-        "points": 14,
+        "points": 15,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-10-20T16:15:18.126Z"
+  "generatedAt": "2026-10-20T21:11:27.154Z"
 }
