@@ -1,5 +1,56 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-10-19T18:12:41.129Z",
+  "transfers": [
+    {
+      "player": "Watch",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Deseret News",
+      "url": "https://www.deseret.com/sports/2026/10/18/three-key-plays-in-byu-win-over-notre-dame/",
+      "publishedAt": "2026-10-19T01:03:36Z"
+    },
+    {
+      "player": "How adjustment has fueled Ole Miss' 5",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Northeast Mississippi Daily Journal",
+      "url": "https://www.djournal.com/sports/college/ole-miss/how-adjustment-has-fueled-ole-miss-5-1-start/article_0bd9785b-ca0d-442f-8a4a-7a71e1a0e458.html",
+      "publishedAt": "2026-10-19T01:01:00Z"
+    },
+    {
+      "player": "Three Arkansas Players Quietly Putting T",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/arkansas/football/three-arkansas-players-quietly-putting-together-good-seasons",
+      "publishedAt": "2026-10-19T00:59:38Z"
+    },
+    {
+      "player": "Penn State HC Matt Campbell on Chance of",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/college-football/penn-state-nittany-lions/matt-campbell-chance-benching-rocco-becht/",
+      "publishedAt": "2026-10-19T00:59:20Z"
+    },
+    {
+      "player": "UCLA moves to no. 9 in AP Poll after def",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Thesportingtribune.com",
+      "url": "https://www.thesportingtribune.com/2026/10/18/ucla-moves-to-no-9-in-ap-poll-after-defeating-wisconsin",
+      "publishedAt": "2026-10-19T00:38:04Z"
+    }
+  ],
+  "generatedAt": "2026-10-20T01:28:02.886Z",
   "note": "Transfers derived from news headlines at launch."
 }

@@ -725,17 +725,17 @@
           "penalties": 1
         },
         {
+          "name": "Pau Victor Delgado",
+          "team": "Braga",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "André Clovis",
           "team": "Acad. Viseu",
           "goals": 4,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Abraham Marcus",
-          "team": "Amadora",
-          "goals": 4,
-          "assists": 1,
           "penalties": 0
         }
       ],
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-19T18:16:18.577Z"
+  "generatedAt": "2026-10-20T01:31:45.708Z"
 }
