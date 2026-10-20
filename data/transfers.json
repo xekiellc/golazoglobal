@@ -1,36 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Fox Host Pushes Bryce Underwood Toward M",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Essentially Sports",
-      "url": "https://www.essentiallysports.com/ncaa-college-football-news-fox-host-pushes-bryce-underwood-toward-michigans-big-ten-rival-amid-reported-internal-pressure-on-kyle-whittingham/",
-      "publishedAt": "2026-10-19T10:40:00Z"
-    },
-    {
-      "player": "Kentucky Wildcats News",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "A Sea Of Blue",
-      "url": "https://www.aseaofblue.com/kentucky-wildcats-news/184749/vanderbilt-texas-tech-game-week-uk-basketball",
-      "publishedAt": "2026-10-19T10:40:00Z"
-    },
-    {
-      "player": "Tennessee beat Alabama, smoked cigars an",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/outkick-sports/tennessee-beat-alabama-smoked-cigars-helped-fund-kalen-deboer-nil-500k-field-storming-fine",
-      "publishedAt": "2026-10-19T10:23:03Z"
-    }
-  ],
-  "generatedAt": "2026-10-20T10:49:18.586Z",
+  "transfers": [],
+  "generatedAt": "2026-10-20T16:12:53.509Z",
   "note": "Transfers derived from news headlines at launch."
 }
