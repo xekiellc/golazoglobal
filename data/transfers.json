@@ -1,36 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Calls mounting for Arch Manning to trans",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/arch-manning-transfer-from-texas-indiana-miami/",
-      "publishedAt": "2026-10-20T16:13:46Z"
-    },
-    {
-      "player": "Stephen Tsai",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Honolulu Star-Advertiser",
-      "url": "https://www.staradvertiser.com/2026/10/20/sports/stephen-tsai-a-24-team-cfp-would-deepen-the-class-divide/",
-      "publishedAt": "2026-10-20T16:08:00Z"
-    },
-    {
-      "player": "Ohio State Buckeyes are in major trouble",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Lindyssports.com",
-      "url": "https://lindyssports.com/college-football/ohio-state-buckeyes-are-in-major-trouble-after-julian-sayin-injury-news",
-      "publishedAt": "2026-10-20T16:07:00Z"
-    }
-  ],
-  "generatedAt": "2026-10-21T16:28:11.948Z",
+  "transfers": [],
+  "generatedAt": "2026-10-21T21:07:43.229Z",
   "note": "Transfers derived from news headlines at launch."
 }
