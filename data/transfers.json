@@ -1,26 +1,26 @@
 {
   "transfers": [
     {
-      "player": "NFL Draft stock report",
+      "player": "Reevaluating a Penn State Football Roste",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://draftwire.usatoday.com/story/sports/nfl/draft/2026/10/19/bryce-underwood-draft-stock-sell/92324680007/",
-      "publishedAt": "2026-10-20T00:35:20Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/pennstate/football/reevaluating-penn-state-football-roster-that-was-overvalued-and-has-underachieved",
+      "publishedAt": "2026-10-20T11:00:06Z"
     },
     {
-      "player": "‘It’s amazing’",
+      "player": "Why fans should be grateful QB Bryce Und",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Comeback",
-      "url": "https://thecomeback.com/college-football/urban-meyer-changes-his-mind-on-nil-transfer-portal.html",
-      "publishedAt": "2026-10-20T00:21:21Z"
+      "source": "Maize n Brew",
+      "url": "https://www.maizenbrew.com/football/125642/michigan-football-bryce-underwood-tommy-carr-penn-state-transfer-portal-nil-kyle-whittingham",
+      "publishedAt": "2026-10-20T11:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-21T01:11:45.453Z",
+  "generatedAt": "2026-10-21T11:01:13.155Z",
   "note": "Transfers derived from news headlines at launch."
 }
