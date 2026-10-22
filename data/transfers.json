@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Maryland coaching candidates",
+      "player": "Former Alabama Starters Return to Tuscal",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/maryland-coaching-candidates-jake-dickert-billy-napier/",
-      "publishedAt": "2026-10-21T16:15:26Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/tamu/football/former-alabama-starters-return-to-tuscaloosa-with-texas-am",
+      "publishedAt": "2026-10-21T20:54:58Z"
     },
     {
-      "player": "4 Maryland players who could be poached ",
+      "player": "Auburn's Byrum Brown Earns QB Power Rank",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/4-maryland-terrapins-college-football-players-could-poached-mike-locksley-firing/",
-      "publishedAt": "2026-10-21T16:12:41Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/auburn/football/auburn-s-byrum-brown-earns-qb-power-ranking-after-georgia-upset",
+      "publishedAt": "2026-10-21T20:54:12Z"
+    },
+    {
+      "player": "Kansas Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/kansas/football/kansas-football-midseason-grades-for-the-struggling-jayhawks",
+      "publishedAt": "2026-10-21T20:42:13Z"
     }
   ],
-  "generatedAt": "2026-10-22T16:28:30.597Z",
+  "generatedAt": "2026-10-22T21:06:48.626Z",
   "note": "Transfers derived from news headlines at launch."
 }
