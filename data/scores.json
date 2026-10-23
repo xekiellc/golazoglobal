@@ -4,64 +4,64 @@
       "league": "PL",
       "homeTeam": "Ipswich Town",
       "awayTeam": "Nottingham",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
       "utcDate": "2026-10-23T19:00:00Z"
     },
     {
       "league": "PD",
       "homeTeam": "Alavés",
       "awayTeam": "Málaga",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "IN_PLAY",
       "utcDate": "2026-10-23T19:00:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Vitória SC",
+      "awayTeam": "Marítimo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-23T19:45:00Z"
     },
     {
       "league": "SA",
       "homeTeam": "Torino",
       "awayTeam": "Monza",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-10-23T18:45:00Z"
     },
     {
       "league": "BL1",
       "homeTeam": "Stuttgart",
       "awayTeam": "M'gladbach",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "FINISHED",
       "utcDate": "2026-10-23T18:30:00Z"
     },
     {
       "league": "FL1",
       "homeTeam": "Brest",
       "awayTeam": "Nice",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-10-23T18:45:00Z"
     },
     {
       "league": "DED",
       "homeTeam": "Go Ahead",
       "awayTeam": "Telstar",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-10-23T18:00:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Vitória SC",
-      "awayTeam": "Marítimo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-23T19:45:00Z"
     },
     {
       "league": "ELC",
@@ -82,5 +82,5 @@
       "utcDate": "2026-10-23T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-23T16:19:38.479Z"
+  "generatedAt": "2026-10-23T20:54:57.761Z"
 }

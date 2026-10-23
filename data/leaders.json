@@ -225,18 +225,18 @@
     "SA": {
       "scorers": [
         {
+          "name": "Gustavo Varela",
+          "team": "Monza",
+          "goals": 7,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Antonio Raimondo",
           "team": "Frosinone",
           "goals": 7,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Gustavo Varela",
-          "team": "Monza",
-          "goals": 6,
-          "assists": 1,
-          "penalties": 1
         },
         {
           "name": "Donyell Malen",
@@ -313,7 +313,7 @@
         {
           "name": "Gustavo Varela",
           "team": "Monza",
-          "goals": 6,
+          "goals": 7,
           "assists": 1,
           "penalties": 1
         },
@@ -558,17 +558,17 @@
     "DED": {
       "scorers": [
         {
+          "name": "Søren Tengstedt",
+          "team": "Go Ahead",
+          "goals": 8,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Milan Zonneveld",
           "team": "Sparta",
           "goals": 7,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Søren Tengstedt",
-          "team": "Go Ahead",
-          "goals": 6,
-          "assists": 2,
           "penalties": 0
         },
         {
@@ -639,7 +639,7 @@
         {
           "name": "Søren Tengstedt",
           "team": "Go Ahead",
-          "goals": 6,
+          "goals": 8,
           "assists": 2,
           "penalties": 0
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-23T16:21:52.926Z"
+  "generatedAt": "2026-10-23T20:57:15.692Z"
 }
