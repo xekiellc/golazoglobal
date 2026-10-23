@@ -1,95 +1,86 @@
 {
   "matches": [
     {
+      "league": "PL",
+      "homeTeam": "Ipswich Town",
+      "awayTeam": "Nottingham",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-23T19:00:00Z"
+    },
+    {
       "league": "PD",
-      "homeTeam": "Levante",
-      "awayTeam": "Athletic",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-10-21T18:00:00Z"
+      "homeTeam": "Alavés",
+      "awayTeam": "Málaga",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-23T19:00:00Z"
     },
     {
-      "league": "CL",
-      "homeTeam": "Como 1907",
-      "awayTeam": "Man United",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-10-21T16:45:00Z"
+      "league": "SA",
+      "homeTeam": "Torino",
+      "awayTeam": "Monza",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-23T18:45:00Z"
     },
     {
-      "league": "CL",
-      "homeTeam": "Lille",
-      "awayTeam": "Galatasaray",
-      "homeScore": 2,
-      "awayScore": 4,
-      "status": "FINISHED",
-      "utcDate": "2026-10-21T16:45:00Z"
+      "league": "BL1",
+      "homeTeam": "Stuttgart",
+      "awayTeam": "M'gladbach",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-23T18:30:00Z"
     },
     {
-      "league": "CL",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "RB Leipzig",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-10-21T19:00:00Z"
+      "league": "FL1",
+      "homeTeam": "Brest",
+      "awayTeam": "Nice",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-23T18:45:00Z"
     },
     {
-      "league": "CL",
-      "homeTeam": "Inter",
-      "awayTeam": "Shaktar",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-10-21T19:00:00Z"
+      "league": "DED",
+      "homeTeam": "Go Ahead",
+      "awayTeam": "Telstar",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-23T18:00:00Z"
     },
     {
-      "league": "CL",
-      "homeTeam": "Bayern",
-      "awayTeam": "Arsenal",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-10-21T19:00:00Z"
+      "league": "PPL",
+      "homeTeam": "Vitória SC",
+      "awayTeam": "Marítimo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-23T19:45:00Z"
     },
     {
-      "league": "CL",
-      "homeTeam": "Club Brugge",
-      "awayTeam": "RC Lens",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-10-21T19:00:00Z"
+      "league": "ELC",
+      "homeTeam": "Bolton",
+      "awayTeam": "Middlesbrough",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-23T19:00:00Z"
     },
     {
-      "league": "CL",
-      "homeTeam": "Aston Villa",
-      "awayTeam": "Viking",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-10-21T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Sporting CP",
-      "awayTeam": "LASK",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-10-21T19:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Real Betis",
-      "awayTeam": "Feyenoord",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-10-21T19:00:00Z"
+      "league": "BSA",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Clube do Remo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-23T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-22T21:08:11.331Z"
+  "generatedAt": "2026-10-23T01:09:43.824Z"
 }
