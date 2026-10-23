@@ -1,46 +1,36 @@
 {
   "transfers": [
     {
-      "player": "See Oregon Ducks football's injury repor",
+      "player": "'They're not special anymore'",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Register-Guard",
-      "url": "https://www.registerguard.com/story/sports/college/football/2026/10/21/oregon-ducks-football-dante-moore-evan-stewart-injury-report-illinois-game/92357947007/",
-      "publishedAt": "2026-10-22T00:39:02Z"
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/football/news/13602213/man-utds-21-year-deterioration-with-glazers-jim-ratcliffe-michael-carrick-and-alex-ferguson-all-responsible",
+      "publishedAt": "2026-10-22T10:51:00Z"
     },
     {
-      "player": "MSU could be without Alessio Milivojevic",
+      "player": "5 takeaways after Delaware rolled past M",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Detroit Free Press",
-      "url": "https://www.freep.com/story/sports/college/michigan-state/spartans/2026/10/21/michigan-state-spartans-football-injury-update-ucla-bruins/92371837007/",
-      "publishedAt": "2026-10-22T00:38:23Z"
+      "source": "The News Journal",
+      "url": "https://www.delawareonline.com/story/sports/college/ud/2026/10/22/5-takeaways-after-delaware-rolled-past-missouri-state-in-61-38-win/92359201007/",
+      "publishedAt": "2026-10-22T10:47:29Z"
     },
     {
-      "player": "Washington football star DB named Sporti",
+      "player": "When will the seats heat up for the Big ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/football/2026/10/21/alex-mclaughlin-uw-football-ryan-walters-taylor-mays-sporting-news-midseason-all-america-team/92366265007/",
-      "publishedAt": "2026-10-22T00:00:31Z"
-    },
-    {
-      "player": "Chris Marve Doesn't Hold Back on Defensi",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/colorado/football/chris-marve-doesnt-hold-back-defensive-linemen-santana-hopper-dylan-manuel-colorado-buffaloes",
-      "publishedAt": "2026-10-22T00:00:03Z"
+      "source": "Crimsonquarry.com",
+      "url": "https://www.crimsonquarry.com/big-ten-college-football/31070/matt-campbell-hot-seat-big-ten-coaches",
+      "publishedAt": "2026-10-22T10:30:00Z"
     }
   ],
-  "generatedAt": "2026-10-23T01:08:19.944Z",
+  "generatedAt": "2026-10-23T10:53:36.650Z",
   "note": "Transfers derived from news headlines at launch."
 }
