@@ -5,7 +5,7 @@
         {
           "name": "Erling Haaland",
           "team": "Man City",
-          "goals": 8,
+          "goals": 9,
           "assists": 0,
           "penalties": 0
         },
@@ -52,6 +52,13 @@
           "penalties": 0
         },
         {
+          "name": "Nicolas Jackson",
+          "team": "Aston Villa",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Bukayo Saka",
           "team": "Arsenal",
           "goals": 3,
@@ -61,13 +68,6 @@
         {
           "name": "Thierno Barry",
           "team": "Everton",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Jack Hinshelwood",
-          "team": "Brighton Hove",
           "goals": 3,
           "assists": 0,
           "penalties": 0
@@ -98,7 +98,7 @@
         {
           "name": "Erling Haaland",
           "team": "Man City",
-          "goals": 8,
+          "goals": 9,
           "assists": 0,
           "penalties": 0
         },
@@ -457,7 +457,7 @@
           "name": "Lassine Sinayoko",
           "team": "Paris FC",
           "goals": 6,
-          "assists": 3,
+          "assists": 4,
           "penalties": 3
         },
         {
@@ -529,7 +529,7 @@
           "name": "Lassine Sinayoko",
           "team": "Paris FC",
           "goals": 6,
-          "assists": 3,
+          "assists": 4,
           "penalties": 3
         },
         {
@@ -607,6 +607,13 @@
           "penalties": 1
         },
         {
+          "name": "Rafik el Arguioui",
+          "team": "Cambuur",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Gjivai Zechiël",
           "team": "Feyenoord",
           "goals": 5,
@@ -614,17 +621,10 @@
           "penalties": 0
         },
         {
-          "name": "Anthony Descotte",
-          "team": "Sittard",
+          "name": "Jacob Trenskow",
+          "team": "Heerenveen",
           "goals": 5,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Guus Til",
-          "team": "PSV",
-          "goals": 5,
-          "assists": 1,
+          "assists": 2,
           "penalties": 0
         }
       ],
@@ -651,16 +651,16 @@
           "penalties": 1
         },
         {
-          "name": "Milan Zonneveld",
-          "team": "Sparta",
-          "goals": 7,
-          "assists": 1,
+          "name": "Jacob Trenskow",
+          "team": "Heerenveen",
+          "goals": 5,
+          "assists": 2,
           "penalties": 0
         },
         {
-          "name": "Guus Til",
-          "team": "PSV",
-          "goals": 5,
+          "name": "Milan Zonneveld",
+          "team": "Sparta",
+          "goals": 7,
           "assists": 1,
           "penalties": 0
         }
@@ -787,17 +787,17 @@
           "penalties": 0
         },
         {
+          "name": "Andri Guðjohnsen",
+          "team": "Blackburn",
+          "goals": 8,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Cyle Larin",
           "team": "Southampton",
           "goals": 7,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Andri Guðjohnsen",
-          "team": "Blackburn",
-          "goals": 6,
-          "assists": 1,
           "penalties": 0
         },
         {
@@ -843,10 +843,10 @@
           "penalties": 0
         },
         {
-          "name": "Sam Dalby",
-          "team": "Bolton",
-          "goals": 4,
-          "assists": 0,
+          "name": "Patrick Bamford",
+          "team": "Sheffield Utd",
+          "goals": 5,
+          "assists": 1,
           "penalties": 0
         }
       ],
@@ -882,7 +882,7 @@
         {
           "name": "Andri Guðjohnsen",
           "team": "Blackburn",
-          "goals": 6,
+          "goals": 8,
           "assists": 1,
           "penalties": 0
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-24T15:19:13.929Z"
+  "generatedAt": "2026-10-24T20:08:33.467Z"
 }

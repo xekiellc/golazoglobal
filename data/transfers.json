@@ -1,16 +1,56 @@
 {
   "transfers": [
     {
-      "player": "“No Grace”",
+      "player": "Three Clemson Defensive Players to Watch",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Essentially Sports",
-      "url": "https://www.essentiallysports.com/ncaa-college-football-news-no-grace-lsu-gm-reveals-harsh-reality-lane-kiffin-must-face-amid-transfer-portal-pressure-billy-glasscock/",
-      "publishedAt": "2026-10-23T15:13:01Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/virginiatech/football/three-clemson-defensive-players-to-watch-against-virginia-tech-01m5k7y9837x",
+      "publishedAt": "2026-10-23T20:00:05Z"
+    },
+    {
+      "player": "Ole Miss men's basketball hit with tampe",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaab/sec/2026/10/23/ole-miss-basketball-tampering-ncaa-violations-punishment-chris-beard/92401255007/",
+      "publishedAt": "2026-10-23T19:57:38Z"
+    },
+    {
+      "player": "Ole Miss basketball commits NCAA tamperi",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Clarion Ledger",
+      "url": "https://www.clarionledger.com/story/sports/college/ole-miss/2026/10/23/ole-miss-basketball-tampering-ncaa-chris-beard/92401428007/",
+      "publishedAt": "2026-10-23T19:38:46Z"
+    },
+    {
+      "player": "Will Iowa Football Cover The Spread Agai",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/iowa/football/will-iowa-football-cover-the-spread-against-minnesota",
+      "publishedAt": "2026-10-23T19:30:05Z"
+    },
+    {
+      "player": "Answering Key Questions About Oklahoma S",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/colorado/football/oklahoma-state-answering-key-questions-colorado-buffaloes-matchup",
+      "publishedAt": "2026-10-23T19:30:01Z"
     }
   ],
-  "generatedAt": "2026-10-24T15:15:33.673Z",
+  "generatedAt": "2026-10-24T20:04:55.188Z",
   "note": "Transfers derived from news headlines at launch."
 }
