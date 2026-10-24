@@ -1,26 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Oregon Ducks' Injury Report vs. Illinois",
+      "player": "Brendan Sorsby's Cincinnati return was c",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/oregon/football/oregon-ducks-injury-report-illinois-fighting-iillini-reveals-lengthy-list",
-      "publishedAt": "2026-10-23T00:04:58Z"
-    },
-    {
-      "player": "Syracuse Football",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/syracuse/news/syracuse-football-fran-brown-names-starting-qb-for-matchup-with-unc",
-      "publishedAt": "2026-10-23T00:03:14Z"
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/big12/2026/10/23/brendan-sorsby-gambling-investigation-texas-tech-cincinnati/92371882007/",
+      "publishedAt": "2026-10-23T09:50:35Z"
     }
   ],
-  "generatedAt": "2026-10-24T01:19:12.413Z",
+  "generatedAt": "2026-10-24T10:08:08.045Z",
   "note": "Transfers derived from news headlines at launch."
 }
