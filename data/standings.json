@@ -1632,27 +1632,14 @@
         "won": 2,
         "drawn": 2,
         "lost": 5,
-        "goalsFor": 6,
+        "goalsFor": 10,
         "goalsAgainst": 10,
-        "goalDifference": -4,
+        "goalDifference": 0,
         "points": 8,
         "form": ""
       },
       {
         "position": 12,
-        "team": "Marítimo",
-        "played": 9,
-        "won": 2,
-        "drawn": 2,
-        "lost": 5,
-        "goalsFor": 9,
-        "goalsAgainst": 15,
-        "goalDifference": -6,
-        "points": 8,
-        "form": ""
-      },
-      {
-        "position": 13,
         "team": "Moreirense",
         "played": 8,
         "won": 2,
@@ -1661,6 +1648,19 @@
         "goalsFor": 8,
         "goalsAgainst": 15,
         "goalDifference": -7,
+        "points": 8,
+        "form": ""
+      },
+      {
+        "position": 13,
+        "team": "Marítimo",
+        "played": 9,
+        "won": 2,
+        "drawn": 2,
+        "lost": 5,
+        "goalsFor": 9,
+        "goalsAgainst": 19,
+        "goalDifference": -10,
         "points": 8,
         "form": ""
       },
@@ -2073,6 +2073,19 @@
       },
       {
         "position": 3,
+        "team": "Cruzeiro",
+        "played": 32,
+        "won": 16,
+        "drawn": 6,
+        "lost": 10,
+        "goalsFor": 51,
+        "goalsAgainst": 46,
+        "goalDifference": 5,
+        "points": 54,
+        "form": ""
+      },
+      {
+        "position": 4,
         "team": "Paranaense",
         "played": 31,
         "won": 15,
@@ -2082,19 +2095,6 @@
         "goalsAgainst": 37,
         "goalDifference": 12,
         "points": 53,
-        "form": ""
-      },
-      {
-        "position": 4,
-        "team": "Cruzeiro",
-        "played": 31,
-        "won": 15,
-        "drawn": 6,
-        "lost": 10,
-        "goalsFor": 50,
-        "goalsAgainst": 46,
-        "goalDifference": 4,
-        "points": 51,
         "form": ""
       },
       {
@@ -2282,13 +2282,13 @@
       {
         "position": 19,
         "team": "Clube do Remo",
-        "played": 31,
+        "played": 32,
         "won": 5,
         "drawn": 11,
-        "lost": 15,
+        "lost": 16,
         "goalsFor": 34,
-        "goalsAgainst": 49,
-        "goalDifference": -15,
+        "goalsAgainst": 50,
+        "goalDifference": -16,
         "points": 26,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-10-23T20:56:00.500Z"
+  "generatedAt": "2026-10-24T01:21:37.384Z"
 }
