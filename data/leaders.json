@@ -457,7 +457,7 @@
           "name": "Lassine Sinayoko",
           "team": "Paris FC",
           "goals": 6,
-          "assists": 4,
+          "assists": 3,
           "penalties": 3
         },
         {
@@ -529,7 +529,7 @@
           "name": "Lassine Sinayoko",
           "team": "Paris FC",
           "goals": 6,
-          "assists": 4,
+          "assists": 3,
           "penalties": 3
         },
         {
@@ -607,13 +607,6 @@
           "penalties": 1
         },
         {
-          "name": "Rafik el Arguioui",
-          "team": "Cambuur",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
           "name": "Gjivai Zechiël",
           "team": "Feyenoord",
           "goals": 5,
@@ -621,10 +614,17 @@
           "penalties": 0
         },
         {
-          "name": "Jacob Trenskow",
-          "team": "Heerenveen",
+          "name": "Anthony Descotte",
+          "team": "Sittard",
           "goals": 5,
-          "assists": 2,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Guus Til",
+          "team": "PSV",
+          "goals": 5,
+          "assists": 1,
           "penalties": 0
         }
       ],
@@ -651,16 +651,16 @@
           "penalties": 1
         },
         {
-          "name": "Jacob Trenskow",
-          "team": "Heerenveen",
-          "goals": 5,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
           "name": "Milan Zonneveld",
           "team": "Sparta",
           "goals": 7,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Guus Til",
+          "team": "PSV",
+          "goals": 5,
           "assists": 1,
           "penalties": 0
         }
@@ -926,6 +926,13 @@
           "penalties": 4
         },
         {
+          "name": "Luciano Juba",
+          "team": "Bahia",
+          "goals": 11,
+          "assists": 1,
+          "penalties": 5
+        },
+        {
           "name": "Danilo dos Santos de Oliveira",
           "team": "Botafogo",
           "goals": 10,
@@ -940,17 +947,10 @@
           "penalties": 2
         },
         {
-          "name": "Luciano Juba",
-          "team": "Bahia",
-          "goals": 10,
-          "assists": 1,
-          "penalties": 5
-        },
-        {
           "name": "José Manuel López",
           "team": "Palmeiras",
           "goals": 9,
-          "assists": 5,
+          "assists": 6,
           "penalties": 0
         },
         {
@@ -973,7 +973,7 @@
           "name": "José Manuel López",
           "team": "Palmeiras",
           "goals": 9,
-          "assists": 5,
+          "assists": 6,
           "penalties": 0
         },
         {
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-24T20:08:33.467Z"
+  "generatedAt": "2026-10-25T00:48:08.316Z"
 }
