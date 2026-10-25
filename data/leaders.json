@@ -10,24 +10,24 @@
           "penalties": 0
         },
         {
-          "name": "João Pedro",
-          "team": "Chelsea",
-          "goals": 5,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
           "name": "Alexander Isak",
           "team": "Liverpool",
-          "goals": 5,
+          "goals": 6,
           "assists": 0,
           "penalties": 0
         },
         {
           "name": "Marcus Tavernier",
           "team": "Bournemouth",
-          "goals": 4,
+          "goals": 5,
           "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "João Pedro",
+          "team": "Chelsea",
+          "goals": 5,
+          "assists": 3,
           "penalties": 0
         },
         {
@@ -105,7 +105,7 @@
         {
           "name": "Alexander Isak",
           "team": "Liverpool",
-          "goals": 5,
+          "goals": 6,
           "assists": 0,
           "penalties": 0
         }
@@ -239,6 +239,13 @@
           "penalties": 0
         },
         {
+          "name": "Nikola Krstović",
+          "team": "Atalanta",
+          "goals": 6,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Donyell Malen",
           "team": "Roma",
           "goals": 6,
@@ -253,10 +260,10 @@
           "penalties": 0
         },
         {
-          "name": "Nikola Krstović",
-          "team": "Atalanta",
-          "goals": 4,
-          "assists": 1,
+          "name": "Marcus Thuram-Ulien",
+          "team": "Inter",
+          "goals": 5,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -271,13 +278,6 @@
           "team": "Inter",
           "goals": 4,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Marcus Thuram-Ulien",
-          "team": "Inter",
-          "goals": 4,
-          "assists": 2,
           "penalties": 0
         },
         {
@@ -304,9 +304,16 @@
           "penalties": 0
         },
         {
+          "name": "Nikola Krstović",
+          "team": "Atalanta",
+          "goals": 6,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Marcus Thuram-Ulien",
           "team": "Inter",
-          "goals": 4,
+          "goals": 5,
           "assists": 2,
           "penalties": 0
         },
@@ -321,13 +328,6 @@
           "name": "Donyell Malen",
           "team": "Roma",
           "goals": 6,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Nikola Krstović",
-          "team": "Atalanta",
-          "goals": 4,
           "assists": 1,
           "penalties": 0
         }
@@ -565,6 +565,13 @@
           "penalties": 0
         },
         {
+          "name": "Brynjolfur Darri Willumsson",
+          "team": "Groningen",
+          "goals": 8,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Milan Zonneveld",
           "team": "Sparta",
           "goals": 7,
@@ -572,17 +579,10 @@
           "penalties": 0
         },
         {
-          "name": "Brynjolfur Darri Willumsson",
-          "team": "Groningen",
-          "goals": 6,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Thom van Bergen",
           "team": "Groningen",
           "goals": 6,
-          "assists": 2,
+          "assists": 3,
           "penalties": 1
         },
         {
@@ -600,6 +600,20 @@
           "penalties": 0
         },
         {
+          "name": "Guus Til",
+          "team": "PSV",
+          "goals": 6,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Anis Moussa",
+          "team": "Feyenoord",
+          "goals": 6,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Ro-Zangelo Daal",
           "team": "AZ",
           "goals": 5,
@@ -612,29 +626,15 @@
           "goals": 5,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Rafik el Arguioui",
-          "team": "Cambuur",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Gjivai Zechiël",
-          "team": "Feyenoord",
-          "goals": 5,
-          "assists": 4,
-          "penalties": 0
         }
       ],
       "topAssists": [
         {
-          "name": "Gjivai Zechiël",
-          "team": "Feyenoord",
-          "goals": 5,
-          "assists": 4,
-          "penalties": 0
+          "name": "Thom van Bergen",
+          "team": "Groningen",
+          "goals": 6,
+          "assists": 3,
+          "penalties": 1
         },
         {
           "name": "Søren Tengstedt",
@@ -642,13 +642,6 @@
           "goals": 8,
           "assists": 2,
           "penalties": 0
-        },
-        {
-          "name": "Thom van Bergen",
-          "team": "Groningen",
-          "goals": 6,
-          "assists": 2,
-          "penalties": 1
         },
         {
           "name": "Jacob Trenskow",
@@ -661,6 +654,13 @@
           "name": "Milan Zonneveld",
           "team": "Sparta",
           "goals": 7,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Guus Til",
+          "team": "PSV",
+          "goals": 6,
           "assists": 1,
           "penalties": 0
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-25T10:37:17.997Z"
+  "generatedAt": "2026-10-25T15:29:19.589Z"
 }

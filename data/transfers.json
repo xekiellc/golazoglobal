@@ -1,26 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Packers Draft",
+      "player": "Massillon vs. McKinley, OHSAA high schoo",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Acme Packing Company",
-      "url": "https://www.acmepackingcompany.com/green-bay-packers-draft/88645/packers-draft-college-football-discussion-week-8",
-      "publishedAt": "2026-10-24T10:25:00Z"
+      "source": "Canton Repository",
+      "url": "https://www.cantonrep.com/story/sports/high-school/fridaynightohio/2026/10/24/massillon-tigers-football-score-canton-mckinley-high-school-ohsaa-live-updates/92357368007/",
+      "publishedAt": "2026-10-24T15:01:39Z"
     },
     {
-      "player": "USC vs Wisconsin Prediction, Pick, Colle",
+      "player": "Newcastle Watching €15M",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Action Network",
-      "url": "https://www.actionnetwork.com/ncaaf/usc-trojans-vs-wisconsin-badgers-prediction-pick-odds-college-football-saturday-october-24",
-      "publishedAt": "2026-10-24T10:16:18Z"
+      "source": "SB Nation",
+      "url": "https://cominghomenewcastle.sbnation.com/newcastle-united-transfer-news-rumors/26510/newcastle-watching-e15m-rated-croatia-striker-for-january-transfer",
+      "publishedAt": "2026-10-24T15:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-25T10:33:32.893Z",
+  "generatedAt": "2026-10-25T15:25:32.467Z",
   "note": "Transfers derived from news headlines at launch."
 }
