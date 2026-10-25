@@ -343,16 +343,16 @@
           "penalties": 3
         },
         {
-          "name": "Patrik Schick",
-          "team": "Leverkusen",
+          "name": "Michael Olise",
+          "team": "Bayern",
           "goals": 6,
-          "assists": 2,
+          "assists": 3,
           "penalties": 0
         },
         {
-          "name": "Michael Olise",
-          "team": "Bayern",
-          "goals": 5,
+          "name": "Patrik Schick",
+          "team": "Leverkusen",
+          "goals": 6,
           "assists": 2,
           "penalties": 0
         },
@@ -415,16 +415,16 @@
           "penalties": 1
         },
         {
-          "name": "Patrik Schick",
-          "team": "Leverkusen",
+          "name": "Michael Olise",
+          "team": "Bayern",
           "goals": 6,
-          "assists": 2,
+          "assists": 3,
           "penalties": 0
         },
         {
-          "name": "Michael Olise",
-          "team": "Bayern",
-          "goals": 5,
+          "name": "Patrik Schick",
+          "team": "Leverkusen",
+          "goals": 6,
           "assists": 2,
           "penalties": 0
         },
@@ -464,8 +464,15 @@
           "name": "Amine Gouiri",
           "team": "Marseille",
           "goals": 5,
-          "assists": 1,
+          "assists": 2,
           "penalties": 1
+        },
+        {
+          "name": "Cameron Archer",
+          "team": "Auxerre",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 0
         },
         {
           "name": "Casper Tengstedt",
@@ -508,13 +515,6 @@
           "goals": 4,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Cameron Archer",
-          "team": "Auxerre",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -536,7 +536,7 @@
           "name": "Amine Gouiri",
           "team": "Marseille",
           "goals": 5,
-          "assists": 1,
+          "assists": 2,
           "penalties": 1
         },
         {
@@ -589,7 +589,7 @@
           "name": "Julian Brandt",
           "team": "Ajax",
           "goals": 6,
-          "assists": 0,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -644,6 +644,13 @@
           "penalties": 0
         },
         {
+          "name": "Julian Brandt",
+          "team": "Ajax",
+          "goals": 6,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Jacob Trenskow",
           "team": "Heerenveen",
           "goals": 6,
@@ -654,13 +661,6 @@
           "name": "Milan Zonneveld",
           "team": "Sparta",
           "goals": 7,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Guus Til",
-          "team": "PSV",
-          "goals": 6,
           "assists": 1,
           "penalties": 0
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-25T15:29:19.589Z"
+  "generatedAt": "2026-10-25T20:21:22.832Z"
 }

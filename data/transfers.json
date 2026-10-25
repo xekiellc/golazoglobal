@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Massillon vs. McKinley, OHSAA high schoo",
+      "player": "Three Stars",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Canton Repository",
-      "url": "https://www.cantonrep.com/story/sports/high-school/fridaynightohio/2026/10/24/massillon-tigers-football-score-canton-mckinley-high-school-ohsaa-live-updates/92357368007/",
-      "publishedAt": "2026-10-24T15:01:39Z"
+      "source": "Stateoftheu.com",
+      "url": "https://www.stateoftheu.com/miami-hurricanes-football/89192/three-stars-miami-vs-pitt",
+      "publishedAt": "2026-10-24T20:05:31Z"
     },
     {
-      "player": "Newcastle Watching €15M",
+      "player": "Has Sam Leavitt finally arrived for LSU?",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "SB Nation",
-      "url": "https://cominghomenewcastle.sbnation.com/newcastle-united-transfer-news-rumors/26510/newcastle-watching-e15m-rated-croatia-striker-for-january-transfer",
-      "publishedAt": "2026-10-24T15:00:00Z"
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/10/24/lsu-takeaways-auburn-football-sam-leavitt-defense-stats/92419196007/",
+      "publishedAt": "2026-10-24T19:55:29Z"
+    },
+    {
+      "player": "Opinion",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sportsnaut",
+      "url": "https://sportsnaut.com/college-football/opinion-ok-can-we-finally-slow-the-curt-cignetti-hype-train",
+      "publishedAt": "2026-10-24T19:53:20Z"
+    },
+    {
+      "player": "Sam Leavitt accounts for 4 TDs as No. 18",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/sam-leavitt-accounts-4-tds-195113741.html",
+      "publishedAt": "2026-10-24T19:51:13Z"
     }
   ],
-  "generatedAt": "2026-10-25T15:25:32.467Z",
+  "generatedAt": "2026-10-25T20:17:37.032Z",
   "note": "Transfers derived from news headlines at launch."
 }
