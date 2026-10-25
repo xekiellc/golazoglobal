@@ -10,6 +10,15 @@
       "utcDate": "2026-10-24T11:30:00Z"
     },
     {
+      "league": "PD",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Elche",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-24T12:00:00Z"
+    },
+    {
       "league": "BL1",
       "homeTeam": "RB Leipzig",
       "awayTeam": "Elversberg",
@@ -56,48 +65,30 @@
     },
     {
       "league": "BSA",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Bragantino",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-24T21:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Chapecoense",
+      "awayTeam": "Fluminense",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-24T22:30:00Z"
+    },
+    {
+      "league": "BSA",
       "homeTeam": "Santos",
       "awayTeam": "Bahia",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": null,
+      "awayScore": null,
       "status": "IN_PLAY",
       "utcDate": "2026-10-25T01:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Rayo Vallecano",
-      "awayTeam": "Elche",
-      "homeScore": 0,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-10-24T12:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Santander",
-      "awayTeam": "Espanyol",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-10-24T14:15:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Valencia",
-      "awayTeam": "Villarreal",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-10-24T16:30:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Atleti",
-      "awayTeam": "Deportivo",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-10-24T19:00:00Z"
     },
     {
       "league": "PPL",
@@ -125,60 +116,6 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-10-24T19:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Internacional",
-      "awayTeam": "Botafogo",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-10-24T19:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Mirassol",
-      "awayTeam": "São Paulo",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-10-24T19:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Vitória",
-      "awayTeam": "Paranaense",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-10-24T19:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Palmeiras",
-      "awayTeam": "Bragantino",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-10-24T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Vasco da Gama",
-      "awayTeam": "Corinthians",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-10-24T21:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Chapecoense",
-      "awayTeam": "Fluminense",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-10-24T22:30:00Z"
     },
     {
       "league": "PL",
@@ -251,6 +188,33 @@
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-10-25T16:30:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Santander",
+      "awayTeam": "Espanyol",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-24T14:15:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Valencia",
+      "awayTeam": "Villarreal",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-24T16:30:00Z"
+    },
+    {
+      "league": "PD",
+      "homeTeam": "Atleti",
+      "awayTeam": "Deportivo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-24T19:00:00Z"
     },
     {
       "league": "PD",
@@ -665,7 +629,43 @@
       "awayScore": null,
       "status": "TIMED",
       "utcDate": "2026-10-24T14:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Internacional",
+      "awayTeam": "Botafogo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-24T19:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Mirassol",
+      "awayTeam": "São Paulo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-24T19:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Vitória",
+      "awayTeam": "Paranaense",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-24T19:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Corinthians",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-24T21:30:00Z"
     }
   ],
-  "generatedAt": "2026-10-25T00:45:49.595Z"
+  "generatedAt": "2026-10-25T10:34:57.793Z"
 }

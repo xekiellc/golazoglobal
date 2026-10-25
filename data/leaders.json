@@ -128,6 +128,13 @@
           "penalties": 2
         },
         {
+          "name": "Yassir Zabiri",
+          "team": "Santander",
+          "goals": 8,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Lamine Yamal",
           "team": "Barça",
           "goals": 8,
@@ -149,18 +156,18 @@
           "penalties": 4
         },
         {
-          "name": "Yassir Zabiri",
-          "team": "Santander",
-          "goals": 7,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Roberto Fernández",
           "team": "Espanyol",
           "goals": 6,
           "assists": 0,
           "penalties": 0
+        },
+        {
+          "name": "Fer Niño",
+          "team": "Elche",
+          "goals": 6,
+          "assists": 0,
+          "penalties": 1
         },
         {
           "name": "Pierre-Emerick Aubameyang",
@@ -174,13 +181,6 @@
           "team": "Atleti",
           "goals": 5,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Fer Niño",
-          "team": "Elche",
-          "goals": 5,
-          "assists": 0,
           "penalties": 0
         }
       ],
@@ -242,6 +242,13 @@
           "name": "Donyell Malen",
           "team": "Roma",
           "goals": 6,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Anastasios Douvikas",
+          "team": "Como 1907",
+          "goals": 5,
           "assists": 0,
           "penalties": 0
         },
@@ -281,13 +288,6 @@
           "penalties": 1
         },
         {
-          "name": "Anastasios Douvikas",
-          "team": "Como 1907",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Hakan Çalhanoğlu",
           "team": "Inter",
           "goals": 3,
@@ -318,17 +318,17 @@
           "penalties": 1
         },
         {
-          "name": "Nikola Krstović",
-          "team": "Atalanta",
-          "goals": 4,
+          "name": "Donyell Malen",
+          "team": "Roma",
+          "goals": 6,
           "assists": 1,
           "penalties": 0
         },
         {
-          "name": "Antonio Raimondo",
-          "team": "Frosinone",
-          "goals": 7,
-          "assists": 0,
+          "name": "Nikola Krstović",
+          "team": "Atalanta",
+          "goals": 4,
+          "assists": 1,
           "penalties": 0
         }
       ]
@@ -336,18 +336,18 @@
     "BL1": {
       "scorers": [
         {
+          "name": "Niclas Füllkrug",
+          "team": "Bremen",
+          "goals": 8,
+          "assists": 0,
+          "penalties": 3
+        },
+        {
           "name": "Patrik Schick",
           "team": "Leverkusen",
           "goals": 6,
           "assists": 2,
           "penalties": 0
-        },
-        {
-          "name": "Niclas Füllkrug",
-          "team": "Bremen",
-          "goals": 6,
-          "assists": 0,
-          "penalties": 1
         },
         {
           "name": "Michael Olise",
@@ -457,7 +457,7 @@
           "name": "Lassine Sinayoko",
           "team": "Paris FC",
           "goals": 6,
-          "assists": 3,
+          "assists": 4,
           "penalties": 3
         },
         {
@@ -473,6 +473,13 @@
           "goals": 5,
           "assists": 1,
           "penalties": 2
+        },
+        {
+          "name": "Florian Thauvin",
+          "team": "RC Lens",
+          "goals": 4,
+          "assists": 8,
+          "penalties": 3
         },
         {
           "name": "Louis Mafouta",
@@ -508,28 +515,21 @@
           "goals": 4,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Florian Thauvin",
-          "team": "RC Lens",
-          "goals": 3,
-          "assists": 7,
-          "penalties": 3
         }
       ],
       "topAssists": [
         {
           "name": "Florian Thauvin",
           "team": "RC Lens",
-          "goals": 3,
-          "assists": 7,
+          "goals": 4,
+          "assists": 8,
           "penalties": 3
         },
         {
           "name": "Lassine Sinayoko",
           "team": "Paris FC",
           "goals": 6,
-          "assists": 3,
+          "assists": 4,
           "penalties": 3
         },
         {
@@ -593,6 +593,13 @@
           "penalties": 0
         },
         {
+          "name": "Jacob Trenskow",
+          "team": "Heerenveen",
+          "goals": 6,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Ro-Zangelo Daal",
           "team": "AZ",
           "goals": 5,
@@ -607,24 +614,17 @@
           "penalties": 1
         },
         {
+          "name": "Rafik el Arguioui",
+          "team": "Cambuur",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Gjivai Zechiël",
           "team": "Feyenoord",
           "goals": 5,
           "assists": 4,
-          "penalties": 0
-        },
-        {
-          "name": "Anthony Descotte",
-          "team": "Sittard",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Guus Til",
-          "team": "PSV",
-          "goals": 5,
-          "assists": 1,
           "penalties": 0
         }
       ],
@@ -651,16 +651,16 @@
           "penalties": 1
         },
         {
-          "name": "Milan Zonneveld",
-          "team": "Sparta",
-          "goals": 7,
-          "assists": 1,
+          "name": "Jacob Trenskow",
+          "team": "Heerenveen",
+          "goals": 6,
+          "assists": 2,
           "penalties": 0
         },
         {
-          "name": "Guus Til",
-          "team": "PSV",
-          "goals": 5,
+          "name": "Milan Zonneveld",
+          "team": "Sparta",
+          "goals": 7,
           "assists": 1,
           "penalties": 0
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-25T00:48:08.316Z"
+  "generatedAt": "2026-10-25T10:37:17.997Z"
 }
