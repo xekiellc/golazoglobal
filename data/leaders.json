@@ -116,14 +116,14 @@
         {
           "name": "Raphinha",
           "team": "Barça",
-          "goals": 12,
+          "goals": 13,
           "assists": 2,
           "penalties": 3
         },
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
-          "goals": 9,
+          "goals": 11,
           "assists": 2,
           "penalties": 2
         },
@@ -195,14 +195,14 @@
         {
           "name": "Raphinha",
           "team": "Barça",
-          "goals": 12,
+          "goals": 13,
           "assists": 2,
           "penalties": 3
         },
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
-          "goals": 9,
+          "goals": 11,
           "assists": 2,
           "penalties": 2
         },
@@ -678,7 +678,7 @@
         {
           "name": "Luis Suárez",
           "team": "Sporting CP",
-          "goals": 7,
+          "goals": 8,
           "assists": 1,
           "penalties": 2
         },
@@ -764,7 +764,7 @@
         {
           "name": "Luis Suárez",
           "team": "Sporting CP",
-          "goals": 7,
+          "goals": 8,
           "assists": 1,
           "penalties": 2
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-25T20:21:22.832Z"
+  "generatedAt": "2026-10-26T01:00:36.493Z"
 }

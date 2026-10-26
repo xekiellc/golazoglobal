@@ -1,46 +1,66 @@
 {
   "transfers": [
     {
-      "player": "Three Stars",
+      "player": "ESPN’s Dan Orlovsky Names the ‘Best QB i",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Stateoftheu.com",
-      "url": "https://www.stateoftheu.com/miami-hurricanes-football/89192/three-stars-miami-vs-pitt",
-      "publishedAt": "2026-10-24T20:05:31Z"
+      "source": "Essentially Sports",
+      "url": "https://www.essentiallysports.com/nfl-active-news-espns-dan-orlovsky-names-the-best-qb-in-america-following-kirk-herbstreits-lead/",
+      "publishedAt": "2026-10-25T00:37:35Z"
     },
     {
-      "player": "Has Sam Leavitt finally arrived for LSU?",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/10/24/lsu-takeaways-auburn-football-sam-leavitt-defense-stats/92419196007/",
-      "publishedAt": "2026-10-24T19:55:29Z"
-    },
-    {
-      "player": "Opinion",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sportsnaut",
-      "url": "https://sportsnaut.com/college-football/opinion-ok-can-we-finally-slow-the-curt-cignetti-hype-train",
-      "publishedAt": "2026-10-24T19:53:20Z"
-    },
-    {
-      "player": "Sam Leavitt accounts for 4 TDs as No. 18",
+      "player": "Baker throws, runs for TDs, Louisiana Te",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/sam-leavitt-accounts-4-tds-195113741.html",
-      "publishedAt": "2026-10-24T19:51:13Z"
+      "url": "https://sports.yahoo.com/articles/baker-throws-runs-tds-louisiana-003309127.html",
+      "publishedAt": "2026-10-25T00:33:09Z"
+    },
+    {
+      "player": "Philip Rivers emerges as possible NC Sta",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/nc-state-football-news-philip-rivers-emerges-as-possible-replacement-after-dave-doeren-firing",
+      "publishedAt": "2026-10-24T23:56:48Z"
+    },
+    {
+      "player": "Five stars from No. 9 UCLA's 28",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://uclawire.usatoday.com/story/sports/college/ucla/football/2026/10/24/five-stars-from-no-9-uclas-28-10-win-over-michigan-state-omosigho-bruins-big-ten-ncaa/92423410007/",
+      "publishedAt": "2026-10-24T23:49:15Z"
+    },
+    {
+      "player": "Three takeaways from Michigan State's lo",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://spartanswire.usatoday.com/story/sports/college/spartans/football/2026/10/24/three-takeaways-from-michigan-states-loss-to-no-9-ucla/92423103007/",
+      "publishedAt": "2026-10-24T23:48:41Z"
+    },
+    {
+      "player": "Couch",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "The Detroit News",
+      "url": "https://www.detroitnews.com/story/sports/college/michigan-state-university/2026/10/24/couch-3-quick-takes-on-michigan-state-footballs-loss-at-ucla/92423280007/",
+      "publishedAt": "2026-10-24T23:39:18Z"
     }
   ],
-  "generatedAt": "2026-10-25T20:17:37.032Z",
+  "generatedAt": "2026-10-26T00:56:42.880Z",
   "note": "Transfers derived from news headlines at launch."
 }
