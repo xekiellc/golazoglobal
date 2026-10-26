@@ -1,15 +1,6 @@
 {
   "matches": [
     {
-      "league": "BSA",
-      "homeTeam": "Santos",
-      "awayTeam": "Bahia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-10-25T01:00:00Z"
-    },
-    {
       "league": "PL",
       "homeTeam": "Liverpool",
       "awayTeam": "Brighton Hove",
@@ -289,6 +280,15 @@
       "utcDate": "2026-10-25T20:30:00Z"
     },
     {
+      "league": "BSA",
+      "homeTeam": "Santos",
+      "awayTeam": "Bahia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-10-25T01:00:00Z"
+    },
+    {
       "league": "PD",
       "homeTeam": "Sevilla FC",
       "awayTeam": "Osasuna",
@@ -334,5 +334,5 @@
       "utcDate": "2026-10-26T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-26T00:58:05.677Z"
+  "generatedAt": "2026-10-26T12:08:08.874Z"
 }

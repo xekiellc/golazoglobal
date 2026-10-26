@@ -1,66 +1,36 @@
 {
   "transfers": [
     {
-      "player": "ESPN’s Dan Orlovsky Names the ‘Best QB i",
+      "player": "Spear Points",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Essentially Sports",
-      "url": "https://www.essentiallysports.com/nfl-active-news-espns-dan-orlovsky-names-the-best-qb-in-america-following-kirk-herbstreits-lead/",
-      "publishedAt": "2026-10-25T00:37:35Z"
+      "source": "Thesportingtribune.com",
+      "url": "https://www.thesportingtribune.com/2026/10/25/sdsu-at-csu-wk8-aztecs-most-combined-points-in-game-saunders-top-first-start-hawkins-napier-bowl-game-path",
+      "publishedAt": "2026-10-25T12:00:00Z"
     },
     {
-      "player": "Baker throws, runs for TDs, Louisiana Te",
+      "player": "Chiefs News",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/baker-throws-runs-tds-louisiana-003309127.html",
-      "publishedAt": "2026-10-25T00:33:09Z"
+      "source": "Arrowhead Pride",
+      "url": "https://www.arrowheadpride.com/kansas-city-chiefs-news/214049/chiefs-news-chris-roland-wallace-fined-punch-week-6",
+      "publishedAt": "2026-10-25T12:00:00Z"
     },
     {
-      "player": "Philip Rivers emerges as possible NC Sta",
+      "player": "Mizzou’s stock risers and fallers throug",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/nc-state-football-news-philip-rivers-emerges-as-possible-replacement-after-dave-doeren-firing",
-      "publishedAt": "2026-10-24T23:56:48Z"
-    },
-    {
-      "player": "Five stars from No. 9 UCLA's 28",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://uclawire.usatoday.com/story/sports/college/ucla/football/2026/10/24/five-stars-from-no-9-uclas-28-10-win-over-michigan-state-omosigho-bruins-big-ten-ncaa/92423410007/",
-      "publishedAt": "2026-10-24T23:49:15Z"
-    },
-    {
-      "player": "Three takeaways from Michigan State's lo",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://spartanswire.usatoday.com/story/sports/college/spartans/football/2026/10/24/three-takeaways-from-michigan-states-loss-to-no-9-ucla/92423103007/",
-      "publishedAt": "2026-10-24T23:48:41Z"
-    },
-    {
-      "player": "Couch",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "The Detroit News",
-      "url": "https://www.detroitnews.com/story/sports/college/michigan-state-university/2026/10/24/couch-3-quick-takes-on-michigan-state-footballs-loss-at-ucla/92423280007/",
-      "publishedAt": "2026-10-24T23:39:18Z"
+      "source": "Rockmnation.com",
+      "url": "https://www.rockmnation.com/missouri-tigers-football/160692/mizzous-stock-risers-and-fallers-through-seven-weeks",
+      "publishedAt": "2026-10-25T12:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-26T00:56:42.880Z",
+  "generatedAt": "2026-10-26T12:06:45.162Z",
   "note": "Transfers derived from news headlines at launch."
 }
