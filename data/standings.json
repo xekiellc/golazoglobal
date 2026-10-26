@@ -331,14 +331,14 @@
       {
         "position": 6,
         "team": "Sevilla FC",
-        "played": 9,
-        "won": 4,
+        "played": 10,
+        "won": 5,
         "drawn": 2,
         "lost": 3,
-        "goalsFor": 14,
+        "goalsFor": 16,
         "goalsAgainst": 16,
-        "goalDifference": -2,
-        "points": 14,
+        "goalDifference": 0,
+        "points": 17,
         "form": ""
       },
       {
@@ -409,13 +409,13 @@
       {
         "position": 12,
         "team": "Osasuna",
-        "played": 9,
+        "played": 10,
         "won": 3,
         "drawn": 2,
-        "lost": 4,
+        "lost": 5,
         "goalsFor": 10,
-        "goalsAgainst": 18,
-        "goalDifference": -8,
+        "goalsAgainst": 20,
+        "goalDifference": -10,
         "points": 11,
         "form": ""
       },
@@ -1025,6 +1025,19 @@
     "FL1": [
       {
         "position": 1,
+        "team": "PSG",
+        "played": 8,
+        "won": 5,
+        "drawn": 2,
+        "lost": 1,
+        "goalsFor": 16,
+        "goalsAgainst": 9,
+        "goalDifference": 7,
+        "points": 17,
+        "form": ""
+      },
+      {
+        "position": 2,
         "team": "Stade Rennais",
         "played": 8,
         "won": 5,
@@ -1037,7 +1050,7 @@
         "form": ""
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Lille",
         "played": 8,
         "won": 4,
@@ -1050,7 +1063,7 @@
         "form": ""
       },
       {
-        "position": 3,
+        "position": 4,
         "team": "Monaco",
         "played": 8,
         "won": 4,
@@ -1063,28 +1076,15 @@
         "form": ""
       },
       {
-        "position": 4,
-        "team": "Olympique Lyon",
-        "played": 7,
-        "won": 4,
-        "drawn": 2,
-        "lost": 1,
-        "goalsFor": 13,
-        "goalsAgainst": 5,
-        "goalDifference": 8,
-        "points": 14,
-        "form": ""
-      },
-      {
         "position": 5,
-        "team": "PSG",
-        "played": 7,
+        "team": "Olympique Lyon",
+        "played": 8,
         "won": 4,
         "drawn": 2,
-        "lost": 1,
-        "goalsFor": 14,
-        "goalsAgainst": 9,
-        "goalDifference": 5,
+        "lost": 2,
+        "goalsFor": 13,
+        "goalsAgainst": 7,
+        "goalDifference": 6,
         "points": 14,
         "form": ""
       },
@@ -1511,14 +1511,14 @@
       {
         "position": 2,
         "team": "SL Benfica",
-        "played": 8,
-        "won": 6,
+        "played": 9,
+        "won": 7,
         "drawn": 1,
         "lost": 1,
-        "goalsFor": 24,
-        "goalsAgainst": 7,
-        "goalDifference": 17,
-        "points": 19,
+        "goalsFor": 26,
+        "goalsAgainst": 8,
+        "goalDifference": 18,
+        "points": 22,
         "form": ""
       },
       {
@@ -1537,13 +1537,13 @@
       {
         "position": 4,
         "team": "Santa Clara",
-        "played": 8,
+        "played": 9,
         "won": 5,
         "drawn": 3,
-        "lost": 0,
-        "goalsFor": 12,
-        "goalsAgainst": 4,
-        "goalDifference": 8,
+        "lost": 1,
+        "goalsFor": 13,
+        "goalsAgainst": 6,
+        "goalDifference": 7,
         "points": 18,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-10-26T12:09:11.338Z"
+  "generatedAt": "2026-10-26T22:14:18.927Z"
 }

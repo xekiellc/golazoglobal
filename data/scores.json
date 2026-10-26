@@ -82,6 +82,15 @@
       "utcDate": "2026-10-25T20:00:00Z"
     },
     {
+      "league": "PD",
+      "homeTeam": "Sevilla FC",
+      "awayTeam": "Osasuna",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-10-26T20:00:00Z"
+    },
+    {
       "league": "SA",
       "homeTeam": "Inter",
       "awayTeam": "Fiorentina",
@@ -199,6 +208,15 @@
       "utcDate": "2026-10-25T16:15:00Z"
     },
     {
+      "league": "FL1",
+      "homeTeam": "PSG",
+      "awayTeam": "Olympique Lyon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-10-26T19:30:00Z"
+    },
+    {
       "league": "DED",
       "homeTeam": "Sittard",
       "awayTeam": "Excelsior",
@@ -280,6 +298,15 @@
       "utcDate": "2026-10-25T20:30:00Z"
     },
     {
+      "league": "PPL",
+      "homeTeam": "Santa Clara",
+      "awayTeam": "SL Benfica",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-10-26T18:45:00Z"
+    },
+    {
       "league": "BSA",
       "homeTeam": "Santos",
       "awayTeam": "Bahia",
@@ -287,33 +314,6 @@
       "awayScore": 1,
       "status": "FINISHED",
       "utcDate": "2026-10-25T01:00:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Sevilla FC",
-      "awayTeam": "Osasuna",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-26T20:00:00Z"
-    },
-    {
-      "league": "FL1",
-      "homeTeam": "PSG",
-      "awayTeam": "Olympique Lyon",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-26T19:30:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Santa Clara",
-      "awayTeam": "SL Benfica",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-26T18:45:00Z"
     },
     {
       "league": "BSA",
@@ -334,5 +334,5 @@
       "utcDate": "2026-10-26T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-26T12:08:08.874Z"
+  "generatedAt": "2026-10-26T22:13:16.958Z"
 }

@@ -671,7 +671,7 @@
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
-          "goals": 8,
+          "goals": 9,
           "assists": 3,
           "penalties": 2
         },
@@ -681,6 +681,13 @@
           "goals": 8,
           "assists": 1,
           "penalties": 2
+        },
+        {
+          "name": "Gianluca Prestianni",
+          "team": "SL Benfica",
+          "goals": 6,
+          "assists": 4,
+          "penalties": 0
         },
         {
           "name": "Georgios Koutsias",
@@ -694,13 +701,6 @@
           "team": "Arouca",
           "goals": 5,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Gianluca Prestianni",
-          "team": "SL Benfica",
-          "goals": 5,
-          "assists": 3,
           "penalties": 0
         },
         {
@@ -741,18 +741,18 @@
       ],
       "topAssists": [
         {
-          "name": "Vangelis Pavlidis",
-          "team": "SL Benfica",
-          "goals": 8,
-          "assists": 3,
-          "penalties": 2
-        },
-        {
           "name": "Gianluca Prestianni",
           "team": "SL Benfica",
-          "goals": 5,
-          "assists": 3,
+          "goals": 6,
+          "assists": 4,
           "penalties": 0
+        },
+        {
+          "name": "Vangelis Pavlidis",
+          "team": "SL Benfica",
+          "goals": 9,
+          "assists": 3,
+          "penalties": 2
         },
         {
           "name": "Gabriel Veiga",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-26T12:10:30.459Z"
+  "generatedAt": "2026-10-26T22:15:36.935Z"
 }

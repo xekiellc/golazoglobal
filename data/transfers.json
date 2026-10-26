@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Spear Points",
+      "player": "Biggest Winners and Losers from Oklahoma",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Thesportingtribune.com",
-      "url": "https://www.thesportingtribune.com/2026/10/25/sdsu-at-csu-wk8-aztecs-most-combined-points-in-game-saunders-top-first-start-hawkins-napier-bowl-game-path",
-      "publishedAt": "2026-10-25T12:00:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/oklahomastate/football/biggest-winners-losers-oklahoma-state-win-over-colorado-broncho-rises",
+      "publishedAt": "2026-10-25T22:00:03Z"
     },
     {
-      "player": "Chiefs News",
+      "player": "Charlie Baker on idea of SEC, Big Ten se",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Arrowhead Pride",
-      "url": "https://www.arrowheadpride.com/kansas-city-chiefs-news/214049/chiefs-news-chris-roland-wallace-fined-punch-week-6",
-      "publishedAt": "2026-10-25T12:00:00Z"
-    },
-    {
-      "player": "Mizzou’s stock risers and fallers throug",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Rockmnation.com",
-      "url": "https://www.rockmnation.com/missouri-tigers-football/160692/mizzous-stock-risers-and-fallers-through-seven-weeks",
-      "publishedAt": "2026-10-25T12:00:00Z"
+      "source": "On3.com",
+      "url": "https://on3.com/nil/news/charlie-baker-idea-sec-big-ten-self-governance-dont-have-problem-with-that/",
+      "publishedAt": "2026-10-25T21:38:58Z"
     }
   ],
-  "generatedAt": "2026-10-26T12:06:45.162Z",
+  "generatedAt": "2026-10-26T22:11:53.260Z",
   "note": "Transfers derived from news headlines at launch."
 }
