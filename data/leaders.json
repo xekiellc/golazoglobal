@@ -232,6 +232,13 @@
           "penalties": 1
         },
         {
+          "name": "Donyell Malen",
+          "team": "Roma",
+          "goals": 7,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Antonio Raimondo",
           "team": "Frosinone",
           "goals": 7,
@@ -243,13 +250,6 @@
           "team": "Atalanta",
           "goals": 6,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Donyell Malen",
-          "team": "Roma",
-          "goals": 6,
-          "assists": 1,
           "penalties": 0
         },
         {
@@ -267,10 +267,24 @@
           "penalties": 0
         },
         {
+          "name": "Daniel Maldini",
+          "team": "Cagliari",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
           "name": "Adrien Rabiot",
           "team": "Milan",
           "goals": 4,
           "assists": 3,
+          "penalties": 0
+        },
+        {
+          "name": "Che Adams",
+          "team": "Torino",
+          "goals": 4,
+          "assists": 0,
           "penalties": 0
         },
         {
@@ -279,20 +293,6 @@
           "goals": 4,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Daniel Maldini",
-          "team": "Cagliari",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
-          "name": "Hakan Çalhanoğlu",
-          "team": "Inter",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -327,7 +327,7 @@
         {
           "name": "Donyell Malen",
           "team": "Roma",
-          "goals": 6,
+          "goals": 7,
           "assists": 1,
           "penalties": 0
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-27T17:20:42.246Z"
+  "generatedAt": "2026-10-27T21:46:54.809Z"
 }

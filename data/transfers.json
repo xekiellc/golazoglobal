@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Clemson Star WR Could Transfer in Offsea",
+      "player": "How Oregon Ducks transfers performed in ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/clemson/news/clemson-star-wr-could-transfer-in-offseason-shocker",
-      "publishedAt": "2026-10-26T17:00:08Z"
+      "source": "USA Today",
+      "url": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2026/10/26/oregon-football-duck-transfers-performed-week-8/92438413007/",
+      "publishedAt": "2026-10-26T21:27:13Z"
+    },
+    {
+      "player": "Luke Fahey, Tavien St. Clair headline OS",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fci Academy",
+      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/26/ohio-state-football-quarterback-depth-depth-chart-julian-sayin-injury/92444180007/",
+      "publishedAt": "2026-10-26T21:17:49Z"
     }
   ],
-  "generatedAt": "2026-10-27T17:16:57.687Z",
+  "generatedAt": "2026-10-27T21:43:15.740Z",
   "note": "Transfers derived from news headlines at launch."
 }

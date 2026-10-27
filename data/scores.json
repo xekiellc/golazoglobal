@@ -1,6 +1,24 @@
 {
   "matches": [
     {
+      "league": "SA",
+      "homeTeam": "Roma",
+      "awayTeam": "Cagliari",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-27T19:45:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Torino",
+      "awayTeam": "Como 1907",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-27T19:45:00Z"
+    },
+    {
       "league": "PD",
       "homeTeam": "Sevilla FC",
       "awayTeam": "Osasuna",
@@ -8,6 +26,15 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-10-26T20:00:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Sassuolo",
+      "awayTeam": "Lazio",
+      "homeScore": 2,
+      "awayScore": 6,
+      "status": "FINISHED",
+      "utcDate": "2026-10-27T17:30:00Z"
     },
     {
       "league": "FL1",
@@ -44,34 +71,7 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-10-26T23:00:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Sassuolo",
-      "awayTeam": "Lazio",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-27T17:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Roma",
-      "awayTeam": "Cagliari",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-27T19:45:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Torino",
-      "awayTeam": "Como 1907",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-27T19:45:00Z"
     }
   ],
-  "generatedAt": "2026-10-27T17:18:20.718Z"
+  "generatedAt": "2026-10-27T21:44:39.603Z"
 }
