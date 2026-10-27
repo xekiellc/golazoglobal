@@ -1,26 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Biggest Winners and Losers from Oklahoma",
+      "player": "The Truth on Nebraska's Football Season ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/oklahomastate/football/biggest-winners-losers-oklahoma-state-win-over-colorado-broncho-rises",
-      "publishedAt": "2026-10-25T22:00:03Z"
+      "url": "https://www.si.com/college/nebraska/football/adan-carriker-truth-on-huskers-season-brett-ciancia-pick-six-previews-01m5tvtvwan8",
+      "publishedAt": "2026-10-26T01:20:48Z"
     },
     {
-      "player": "Charlie Baker on idea of SEC, Big Ten se",
+      "player": "Husker Doc Talk Podcast",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "On3.com",
-      "url": "https://on3.com/nil/news/charlie-baker-idea-sec-big-ten-self-governance-dont-have-problem-with-that/",
-      "publishedAt": "2026-10-25T21:38:58Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/nebraska/football/husker-doc-talk-podcast-must-win-vs-washington-chaos-01m5ttcvp985",
+      "publishedAt": "2026-10-26T00:59:08Z"
+    },
+    {
+      "player": "Texas A&M's Passing Game Hit a New Low A",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/tamu/football/texas-am-passing-game-hit-a-new-low-against-alabama",
+      "publishedAt": "2026-10-26T00:56:41Z"
     }
   ],
-  "generatedAt": "2026-10-26T22:11:53.260Z",
+  "generatedAt": "2026-10-27T01:46:31.158Z",
   "note": "Transfers derived from news headlines at launch."
 }
