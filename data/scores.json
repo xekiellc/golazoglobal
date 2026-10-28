@@ -2,6 +2,33 @@
   "matches": [
     {
       "league": "SA",
+      "homeTeam": "Milan",
+      "awayTeam": "Bologna",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-28T17:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Venezia FC",
+      "awayTeam": "Inter",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-28T17:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Parma",
+      "awayTeam": "Udinese",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-28T17:30:00Z"
+    },
+    {
+      "league": "SA",
       "homeTeam": "Sassuolo",
       "awayTeam": "Lazio",
       "homeScore": 2,
@@ -26,33 +53,6 @@
       "awayScore": 3,
       "status": "FINISHED",
       "utcDate": "2026-10-27T19:45:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Milan",
-      "awayTeam": "Bologna",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-28T17:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Venezia FC",
-      "awayTeam": "Inter",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-28T17:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Parma",
-      "awayTeam": "Udinese",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-28T17:30:00Z"
     },
     {
       "league": "SA",
@@ -100,5 +100,5 @@
       "utcDate": "2026-10-28T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-10-28T11:59:54.602Z"
+  "generatedAt": "2026-10-28T18:08:06.651Z"
 }

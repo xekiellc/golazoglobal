@@ -274,6 +274,13 @@
           "penalties": 1
         },
         {
+          "name": "Alphadjo Cisse",
+          "team": "Milan",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Adrien Rabiot",
           "team": "Milan",
           "goals": 4,
@@ -283,13 +290,6 @@
         {
           "name": "Che Adams",
           "team": "Torino",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Lautaro Martínez",
-          "team": "Inter",
           "goals": 4,
           "assists": 0,
           "penalties": 0
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-28T12:02:16.842Z"
+  "generatedAt": "2026-10-28T18:10:30.668Z"
 }
