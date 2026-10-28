@@ -1,26 +1,46 @@
 {
   "transfers": [
     {
-      "player": "How Oregon Ducks transfers performed in ",
+      "player": "Robert Griffin III ’100 Percent’ Interes",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2026/10/26/oregon-football-duck-transfers-performed-week-8/92438413007/",
-      "publishedAt": "2026-10-26T21:27:13Z"
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/26/robert-griffin-iii-100-percent-interested-baylor-football-head-coach",
+      "publishedAt": "2026-10-27T01:50:04Z"
     },
     {
-      "player": "Luke Fahey, Tavien St. Clair headline OS",
+      "player": "Harry Kane vs Kylian Mbappé Net Worth 20",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fci Academy",
-      "url": "https://www.dispatch.com/story/sports/college/football/2026/10/26/ohio-state-football-quarterback-depth-depth-chart-julian-sayin-injury/92444180007/",
-      "publishedAt": "2026-10-26T21:17:49Z"
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/harry-kane-vs-kylian-mbapp-net-worth-2026-how-a-110-million-wealth-gap-separates-two-of-footballs-biggest-superstars/articleshow/135222393.cms",
+      "publishedAt": "2026-10-27T01:47:19Z"
+    },
+    {
+      "player": "Texas football gets major injury update ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/texas-football-news-longhorns-huge-cam-coleman-injury-update-ole-miss",
+      "publishedAt": "2026-10-27T01:30:01Z"
+    },
+    {
+      "player": "Why Texas moved Michael Terry III to RB",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Burnt Orange Nation",
+      "url": "https://www.burntorangenation.com/texas-longhorns-football/106424/michael-terry-position-change-texas-longhorns-ole-miss",
+      "publishedAt": "2026-10-27T00:55:56Z"
     }
   ],
-  "generatedAt": "2026-10-27T21:43:15.740Z",
+  "generatedAt": "2026-10-28T01:58:45.706Z",
   "note": "Transfers derived from news headlines at launch."
 }

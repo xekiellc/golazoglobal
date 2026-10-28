@@ -2,33 +2,6 @@
   "matches": [
     {
       "league": "SA",
-      "homeTeam": "Roma",
-      "awayTeam": "Cagliari",
-      "homeScore": 4,
-      "awayScore": 2,
-      "status": "IN_PLAY",
-      "utcDate": "2026-10-27T19:45:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Torino",
-      "awayTeam": "Como 1907",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "IN_PLAY",
-      "utcDate": "2026-10-27T19:45:00Z"
-    },
-    {
-      "league": "PD",
-      "homeTeam": "Sevilla FC",
-      "awayTeam": "Osasuna",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-10-26T20:00:00Z"
-    },
-    {
-      "league": "SA",
       "homeTeam": "Sassuolo",
       "awayTeam": "Lazio",
       "homeScore": 2,
@@ -37,41 +10,95 @@
       "utcDate": "2026-10-27T17:30:00Z"
     },
     {
-      "league": "FL1",
-      "homeTeam": "PSG",
-      "awayTeam": "Olympique Lyon",
-      "homeScore": 2,
-      "awayScore": 0,
+      "league": "SA",
+      "homeTeam": "Roma",
+      "awayTeam": "Cagliari",
+      "homeScore": 4,
+      "awayScore": 2,
       "status": "FINISHED",
-      "utcDate": "2026-10-26T19:30:00Z"
+      "utcDate": "2026-10-27T19:45:00Z"
     },
     {
-      "league": "PPL",
-      "homeTeam": "Santa Clara",
-      "awayTeam": "SL Benfica",
+      "league": "SA",
+      "homeTeam": "Torino",
+      "awayTeam": "Como 1907",
       "homeScore": 1,
-      "awayScore": 2,
+      "awayScore": 3,
       "status": "FINISHED",
-      "utcDate": "2026-10-26T18:45:00Z"
+      "utcDate": "2026-10-27T19:45:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Milan",
+      "awayTeam": "Bologna",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-28T17:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Venezia FC",
+      "awayTeam": "Inter",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-28T17:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Parma",
+      "awayTeam": "Udinese",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-28T17:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Genoa",
+      "awayTeam": "Juventus",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-28T19:45:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Monza",
+      "awayTeam": "Napoli",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-28T19:45:00Z"
     },
     {
       "league": "BSA",
-      "homeTeam": "Coritiba",
-      "awayTeam": "Grêmio",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-10-26T22:30:00Z"
+      "homeTeam": "Bragantino",
+      "awayTeam": "Chapecoense",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-28T22:30:00Z"
     },
     {
       "league": "BSA",
-      "homeTeam": "Flamengo",
-      "awayTeam": "Mineiro",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-10-26T23:00:00Z"
+      "homeTeam": "Fluminense",
+      "awayTeam": "Internacional",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-28T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Santos",
+      "awayTeam": "Palmeiras",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-28T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-10-27T21:44:39.603Z"
+  "generatedAt": "2026-10-28T02:00:11.066Z"
 }
