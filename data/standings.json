@@ -592,6 +592,19 @@
       },
       {
         "position": 6,
+        "team": "Frosinone",
+        "played": 9,
+        "won": 5,
+        "drawn": 2,
+        "lost": 2,
+        "goalsFor": 22,
+        "goalsAgainst": 14,
+        "goalDifference": 8,
+        "points": 17,
+        "form": ""
+      },
+      {
+        "position": 7,
         "team": "Napoli",
         "played": 9,
         "won": 4,
@@ -600,19 +613,6 @@
         "goalsFor": 17,
         "goalsAgainst": 11,
         "goalDifference": 6,
-        "points": 14,
-        "form": ""
-      },
-      {
-        "position": 7,
-        "team": "Frosinone",
-        "played": 8,
-        "won": 4,
-        "drawn": 2,
-        "lost": 2,
-        "goalsFor": 17,
-        "goalsAgainst": 13,
-        "goalDifference": 4,
         "points": 14,
         "form": ""
       },
@@ -671,14 +671,14 @@
       {
         "position": 12,
         "team": "Atalanta",
-        "played": 8,
+        "played": 9,
         "won": 3,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 4,
-        "goalsFor": 14,
-        "goalsAgainst": 15,
+        "goalsFor": 16,
+        "goalsAgainst": 17,
         "goalDifference": -1,
-        "points": 10,
+        "points": 11,
         "form": ""
       },
       {
@@ -697,13 +697,13 @@
       {
         "position": 14,
         "team": "Lecce",
-        "played": 8,
+        "played": 9,
         "won": 3,
         "drawn": 0,
-        "lost": 5,
-        "goalsFor": 9,
-        "goalsAgainst": 14,
-        "goalDifference": -5,
+        "lost": 6,
+        "goalsFor": 10,
+        "goalsAgainst": 19,
+        "goalDifference": -9,
         "points": 9,
         "form": ""
       },
@@ -748,6 +748,19 @@
       },
       {
         "position": 18,
+        "team": "Fiorentina",
+        "played": 9,
+        "won": 1,
+        "drawn": 2,
+        "lost": 6,
+        "goalsFor": 11,
+        "goalsAgainst": 21,
+        "goalDifference": -10,
+        "points": 5,
+        "form": ""
+      },
+      {
+        "position": 19,
         "team": "Parma",
         "played": 9,
         "won": 1,
@@ -757,19 +770,6 @@
         "goalsAgainst": 15,
         "goalDifference": -10,
         "points": 5,
-        "form": ""
-      },
-      {
-        "position": 19,
-        "team": "Fiorentina",
-        "played": 8,
-        "won": 1,
-        "drawn": 1,
-        "lost": 6,
-        "goalsFor": 9,
-        "goalsAgainst": 19,
-        "goalDifference": -10,
-        "points": 4,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-10-29T12:11:06.663Z"
+  "generatedAt": "2026-10-29T22:22:52.494Z"
 }

@@ -232,17 +232,17 @@
           "penalties": 1
         },
         {
+          "name": "Antonio Raimondo",
+          "team": "Frosinone",
+          "goals": 8,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Donyell Malen",
           "team": "Roma",
           "goals": 7,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Antonio Raimondo",
-          "team": "Frosinone",
-          "goals": 7,
-          "assists": 0,
           "penalties": 0
         },
         {
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-29T12:12:24.943Z"
+  "generatedAt": "2026-10-29T22:24:13.053Z"
 }

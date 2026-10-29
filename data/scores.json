@@ -46,6 +46,24 @@
       "utcDate": "2026-10-28T19:45:00Z"
     },
     {
+      "league": "SA",
+      "homeTeam": "Frosinone",
+      "awayTeam": "Lecce",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-10-29T17:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Atalanta",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-10-29T19:45:00Z"
+    },
+    {
       "league": "BSA",
       "homeTeam": "Bragantino",
       "awayTeam": "Chapecoense",
@@ -91,24 +109,6 @@
       "utcDate": "2026-10-29T00:30:00Z"
     },
     {
-      "league": "SA",
-      "homeTeam": "Frosinone",
-      "awayTeam": "Lecce",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-29T17:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Fiorentina",
-      "awayTeam": "Atalanta",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-29T19:45:00Z"
-    },
-    {
       "league": "BSA",
       "homeTeam": "Mineiro",
       "awayTeam": "Cruzeiro",
@@ -127,5 +127,5 @@
       "utcDate": "2026-10-29T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-29T12:10:03.980Z"
+  "generatedAt": "2026-10-29T22:21:48.969Z"
 }
