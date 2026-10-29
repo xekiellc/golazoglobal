@@ -227,7 +227,7 @@
         {
           "name": "Gustavo Varela",
           "team": "Monza",
-          "goals": 7,
+          "goals": 8,
           "assists": 1,
           "penalties": 1
         },
@@ -274,6 +274,13 @@
           "penalties": 1
         },
         {
+          "name": "Kevin De Bruyne",
+          "team": "Napoli",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Alphadjo Cisse",
           "team": "Milan",
           "goals": 4,
@@ -285,13 +292,6 @@
           "team": "Milan",
           "goals": 4,
           "assists": 3,
-          "penalties": 0
-        },
-        {
-          "name": "Che Adams",
-          "team": "Torino",
-          "goals": 4,
-          "assists": 0,
           "penalties": 0
         }
       ],
@@ -320,7 +320,7 @@
         {
           "name": "Gustavo Varela",
           "team": "Monza",
-          "goals": 7,
+          "goals": 8,
           "assists": 1,
           "penalties": 1
         },
@@ -943,7 +943,7 @@
           "name": "Jonathan Calleri",
           "team": "São Paulo",
           "goals": 10,
-          "assists": 1,
+          "assists": 2,
           "penalties": 2
         },
         {
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-28T18:10:30.668Z"
+  "generatedAt": "2026-10-29T02:06:20.477Z"
 }

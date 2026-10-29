@@ -1,21 +1,39 @@
 {
   "matches": [
     {
+      "league": "BSA",
+      "homeTeam": "Bahia",
+      "awayTeam": "São Paulo",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-29T00:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Clube do Remo",
+      "awayTeam": "Botafogo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-29T00:30:00Z"
+    },
+    {
       "league": "SA",
       "homeTeam": "Milan",
       "awayTeam": "Bologna",
       "homeScore": 2,
-      "awayScore": 1,
-      "status": "IN_PLAY",
+      "awayScore": 4,
+      "status": "FINISHED",
       "utcDate": "2026-10-28T17:30:00Z"
     },
     {
       "league": "SA",
       "homeTeam": "Venezia FC",
       "awayTeam": "Inter",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "IN_PLAY",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FINISHED",
       "utcDate": "2026-10-28T17:30:00Z"
     },
     {
@@ -24,81 +42,90 @@
       "awayTeam": "Udinese",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-10-28T17:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Sassuolo",
-      "awayTeam": "Lazio",
-      "homeScore": 2,
-      "awayScore": 6,
-      "status": "FINISHED",
-      "utcDate": "2026-10-27T17:30:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Roma",
-      "awayTeam": "Cagliari",
-      "homeScore": 4,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-10-27T19:45:00Z"
-    },
-    {
-      "league": "SA",
-      "homeTeam": "Torino",
-      "awayTeam": "Como 1907",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-10-27T19:45:00Z"
     },
     {
       "league": "SA",
       "homeTeam": "Genoa",
       "awayTeam": "Juventus",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-10-28T19:45:00Z"
     },
     {
       "league": "SA",
       "homeTeam": "Monza",
       "awayTeam": "Napoli",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "FINISHED",
       "utcDate": "2026-10-28T19:45:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Bragantino",
       "awayTeam": "Chapecoense",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FINISHED",
       "utcDate": "2026-10-28T22:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Fluminense",
       "awayTeam": "Internacional",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
       "utcDate": "2026-10-28T22:30:00Z"
     },
     {
       "league": "BSA",
       "homeTeam": "Santos",
       "awayTeam": "Palmeiras",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-10-28T22:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Frosinone",
+      "awayTeam": "Lecce",
       "homeScore": null,
       "awayScore": null,
       "status": "TIMED",
-      "utcDate": "2026-10-28T22:30:00Z"
+      "utcDate": "2026-10-29T17:30:00Z"
+    },
+    {
+      "league": "SA",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Atalanta",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-29T19:45:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Mineiro",
+      "awayTeam": "Cruzeiro",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-29T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Flamengo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-10-29T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-28T18:08:06.651Z"
+  "generatedAt": "2026-10-29T02:04:02.579Z"
 }
