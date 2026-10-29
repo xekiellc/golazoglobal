@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Iowa loses star running back to brutal s",
+      "player": "Behind Enemy Lines",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/iowa-football-news-hawkeyes-lose-star-running-back-to-brutal-season-ending-injury",
-      "publishedAt": "2026-10-28T01:06:46Z"
+      "source": "USA Today",
+      "url": "https://auburnwire.usatoday.com/story/sports/college/auburn/football/2026/10/28/auburn-football-ole-miss-preview-sam-hutchens-behind-enemy-lines/92460785007/",
+      "publishedAt": "2026-10-28T12:02:04Z"
+    },
+    {
+      "player": "A $500 interception and a running game a",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Houston Chronicle",
+      "url": "https://www.houstonchronicle.com/sports/college/longhorns/article/texas-mississippi-baylor-jeff-traylor-22496320.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "publishedAt": "2026-10-28T12:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-29T02:02:39.241Z",
+  "generatedAt": "2026-10-29T12:08:37.865Z",
   "note": "Transfers derived from news headlines at launch."
 }

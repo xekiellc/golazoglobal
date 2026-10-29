@@ -2114,13 +2114,13 @@
         "position": 6,
         "team": "Bahia",
         "played": 33,
-        "won": 13,
-        "drawn": 12,
+        "won": 14,
+        "drawn": 11,
         "lost": 8,
-        "goalsFor": 47,
+        "goalsFor": 48,
         "goalsAgainst": 42,
-        "goalDifference": 5,
-        "points": 51,
+        "goalDifference": 6,
+        "points": 53,
         "form": ""
       },
       {
@@ -2167,12 +2167,12 @@
         "team": "São Paulo",
         "played": 33,
         "won": 12,
-        "drawn": 8,
-        "lost": 13,
+        "drawn": 7,
+        "lost": 14,
         "goalsFor": 39,
-        "goalsAgainst": 38,
-        "goalDifference": 1,
-        "points": 44,
+        "goalsAgainst": 39,
+        "goalDifference": 0,
+        "points": 43,
         "form": ""
       },
       {
@@ -2182,9 +2182,9 @@
         "won": 10,
         "drawn": 9,
         "lost": 14,
-        "goalsFor": 44,
+        "goalsFor": 45,
         "goalsAgainst": 53,
-        "goalDifference": -9,
+        "goalDifference": -8,
         "points": 39,
         "form": ""
       },
@@ -2287,8 +2287,8 @@
         "drawn": 11,
         "lost": 16,
         "goalsFor": 36,
-        "goalsAgainst": 50,
-        "goalDifference": -14,
+        "goalsAgainst": 51,
+        "goalDifference": -15,
         "points": 29,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-10-29T02:05:04.047Z"
+  "generatedAt": "2026-10-29T12:11:06.663Z"
 }

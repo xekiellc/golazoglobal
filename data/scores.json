@@ -1,24 +1,6 @@
 {
   "matches": [
     {
-      "league": "BSA",
-      "homeTeam": "Bahia",
-      "awayTeam": "São Paulo",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "IN_PLAY",
-      "utcDate": "2026-10-29T00:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Clube do Remo",
-      "awayTeam": "Botafogo",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-10-29T00:30:00Z"
-    },
-    {
       "league": "SA",
       "homeTeam": "Milan",
       "awayTeam": "Bologna",
@@ -91,6 +73,24 @@
       "utcDate": "2026-10-28T22:30:00Z"
     },
     {
+      "league": "BSA",
+      "homeTeam": "Bahia",
+      "awayTeam": "São Paulo",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-10-29T00:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Clube do Remo",
+      "awayTeam": "Botafogo",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-10-29T00:30:00Z"
+    },
+    {
       "league": "SA",
       "homeTeam": "Frosinone",
       "awayTeam": "Lecce",
@@ -127,5 +127,5 @@
       "utcDate": "2026-10-29T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-29T02:04:02.579Z"
+  "generatedAt": "2026-10-29T12:10:03.980Z"
 }
