@@ -1,6 +1,33 @@
 {
   "matches": [
     {
+      "league": "PD",
+      "homeTeam": "Villarreal",
+      "awayTeam": "Espanyol",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-30T20:00:00Z"
+    },
+    {
+      "league": "FL1",
+      "homeTeam": "Lille",
+      "awayTeam": "RC Lens",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-30T20:05:00Z"
+    },
+    {
+      "league": "PPL",
+      "homeTeam": "Casa Pia",
+      "awayTeam": "Sporting CP",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "IN_PLAY",
+      "utcDate": "2026-10-30T20:15:00Z"
+    },
+    {
       "league": "SA",
       "homeTeam": "Frosinone",
       "awayTeam": "Lecce",
@@ -17,6 +44,33 @@
       "awayScore": 2,
       "status": "FINISHED",
       "utcDate": "2026-10-29T19:45:00Z"
+    },
+    {
+      "league": "BL1",
+      "homeTeam": "Elversberg",
+      "awayTeam": "Mainz",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-10-30T19:30:00Z"
+    },
+    {
+      "league": "FL1",
+      "homeTeam": "Le Havre",
+      "awayTeam": "PSG",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "FINISHED",
+      "utcDate": "2026-10-30T18:00:00Z"
+    },
+    {
+      "league": "FL1",
+      "homeTeam": "Nice",
+      "awayTeam": "Stade Rennais",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "FINISHED",
+      "utcDate": "2026-10-30T18:00:00Z"
     },
     {
       "league": "BSA",
@@ -64,60 +118,6 @@
       "utcDate": "2026-10-30T00:30:00Z"
     },
     {
-      "league": "PD",
-      "homeTeam": "Villarreal",
-      "awayTeam": "Espanyol",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-30T20:00:00Z"
-    },
-    {
-      "league": "BL1",
-      "homeTeam": "Elversberg",
-      "awayTeam": "Mainz",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-30T19:30:00Z"
-    },
-    {
-      "league": "FL1",
-      "homeTeam": "Le Havre",
-      "awayTeam": "PSG",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-30T18:00:00Z"
-    },
-    {
-      "league": "FL1",
-      "homeTeam": "Nice",
-      "awayTeam": "Stade Rennais",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-30T18:00:00Z"
-    },
-    {
-      "league": "FL1",
-      "homeTeam": "Lille",
-      "awayTeam": "RC Lens",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-30T20:05:00Z"
-    },
-    {
-      "league": "PPL",
-      "homeTeam": "Casa Pia",
-      "awayTeam": "Sporting CP",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-10-30T20:15:00Z"
-    },
-    {
       "league": "ELC",
       "homeTeam": "Sheffield Utd",
       "awayTeam": "Wrexham",
@@ -136,5 +136,5 @@
       "utcDate": "2026-10-30T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-30T17:56:04.264Z"
+  "generatedAt": "2026-10-30T21:54:03.296Z"
 }

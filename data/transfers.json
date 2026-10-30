@@ -1,16 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "College football Year 2 coaching grades",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-year-2-coaching-grades-bill-belichick-jake-dickert/",
-      "publishedAt": "2026-10-29T17:54:27Z"
-    }
-  ],
-  "generatedAt": "2026-10-30T17:54:40.805Z",
+  "transfers": [],
+  "generatedAt": "2026-10-30T21:52:38.364Z",
   "note": "Transfers derived from news headlines at launch."
 }

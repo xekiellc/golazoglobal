@@ -392,28 +392,21 @@
           "penalties": 1
         },
         {
-          "name": "Christopher Nkunku",
-          "team": "RB Leipzig",
+          "name": "Maurice Krattenmacher",
+          "team": "Elversberg",
           "goals": 4,
           "assists": 1,
           "penalties": 0
         },
         {
-          "name": "Harry Kane",
-          "team": "Bayern",
+          "name": "Christopher Nkunku",
+          "team": "RB Leipzig",
           "goals": 4,
-          "assists": 4,
-          "penalties": 1
+          "assists": 1,
+          "penalties": 0
         }
       ],
       "topAssists": [
-        {
-          "name": "Harry Kane",
-          "team": "Bayern",
-          "goals": 4,
-          "assists": 4,
-          "penalties": 1
-        },
         {
           "name": "Michael Olise",
           "team": "Bayern",
@@ -441,6 +434,13 @@
           "goals": 4,
           "assists": 1,
           "penalties": 0
+        },
+        {
+          "name": "Maurice Krattenmacher",
+          "team": "Elversberg",
+          "goals": 4,
+          "assists": 1,
+          "penalties": 0
         }
       ]
     },
@@ -459,6 +459,13 @@
           "goals": 6,
           "assists": 4,
           "penalties": 3
+        },
+        {
+          "name": "Sepe Elye Wahi",
+          "team": "Nice",
+          "goals": 6,
+          "assists": 2,
+          "penalties": 2
         },
         {
           "name": "Amine Gouiri",
@@ -503,17 +510,10 @@
           "penalties": 1
         },
         {
-          "name": "Ferrán Torres",
-          "team": "PSG",
+          "name": "Sebastian Szymański",
+          "team": "Stade Rennais",
           "goals": 4,
           "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Paris Brunner",
-          "team": "Monaco",
-          "goals": 4,
-          "assists": 0,
           "penalties": 0
         }
       ],
@@ -533,6 +533,13 @@
           "penalties": 3
         },
         {
+          "name": "Sepe Elye Wahi",
+          "team": "Nice",
+          "goals": 6,
+          "assists": 2,
+          "penalties": 2
+        },
+        {
           "name": "Amine Gouiri",
           "team": "Marseille",
           "goals": 5,
@@ -545,13 +552,6 @@
           "goals": 5,
           "assists": 1,
           "penalties": 2
-        },
-        {
-          "name": "Kamory Doumbia",
-          "team": "Brest",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 1
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-30T17:58:23.349Z"
+  "generatedAt": "2026-10-30T21:56:26.045Z"
 }
