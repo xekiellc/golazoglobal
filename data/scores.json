@@ -1,15 +1,6 @@
 {
   "matches": [
     {
-      "league": "BSA",
-      "homeTeam": "Grêmio",
-      "awayTeam": "Paranaense",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-10-30T00:30:00Z"
-    },
-    {
       "league": "SA",
       "homeTeam": "Frosinone",
       "awayTeam": "Lecce",
@@ -62,6 +53,15 @@
       "awayScore": 4,
       "status": "FINISHED",
       "utcDate": "2026-10-29T23:00:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Grêmio",
+      "awayTeam": "Paranaense",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-10-30T00:30:00Z"
     },
     {
       "league": "PD",
@@ -136,5 +136,5 @@
       "utcDate": "2026-10-30T23:00:00Z"
     }
   ],
-  "generatedAt": "2026-10-30T02:22:04.350Z"
+  "generatedAt": "2026-10-30T12:00:59.363Z"
 }

@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Ramzak Fruean Ruled Out of Nebraska Game",
+      "player": "School Assembly Headlines for October 30",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/washington/football/ramzak-fruean-ruled-out-of-nebraska-game-01m62jaxrvvq",
-      "publishedAt": "2026-10-29T01:47:30Z"
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-headlines-for-october-30-top-national-international-sports-and-business-updates/articleshow/135304694.cms",
+      "publishedAt": "2026-10-29T11:34:11Z"
+    },
+    {
+      "player": "Indiana football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Crimsonquarry.com",
+      "url": "https://www.crimsonquarry.com/indiana-football/31368/minnesota-questions-pj-fleck-preview",
+      "publishedAt": "2026-10-29T11:30:00Z"
     }
   ],
-  "generatedAt": "2026-10-30T02:20:40.227Z",
+  "generatedAt": "2026-10-30T11:59:31.831Z",
   "note": "Transfers derived from news headlines at launch."
 }
