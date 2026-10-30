@@ -900,7 +900,7 @@
         {
           "name": "Pedro",
           "team": "Flamengo",
-          "goals": 16,
+          "goals": 18,
           "assists": 7,
           "penalties": 0
         },
@@ -912,6 +912,13 @@
           "penalties": 2
         },
         {
+          "name": "Kaio Jorge",
+          "team": "Cruzeiro",
+          "goals": 12,
+          "assists": 2,
+          "penalties": 4
+        },
+        {
           "name": "Carlos Vinícius",
           "team": "Grêmio",
           "goals": 11,
@@ -919,18 +926,18 @@
           "penalties": 2
         },
         {
-          "name": "Kaio Jorge",
-          "team": "Cruzeiro",
-          "goals": 11,
-          "assists": 2,
-          "penalties": 4
-        },
-        {
           "name": "Luciano Juba",
           "team": "Bahia",
           "goals": 11,
           "assists": 1,
           "penalties": 5
+        },
+        {
+          "name": "Samuel Lino",
+          "team": "Flamengo",
+          "goals": 11,
+          "assists": 9,
+          "penalties": 0
         },
         {
           "name": "Danilo dos Santos de Oliveira",
@@ -952,20 +959,20 @@
           "goals": 9,
           "assists": 6,
           "penalties": 0
-        },
-        {
-          "name": "Luciano",
-          "team": "São Paulo",
-          "goals": 9,
-          "assists": 1,
-          "penalties": 2
         }
       ],
       "topAssists": [
         {
+          "name": "Samuel Lino",
+          "team": "Flamengo",
+          "goals": 11,
+          "assists": 9,
+          "penalties": 0
+        },
+        {
           "name": "Pedro",
           "team": "Flamengo",
-          "goals": 16,
+          "goals": 18,
           "assists": 7,
           "penalties": 0
         },
@@ -989,16 +996,9 @@
           "goals": 15,
           "assists": 3,
           "penalties": 2
-        },
-        {
-          "name": "Kaio Jorge",
-          "team": "Cruzeiro",
-          "goals": 11,
-          "assists": 2,
-          "penalties": 4
         }
       ]
     }
   },
-  "generatedAt": "2026-10-29T22:24:13.053Z"
+  "generatedAt": "2026-10-30T02:24:18.900Z"
 }

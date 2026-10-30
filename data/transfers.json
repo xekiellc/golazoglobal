@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Early takeaways about the new",
+      "player": "Ramzak Fruean Ruled Out of Nebraska Game",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Deseret News",
-      "url": "https://www.deseret.com/sports/2026/10/28/new-look-cougars-readying-for-season-opener-vs-big-ten-ohio-state/",
-      "publishedAt": "2026-10-28T22:11:46Z"
-    },
-    {
-      "player": "Penn State",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/penn-state/news/penn-state-matt-campbell-shifts-focus-to-more-important-goal",
-      "publishedAt": "2026-10-28T21:56:20Z"
-    },
-    {
-      "player": "Texas Tech megadonor Cody Campbell issue",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/big12/2026/10/28/cody-campbell-joey-mcguire-texas-tech-football-support/92485956007/",
-      "publishedAt": "2026-10-28T21:52:17Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/washington/football/ramzak-fruean-ruled-out-of-nebraska-game-01m62jaxrvvq",
+      "publishedAt": "2026-10-29T01:47:30Z"
     }
   ],
-  "generatedAt": "2026-10-29T22:20:23.536Z",
+  "generatedAt": "2026-10-30T02:20:40.227Z",
   "note": "Transfers derived from news headlines at launch."
 }
