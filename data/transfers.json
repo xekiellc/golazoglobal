@@ -1,36 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Minnesota Golden Gophers Halloween Weeke",
+      "player": "College Football Coaching Carousel",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "The Daily Gopher",
-      "url": "https://www.thedailygopher.com/minnesota-gophers-sports/41483/minnesota-golden-gophers-halloween-weekend-preview",
-      "publishedAt": "2026-10-30T16:22:56Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/fannation/college/cfb-hq/news/college-football-coaching-carousel-6-top-targets-dickert-huff-eck-haines-dawson-danielson",
+      "publishedAt": "2026-10-30T20:48:51Z"
     },
     {
-      "player": "Meet the 2026",
+      "player": "Fabrizio Romano confirmation sets scene ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "News-Leader",
-      "url": "https://www.news-leader.com/story/sports/college/msu/2026/10/30/breaking-down-missouri-state-womens-basketball-roster/92504059007/",
-      "publishedAt": "2026-10-30T16:18:40Z"
-    },
-    {
-      "player": "Other Barks & Bites for Friday, October ",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "IPWatchdog.com",
-      "url": "https://ipwatchdog.com/2026/10/30/other-barks-iffro-releases-study-on-ais-negative-impacts-on-creators-and-fifth-circuit-reverse/",
-      "publishedAt": "2026-10-30T16:15:45Z"
+      "source": "Anfieldwatch.co.uk",
+      "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/fabrizio-romano-confirmation-sets-scene-for-liverpool-timeline-to-sign-genius-player/",
+      "publishedAt": "2026-10-30T20:30:00Z"
     }
   ],
-  "generatedAt": "2026-10-31T16:41:31.733Z",
+  "generatedAt": "2026-10-31T20:53:27.720Z",
   "note": "Transfers derived from news headlines at launch."
 }

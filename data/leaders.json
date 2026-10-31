@@ -38,6 +38,13 @@
           "penalties": 0
         },
         {
+          "name": "Nicolas Jackson",
+          "team": "Aston Villa",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Rayan Cherki",
           "team": "Man City",
           "goals": 4,
@@ -47,13 +54,6 @@
         {
           "name": "Bryan Mbeumo",
           "team": "Man United",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Nicolas Jackson",
-          "team": "Aston Villa",
           "goals": 4,
           "assists": 0,
           "penalties": 0
@@ -116,7 +116,7 @@
         {
           "name": "Raphinha",
           "team": "Barça",
-          "goals": 13,
+          "goals": 15,
           "assists": 2,
           "penalties": 3
         },
@@ -128,18 +128,18 @@
           "penalties": 2
         },
         {
+          "name": "Lamine Yamal",
+          "team": "Barça",
+          "goals": 9,
+          "assists": 7,
+          "penalties": 1
+        },
+        {
           "name": "Yassir Zabiri",
           "team": "Santander",
           "goals": 8,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Lamine Yamal",
-          "team": "Barça",
-          "goals": 8,
-          "assists": 6,
-          "penalties": 1
         },
         {
           "name": "Sergio Camello",
@@ -188,8 +188,8 @@
         {
           "name": "Lamine Yamal",
           "team": "Barça",
-          "goals": 8,
-          "assists": 6,
+          "goals": 9,
+          "assists": 7,
           "penalties": 1
         },
         {
@@ -202,7 +202,7 @@
         {
           "name": "Raphinha",
           "team": "Barça",
-          "goals": 13,
+          "goals": 15,
           "assists": 2,
           "penalties": 3
         },
@@ -232,17 +232,17 @@
           "penalties": 2
         },
         {
+          "name": "Donyell Malen",
+          "team": "Roma",
+          "goals": 8,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Antonio Raimondo",
           "team": "Frosinone",
           "goals": 8,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Donyell Malen",
-          "team": "Roma",
-          "goals": 7,
-          "assists": 1,
           "penalties": 0
         },
         {
@@ -257,6 +257,13 @@
           "team": "Como 1907",
           "goals": 5,
           "assists": 0,
+          "penalties": 0
+        },
+        {
+          "name": "Adrien Rabiot",
+          "team": "Milan",
+          "goals": 5,
+          "assists": 3,
           "penalties": 0
         },
         {
@@ -286,20 +293,13 @@
           "goals": 4,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Adrien Rabiot",
-          "team": "Milan",
-          "goals": 4,
-          "assists": 3,
-          "penalties": 0
         }
       ],
       "topAssists": [
         {
           "name": "Adrien Rabiot",
           "team": "Milan",
-          "goals": 4,
+          "goals": 5,
           "assists": 3,
           "penalties": 0
         },
@@ -327,7 +327,7 @@
         {
           "name": "Donyell Malen",
           "team": "Roma",
-          "goals": 7,
+          "goals": 8,
           "assists": 1,
           "penalties": 0
         }
@@ -579,6 +579,13 @@
           "penalties": 0
         },
         {
+          "name": "Guus Til",
+          "team": "PSV",
+          "goals": 7,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Thom van Bergen",
           "team": "Groningen",
           "goals": 6,
@@ -600,32 +607,25 @@
           "penalties": 0
         },
         {
-          "name": "Guus Til",
+          "name": "Sven Mijnans",
           "team": "PSV",
           "goals": 6,
-          "assists": 1,
+          "assists": 2,
           "penalties": 0
         },
         {
           "name": "Anis Moussa",
           "team": "Feyenoord",
           "goals": 6,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
+          "name": "Toluwalas Arokodare",
+          "team": "Ajax",
+          "goals": 6,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Ro-Zangelo Daal",
-          "team": "AZ",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Artem Stepanov",
-          "team": "Utrecht",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -658,10 +658,10 @@
           "penalties": 0
         },
         {
-          "name": "Milan Zonneveld",
-          "team": "Sparta",
-          "goals": 7,
-          "assists": 1,
+          "name": "Sven Mijnans",
+          "team": "PSV",
+          "goals": 6,
+          "assists": 2,
           "penalties": 0
         }
       ]
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-31T16:45:25.679Z"
+  "generatedAt": "2026-10-31T20:57:08.624Z"
 }
