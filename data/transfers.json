@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-10-30T21:52:38.364Z",
+  "transfers": [
+    {
+      "player": "Utah Football Emerges as the Clear Winne",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/utah/news/utah-football-emerges-as-the-clear-winner-in-the-whittingham-divorce",
+      "publishedAt": "2026-10-30T00:54:18Z"
+    }
+  ],
+  "generatedAt": "2026-10-31T01:57:11.329Z",
   "note": "Transfers derived from news headlines at launch."
 }
