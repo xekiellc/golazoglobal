@@ -1850,6 +1850,19 @@
       },
       {
         "position": 10,
+        "team": "Sheffield Utd",
+        "played": 13,
+        "won": 5,
+        "drawn": 4,
+        "lost": 4,
+        "goalsFor": 17,
+        "goalsAgainst": 15,
+        "goalDifference": 2,
+        "points": 19,
+        "form": ""
+      },
+      {
+        "position": 11,
         "team": "Blackburn",
         "played": 12,
         "won": 5,
@@ -1862,7 +1875,7 @@
         "form": ""
       },
       {
-        "position": 11,
+        "position": 12,
         "team": "Portsmouth",
         "played": 12,
         "won": 5,
@@ -1872,19 +1885,6 @@
         "goalsAgainst": 15,
         "goalDifference": 1,
         "points": 18,
-        "form": ""
-      },
-      {
-        "position": 12,
-        "team": "Sheffield Utd",
-        "played": 12,
-        "won": 4,
-        "drawn": 4,
-        "lost": 4,
-        "goalsFor": 16,
-        "goalsAgainst": 15,
-        "goalDifference": 1,
-        "points": 16,
         "form": ""
       },
       {
@@ -1942,31 +1942,18 @@
       {
         "position": 17,
         "team": "Wrexham",
-        "played": 12,
+        "played": 13,
         "won": 3,
         "drawn": 5,
-        "lost": 4,
+        "lost": 5,
         "goalsFor": 15,
-        "goalsAgainst": 18,
-        "goalDifference": -3,
+        "goalsAgainst": 19,
+        "goalDifference": -4,
         "points": 14,
         "form": ""
       },
       {
         "position": 18,
-        "team": "Charlton",
-        "played": 12,
-        "won": 3,
-        "drawn": 5,
-        "lost": 4,
-        "goalsFor": 12,
-        "goalsAgainst": 18,
-        "goalDifference": -6,
-        "points": 14,
-        "form": ""
-      },
-      {
-        "position": 19,
         "team": "Bolton",
         "played": 12,
         "won": 4,
@@ -1979,6 +1966,19 @@
         "form": ""
       },
       {
+        "position": 19,
+        "team": "Charlton",
+        "played": 12,
+        "won": 3,
+        "drawn": 5,
+        "lost": 4,
+        "goalsFor": 11,
+        "goalsAgainst": 18,
+        "goalDifference": -7,
+        "points": 14,
+        "form": ""
+      },
+      {
         "position": 20,
         "team": "Norwich",
         "played": 12,
@@ -1986,8 +1986,8 @@
         "drawn": 0,
         "lost": 8,
         "goalsFor": 20,
-        "goalsAgainst": 23,
-        "goalDifference": -3,
+        "goalsAgainst": 22,
+        "goalDifference": -2,
         "points": 12,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-10-31T01:59:38.236Z"
+  "generatedAt": "2026-10-31T11:37:05.351Z"
 }
