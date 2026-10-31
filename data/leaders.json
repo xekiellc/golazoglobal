@@ -33,7 +33,7 @@
         {
           "name": "Morgan Rogers",
           "team": "Chelsea",
-          "goals": 4,
+          "goals": 5,
           "assists": 1,
           "penalties": 0
         },
@@ -59,21 +59,28 @@
           "penalties": 0
         },
         {
+          "name": "Evanilson",
+          "team": "Bournemouth",
+          "goals": 4,
+          "assists": 4,
+          "penalties": 0
+        },
+        {
           "name": "Bukayo Saka",
           "team": "Arsenal",
           "goals": 3,
           "assists": 0,
           "penalties": 1
-        },
-        {
-          "name": "Thierno Barry",
-          "team": "Everton",
-          "goals": 3,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Evanilson",
+          "team": "Bournemouth",
+          "goals": 4,
+          "assists": 4,
+          "penalties": 0
+        },
         {
           "name": "João Pedro",
           "team": "Chelsea",
@@ -91,7 +98,7 @@
         {
           "name": "Morgan Rogers",
           "team": "Chelsea",
-          "goals": 4,
+          "goals": 5,
           "assists": 1,
           "penalties": 0
         },
@@ -99,13 +106,6 @@
           "name": "Erling Haaland",
           "team": "Man City",
           "goals": 9,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Alexander Isak",
-          "team": "Liverpool",
-          "goals": 6,
           "assists": 0,
           "penalties": 0
         }
@@ -145,7 +145,7 @@
           "name": "Sergio Camello",
           "team": "Rayo Vallecano",
           "goals": 7,
-          "assists": 1,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -180,7 +180,7 @@
           "name": "Álex Baena",
           "team": "Atleti",
           "goals": 5,
-          "assists": 2,
+          "assists": 3,
           "penalties": 0
         }
       ],
@@ -191,6 +191,13 @@
           "goals": 8,
           "assists": 6,
           "penalties": 1
+        },
+        {
+          "name": "Álex Baena",
+          "team": "Atleti",
+          "goals": 5,
+          "assists": 3,
+          "penalties": 0
         },
         {
           "name": "Raphinha",
@@ -207,16 +214,9 @@
           "penalties": 2
         },
         {
-          "name": "Pierre-Emerick Aubameyang",
-          "team": "Deportivo",
-          "goals": 5,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Álex Baena",
-          "team": "Atleti",
-          "goals": 5,
+          "name": "Sergio Camello",
+          "team": "Rayo Vallecano",
+          "goals": 7,
           "assists": 2,
           "penalties": 0
         }
@@ -227,9 +227,9 @@
         {
           "name": "Gustavo Varela",
           "team": "Monza",
-          "goals": 8,
+          "goals": 9,
           "assists": 1,
-          "penalties": 1
+          "penalties": 2
         },
         {
           "name": "Antonio Raimondo",
@@ -320,9 +320,9 @@
         {
           "name": "Gustavo Varela",
           "team": "Monza",
-          "goals": 8,
+          "goals": 9,
           "assists": 1,
-          "penalties": 1
+          "penalties": 2
         },
         {
           "name": "Donyell Malen",
@@ -338,9 +338,16 @@
         {
           "name": "Niclas Füllkrug",
           "team": "Bremen",
-          "goals": 8,
+          "goals": 9,
           "assists": 0,
           "penalties": 3
+        },
+        {
+          "name": "Patrik Schick",
+          "team": "Leverkusen",
+          "goals": 7,
+          "assists": 2,
+          "penalties": 0
         },
         {
           "name": "Michael Olise",
@@ -350,17 +357,24 @@
           "penalties": 0
         },
         {
-          "name": "Patrik Schick",
-          "team": "Leverkusen",
-          "goals": 6,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
           "name": "Younes Ebnoutalib",
           "team": "Frankfurt",
           "goals": 5,
           "assists": 1,
+          "penalties": 0
+        },
+        {
+          "name": "Michael Gregoritsch",
+          "team": "Augsburg",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 1
+        },
+        {
+          "name": "Ermedin Demirovic",
+          "team": "Stuttgart",
+          "goals": 5,
+          "assists": 0,
           "penalties": 0
         },
         {
@@ -378,35 +392,28 @@
           "penalties": 0
         },
         {
+          "name": "Antonio Nusa",
+          "team": "RB Leipzig",
+          "goals": 4,
+          "assists": 6,
+          "penalties": 1
+        },
+        {
           "name": "Yuito Suzuki",
           "team": "Freiburg",
           "goals": 4,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Michael Gregoritsch",
-          "team": "Augsburg",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 1
-        },
-        {
-          "name": "Maurice Krattenmacher",
-          "team": "Elversberg",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Christopher Nkunku",
-          "team": "RB Leipzig",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
+        {
+          "name": "Antonio Nusa",
+          "team": "RB Leipzig",
+          "goals": 4,
+          "assists": 6,
+          "penalties": 1
+        },
         {
           "name": "Michael Olise",
           "team": "Bayern",
@@ -417,7 +424,7 @@
         {
           "name": "Patrik Schick",
           "team": "Leverkusen",
-          "goals": 6,
+          "goals": 7,
           "assists": 2,
           "penalties": 0
         },
@@ -431,13 +438,6 @@
         {
           "name": "Luis Díaz",
           "team": "Bayern",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "Maurice Krattenmacher",
-          "team": "Elversberg",
           "goals": 4,
           "assists": 1,
           "penalties": 0
@@ -782,7 +782,7 @@
         {
           "name": "William Lankshear",
           "team": "Middlesbrough",
-          "goals": 11,
+          "goals": 13,
           "assists": 0,
           "penalties": 0
         },
@@ -801,6 +801,13 @@
           "penalties": 0
         },
         {
+          "name": "Jarrod Bowen",
+          "team": "West Ham",
+          "goals": 7,
+          "assists": 4,
+          "penalties": 1
+        },
+        {
           "name": "Jack Moylan",
           "team": "Cardiff",
           "goals": 6,
@@ -808,11 +815,18 @@
           "penalties": 1
         },
         {
-          "name": "Jarrod Bowen",
-          "team": "West Ham",
+          "name": "August Priske",
+          "team": "Birmingham",
           "goals": 6,
-          "assists": 4,
+          "assists": 1,
           "penalties": 1
+        },
+        {
+          "name": "Sam Dalby",
+          "team": "Bolton",
+          "goals": 5,
+          "assists": 0,
+          "penalties": 0
         },
         {
           "name": "Kieffer Moore",
@@ -834,27 +848,13 @@
           "goals": 5,
           "assists": 0,
           "penalties": 0
-        },
-        {
-          "name": "Konstantinos Mavropanos",
-          "team": "West Ham",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Patrick Bamford",
-          "team": "Sheffield Utd",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 0
         }
       ],
       "topAssists": [
         {
           "name": "Jarrod Bowen",
           "team": "West Ham",
-          "goals": 6,
+          "goals": 7,
           "assists": 4,
           "penalties": 1
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-31T11:38:19.300Z"
+  "generatedAt": "2026-10-31T16:45:25.679Z"
 }
