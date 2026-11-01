@@ -66,11 +66,11 @@
           "penalties": 0
         },
         {
-          "name": "Bukayo Saka",
+          "name": "Kai Havertz",
           "team": "Arsenal",
           "goals": 3,
           "assists": 0,
-          "penalties": 1
+          "penalties": 0
         }
       ],
       "topAssists": [
@@ -123,9 +123,9 @@
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
-          "goals": 11,
+          "goals": 12,
           "assists": 2,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Lamine Yamal",
@@ -209,9 +209,9 @@
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
-          "goals": 11,
+          "goals": 12,
           "assists": 2,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Sergio Camello",
@@ -281,18 +281,18 @@
           "penalties": 1
         },
         {
+          "name": "Giacomo Calò",
+          "team": "Frosinone",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 1
+        },
+        {
           "name": "Kevin De Bruyne",
           "team": "Napoli",
           "goals": 4,
           "assists": 1,
           "penalties": 1
-        },
-        {
-          "name": "Alphadjo Cisse",
-          "team": "Milan",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -359,7 +359,7 @@
         {
           "name": "Younes Ebnoutalib",
           "team": "Frankfurt",
-          "goals": 5,
+          "goals": 6,
           "assists": 1,
           "penalties": 0
         },
@@ -431,7 +431,7 @@
         {
           "name": "Younes Ebnoutalib",
           "team": "Frankfurt",
-          "goals": 5,
+          "goals": 6,
           "assists": 1,
           "penalties": 0
         },
@@ -447,6 +447,13 @@
     "FL1": {
       "scorers": [
         {
+          "name": "Lassine Sinayoko",
+          "team": "Paris FC",
+          "goals": 8,
+          "assists": 5,
+          "penalties": 3
+        },
+        {
           "name": "Esteban Lepaul",
           "team": "Stade Rennais",
           "goals": 7,
@@ -454,11 +461,18 @@
           "penalties": 4
         },
         {
-          "name": "Lassine Sinayoko",
-          "team": "Paris FC",
+          "name": "Amine Gouiri",
+          "team": "Marseille",
           "goals": 6,
-          "assists": 4,
-          "penalties": 3
+          "assists": 3,
+          "penalties": 1
+        },
+        {
+          "name": "Cameron Archer",
+          "team": "Auxerre",
+          "goals": 6,
+          "assists": 0,
+          "penalties": 0
         },
         {
           "name": "Sepe Elye Wahi",
@@ -466,20 +480,6 @@
           "goals": 6,
           "assists": 2,
           "penalties": 2
-        },
-        {
-          "name": "Amine Gouiri",
-          "team": "Marseille",
-          "goals": 5,
-          "assists": 2,
-          "penalties": 1
-        },
-        {
-          "name": "Cameron Archer",
-          "team": "Auxerre",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 0
         },
         {
           "name": "Casper Tengstedt",
@@ -528,9 +528,16 @@
         {
           "name": "Lassine Sinayoko",
           "team": "Paris FC",
-          "goals": 6,
-          "assists": 4,
+          "goals": 8,
+          "assists": 5,
           "penalties": 3
+        },
+        {
+          "name": "Amine Gouiri",
+          "team": "Marseille",
+          "goals": 6,
+          "assists": 3,
+          "penalties": 1
         },
         {
           "name": "Sepe Elye Wahi",
@@ -538,13 +545,6 @@
           "goals": 6,
           "assists": 2,
           "penalties": 2
-        },
-        {
-          "name": "Amine Gouiri",
-          "team": "Marseille",
-          "goals": 5,
-          "assists": 2,
-          "penalties": 1
         },
         {
           "name": "Casper Tengstedt",
@@ -568,15 +568,29 @@
           "name": "Brynjolfur Darri Willumsson",
           "team": "Groningen",
           "goals": 8,
-          "assists": 0,
+          "assists": 1,
           "penalties": 0
         },
         {
           "name": "Milan Zonneveld",
           "team": "Sparta",
-          "goals": 7,
+          "goals": 8,
           "assists": 1,
           "penalties": 0
+        },
+        {
+          "name": "Wout Weghorst",
+          "team": "Twente",
+          "goals": 8,
+          "assists": 2,
+          "penalties": 2
+        },
+        {
+          "name": "Thom van Bergen",
+          "team": "Groningen",
+          "goals": 7,
+          "assists": 3,
+          "penalties": 1
         },
         {
           "name": "Guus Til",
@@ -584,13 +598,6 @@
           "goals": 7,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Thom van Bergen",
-          "team": "Groningen",
-          "goals": 6,
-          "assists": 3,
-          "penalties": 1
         },
         {
           "name": "Julian Brandt",
@@ -619,20 +626,13 @@
           "goals": 6,
           "assists": 2,
           "penalties": 0
-        },
-        {
-          "name": "Anis Moussa",
-          "team": "Feyenoord",
-          "goals": 6,
-          "assists": 2,
-          "penalties": 0
         }
       ],
       "topAssists": [
         {
           "name": "Thom van Bergen",
           "team": "Groningen",
-          "goals": 6,
+          "goals": 7,
           "assists": 3,
           "penalties": 1
         },
@@ -644,6 +644,13 @@
           "penalties": 0
         },
         {
+          "name": "Wout Weghorst",
+          "team": "Twente",
+          "goals": 8,
+          "assists": 2,
+          "penalties": 2
+        },
+        {
           "name": "Julian Brandt",
           "team": "Ajax",
           "goals": 6,
@@ -653,13 +660,6 @@
         {
           "name": "Rafik el Arguioui",
           "team": "Cambuur",
-          "goals": 6,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Jacob Trenskow",
-          "team": "Heerenveen",
           "goals": 6,
           "assists": 2,
           "penalties": 0
@@ -711,6 +711,13 @@
           "penalties": 1
         },
         {
+          "name": "André Clovis",
+          "team": "Acad. Viseu",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Gonçalo Paciência",
           "team": "Santa Clara",
           "goals": 5,
@@ -730,13 +737,6 @@
           "goals": 4,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "André Silva",
-          "team": "Porto",
-          "goals": 4,
-          "assists": 2,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -762,18 +762,18 @@
           "penalties": 2
         },
         {
-          "name": "André Silva",
-          "team": "Porto",
-          "goals": 4,
-          "assists": 2,
-          "penalties": 1
-        },
-        {
           "name": "Luis Suárez",
           "team": "Sporting CP",
           "goals": 8,
           "assists": 1,
           "penalties": 2
+        },
+        {
+          "name": "André Clovis",
+          "team": "Acad. Viseu",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
         }
       ]
     },
@@ -808,6 +808,13 @@
           "penalties": 1
         },
         {
+          "name": "Fer López",
+          "team": "Wolverhampton",
+          "goals": 6,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
           "name": "Jack Moylan",
           "team": "Cardiff",
           "goals": 6,
@@ -836,13 +843,6 @@
           "penalties": 0
         },
         {
-          "name": "Fer López",
-          "team": "Wolverhampton",
-          "goals": 5,
-          "assists": 3,
-          "penalties": 0
-        },
-        {
           "name": "Mohamed Toure",
           "team": "Norwich",
           "goals": 5,
@@ -859,18 +859,18 @@
           "penalties": 1
         },
         {
+          "name": "Fer López",
+          "team": "Wolverhampton",
+          "goals": 6,
+          "assists": 3,
+          "penalties": 0
+        },
+        {
           "name": "Jack Moylan",
           "team": "Cardiff",
           "goals": 6,
           "assists": 3,
           "penalties": 1
-        },
-        {
-          "name": "Fer López",
-          "team": "Wolverhampton",
-          "goals": 5,
-          "assists": 3,
-          "penalties": 0
         },
         {
           "name": "Kieffer Moore",
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-11-01T12:35:48.065Z"
+  "generatedAt": "2026-11-01T21:40:00.811Z"
 }

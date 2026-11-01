@@ -1,5 +1,36 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-11-01T12:32:06.143Z",
+  "transfers": [
+    {
+      "player": "Florida replaces quarterback Aaron Philo",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/florida-replaces-quarterback-aaron-philo-213516306.html",
+      "publishedAt": "2026-10-31T21:35:16Z"
+    },
+    {
+      "player": "'Significant' ankle injury for LB Drayk ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "South Bend Tribune",
+      "url": "https://www.southbendtribune.com/story/sports/college/football/2026/10/31/notre-dame-football-injuries-navy-miami-drayk-bowen/91707389007/",
+      "publishedAt": "2026-10-31T21:12:42Z"
+    },
+    {
+      "player": "Transfer portal, not NIL, reason for par",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/transfer-portal-not-nil-reason-parity-claims-college-football-expert-brooks-austin",
+      "publishedAt": "2026-10-31T21:05:21Z"
+    }
+  ],
+  "generatedAt": "2026-11-01T21:36:13.077Z",
   "note": "Transfers derived from news headlines at launch."
 }
