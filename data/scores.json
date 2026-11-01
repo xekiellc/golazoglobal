@@ -1,6 +1,24 @@
 {
   "matches": [
     {
+      "league": "SA",
+      "homeTeam": "Como 1907",
+      "awayTeam": "Venezia FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-11-01T11:30:00Z"
+    },
+    {
+      "league": "DED",
+      "homeTeam": "Zwolle",
+      "awayTeam": "Den Haag",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-11-01T11:15:00Z"
+    },
+    {
       "league": "PL",
       "homeTeam": "Chelsea",
       "awayTeam": "Man United",
@@ -416,15 +434,6 @@
     },
     {
       "league": "SA",
-      "homeTeam": "Como 1907",
-      "awayTeam": "Venezia FC",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-11-01T11:30:00Z"
-    },
-    {
-      "league": "SA",
       "homeTeam": "Frosinone",
       "awayTeam": "Torino",
       "homeScore": null,
@@ -515,15 +524,6 @@
     },
     {
       "league": "DED",
-      "homeTeam": "Zwolle",
-      "awayTeam": "Den Haag",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-11-01T11:15:00Z"
-    },
-    {
-      "league": "DED",
       "homeTeam": "Telstar",
       "awayTeam": "Utrecht",
       "homeScore": null,
@@ -586,5 +586,5 @@
       "utcDate": "2026-11-01T20:30:00Z"
     }
   ],
-  "generatedAt": "2026-11-01T01:48:05.543Z"
+  "generatedAt": "2026-11-01T12:33:30.664Z"
 }

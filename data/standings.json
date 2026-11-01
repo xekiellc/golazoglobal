@@ -566,6 +566,19 @@
       },
       {
         "position": 4,
+        "team": "Como 1907",
+        "played": 10,
+        "won": 7,
+        "drawn": 2,
+        "lost": 1,
+        "goalsFor": 18,
+        "goalsAgainst": 8,
+        "goalDifference": 10,
+        "points": 23,
+        "form": ""
+      },
+      {
+        "position": 5,
         "team": "Milan",
         "played": 10,
         "won": 6,
@@ -575,19 +588,6 @@
         "goalsAgainst": 12,
         "goalDifference": 9,
         "points": 21,
-        "form": ""
-      },
-      {
-        "position": 5,
-        "team": "Como 1907",
-        "played": 9,
-        "won": 6,
-        "drawn": 2,
-        "lost": 1,
-        "goalsFor": 17,
-        "goalsAgainst": 8,
-        "goalDifference": 9,
-        "points": 20,
         "form": ""
       },
       {
@@ -775,13 +775,13 @@
       {
         "position": 20,
         "team": "Venezia FC",
-        "played": 9,
+        "played": 10,
         "won": 1,
         "drawn": 0,
-        "lost": 8,
+        "lost": 9,
         "goalsFor": 6,
-        "goalsAgainst": 19,
-        "goalDifference": -13,
+        "goalsAgainst": 20,
+        "goalDifference": -14,
         "points": 3,
         "form": ""
       }
@@ -1430,6 +1430,19 @@
       },
       {
         "position": 14,
+        "team": "Zwolle",
+        "played": 11,
+        "won": 3,
+        "drawn": 2,
+        "lost": 6,
+        "goalsFor": 12,
+        "goalsAgainst": 23,
+        "goalDifference": -11,
+        "points": 11,
+        "form": ""
+      },
+      {
+        "position": 15,
         "team": "Sparta",
         "played": 10,
         "won": 2,
@@ -1439,19 +1452,6 @@
         "goalsAgainst": 24,
         "goalDifference": -7,
         "points": 9,
-        "form": ""
-      },
-      {
-        "position": 15,
-        "team": "Zwolle",
-        "played": 10,
-        "won": 2,
-        "drawn": 2,
-        "lost": 6,
-        "goalsFor": 11,
-        "goalsAgainst": 23,
-        "goalDifference": -12,
-        "points": 8,
         "form": ""
       },
       {
@@ -1470,13 +1470,13 @@
       {
         "position": 17,
         "team": "Den Haag",
-        "played": 10,
+        "played": 11,
         "won": 1,
         "drawn": 3,
-        "lost": 6,
+        "lost": 7,
         "goalsFor": 13,
-        "goalsAgainst": 23,
-        "goalDifference": -10,
+        "goalsAgainst": 24,
+        "goalDifference": -11,
         "points": 6,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-01T01:49:08.565Z"
+  "generatedAt": "2026-11-01T12:34:33.087Z"
 }
