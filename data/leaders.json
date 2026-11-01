@@ -130,7 +130,7 @@
         {
           "name": "Lamine Yamal",
           "team": "Barça",
-          "goals": 9,
+          "goals": 10,
           "assists": 7,
           "penalties": 1
         },
@@ -188,7 +188,7 @@
         {
           "name": "Lamine Yamal",
           "team": "Barça",
-          "goals": 9,
+          "goals": 10,
           "assists": 7,
           "penalties": 1
         },
@@ -600,6 +600,13 @@
           "penalties": 0
         },
         {
+          "name": "Rafik el Arguioui",
+          "team": "Cambuur",
+          "goals": 6,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Jacob Trenskow",
           "team": "Heerenveen",
           "goals": 6,
@@ -618,13 +625,6 @@
           "team": "Feyenoord",
           "goals": 6,
           "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Toluwalas Arokodare",
-          "team": "Ajax",
-          "goals": 6,
-          "assists": 1,
           "penalties": 0
         }
       ],
@@ -651,15 +651,15 @@
           "penalties": 0
         },
         {
-          "name": "Jacob Trenskow",
-          "team": "Heerenveen",
+          "name": "Rafik el Arguioui",
+          "team": "Cambuur",
           "goals": 6,
           "assists": 2,
           "penalties": 0
         },
         {
-          "name": "Sven Mijnans",
-          "team": "PSV",
+          "name": "Jacob Trenskow",
+          "team": "Heerenveen",
           "goals": 6,
           "assists": 2,
           "penalties": 0
@@ -704,11 +704,25 @@
           "penalties": 0
         },
         {
+          "name": "Gabriel Veiga",
+          "team": "Porto",
+          "goals": 5,
+          "assists": 4,
+          "penalties": 1
+        },
+        {
           "name": "Gonçalo Paciência",
           "team": "Santa Clara",
           "goals": 5,
           "assists": 1,
           "penalties": 1
+        },
+        {
+          "name": "Borja Sainz",
+          "team": "Porto",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
         },
         {
           "name": "Leandro Antonetti",
@@ -718,25 +732,11 @@
           "penalties": 0
         },
         {
-          "name": "Gabriel Veiga",
+          "name": "André Silva",
           "team": "Porto",
           "goals": 4,
-          "assists": 3,
+          "assists": 2,
           "penalties": 1
-        },
-        {
-          "name": "Pau Victor Delgado",
-          "team": "Braga",
-          "goals": 4,
-          "assists": 1,
-          "penalties": 0
-        },
-        {
-          "name": "André Clovis",
-          "team": "Acad. Viseu",
-          "goals": 4,
-          "assists": 0,
-          "penalties": 0
         }
       ],
       "topAssists": [
@@ -748,6 +748,13 @@
           "penalties": 0
         },
         {
+          "name": "Gabriel Veiga",
+          "team": "Porto",
+          "goals": 5,
+          "assists": 4,
+          "penalties": 1
+        },
+        {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
           "goals": 9,
@@ -755,10 +762,10 @@
           "penalties": 2
         },
         {
-          "name": "Gabriel Veiga",
+          "name": "André Silva",
           "team": "Porto",
           "goals": 4,
-          "assists": 3,
+          "assists": 2,
           "penalties": 1
         },
         {
@@ -767,13 +774,6 @@
           "goals": 8,
           "assists": 1,
           "penalties": 2
-        },
-        {
-          "name": "Gonçalo Paciência",
-          "team": "Santa Clara",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 1
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-10-31T20:57:08.624Z"
+  "generatedAt": "2026-11-01T01:50:25.703Z"
 }
