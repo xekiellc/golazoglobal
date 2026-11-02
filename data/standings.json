@@ -610,9 +610,9 @@
         "won": 5,
         "drawn": 2,
         "lost": 3,
-        "goalsFor": 12,
+        "goalsFor": 13,
         "goalsAgainst": 10,
-        "goalDifference": 2,
+        "goalDifference": 3,
         "points": 17,
         "form": ""
       },
@@ -624,8 +624,8 @@
         "drawn": 2,
         "lost": 4,
         "goalsFor": 17,
-        "goalsAgainst": 12,
-        "goalDifference": 5,
+        "goalsAgainst": 13,
+        "goalDifference": 4,
         "points": 14,
         "form": ""
       },
@@ -1575,6 +1575,19 @@
       },
       {
         "position": 7,
+        "team": "Braga",
+        "played": 10,
+        "won": 4,
+        "drawn": 2,
+        "lost": 4,
+        "goalsFor": 12,
+        "goalsAgainst": 11,
+        "goalDifference": 1,
+        "points": 14,
+        "form": ""
+      },
+      {
+        "position": 8,
         "team": "Gil Vicente",
         "played": 9,
         "won": 4,
@@ -1587,7 +1600,7 @@
         "form": ""
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "Moreirense",
         "played": 10,
         "won": 4,
@@ -1600,33 +1613,7 @@
         "form": ""
       },
       {
-        "position": 9,
-        "team": "Braga",
-        "played": 10,
-        "won": 3,
-        "drawn": 3,
-        "lost": 4,
-        "goalsFor": 9,
-        "goalsAgainst": 11,
-        "goalDifference": -2,
-        "points": 12,
-        "form": ""
-      },
-      {
         "position": 10,
-        "team": "Famalicão",
-        "played": 10,
-        "won": 2,
-        "drawn": 5,
-        "lost": 3,
-        "goalsFor": 14,
-        "goalsAgainst": 11,
-        "goalDifference": 3,
-        "points": 11,
-        "form": ""
-      },
-      {
-        "position": 11,
         "team": "Alverca",
         "played": 9,
         "won": 3,
@@ -1636,6 +1623,19 @@
         "goalsAgainst": 13,
         "goalDifference": 0,
         "points": 11,
+        "form": ""
+      },
+      {
+        "position": 11,
+        "team": "Famalicão",
+        "played": 10,
+        "won": 2,
+        "drawn": 4,
+        "lost": 4,
+        "goalsFor": 14,
+        "goalsAgainst": 14,
+        "goalDifference": 0,
+        "points": 10,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-01T21:38:42.175Z"
+  "generatedAt": "2026-11-02T02:03:43.412Z"
 }
