@@ -1,46 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Lisandro Martinez was stupid, selfish an",
+      "player": "Todd McShay pitches potential Arch Manni",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Awful Announcing",
+      "url": "https://awfulannouncing.com/college-football/todd-mcshay-pitches-potential-arch-manning-transfer-destination.html",
+      "publishedAt": "2026-11-01T14:00:52Z"
+    },
+    {
+      "player": "ESPN announcer Kirk Herbstreit 'headline",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/football/article-16249181/Lisandro-Martinez-stupid-selfish-Michael-Carrick.html",
-      "publishedAt": "2026-11-01T02:00:56Z"
-    },
-    {
-      "player": "Is Kamario Taylor Out For The Season? Wh",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Heavy.com",
-      "url": "https://heavy.com/sports/college-football/is-kamario-taylor-out-for-season-why-mississippi-state-qb-isnt-playing/",
-      "publishedAt": "2026-11-01T01:43:19Z"
-    },
-    {
-      "player": "Indiana wins after trading field goals w",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/indiana-football-news-hoosiers-win-trading-field-goals-minnesota-force-overtime",
-      "publishedAt": "2026-11-01T01:41:21Z"
-    },
-    {
-      "player": "College football winners, losers",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-oregons-dylan-raiola-wisconsin/",
-      "publishedAt": "2026-11-01T00:51:02Z"
+      "url": "https://www.dailymail.com/sport/college-football/article-16256073/ESPN-Kirk-Herbstreit-GOP-fundraiser.html",
+      "publishedAt": "2026-11-01T13:54:05Z"
     }
   ],
-  "generatedAt": "2026-11-02T02:01:14.148Z",
+  "generatedAt": "2026-11-02T14:33:18.878Z",
   "note": "Transfers derived from news headlines at launch."
 }
