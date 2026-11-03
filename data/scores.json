@@ -1,15 +1,6 @@
 {
   "matches": [
     {
-      "league": "BSA",
-      "homeTeam": "Bragantino",
-      "awayTeam": "Santos",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "IN_PLAY",
-      "utcDate": "2026-11-02T23:00:00Z"
-    },
-    {
       "league": "PL",
       "homeTeam": "Newcastle",
       "awayTeam": "Everton",
@@ -71,6 +62,15 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-11-02T20:15:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Santos",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-11-02T23:00:00Z"
     },
     {
       "league": "CL",
@@ -244,5 +244,5 @@
       "utcDate": "2026-11-03T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-11-03T00:23:08.735Z"
+  "generatedAt": "2026-11-03T13:30:19.138Z"
 }
