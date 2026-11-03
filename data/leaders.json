@@ -789,7 +789,7 @@
         {
           "name": "Andri Guðjohnsen",
           "team": "Blackburn",
-          "goals": 8,
+          "goals": 9,
           "assists": 1,
           "penalties": 0
         },
@@ -806,6 +806,13 @@
           "goals": 7,
           "assists": 4,
           "penalties": 1
+        },
+        {
+          "name": "Sam Dalby",
+          "team": "Bolton",
+          "goals": 6,
+          "assists": 0,
+          "penalties": 0
         },
         {
           "name": "Fer López",
@@ -829,13 +836,6 @@
           "penalties": 1
         },
         {
-          "name": "Sam Dalby",
-          "team": "Bolton",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
           "name": "Kieffer Moore",
           "team": "Wrexham",
           "goals": 5,
@@ -843,11 +843,11 @@
           "penalties": 0
         },
         {
-          "name": "Mohamed Toure",
-          "team": "Norwich",
+          "name": "Isaac Price",
+          "team": "West Brom",
           "goals": 5,
-          "assists": 0,
-          "penalties": 0
+          "assists": 2,
+          "penalties": 3
         }
       ],
       "topAssists": [
@@ -880,11 +880,11 @@
           "penalties": 0
         },
         {
-          "name": "Andri Guðjohnsen",
-          "team": "Blackburn",
-          "goals": 8,
-          "assists": 1,
-          "penalties": 0
+          "name": "Isaac Price",
+          "team": "West Brom",
+          "goals": 5,
+          "assists": 2,
+          "penalties": 3
         }
       ]
     },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-11-03T13:32:37.862Z"
+  "generatedAt": "2026-11-03T22:51:30.049Z"
 }
