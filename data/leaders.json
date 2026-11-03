@@ -45,6 +45,13 @@
           "penalties": 0
         },
         {
+          "name": "Thierno Barry",
+          "team": "Everton",
+          "goals": 4,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Rayan Cherki",
           "team": "Man City",
           "goals": 4,
@@ -63,13 +70,6 @@
           "team": "Bournemouth",
           "goals": 4,
           "assists": 4,
-          "penalties": 0
-        },
-        {
-          "name": "Kai Havertz",
-          "team": "Arsenal",
-          "goals": 3,
-          "assists": 0,
           "penalties": 0
         }
       ],
@@ -135,6 +135,13 @@
           "penalties": 1
         },
         {
+          "name": "Ante Budimir",
+          "team": "Osasuna",
+          "goals": 8,
+          "assists": 0,
+          "penalties": 4
+        },
+        {
           "name": "Yassir Zabiri",
           "team": "Santander",
           "goals": 8,
@@ -147,13 +154,6 @@
           "goals": 7,
           "assists": 2,
           "penalties": 0
-        },
-        {
-          "name": "Ante Budimir",
-          "team": "Osasuna",
-          "goals": 7,
-          "assists": 0,
-          "penalties": 4
         },
         {
           "name": "Roberto Fernández",
@@ -671,9 +671,9 @@
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
-          "goals": 9,
+          "goals": 10,
           "assists": 3,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Luis Suárez",
@@ -757,9 +757,9 @@
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
-          "goals": 9,
+          "goals": 10,
           "assists": 3,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Luis Suárez",
@@ -908,7 +908,7 @@
           "name": "Gabriel Barbosa",
           "team": "Santos",
           "goals": 15,
-          "assists": 3,
+          "assists": 4,
           "penalties": 2
         },
         {
@@ -984,21 +984,21 @@
           "penalties": 0
         },
         {
+          "name": "Gabriel Barbosa",
+          "team": "Santos",
+          "goals": 15,
+          "assists": 4,
+          "penalties": 2
+        },
+        {
           "name": "Kevin Viveros",
           "team": "Paranaense",
           "goals": 21,
           "assists": 3,
           "penalties": 4
-        },
-        {
-          "name": "Gabriel Barbosa",
-          "team": "Santos",
-          "goals": 15,
-          "assists": 3,
-          "penalties": 2
         }
       ]
     }
   },
-  "generatedAt": "2026-11-02T14:37:01.250Z"
+  "generatedAt": "2026-11-03T00:25:29.840Z"
 }

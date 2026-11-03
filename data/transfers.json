@@ -1,26 +1,76 @@
 {
   "transfers": [
     {
-      "player": "Todd McShay pitches potential Arch Manni",
+      "player": "Next Florida State Coach",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Awful Announcing",
-      "url": "https://awfulannouncing.com/college-football/todd-mcshay-pitches-potential-arch-manning-transfer-destination.html",
-      "publishedAt": "2026-11-01T14:00:52Z"
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/college-football/florida-state-seminoles/florida-state-coach-rumors-news-top-candidates-fsu-noles/",
+      "publishedAt": "2026-11-02T00:09:35Z"
     },
     {
-      "player": "ESPN announcer Kirk Herbstreit 'headline",
+      "player": "College basketball is back. These Novemb",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/college-football/article-16256073/ESPN-Kirk-Herbstreit-GOP-fundraiser.html",
-      "publishedAt": "2026-11-01T13:54:05Z"
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaab/2026/11/01/mens-college-basketball-ranking-best-non-conference-games-november/92516275007/",
+      "publishedAt": "2026-11-02T00:00:27Z"
+    },
+    {
+      "player": "Ex",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/fannation/college/cfb-hq/news/florida-state-coach-rumors-news-fsu-noles-next-new",
+      "publishedAt": "2026-11-01T23:57:28Z"
+    },
+    {
+      "player": "Jeremy Pernell",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/nebraska/football/jeremy-pernell-time-for-huskers-matt-rhule-to-move-on-from-dana-holgorsen-01m6ckbt1zna",
+      "publishedAt": "2026-11-01T23:53:50Z"
+    },
+    {
+      "player": "Fermin Lopez opens up on Manchester Unit",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Worldsoccertalk.com",
+      "url": "https://worldsoccertalk.com/news/fermin-lopez-opens-up-on-manchester-united-transfer-rumors-with-clear-message-for-barcelona/",
+      "publishedAt": "2026-11-01T23:45:53Z"
+    },
+    {
+      "player": "Bianchi",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Orlando Sentinel",
+      "url": "https://www.orlandosentinel.com/2026/11/01/fsu-mike-norvell-fired-seminoles-clemson-mike-bianchi-commentary/",
+      "publishedAt": "2026-11-01T23:28:00Z"
+    },
+    {
+      "player": "Jimbo Fisher has been lobbying to replac",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/ncaa-football/florida-state-football-news-jimbo-fisher-lobbying-to-replace-mike-norvell",
+      "publishedAt": "2026-11-01T23:21:39Z"
     }
   ],
-  "generatedAt": "2026-11-02T14:33:18.878Z",
+  "generatedAt": "2026-11-03T00:21:43.588Z",
   "note": "Transfers derived from news headlines at launch."
 }
