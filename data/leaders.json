@@ -794,6 +794,13 @@
           "penalties": 0
         },
         {
+          "name": "Jack Moylan",
+          "team": "Cardiff",
+          "goals": 9,
+          "assists": 3,
+          "penalties": 2
+        },
+        {
           "name": "Cyle Larin",
           "team": "Southampton",
           "goals": 7,
@@ -804,7 +811,7 @@
           "name": "Jarrod Bowen",
           "team": "West Ham",
           "goals": 7,
-          "assists": 4,
+          "assists": 6,
           "penalties": 1
         },
         {
@@ -822,13 +829,6 @@
           "penalties": 0
         },
         {
-          "name": "Jack Moylan",
-          "team": "Cardiff",
-          "goals": 6,
-          "assists": 3,
-          "penalties": 1
-        },
-        {
           "name": "August Priske",
           "team": "Birmingham",
           "goals": 6,
@@ -839,15 +839,15 @@
           "name": "Kieffer Moore",
           "team": "Wrexham",
           "goals": 5,
-          "assists": 2,
+          "assists": 3,
           "penalties": 0
         },
         {
-          "name": "Isaac Price",
-          "team": "West Brom",
+          "name": "Scott Twine",
+          "team": "Bristol City",
           "goals": 5,
-          "assists": 2,
-          "penalties": 3
+          "assists": 0,
+          "penalties": 1
         }
       ],
       "topAssists": [
@@ -855,8 +855,15 @@
           "name": "Jarrod Bowen",
           "team": "West Ham",
           "goals": 7,
-          "assists": 4,
+          "assists": 6,
           "penalties": 1
+        },
+        {
+          "name": "Jack Moylan",
+          "team": "Cardiff",
+          "goals": 9,
+          "assists": 3,
+          "penalties": 2
         },
         {
           "name": "Fer López",
@@ -866,25 +873,18 @@
           "penalties": 0
         },
         {
-          "name": "Jack Moylan",
-          "team": "Cardiff",
-          "goals": 6,
-          "assists": 3,
-          "penalties": 1
-        },
-        {
           "name": "Kieffer Moore",
           "team": "Wrexham",
           "goals": 5,
-          "assists": 2,
+          "assists": 3,
           "penalties": 0
         },
         {
-          "name": "Isaac Price",
-          "team": "West Brom",
-          "goals": 5,
-          "assists": 2,
-          "penalties": 3
+          "name": "Andri Guðjohnsen",
+          "team": "Blackburn",
+          "goals": 9,
+          "assists": 1,
+          "penalties": 0
         }
       ]
     },
@@ -900,7 +900,7 @@
         {
           "name": "Pedro",
           "team": "Flamengo",
-          "goals": 18,
+          "goals": 19,
           "assists": 7,
           "penalties": 0
         },
@@ -919,6 +919,13 @@
           "penalties": 4
         },
         {
+          "name": "Samuel Lino",
+          "team": "Flamengo",
+          "goals": 12,
+          "assists": 9,
+          "penalties": 0
+        },
+        {
           "name": "Carlos Vinícius",
           "team": "Grêmio",
           "goals": 11,
@@ -931,13 +938,6 @@
           "goals": 11,
           "assists": 1,
           "penalties": 5
-        },
-        {
-          "name": "Samuel Lino",
-          "team": "Flamengo",
-          "goals": 11,
-          "assists": 9,
-          "penalties": 0
         },
         {
           "name": "Danilo dos Santos de Oliveira",
@@ -965,14 +965,14 @@
         {
           "name": "Samuel Lino",
           "team": "Flamengo",
-          "goals": 11,
+          "goals": 12,
           "assists": 9,
           "penalties": 0
         },
         {
           "name": "Pedro",
           "team": "Flamengo",
-          "goals": 18,
+          "goals": 19,
           "assists": 7,
           "penalties": 0
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-11-04T13:43:33.389Z"
+  "generatedAt": "2026-11-04T23:09:39.816Z"
 }

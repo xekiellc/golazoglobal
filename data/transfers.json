@@ -1,26 +1,5 @@
 {
-  "transfers": [
-    {
-      "player": "Notre Dame Fighting Irish vs Miami Hurri",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/notre-dame/opinion/notre-dame-fighting-irish-vs-miami-hurricanes-recruiting-comparison",
-      "publishedAt": "2026-11-03T13:00:18Z"
-    },
-    {
-      "player": "NBA scouts missed Yaxel Lendeborg’s grea",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "SB Nation",
-      "url": "https://www.sbnation.com/nba/1134699/yaxel-lendeborg-warriors-rookie-nba-draft-scouts-missed",
-      "publishedAt": "2026-11-03T13:00:00Z"
-    }
-  ],
-  "generatedAt": "2026-11-04T13:39:46.253Z",
+  "transfers": [],
+  "generatedAt": "2026-11-04T23:05:50.289Z",
   "note": "Transfers derived from news headlines at launch."
 }
