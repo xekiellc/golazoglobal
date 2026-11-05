@@ -1,105 +1,6 @@
 {
   "matches": [
     {
-      "league": "BSA",
-      "homeTeam": "Paranaense",
-      "awayTeam": "Vasco da Gama",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-11-04T22:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Flamengo",
-      "awayTeam": "Grêmio",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "IN_PLAY",
-      "utcDate": "2026-11-04T22:30:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Shaktar",
-      "awayTeam": "Sporting CP",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T17:45:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Galatasaray",
-      "awayTeam": "Stuttgart",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T17:45:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Feyenoord",
-      "awayTeam": "Inter",
-      "homeScore": 0,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T20:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Barça",
-      "awayTeam": "Aston Villa",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T20:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Atleti",
-      "awayTeam": "Bayern",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T20:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Villarreal",
-      "awayTeam": "PSG",
-      "homeScore": 0,
-      "awayScore": 6,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T20:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Man United",
-      "awayTeam": "Roma",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T20:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "Bodø/Glimt",
-      "awayTeam": "Lille",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T20:00:00Z"
-    },
-    {
-      "league": "CL",
-      "homeTeam": "LASK",
-      "awayTeam": "Sl. Bratislava",
-      "homeScore": 4,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T20:00:00Z"
-    },
-    {
       "league": "CL",
       "homeTeam": "PAE AEK",
       "awayTeam": "Real Madrid",
@@ -182,87 +83,6 @@
     },
     {
       "league": "ELC",
-      "homeTeam": "QPR",
-      "awayTeam": "Burnley",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T19:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Derby County",
-      "awayTeam": "Norwich",
-      "homeScore": 0,
-      "awayScore": 4,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T19:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Blackburn",
-      "awayTeam": "Stoke",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T19:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Watford",
-      "awayTeam": "Lincoln City",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T19:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Charlton",
-      "awayTeam": "Bolton",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T19:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Portsmouth",
-      "awayTeam": "Swansea",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T19:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Preston NE",
-      "awayTeam": "Sheffield Utd",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T19:45:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "West Brom",
-      "awayTeam": "Southampton",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T20:00:00Z"
-    },
-    {
-      "league": "ELC",
-      "homeTeam": "Birmingham",
-      "awayTeam": "Millwall",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T20:00:00Z"
-    },
-    {
-      "league": "ELC",
       "homeTeam": "Cardiff",
       "awayTeam": "West Ham",
       "homeScore": 3,
@@ -290,22 +110,58 @@
     },
     {
       "league": "BSA",
-      "homeTeam": "Chapecoense",
-      "awayTeam": "Mirassol",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FINISHED",
-      "utcDate": "2026-11-03T22:30:00Z"
-    },
-    {
-      "league": "BSA",
       "homeTeam": "Internacional",
       "awayTeam": "Coritiba",
       "homeScore": 1,
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-11-04T00:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Paranaense",
+      "awayTeam": "Vasco da Gama",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "FINISHED",
+      "utcDate": "2026-11-04T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Grêmio",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FINISHED",
+      "utcDate": "2026-11-04T22:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Mineiro",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-11-05T00:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "São Paulo",
+      "awayTeam": "Corinthians",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-11-05T00:30:00Z"
+    },
+    {
+      "league": "BSA",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Clube do Remo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "TIMED",
+      "utcDate": "2026-11-05T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-11-04T23:07:15.720Z"
+  "generatedAt": "2026-11-05T13:53:44.501Z"
 }

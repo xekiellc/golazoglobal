@@ -1,5 +1,16 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-11-04T23:05:50.289Z",
+  "transfers": [
+    {
+      "player": "Alabama Football 2026 vs. LSU",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roll Bama Roll",
+      "url": "https://www.rollbamaroll.com/alabama-crimson-tide-football/86098/alabama-football-2026-vs-lsu-previewing-the-tiger-offense",
+      "publishedAt": "2026-11-04T13:52:00Z"
+    }
+  ],
+  "generatedAt": "2026-11-05T13:52:22.029Z",
   "note": "Transfers derived from news headlines at launch."
 }
