@@ -1,16 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Alabama Football 2026 vs. LSU",
+      "player": "Louisville vs. Stetson score today, wome",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roll Bama Roll",
-      "url": "https://www.rollbamaroll.com/alabama-crimson-tide-football/86098/alabama-football-2026-vs-lsu-previewing-the-tiger-offense",
-      "publishedAt": "2026-11-04T13:52:00Z"
+      "source": "Courier Journal",
+      "url": "https://www.courier-journal.com/story/sports/college/louisville/2026/11/04/louisville-stetson-score-today-uofl-womens-basketball-stats-live-updates/92554387007/",
+      "publishedAt": "2026-11-04T23:00:40Z"
     }
   ],
-  "generatedAt": "2026-11-05T13:52:22.029Z",
+  "generatedAt": "2026-11-05T23:09:58.350Z",
   "note": "Transfers derived from news headlines at launch."
 }

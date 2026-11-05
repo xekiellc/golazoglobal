@@ -2061,14 +2061,14 @@
       {
         "position": 2,
         "team": "Palmeiras",
-        "played": 33,
-        "won": 20,
+        "played": 34,
+        "won": 21,
         "drawn": 10,
         "lost": 3,
-        "goalsFor": 56,
+        "goalsFor": 60,
         "goalsAgainst": 22,
-        "goalDifference": 34,
-        "points": 70,
+        "goalDifference": 38,
+        "points": 73,
         "form": ""
       },
       {
@@ -2282,13 +2282,13 @@
       {
         "position": 19,
         "team": "Clube do Remo",
-        "played": 33,
+        "played": 34,
         "won": 6,
         "drawn": 11,
-        "lost": 16,
+        "lost": 17,
         "goalsFor": 36,
-        "goalsAgainst": 51,
-        "goalDifference": -15,
+        "goalsAgainst": 55,
+        "goalDifference": -19,
         "points": 29,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-05T13:54:46.192Z"
+  "generatedAt": "2026-11-05T23:12:24.894Z"
 }

@@ -954,11 +954,11 @@
           "penalties": 2
         },
         {
-          "name": "José Manuel López",
+          "name": "Mauricio",
           "team": "Palmeiras",
-          "goals": 9,
-          "assists": 6,
-          "penalties": 0
+          "goals": 10,
+          "assists": 1,
+          "penalties": 1
         }
       ],
       "topAssists": [
@@ -977,13 +977,6 @@
           "penalties": 0
         },
         {
-          "name": "José Manuel López",
-          "team": "Palmeiras",
-          "goals": 9,
-          "assists": 6,
-          "penalties": 0
-        },
-        {
           "name": "Gabriel Barbosa",
           "team": "Santos",
           "goals": 15,
@@ -996,9 +989,16 @@
           "goals": 21,
           "assists": 3,
           "penalties": 4
+        },
+        {
+          "name": "Kaio Jorge",
+          "team": "Cruzeiro",
+          "goals": 12,
+          "assists": 2,
+          "penalties": 4
         }
       ]
     }
   },
-  "generatedAt": "2026-11-05T13:56:00.786Z"
+  "generatedAt": "2026-11-05T23:13:40.099Z"
 }

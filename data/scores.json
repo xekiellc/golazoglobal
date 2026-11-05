@@ -1,6 +1,15 @@
 {
   "matches": [
     {
+      "league": "BSA",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Clube do Remo",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "IN_PLAY",
+      "utcDate": "2026-11-05T22:30:00Z"
+    },
+    {
       "league": "CL",
       "homeTeam": "PAE AEK",
       "awayTeam": "Real Madrid",
@@ -152,16 +161,7 @@
       "awayScore": 0,
       "status": "FINISHED",
       "utcDate": "2026-11-05T00:30:00Z"
-    },
-    {
-      "league": "BSA",
-      "homeTeam": "Palmeiras",
-      "awayTeam": "Clube do Remo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "TIMED",
-      "utcDate": "2026-11-05T22:30:00Z"
     }
   ],
-  "generatedAt": "2026-11-05T13:53:44.501Z"
+  "generatedAt": "2026-11-05T23:11:22.954Z"
 }
