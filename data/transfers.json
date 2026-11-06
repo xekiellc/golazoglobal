@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Louisville vs. Stetson score today, wome",
+      "player": "A tale of two halves",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Courier Journal",
-      "url": "https://www.courier-journal.com/story/sports/college/louisville/2026/11/04/louisville-stetson-score-today-uofl-womens-basketball-stats-live-updates/92554387007/",
-      "publishedAt": "2026-11-04T23:00:40Z"
+      "source": "Decaturdaily.com",
+      "url": "https://www.decaturdaily.com/sports/high_school/a-tale-of-two-halves-confident-austin-offense-ready-for-clay-chalkville-challenge/article_93ed10d9-ee9e-477d-ba6e-61d6e749f345.html",
+      "publishedAt": "2026-11-05T13:32:00Z"
+    },
+    {
+      "player": "2026 Week 10 Preview",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Underdogdynasty.com",
+      "url": "https://www.underdogdynasty.com/american-conference/47394/2026-week-10-preview-south-florida-bulls-east-carolina-pirates",
+      "publishedAt": "2026-11-05T13:30:00Z"
+    },
+    {
+      "player": "TV channel, kickoff times announced for ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "USA Today",
+      "url": "https://ugawire.usatoday.com/story/sports/college/bulldogs/football/2026/11/05/georgia-football-missouri-tv-channel-kickoff-times/92569274007/",
+      "publishedAt": "2026-11-05T13:27:36Z"
     }
   ],
-  "generatedAt": "2026-11-05T23:09:58.350Z",
+  "generatedAt": "2026-11-06T13:37:56.971Z",
   "note": "Transfers derived from news headlines at launch."
 }

@@ -914,7 +914,7 @@
         {
           "name": "Kaio Jorge",
           "team": "Cruzeiro",
-          "goals": 12,
+          "goals": 14,
           "assists": 2,
           "penalties": 4
         },
@@ -936,8 +936,15 @@
           "name": "Luciano Juba",
           "team": "Bahia",
           "goals": 11,
-          "assists": 1,
+          "assists": 2,
           "penalties": 5
+        },
+        {
+          "name": "José Manuel López",
+          "team": "Palmeiras",
+          "goals": 10,
+          "assists": 7,
+          "penalties": 0
         },
         {
           "name": "Danilo dos Santos de Oliveira",
@@ -952,13 +959,6 @@
           "goals": 10,
           "assists": 2,
           "penalties": 2
-        },
-        {
-          "name": "Mauricio",
-          "team": "Palmeiras",
-          "goals": 10,
-          "assists": 1,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -977,6 +977,13 @@
           "penalties": 0
         },
         {
+          "name": "José Manuel López",
+          "team": "Palmeiras",
+          "goals": 10,
+          "assists": 7,
+          "penalties": 0
+        },
+        {
           "name": "Gabriel Barbosa",
           "team": "Santos",
           "goals": 15,
@@ -989,16 +996,9 @@
           "goals": 21,
           "assists": 3,
           "penalties": 4
-        },
-        {
-          "name": "Kaio Jorge",
-          "team": "Cruzeiro",
-          "goals": 12,
-          "assists": 2,
-          "penalties": 4
         }
       ]
     }
   },
-  "generatedAt": "2026-11-05T23:13:40.099Z"
+  "generatedAt": "2026-11-06T13:41:38.980Z"
 }

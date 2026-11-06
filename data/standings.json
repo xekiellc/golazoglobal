@@ -2065,23 +2065,23 @@
         "won": 21,
         "drawn": 10,
         "lost": 3,
-        "goalsFor": 60,
-        "goalsAgainst": 22,
-        "goalDifference": 38,
+        "goalsFor": 62,
+        "goalsAgainst": 23,
+        "goalDifference": 39,
         "points": 73,
         "form": ""
       },
       {
         "position": 3,
         "team": "Cruzeiro",
-        "played": 33,
-        "won": 17,
+        "played": 34,
+        "won": 18,
         "drawn": 6,
         "lost": 10,
-        "goalsFor": 52,
-        "goalsAgainst": 46,
-        "goalDifference": 6,
-        "points": 57,
+        "goalsFor": 55,
+        "goalsAgainst": 48,
+        "goalDifference": 7,
+        "points": 60,
         "form": ""
       },
       {
@@ -2113,13 +2113,13 @@
       {
         "position": 6,
         "team": "Bahia",
-        "played": 33,
+        "played": 34,
         "won": 14,
         "drawn": 11,
-        "lost": 8,
-        "goalsFor": 48,
-        "goalsAgainst": 42,
-        "goalDifference": 6,
+        "lost": 9,
+        "goalsFor": 50,
+        "goalsAgainst": 45,
+        "goalDifference": 5,
         "points": 53,
         "form": ""
       },
@@ -2286,9 +2286,9 @@
         "won": 6,
         "drawn": 11,
         "lost": 17,
-        "goalsFor": 36,
-        "goalsAgainst": 55,
-        "goalDifference": -19,
+        "goalsFor": 37,
+        "goalsAgainst": 57,
+        "goalDifference": -20,
         "points": 29,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-05T23:12:24.894Z"
+  "generatedAt": "2026-11-06T13:40:24.094Z"
 }
