@@ -1,36 +1,56 @@
 {
   "transfers": [
     {
-      "player": "A tale of two halves",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Decaturdaily.com",
-      "url": "https://www.decaturdaily.com/sports/high_school/a-tale-of-two-halves-confident-austin-offense-ready-for-clay-chalkville-challenge/article_93ed10d9-ee9e-477d-ba6e-61d6e749f345.html",
-      "publishedAt": "2026-11-05T13:32:00Z"
-    },
-    {
-      "player": "2026 Week 10 Preview",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Underdogdynasty.com",
-      "url": "https://www.underdogdynasty.com/american-conference/47394/2026-week-10-preview-south-florida-bulls-east-carolina-pirates",
-      "publishedAt": "2026-11-05T13:30:00Z"
-    },
-    {
-      "player": "TV channel, kickoff times announced for ",
+      "player": "Florida punter Clark named to Ray Guy Aw",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
       "source": "USA Today",
-      "url": "https://ugawire.usatoday.com/story/sports/college/bulldogs/football/2026/11/05/georgia-football-missouri-tv-channel-kickoff-times/92569274007/",
-      "publishedAt": "2026-11-05T13:27:36Z"
+      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/11/05/florida-football-alec-clark-ray-guy-award-midseason-watch-list/92631425007/",
+      "publishedAt": "2026-11-05T22:33:58Z"
+    },
+    {
+      "player": "Florida State football coaching search 2",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "CBS Sports",
+      "url": "\n                                                https://www.cbssports.com/college-football/news/florida-state-football-coaching-search-2026-candidates-hot-board-biggest-names-to-watch/\n                    ",
+      "publishedAt": "2026-11-05T22:27:55Z"
+    },
+    {
+      "player": "UCF WR Jonathan Bibbs reportedly makes d",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/ucf-wr-jonathan-bibbs-reportedly-222753188.html",
+      "publishedAt": "2026-11-05T22:27:53Z"
+    },
+    {
+      "player": "Kentucky football has never seen anythin",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/college-football/article/kentucky-football-has-never-seen-anything-like-will-stein--and-he-thinks-this-is-just-the-beginning-222547410.html",
+      "publishedAt": "2026-11-05T22:25:47Z"
+    },
+    {
+      "player": "Massillon's Brayton, Brydon Feister rema",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Canton Repository",
+      "url": "https://www.cantonrep.com/story/sports/high-school/fridaynightohio/2026/11/05/feister-brothers-massillon-football-ohsaa-eligibility-ohio-supreme-court/92476306007/",
+      "publishedAt": "2026-11-05T22:05:28Z"
     }
   ],
-  "generatedAt": "2026-11-06T13:37:56.971Z",
+  "generatedAt": "2026-11-06T22:38:04.678Z",
   "note": "Transfers derived from news headlines at launch."
 }

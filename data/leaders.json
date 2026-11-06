@@ -10,6 +10,13 @@
           "penalties": 0
         },
         {
+          "name": "Thierno Barry",
+          "team": "Everton",
+          "goals": 6,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Alexander Isak",
           "team": "Liverpool",
           "goals": 6,
@@ -41,13 +48,6 @@
           "name": "Nicolas Jackson",
           "team": "Aston Villa",
           "goals": 5,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Thierno Barry",
-          "team": "Everton",
-          "goals": 4,
           "assists": 0,
           "penalties": 0
         },
@@ -96,17 +96,17 @@
           "penalties": 0
         },
         {
-          "name": "Morgan Rogers",
-          "team": "Chelsea",
-          "goals": 5,
+          "name": "Thierno Barry",
+          "team": "Everton",
+          "goals": 6,
           "assists": 1,
           "penalties": 0
         },
         {
-          "name": "Erling Haaland",
-          "team": "Man City",
-          "goals": 9,
-          "assists": 0,
+          "name": "Morgan Rogers",
+          "team": "Chelsea",
+          "goals": 5,
+          "assists": 1,
           "penalties": 0
         }
       ]
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-11-06T13:41:38.980Z"
+  "generatedAt": "2026-11-06T22:41:49.349Z"
 }
