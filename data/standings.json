@@ -2087,14 +2087,14 @@
       {
         "position": 4,
         "team": "Fluminense",
-        "played": 33,
-        "won": 15,
+        "played": 34,
+        "won": 16,
         "drawn": 9,
         "lost": 9,
-        "goalsFor": 52,
+        "goalsFor": 55,
         "goalsAgainst": 42,
-        "goalDifference": 10,
-        "points": 54,
+        "goalDifference": 13,
+        "points": 57,
         "form": ""
       },
       {
@@ -2230,13 +2230,13 @@
       {
         "position": 15,
         "team": "Vitória",
-        "played": 33,
+        "played": 34,
         "won": 10,
         "drawn": 8,
-        "lost": 15,
+        "lost": 16,
         "goalsFor": 35,
-        "goalsAgainst": 48,
-        "goalDifference": -13,
+        "goalsAgainst": 51,
+        "goalDifference": -16,
         "points": 38,
         "form": ""
       },
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-06T22:40:33.284Z"
+  "generatedAt": "2026-11-07T02:32:26.263Z"
 }
