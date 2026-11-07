@@ -45,17 +45,17 @@
           "penalties": 0
         },
         {
+          "name": "Rayan Cherki",
+          "team": "Man City",
+          "goals": 5,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Nicolas Jackson",
           "team": "Aston Villa",
           "goals": 5,
           "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Rayan Cherki",
-          "team": "Man City",
-          "goals": 4,
-          "assists": 2,
           "penalties": 0
         },
         {
@@ -91,7 +91,7 @@
         {
           "name": "Rayan Cherki",
           "team": "Man City",
-          "goals": 4,
+          "goals": 5,
           "assists": 2,
           "penalties": 0
         },
@@ -135,18 +135,18 @@
           "penalties": 1
         },
         {
+          "name": "Yassir Zabiri",
+          "team": "Santander",
+          "goals": 9,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Ante Budimir",
           "team": "Osasuna",
           "goals": 8,
           "assists": 0,
           "penalties": 4
-        },
-        {
-          "name": "Yassir Zabiri",
-          "team": "Santander",
-          "goals": 8,
-          "assists": 0,
-          "penalties": 0
         },
         {
           "name": "Sergio Camello",
@@ -235,7 +235,7 @@
           "name": "Donyell Malen",
           "team": "Roma",
           "goals": 8,
-          "assists": 1,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -304,6 +304,13 @@
           "penalties": 0
         },
         {
+          "name": "Donyell Malen",
+          "team": "Roma",
+          "goals": 8,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Nikola Krstović",
           "team": "Atalanta",
           "goals": 6,
@@ -323,13 +330,6 @@
           "goals": 9,
           "assists": 1,
           "penalties": 2
-        },
-        {
-          "name": "Donyell Malen",
-          "team": "Roma",
-          "goals": 8,
-          "assists": 1,
-          "penalties": 0
         }
       ]
     },
@@ -364,6 +364,13 @@
           "penalties": 0
         },
         {
+          "name": "Phillip Tietz",
+          "team": "Mainz",
+          "goals": 6,
+          "assists": 0,
+          "penalties": 0
+        },
+        {
           "name": "Michael Gregoritsch",
           "team": "Augsburg",
           "goals": 5,
@@ -378,42 +385,28 @@
           "penalties": 0
         },
         {
-          "name": "Phillip Tietz",
-          "team": "Mainz",
+          "name": "Jonathan Burkardt",
+          "team": "Frankfurt",
           "goals": 5,
-          "assists": 0,
-          "penalties": 0
-        },
-        {
-          "name": "Luis Díaz",
-          "team": "Bayern",
-          "goals": 4,
           "assists": 1,
           "penalties": 0
         },
         {
-          "name": "Antonio Nusa",
+          "name": "Christopher Nkunku",
           "team": "RB Leipzig",
-          "goals": 4,
-          "assists": 6,
-          "penalties": 1
+          "goals": 5,
+          "assists": 2,
+          "penalties": 0
         },
         {
-          "name": "Yuito Suzuki",
-          "team": "Freiburg",
-          "goals": 4,
+          "name": "Romulo Cruz",
+          "team": "RB Leipzig",
+          "goals": 5,
           "assists": 0,
           "penalties": 0
         }
       ],
       "topAssists": [
-        {
-          "name": "Antonio Nusa",
-          "team": "RB Leipzig",
-          "goals": 4,
-          "assists": 6,
-          "penalties": 1
-        },
         {
           "name": "Michael Olise",
           "team": "Bayern",
@@ -429,6 +422,13 @@
           "penalties": 0
         },
         {
+          "name": "Christopher Nkunku",
+          "team": "RB Leipzig",
+          "goals": 5,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Younes Ebnoutalib",
           "team": "Frankfurt",
           "goals": 6,
@@ -436,9 +436,9 @@
           "penalties": 0
         },
         {
-          "name": "Luis Díaz",
-          "team": "Bayern",
-          "goals": 4,
+          "name": "Jonathan Burkardt",
+          "team": "Frankfurt",
+          "goals": 5,
           "assists": 1,
           "penalties": 0
         }
@@ -449,7 +449,7 @@
         {
           "name": "Lassine Sinayoko",
           "team": "Paris FC",
-          "goals": 8,
+          "goals": 9,
           "assists": 5,
           "penalties": 3
         },
@@ -528,7 +528,7 @@
         {
           "name": "Lassine Sinayoko",
           "team": "Paris FC",
-          "goals": 8,
+          "goals": 9,
           "assists": 5,
           "penalties": 3
         },
@@ -575,7 +575,7 @@
           "name": "Milan Zonneveld",
           "team": "Sparta",
           "goals": 8,
-          "assists": 1,
+          "assists": 2,
           "penalties": 0
         },
         {
@@ -644,6 +644,13 @@
           "penalties": 0
         },
         {
+          "name": "Milan Zonneveld",
+          "team": "Sparta",
+          "goals": 8,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Wout Weghorst",
           "team": "Twente",
           "goals": 8,
@@ -653,13 +660,6 @@
         {
           "name": "Julian Brandt",
           "team": "Ajax",
-          "goals": 6,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Rafik el Arguioui",
-          "team": "Cambuur",
           "goals": 6,
           "assists": 2,
           "penalties": 0
@@ -789,16 +789,16 @@
         {
           "name": "Andri Guðjohnsen",
           "team": "Blackburn",
-          "goals": 9,
+          "goals": 10,
           "assists": 1,
           "penalties": 0
         },
         {
           "name": "Jack Moylan",
           "team": "Cardiff",
-          "goals": 9,
+          "goals": 10,
           "assists": 3,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Cyle Larin",
@@ -829,6 +829,13 @@
           "penalties": 0
         },
         {
+          "name": "Isaac Price",
+          "team": "West Brom",
+          "goals": 6,
+          "assists": 3,
+          "penalties": 3
+        },
+        {
           "name": "August Priske",
           "team": "Birmingham",
           "goals": 6,
@@ -841,13 +848,6 @@
           "goals": 5,
           "assists": 3,
           "penalties": 0
-        },
-        {
-          "name": "Scott Twine",
-          "team": "Bristol City",
-          "goals": 5,
-          "assists": 0,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -861,9 +861,9 @@
         {
           "name": "Jack Moylan",
           "team": "Cardiff",
-          "goals": 9,
+          "goals": 10,
           "assists": 3,
-          "penalties": 2
+          "penalties": 3
         },
         {
           "name": "Fer López",
@@ -873,17 +873,17 @@
           "penalties": 0
         },
         {
+          "name": "Isaac Price",
+          "team": "West Brom",
+          "goals": 6,
+          "assists": 3,
+          "penalties": 3
+        },
+        {
           "name": "Kieffer Moore",
           "team": "Wrexham",
           "goals": 5,
           "assists": 3,
-          "penalties": 0
-        },
-        {
-          "name": "Andri Guðjohnsen",
-          "team": "Blackburn",
-          "goals": 9,
-          "assists": 1,
           "penalties": 0
         }
       ]
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-11-07T12:21:32.059Z"
+  "generatedAt": "2026-11-07T21:24:05.563Z"
 }

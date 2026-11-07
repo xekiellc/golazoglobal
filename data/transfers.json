@@ -1,46 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Emmanuel Oyebadejo finds his footing in ",
+      "player": "Get to Know Northwestern's New Starting ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/11/06/florida-football-emmanuel-oyebadejo-week-10-quotes-oklahoma/92634560007/",
-      "publishedAt": "2026-11-06T12:03:55Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/northwestern/news/get-to-know-northwesterns-new-starting-quarterback-nicco-marchiol",
+      "publishedAt": "2026-11-06T21:00:18Z"
     },
     {
-      "player": "Agent Jude! How Bellingham helped Real M",
+      "player": "Everything you need to know about Kentuc",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Goal.com",
-      "url": "https://www.goal.com/en-us/news/jude-bellingham-jj-gabriel-real-madrid-man-utd-barcelona-psg/blt86a48713840081e4",
-      "publishedAt": "2026-11-06T12:03:12Z"
-    },
-    {
-      "player": "Maryland football vs. Purdue preview",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Testudo Times",
-      "url": "https://www.testudotimes.com/maryland-terps-football/94904/maryland-football-vs-purdue-preview",
-      "publishedAt": "2026-11-06T12:00:00Z"
-    },
-    {
-      "player": "Staff Predictions",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Tomahawk Nation",
-      "url": "https://www.tomahawknation.com/florida-state-football/140052/staff-predictions-florida-state-seminoles-boston-college-eagles-ashton-daniels-chris-jones-micahi-danzy",
-      "publishedAt": "2026-11-06T12:00:00Z"
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/tennessee/game-day/everything-you-need-to-know-about-kentucky-tennessee",
+      "publishedAt": "2026-11-06T20:58:59Z"
     }
   ],
-  "generatedAt": "2026-11-07T12:17:50.567Z",
+  "generatedAt": "2026-11-07T21:20:24.012Z",
   "note": "Transfers derived from news headlines at launch."
 }
