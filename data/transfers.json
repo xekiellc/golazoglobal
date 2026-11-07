@@ -1,56 +1,46 @@
 {
   "transfers": [
     {
-      "player": "Texas RB Hollywood Smothers’ season",
+      "player": "Emmanuel Oyebadejo finds his footing in ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/ncaa-football/texas-football-news-hollywood-smothers-season-ending-injury-update-huge-blow-cfp-hopes",
-      "publishedAt": "2026-11-06T02:26:19Z"
+      "source": "USA Today",
+      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/11/06/florida-football-emmanuel-oyebadejo-week-10-quotes-oklahoma/92634560007/",
+      "publishedAt": "2026-11-06T12:03:55Z"
     },
     {
-      "player": "Dayton football",
+      "player": "Agent Jude! How Bellingham helped Real M",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Dayton Daily News",
-      "url": "https://www.daytondailynews.com/sports/dayton-football-centerville-grad-leading-flyers-in-tackles/article_abb3f6b4-36a7-5347-a232-c8ebbab415ce.html",
-      "publishedAt": "2026-11-06T02:01:00Z"
+      "source": "Goal.com",
+      "url": "https://www.goal.com/en-us/news/jude-bellingham-jj-gabriel-real-madrid-man-utd-barcelona-psg/blt86a48713840081e4",
+      "publishedAt": "2026-11-06T12:03:12Z"
     },
     {
-      "player": "No. 2 St. Joseph football's 'Core Four' ",
+      "player": "Maryland football vs. Purdue preview",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Ctinsider.com",
-      "url": "https://www.ctinsider.com/gametimect/football/article/st-joseph-defense-zaccagnino-wicker-rios-kilmartin-22513398.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-      "publishedAt": "2026-11-06T01:48:54Z"
+      "source": "Testudo Times",
+      "url": "https://www.testudotimes.com/maryland-terps-football/94904/maryland-football-vs-purdue-preview",
+      "publishedAt": "2026-11-06T12:00:00Z"
     },
     {
-      "player": "Todd McShay Urges Arch Manning to Return",
+      "player": "Staff Predictions",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Athlon Sports",
-      "url": "https://athlonsports.com/college-football/arch-manning-urged-to-make-major-career-move-after-georgia-transfer-report",
-      "publishedAt": "2026-11-06T01:05:14Z"
-    },
-    {
-      "player": "One Colorado Player Who Needs a Bigger R",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/colorado/football/one-colorado-player-bigger-role-future-transfer-concerns-tyler-moore",
-      "publishedAt": "2026-11-06T01:00:02Z"
+      "source": "Tomahawk Nation",
+      "url": "https://www.tomahawknation.com/florida-state-football/140052/staff-predictions-florida-state-seminoles-boston-college-eagles-ashton-daniels-chris-jones-micahi-danzy",
+      "publishedAt": "2026-11-06T12:00:00Z"
     }
   ],
-  "generatedAt": "2026-11-07T02:29:58.413Z",
+  "generatedAt": "2026-11-07T12:17:50.567Z",
   "note": "Transfers derived from news headlines at launch."
 }
