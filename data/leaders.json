@@ -123,7 +123,7 @@
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
-          "goals": 12,
+          "goals": 13,
           "assists": 2,
           "penalties": 3
         },
@@ -209,7 +209,7 @@
         {
           "name": "Kylian Mbappé",
           "team": "Real Madrid",
-          "goals": 12,
+          "goals": 13,
           "assists": 2,
           "penalties": 3
         },
@@ -560,7 +560,7 @@
         {
           "name": "Søren Tengstedt",
           "team": "Go Ahead",
-          "goals": 8,
+          "goals": 9,
           "assists": 2,
           "penalties": 0
         },
@@ -639,7 +639,7 @@
         {
           "name": "Søren Tengstedt",
           "team": "Go Ahead",
-          "goals": 8,
+          "goals": 9,
           "assists": 2,
           "penalties": 0
         },
@@ -678,7 +678,7 @@
         {
           "name": "Luis Suárez",
           "team": "Sporting CP",
-          "goals": 8,
+          "goals": 9,
           "assists": 1,
           "penalties": 2
         },
@@ -764,7 +764,7 @@
         {
           "name": "Luis Suárez",
           "team": "Sporting CP",
-          "goals": 8,
+          "goals": 9,
           "assists": 1,
           "penalties": 2
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-11-07T21:24:05.563Z"
+  "generatedAt": "2026-11-08T02:03:11.839Z"
 }
