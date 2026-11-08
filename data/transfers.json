@@ -1,16 +1,46 @@
 {
   "transfers": [
     {
-      "player": "How to Watch the Iowa Hawkeyes at Northw",
+      "player": "No. 2 Georgia and No. 12 Mississippi mee",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Black Heart Gold Pants",
-      "url": "https://www.blackheartgoldpants.com/football/72054/how-to-watch-iowa-hawkeyes-at-northwestern-wildcats-big-ten-college-football-tv-channel-bhgp",
-      "publishedAt": "2026-11-07T12:31:00Z"
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/no-2-georgia-no-12-211556879.html",
+      "publishedAt": "2026-11-07T21:15:56Z"
+    },
+    {
+      "player": "DJ Lagway throws 2 TD passes, runs for a",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/dj-lagway-throws-2-td-211225438.html",
+      "publishedAt": "2026-11-07T21:12:25Z"
+    },
+    {
+      "player": "Maryland football survives late scare in",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Testudo Times",
+      "url": "https://www.testudotimes.com/maryland-terps-football/94988/maryland-football-survives-late-scare-in-34-29-victory-over-purdue",
+      "publishedAt": "2026-11-07T21:11:06Z"
+    },
+    {
+      "player": "No. 5 UCLA turns up the speed late to st",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/no-5-ucla-turns-speed-210810357.html",
+      "publishedAt": "2026-11-07T21:08:10Z"
     }
   ],
-  "generatedAt": "2026-11-08T12:37:49.870Z",
+  "generatedAt": "2026-11-08T21:35:07.969Z",
   "note": "Transfers derived from news headlines at launch."
 }
