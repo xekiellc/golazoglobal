@@ -600,6 +600,13 @@
           "penalties": 0
         },
         {
+          "name": "Anis Moussa",
+          "team": "Feyenoord",
+          "goals": 7,
+          "assists": 2,
+          "penalties": 0
+        },
+        {
           "name": "Julian Brandt",
           "team": "Ajax",
           "goals": 6,
@@ -616,13 +623,6 @@
         {
           "name": "Jacob Trenskow",
           "team": "Heerenveen",
-          "goals": 6,
-          "assists": 2,
-          "penalties": 0
-        },
-        {
-          "name": "Sven Mijnans",
-          "team": "PSV",
           "goals": 6,
           "assists": 2,
           "penalties": 0
@@ -658,9 +658,9 @@
           "penalties": 2
         },
         {
-          "name": "Julian Brandt",
-          "team": "Ajax",
-          "goals": 6,
+          "name": "Anis Moussa",
+          "team": "Feyenoord",
+          "goals": 7,
           "assists": 2,
           "penalties": 0
         }
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-11-08T02:03:11.839Z"
+  "generatedAt": "2026-11-08T12:41:35.563Z"
 }

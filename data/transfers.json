@@ -1,36 +1,16 @@
 {
   "transfers": [
     {
-      "player": "Rutgers basketball showcases depth in se",
+      "player": "How to Watch the Iowa Hawkeyes at Northw",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Asbury Park Press",
-      "url": "https://www.app.com/story/sports/college/rutgers/2026/11/06/rutgers-basketball-showcases-depth-in-season-opening-rout-of-new-haven/92607529007/",
-      "publishedAt": "2026-11-07T01:55:01Z"
-    },
-    {
-      "player": "NFL Draft big board 2.0",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/nfl/article/nfl-draft-big-board-20-while-jeremiah-smith-is-no-1-arch-manning-remains-in-top-10-trailing-drew-mestemaker-013033253.html",
-      "publishedAt": "2026-11-07T01:27:08Z"
-    },
-    {
-      "player": "Injury",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Charleston Post Courier",
-      "url": "https://www.postandcourier.com/sports/clemson/final-predictions-clemson-football-at-syracuse-2026/article_8871849c-91c6-41bf-a820-3ab58508c068.html",
-      "publishedAt": "2026-11-07T00:47:00Z"
+      "source": "Black Heart Gold Pants",
+      "url": "https://www.blackheartgoldpants.com/football/72054/how-to-watch-iowa-hawkeyes-at-northwestern-wildcats-big-ten-college-football-tv-channel-bhgp",
+      "publishedAt": "2026-11-07T12:31:00Z"
     }
   ],
-  "generatedAt": "2026-11-08T01:59:23.754Z",
+  "generatedAt": "2026-11-08T12:37:49.870Z",
   "note": "Transfers derived from news headlines at launch."
 }
