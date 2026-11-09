@@ -1515,8 +1515,8 @@
         "won": 9,
         "drawn": 1,
         "lost": 1,
-        "goalsFor": 28,
-        "goalsAgainst": 8,
+        "goalsFor": 30,
+        "goalsAgainst": 10,
         "goalDifference": 20,
         "points": 28,
         "form": ""
@@ -1590,13 +1590,13 @@
         "position": 8,
         "team": "Braga",
         "played": 11,
-        "won": 4,
-        "drawn": 3,
+        "won": 5,
+        "drawn": 2,
         "lost": 4,
-        "goalsFor": 12,
+        "goalsFor": 13,
         "goalsAgainst": 11,
-        "goalDifference": 1,
-        "points": 15,
+        "goalDifference": 2,
+        "points": 17,
         "form": ""
       },
       {
@@ -1645,8 +1645,8 @@
         "won": 2,
         "drawn": 4,
         "lost": 5,
-        "goalsFor": 15,
-        "goalsAgainst": 20,
+        "goalsFor": 17,
+        "goalsAgainst": 22,
         "goalDifference": -5,
         "points": 10,
         "form": ""
@@ -1692,19 +1692,6 @@
       },
       {
         "position": 16,
-        "team": "Rio Ave",
-        "played": 11,
-        "won": 2,
-        "drawn": 2,
-        "lost": 7,
-        "goalsFor": 9,
-        "goalsAgainst": 23,
-        "goalDifference": -14,
-        "points": 8,
-        "form": ""
-      },
-      {
-        "position": 17,
         "team": "Casa Pia",
         "played": 11,
         "won": 2,
@@ -1714,6 +1701,19 @@
         "goalsAgainst": 20,
         "goalDifference": -14,
         "points": 8,
+        "form": ""
+      },
+      {
+        "position": 17,
+        "team": "Rio Ave",
+        "played": 11,
+        "won": 2,
+        "drawn": 1,
+        "lost": 8,
+        "goalsFor": 9,
+        "goalsAgainst": 24,
+        "goalDifference": -15,
+        "points": 7,
         "form": ""
       },
       {
@@ -2307,5 +2307,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-08T21:37:36.113Z"
+  "generatedAt": "2026-11-09T02:21:14.031Z"
 }

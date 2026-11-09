@@ -671,7 +671,7 @@
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
-          "goals": 10,
+          "goals": 11,
           "assists": 3,
           "penalties": 3
         },
@@ -711,6 +711,13 @@
           "penalties": 0
         },
         {
+          "name": "Leandro Antonetti",
+          "team": "Amadora",
+          "goals": 5,
+          "assists": 1,
+          "penalties": 0
+        },
+        {
           "name": "Gabriel Veiga",
           "team": "Porto",
           "goals": 5,
@@ -730,13 +737,6 @@
           "goals": 5,
           "assists": 1,
           "penalties": 0
-        },
-        {
-          "name": "Gonçalo Paciência",
-          "team": "Santa Clara",
-          "goals": 5,
-          "assists": 1,
-          "penalties": 1
         }
       ],
       "topAssists": [
@@ -757,7 +757,7 @@
         {
           "name": "Vangelis Pavlidis",
           "team": "SL Benfica",
-          "goals": 10,
+          "goals": 11,
           "assists": 3,
           "penalties": 3
         },
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-11-08T21:38:54.229Z"
+  "generatedAt": "2026-11-09T02:22:31.051Z"
 }
