@@ -1,26 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Using the Transfer Portal Could Go A Lon",
+      "player": "Don’t stress",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/football/2026/11/08/uw-football-washington-huskies-jedd-fisch-transfer-portal-demond-williams-jr-kodi-greene/92651220007/",
-      "publishedAt": "2026-11-09T01:00:31Z"
+      "source": "Fsunews.com",
+      "url": "https://www.fsunews.com/story/opinion/2026/11/09/fsu-football-is-heading-in-the-right-direction-opinion/92661714007/",
+      "publishedAt": "2026-11-09T14:00:51Z"
     },
     {
-      "player": "Prince goes crazy with 99",
+      "player": "Barcelona could test Arsenal’s resolve f",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Tribstar.com",
-      "url": "https://www.tribstar.com/sports/prince-goes-crazy-with-99-yard-td-run-but-indiana-state-loses-to-salukis/article_fed58e76-aa8e-4f6d-a7a2-50e0ce928ffb.html",
-      "publishedAt": "2026-11-09T00:16:00Z"
+      "source": "Just Arsenal News",
+      "url": "https://www.justarsenal.com/barcelona-could-test-arsenals-resolve-for-defender-in-january/425455",
+      "publishedAt": "2026-11-09T14:00:00Z"
     }
   ],
-  "generatedAt": "2026-11-10T01:04:48.997Z",
+  "generatedAt": "2026-11-10T14:09:46.516Z",
   "note": "Transfers derived from news headlines at launch."
 }
