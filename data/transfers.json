@@ -1,26 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Don’t stress",
+      "player": "Colorado's Isaac Wilson Tied for Big 12 ",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Fsunews.com",
-      "url": "https://www.fsunews.com/story/opinion/2026/11/09/fsu-football-is-heading-in-the-right-direction-opinion/92661714007/",
-      "publishedAt": "2026-11-09T14:00:51Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/colorado/football/colorado-buffaloes-isaac-wilson-tied-big-12-lead-unwanted-stat",
+      "publishedAt": "2026-11-09T22:32:39Z"
     },
     {
-      "player": "Barcelona could test Arsenal’s resolve f",
+      "player": "Rick Stockstill Gives FSU Football Injur",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Just Arsenal News",
-      "url": "https://www.justarsenal.com/barcelona-could-test-arsenals-resolve-for-defender-in-january/425455",
-      "publishedAt": "2026-11-09T14:00:00Z"
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/fsu/florida-state-seminoles-college-football/rick-stockstill-gives-fsu-football-injury-updates-ahead-of-pitt-mccray-wynn",
+      "publishedAt": "2026-11-09T22:30:01Z"
     }
   ],
-  "generatedAt": "2026-11-10T14:09:46.516Z",
+  "generatedAt": "2026-11-10T22:44:24.833Z",
   "note": "Transfers derived from news headlines at launch."
 }
