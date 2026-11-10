@@ -1,16 +1,26 @@
 {
   "transfers": [
     {
-      "player": "Week 10 CFB Overreactions",
+      "player": "Using the Transfer Portal Could Go A Lon",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/week-10-cfb-overreactions-lane-kiffin-alabama-problem-spenders-coaches/",
-      "publishedAt": "2026-11-08T14:44:05Z"
+      "source": "USA Today",
+      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/football/2026/11/08/uw-football-washington-huskies-jedd-fisch-transfer-portal-demond-williams-jr-kodi-greene/92651220007/",
+      "publishedAt": "2026-11-09T01:00:31Z"
+    },
+    {
+      "player": "Prince goes crazy with 99",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Tribstar.com",
+      "url": "https://www.tribstar.com/sports/prince-goes-crazy-with-99-yard-td-run-but-indiana-state-loses-to-salukis/article_fed58e76-aa8e-4f6d-a7a2-50e0ce928ffb.html",
+      "publishedAt": "2026-11-09T00:16:00Z"
     }
   ],
-  "generatedAt": "2026-11-09T14:56:54.180Z",
+  "generatedAt": "2026-11-10T01:04:48.997Z",
   "note": "Transfers derived from news headlines at launch."
 }
