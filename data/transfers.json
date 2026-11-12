@@ -1,56 +1,16 @@
 {
   "transfers": [
     {
-      "player": "What Tennessee basketball players said a",
+      "player": "Juventus plot MASSIVE goalkeeper clear",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Knoxville News Sentinel",
-      "url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/mens-basketball/2026/11/10/tennessee-basketball-cba-tyler-lundblade-dewayne-brown/92705981007/",
-      "publishedAt": "2026-11-10T23:52:28Z"
-    },
-    {
-      "player": "ESPN's Dan Wetzel predicts Kyle Whitting",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://wolverineswire.usatoday.com/story/sports/college/wolverines/football/2026/11/10/michigan-football-rece-davis-dan-wetzel-question-whittinghams-future/92715690007/",
-      "publishedAt": "2026-11-10T23:33:00Z"
-    },
-    {
-      "player": "Alabama's winningest high school footbal",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/high-school/football/2026/11/10/danny-horn-retires-alabama-high-school-football-coach-380-wins/92715596007/",
-      "publishedAt": "2026-11-10T23:26:45Z"
-    },
-    {
-      "player": "UTSA vs. North Texas",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "San Antonio Express-News",
-      "url": "https://www.expressnews.com/sports/colleges/utsa/article/football-players-to-watch-roadrunners-north-texas-22523926.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-      "publishedAt": "2026-11-10T23:20:23Z"
-    },
-    {
-      "player": "Champions Classic live updates",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/ncaab/2026/11/10/champions-classic-live-updates-score-duke-kansas-michigan-state-kentucky--live/92714604007/",
-      "publishedAt": "2026-11-10T23:01:26Z"
+      "source": "Goal.com",
+      "url": "https://www.goal.com/en-us/news/juventus-lorenzo-palmisani-goalkeeper-rebuild/blta7d52c1686d9c0f9",
+      "publishedAt": "2026-11-11T14:25:56Z"
     }
   ],
-  "generatedAt": "2026-11-11T23:57:11.293Z",
+  "generatedAt": "2026-11-12T14:29:58.650Z",
   "note": "Transfers derived from news headlines at launch."
 }
