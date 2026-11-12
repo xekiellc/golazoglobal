@@ -1,16 +1,36 @@
 {
   "transfers": [
     {
-      "player": "Juventus plot MASSIVE goalkeeper clear",
+      "player": "Mississippi State’s Kamario Taylor final",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Goal.com",
-      "url": "https://www.goal.com/en-us/news/juventus-lorenzo-palmisani-goalkeeper-rebuild/blta7d52c1686d9c0f9",
-      "publishedAt": "2026-11-11T14:25:56Z"
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/mississippi-states-kamario-taylor-finalizing-reported-7-5-million-deal-expensive-college-football-move",
+      "publishedAt": "2026-11-11T22:46:34Z"
+    },
+    {
+      "player": "Tottenham Hotspur star Pedro Porro sends",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Alloutsoccer.com",
+      "url": "https://www.alloutsoccer.com/news/tottenham-hotspur-porro-barcelona-transfer-2106734",
+      "publishedAt": "2026-11-11T22:39:41Z"
+    },
+    {
+      "player": "College Fantasy Football",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/fantasy/article/college-fantasy-football-get-ready-for-week-11-with-our-primer-223022059.html",
+      "publishedAt": "2026-11-11T22:30:22Z"
     }
   ],
-  "generatedAt": "2026-11-12T14:29:58.650Z",
+  "generatedAt": "2026-11-12T23:06:01.151Z",
   "note": "Transfers derived from news headlines at launch."
 }
