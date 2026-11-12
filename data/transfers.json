@@ -1,86 +1,56 @@
 {
   "transfers": [
     {
-      "player": "Florida football coach Jon Sumrall said ",
+      "player": "What Tennessee basketball players said a",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Gainesville Sun",
-      "url": "https://www.gainesville.com/story/sports/college/football/2026/11/10/florida-football-coach-jon-sumrall-discusses-losing-s-jordan-castel-to-uk/92641629007/",
-      "publishedAt": "2026-11-10T13:20:24Z"
+      "source": "Knoxville News Sentinel",
+      "url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/mens-basketball/2026/11/10/tennessee-basketball-cba-tyler-lundblade-dewayne-brown/92705981007/",
+      "publishedAt": "2026-11-10T23:52:28Z"
     },
     {
-      "player": "Bayern remain in talks to sign Liverpool",
+      "player": "ESPN's Dan Wetzel predicts Kyle Whitting",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Bulinews.com",
-      "url": "https://bulinews.com/bayern-remain-talks-sign-liverpool-rio-ngumoha",
-      "publishedAt": "2026-11-10T13:15:00Z"
+      "source": "USA Today",
+      "url": "https://wolverineswire.usatoday.com/story/sports/college/wolverines/football/2026/11/10/michigan-football-rece-davis-dan-wetzel-question-whittinghams-future/92715690007/",
+      "publishedAt": "2026-11-10T23:33:00Z"
     },
     {
-      "player": "Jackpot Raider UK Account Verification G",
+      "player": "Alabama's winningest high school footbal",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Learningjquery.com",
-      "url": "https://learningjquery.com/2026/11/jackpot-raider-uk-account-verification-guide-easy-steps-to-verify-your-casino-account",
-      "publishedAt": "2026-11-10T13:13:07Z"
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/high-school/football/2026/11/10/danny-horn-retires-alabama-high-school-football-coach-380-wins/92715596007/",
+      "publishedAt": "2026-11-10T23:26:45Z"
     },
     {
-      "player": "Jackpot Raider registration steps for UK",
+      "player": "UTSA vs. North Texas",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Learningjquery.com",
-      "url": "https://learningjquery.com/2026/11/jackpot-raider-registration-steps-for-uk-players",
-      "publishedAt": "2026-11-10T13:13:01Z"
+      "source": "San Antonio Express-News",
+      "url": "https://www.expressnews.com/sports/colleges/utsa/article/football-players-to-watch-roadrunners-north-texas-22523926.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "publishedAt": "2026-11-10T23:20:23Z"
     },
     {
-      "player": "Jumbo Package",
+      "player": "Champions Classic live updates",
       "from": "—",
       "to": "—",
       "fee": "",
       "status": "Rumour",
-      "source": "Roll Bama Roll",
-      "url": "https://www.rollbamaroll.com/jumbo-package/86352/jumbo-package-alabama-moves-on-to-vanderbilt",
-      "publishedAt": "2026-11-10T13:12:00Z"
-    },
-    {
-      "player": "BetNinja Games Guide",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Learningjquery.com",
-      "url": "https://learningjquery.com/2026/11/betninja-games-guide-full-feature-overview-for-uk-players",
-      "publishedAt": "2026-11-10T13:11:59Z"
-    },
-    {
-      "player": "Spin King online casino",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sinhalanet.net",
-      "url": "https://www.sinhalanet.net/spin-king-online-casino-what-to-know",
-      "publishedAt": "2026-11-10T13:03:05Z"
-    },
-    {
-      "player": "Jackpot Raider Casino UK",
-      "from": "—",
-      "to": "—",
-      "fee": "",
-      "status": "Rumour",
-      "source": "Sinhalanet.net",
-      "url": "https://www.sinhalanet.net/jackpot-raider-casino-uk-complete-guide-to-bonuses-payments-and-mobile-play",
-      "publishedAt": "2026-11-10T13:03:03Z"
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/ncaab/2026/11/10/champions-classic-live-updates-score-duke-kansas-michigan-state-kentucky--live/92714604007/",
+      "publishedAt": "2026-11-10T23:01:26Z"
     }
   ],
-  "generatedAt": "2026-11-11T13:25:42.575Z",
+  "generatedAt": "2026-11-11T23:57:11.293Z",
   "note": "Transfers derived from news headlines at launch."
 }
