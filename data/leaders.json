@@ -811,7 +811,7 @@
           "name": "Jarrod Bowen",
           "team": "West Ham",
           "goals": 7,
-          "assists": 6,
+          "assists": 7,
           "penalties": 1
         },
         {
@@ -846,7 +846,7 @@
           "name": "Kieffer Moore",
           "team": "Wrexham",
           "goals": 5,
-          "assists": 3,
+          "assists": 2,
           "penalties": 0
         }
       ],
@@ -855,7 +855,7 @@
           "name": "Jarrod Bowen",
           "team": "West Ham",
           "goals": 7,
-          "assists": 6,
+          "assists": 7,
           "penalties": 1
         },
         {
@@ -883,7 +883,7 @@
           "name": "Kieffer Moore",
           "team": "Wrexham",
           "goals": 5,
-          "assists": 3,
+          "assists": 2,
           "penalties": 0
         }
       ]
@@ -1000,5 +1000,5 @@
       ]
     }
   },
-  "generatedAt": "2026-11-13T13:51:46.606Z"
+  "generatedAt": "2026-11-13T23:12:49.756Z"
 }

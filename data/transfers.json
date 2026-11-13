@@ -1,5 +1,56 @@
 {
-  "transfers": [],
-  "generatedAt": "2026-11-13T13:47:56.744Z",
+  "transfers": [
+    {
+      "player": "Duke",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Roundtable.io",
+      "url": "https://roundtable.io/sports/ncaa/duke/news/duke-manny-diaz-gets-big-news-for-florida-state-job",
+      "publishedAt": "2026-11-12T23:08:20Z"
+    },
+    {
+      "player": "Week 11 College Fantasy Football Start '",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/fantasy/article/week-11-college-fantasy-football-start-em-sit-em-eric-frotons-lineup-advice-230539529.html",
+      "publishedAt": "2026-11-12T23:05:39Z"
+    },
+    {
+      "player": "Exclusive",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Fox News",
+      "url": "https://radio.foxnews.com/2026/11/12/exclusive-dr-condoleezza-rice-one-on-one-with-guy-benson/",
+      "publishedAt": "2026-11-12T23:00:50Z"
+    },
+    {
+      "player": "Three Virginia players who must step up ",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/college/virginia/football/three-virginia-players-who-must-step-up-against-california-on-saturday-01m783apx62w",
+      "publishedAt": "2026-11-12T23:00:03Z"
+    },
+    {
+      "player": "Texas HC Steve Sarkisian reveals Longhor",
+      "from": "—",
+      "to": "—",
+      "fee": "",
+      "status": "Rumour",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/texas-hc-steve-sarkisian-reveals-223917530.html",
+      "publishedAt": "2026-11-12T22:39:17Z"
+    }
+  ],
+  "generatedAt": "2026-11-13T23:09:06.275Z",
   "note": "Transfers derived from news headlines at launch."
 }
